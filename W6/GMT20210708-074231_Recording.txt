@@ -1,0 +1,53 @@
+01:11:31	Sathiya:	yes there
+01:47:13	Nayib Rivera:	Maybe deciles could’ve worked?
+01:47:27	Nayib Rivera:	For the house price categories?
+02:27:30	Data Analytics FT Berlin:	10.12 return
+02:27:39	Pedro Pablo:	11:12
+02:27:47	Pedro Pablo:	Or we have a different time zone?
+02:31:19	Data Analytics FT Berlin:	Thanks Pedro,11.12 is what I meant. Unless the time machine works! haha
+02:31:25	Data Analytics FT Berlin:	Uk time its 10.12
+02:32:28	Pedro Pablo:	I see so you start class at 8, another reason for the rest to feel bad about being late
+02:36:47	Data Analytics FT Berlin:	Earlier in fact - the teaching team meet every day before class, for me its at 7.40 —— but sometimes I am late, wearing pyjamas or not quite awake :)
+02:40:14	Marta Marti:	yes
+02:41:32	Pedro Pablo:	Haha let’s not talk about fashion options for the last month and a half
+02:42:01	Pedro Pablo:	Or hygienic choices
+02:57:08	Nayib Rivera:	Seems the data community is great at sharing their “issues” online
+02:57:11	Nayib Rivera:	Which is great
+03:17:32	Data Analytics FT Berlin:	Return at 12
+03:25:47	DÁmaris:	i'm leaving now to have my vaccine first dose
+03:26:00	DÁmaris:	hope i don't miss too much of the lecture
+03:26:04	DÁmaris:	see you later
+03:26:38	Julia León:	see you later!
+03:50:46	Andre Novikov:	Not exactly a chart, but worthwhile bonus visualisation: https://flowingdata.com/2021/07/02/sheep-herding-movements-from-above/ :P
+03:56:51	Nayib Rivera:	Was there a guy “competing” against maduro?
+04:07:16	Pedro Pablo:	It was the last competitive election they had https://en.wikipedia.org/wiki/2013_Venezuelan_presidential_election
+04:12:03	Nayib Rivera:	Sian can you please share the storytelling power point
+04:12:45	Pedro Pablo:	It’s on the notion calendar in the lecture
+04:13:11	Nayib Rivera:	Yeah but couldn’t download it in ppt format
+04:13:19	Nayib Rivera:	Do you know how to?
+04:13:51	Julia León:	i files you choose download and it lets you choose the format. I took it in pdf
+04:14:07	Miguel Simón:	exactly
+04:14:08	Pedro Pablo:	Yeah you open it, and while in the file you go to file and to download and then the first option is .pptx
+04:14:21	Miguel Simón:	file > download >choose the format
+04:14:47	Nayib Rivera:	Thanks guys it worked
+04:16:43	Data Analytics FT Berlin:	https://data.humdata.org/dataset/movement-range-maps
+04:20:38	Majed:	even after cambridge analytica? :-D
+05:40:56	Miguel Simón:	well doneeee
+05:40:57	Miguel Simón:	hahahaha
+05:45:49	Pedro Pablo:	Funnily enough I have way more detail in Chile and Sweden than in Germany, maybe because of data protection regulations?
+05:45:53	Pedro Pablo:	right
+05:56:00	Hector Santos:	I have the same
+05:57:51	Hector Santos:	change the type
+06:00:23	Majed:	I have ESP & DE and no problem
+06:00:35	Andre Novikov:	AUS and NZL also looks good
+06:10:27	Majed:	What does AUS & NZL have to do with it? They are having a problem visualizing Spain :D
+06:20:26	Andre Novikov:	It constitutes an alternative, in case you want to try visualising a different country instead. That way you know that AUS & NZL are likely to work.
+06:21:26	Majed:	There a huge migration movement between ESP & DE as you know
+06:22:10	Julia León:	that wont help them make the exercise, majed
+06:22:57	Majed:	I just wanted to say that ESP was working for me as Sian said
+06:27:36	Majed:	And, Andre, Thanks for the unwittingly patronizing suggestion :-D But I'll stick to my choice
+06:36:00	Jennifer Dersjant:	can you also use different sheets in the different story points?
+06:36:07	Jennifer Dersjant:	or is it just the same two stories in this case?
+06:36:15	Jennifer Dersjant:	sheets*
+06:43:56	Hector Santos:	It is possible to connect a public dashboard to a database that is periodically updated so that the dashboard is updated according to that database
+06:44:04	Hector Santos:	??
