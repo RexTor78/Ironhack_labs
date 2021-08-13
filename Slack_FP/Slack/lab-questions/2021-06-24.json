@@ -1,0 +1,875 @@
+[
+    {
+        "client_msg_id": "2ba6eef2-5e6c-45f7-bbae-73ec52ec1ce9",
+        "type": "message",
+        "text": "<@U021WEXHN4E>, let's do some katas this afternoon",
+        "user": "U0225RJ6SNM",
+        "ts": "1624534552.061300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CiO2o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", let's do some katas this afternoon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78a75924-5c27-48f5-8954-378569d457e5",
+        "type": "message",
+        "text": "In today's lab there it says that we have to \"Launch main.ipynb, challenge-1.ipynb, challenge-2.ipynb, and challenge-3.ipynb\", but in the code folder there are only the last three documents, is the first one missing? Or should we ignore it? Since it is not on the deliverables....thanks!",
+        "user": "U021Q54K3B7",
+        "ts": "1624546072.063000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+K6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In today's lab there it says that we have to \"Launch main.ipynb, challenge-1.ipynb, challenge-2.ipynb, and challenge-3.ipynb\", but in the code folder there are only the last three documents, is the first one missing? Or should we ignore it? Since it is not on the deliverables....thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546072.063000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624549307.065400",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021Q54K3B7",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624546753.063100"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1624546881.063400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624549307.065400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5e033756-8833-49cb-8b02-fa88e776026e",
+        "type": "message",
+        "text": "yeah, ignore what is written about the `main.ipynb`",
+        "user": "U021WEXHN4E",
+        "ts": "1624546753.063100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c2D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah, ignore what is written about the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "main.ipynb",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546072.063000",
+        "parent_user_id": "U021Q54K3B7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "addfb26e-f195-4416-851d-2e56a76f01be",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U021Q54K3B7",
+        "ts": "1624546881.063400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546072.063000",
+        "parent_user_id": "U021Q54K3B7"
+    },
+    {
+        "client_msg_id": "ceb9540c-1cb7-4b8e-925e-60618375a034",
+        "type": "message",
+        "text": "<!channel>,\nif you do the iris lab, import it with the correct column names like this:\n```df = pd.read_csv('iris_dirty.csv',\n                 names=['sepal_length',\n                        'sepal_width',\n                        'petal_length',\n                        'petal_width',\n                        'class',\n                       ],\n                header=None,\n                )```",
+        "user": "U021WEXHN4E",
+        "ts": "1624547257.064200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WgK12",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nif you do the iris lab, import it with the correct column names like this:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "df = pd.read_csv('iris_dirty.csv',\n                 names=['sepal_length',\n                        'sepal_width',\n                        'petal_length',\n                        'petal_width',\n                        'class',\n                       ],\n                header=None,\n                )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50d90eb9-c084-4e81-a974-aedfcaf3eb51",
+        "type": "message",
+        "text": "so no katas today :disappointed:",
+        "user": "U0225RJ6SNM",
+        "ts": "1624547865.064600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+83d2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so no katas today "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624547865.064600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624548036.064700",
+        "reply_users": [
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624548036.064700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fb5018f7-a163-43c4-8400-5c9d680d1724",
+        "type": "message",
+        "text": "no time I guess :expressionless:",
+        "user": "U021WEXHN4E",
+        "ts": "1624548036.064700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xeK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no time I guess "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "expressionless"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624547865.064600",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "d4646d8b-ba9f-48fa-bd6d-cd7400de8276",
+        "type": "message",
+        "text": "I don't know how to do this *4.0.0.8  Select orders from Spain that include more than 50 items.*",
+        "user": "U021CE3UWPR",
+        "ts": "1624549271.065300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WN7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know how to do this "
+                            },
+                            {
+                                "type": "text",
+                                "text": "4.0.0.8  Select orders from Spain that include more than 50 items.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1624609615.067500",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021CE3UWPR",
+            "U0234JUMPJQ"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624549348.065600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624549601.065800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624549606.066000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624549641.066200"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1624550227.066400"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1624550660.066600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624551278.066800"
+            },
+            {
+                "user": "U0234JUMPJQ",
+                "ts": "1624551908.067000"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1624553343.067200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624609615.067500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "efcf05cf-3ad3-441d-a114-1abcda67e69f",
+        "type": "message",
+        "text": "looks like an old typo on the lab, apolgies for that ! these are only for practice so submit only if you want us to check them",
+        "user": "U021UNQGZC4",
+        "ts": "1624549307.065400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1lh8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks like an old typo on the lab, apolgies for that ! these are only for practice so submit only if you want us to check them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546072.063000",
+        "parent_user_id": "U021Q54K3B7"
+    },
+    {
+        "client_msg_id": "35ecc213-87b8-4f3b-99c5-0f2b553b9aea",
+        "type": "message",
+        "text": "just having a look now !",
+        "user": "U021UNQGZC4",
+        "ts": "1624549348.065600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSMN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just having a look now !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "7f91fe52-a66e-41fa-bb4f-eff108bcb572",
+        "type": "message",
+        "text": "sure you want to query the dataframe with two conditions -\neither\n\n*df([df[‘column1’]==‘condition1’) &amp; ([df[‘column2’]&gt;=‘condition2’)* \n\nor\n\n*df.query(‘column1==condition1 &amp; column2&gt;=condition2’)* ",
+        "user": "U021UNQGZC4",
+        "ts": "1624549601.065800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5C3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure you want to query the dataframe with two conditions -\neither\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "df([df[‘column1’]==‘condition1’) & ([df[‘column2’]>=‘condition2’) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nor\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "df.query(‘column1==condition1 & column2>=condition2’) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "4945753d-1dbd-4c2b-9518-ec294d9d5a57",
+        "type": "message",
+        "text": "does this help ?",
+        "user": "U021UNQGZC4",
+        "ts": "1624549606.066000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yBK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does this help ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "4bbd2d0f-0657-4a37-95f4-c070c1e31166",
+        "type": "message",
+        "text": "also i see flo is in room 5 if you want to get him to walk through this with you",
+        "user": "U021UNQGZC4",
+        "ts": "1624549641.066200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also i see flo is in room 5 if you want to get him to walk through this with you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "e5f99996-636b-46fd-ae26-12cfba7b7e78",
+        "type": "message",
+        "text": "I try",
+        "user": "U021CE3UWPR",
+        "ts": "1624550227.066400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DtDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I try"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "94148c61-ece1-4e6a-99b6-f8b6770fdcca",
+        "type": "message",
+        "text": "not works :disappointed_relieved:",
+        "user": "U021CE3UWPR",
+        "ts": "1624550660.066600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G8Jz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not works "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "3df3e678-bf50-4090-89c8-b07977a08843",
+        "type": "message",
+        "text": "could be you have a minor typo\nthis is what i have for this question :\n\norders[(orders[‘Country’] == ‘Spain’) &amp; (orders[‘Quantity’] &gt; 50)].head()\n\nsee if your classmates had another way ?",
+        "user": "U021UNQGZC4",
+        "ts": "1624551278.066800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bwVB=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "could be you have a minor typo\nthis is what i have for this question :\n\norders[(orders[‘Country’] == ‘Spain’) & (orders[‘Quantity’] > 50)].head()\n\nsee if your classmates had another way ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "c8fe0c39-3592-494a-be8e-63cf43a44df8",
+        "type": "message",
+        "text": "is that taking into consideration the hint: “Remember that you are not asked to find orders with more than 50 items but customers who bought more than 50 items. A customer with two orders of 30 items each should appear in the selection.” ??",
+        "user": "U0234JUMPJQ",
+        "ts": "1624551908.067000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "d72f8dcb6b13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2115688161203_d72f8dcb6b13c616d406_72.png",
+            "first_name": "",
+            "real_name": "Walter Conde",
+            "display_name": "Walter Conde",
+            "team": "T021KE79B9B",
+            "name": "wcondevidal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S732",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is that taking into consideration the hint: “Remember that you are not asked to find orders with more than 50 items but customers who bought more than 50 items. A customer with two orders of 30 items each should appear in the selection.” ??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "3b779f2e-e4ec-445e-b2f8-f6ad3624a249",
+        "type": "message",
+        "text": "yes Walter for this I sum the Quantity not orders",
+        "user": "U021CE3UWPR",
+        "ts": "1624553343.067200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s7oVL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes Walter for this I sum the Quantity not orders"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR"
+    }
+]

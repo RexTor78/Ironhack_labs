@@ -1,0 +1,668 @@
+[
+    {
+        "client_msg_id": "794493c2-599e-438f-ae85-844f174b5af5",
+        "type": "message",
+        "text": "it just means it  takes 10mins for nbviewer to refresh, it just surprised me because i updated my nb and the update was not reflected in the nbviewer",
+        "user": "U021TDMHF5H",
+        "ts": "1623142611.028500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BPV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it just means it  takes 10mins for nbviewer to refresh, it just surprised me because i updated my nb and the update was not reflected in the nbviewer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623106987.028000",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "a5c73fc6-4add-477d-843a-c5d56d11b608",
+        "type": "message",
+        "text": "oh! thats a good tip then, ive never done it before",
+        "user": "U021UNQGZC4",
+        "ts": "1623142842.028700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Lvk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh! thats a good tip then, ive never done it before"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623106987.028000",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "9de0801d-9d1e-49d8-a588-00076972b235",
+        "type": "message",
+        "text": "but i hadnt had a problem with seeing the notebook before either",
+        "user": "U021UNQGZC4",
+        "ts": "1623142857.028900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but i hadnt had a problem with seeing the notebook before either"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623106987.028000",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "0b86c248-b671-416b-87ce-e675b8d9f159",
+        "type": "message",
+        "text": "<!channel> your plan for the remainder of the day :\n• do your tableau install \/ set up lab asap\n• work on your messy data project in your assigned group \n• be in the main classroom at 2pm if you want to learn more regex and string functions for this project \n• everyone, please join us in the main classroom at 4pm for the first chair yoga with robert class\nfor any other announcements from the TAs, watch this space",
+        "user": "U021UNQGZC4",
+        "ts": "1623143146.031900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AIIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your plan for the remainder of the day :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "do your tableau install \/ set up lab asap"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "work on your messy data project in your assigned group "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "be in the main classroom at 2pm if you want to learn more regex and string functions for this project "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "everyone, please join us in the main classroom at 4pm for the first chair yoga with robert class"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for any other announcements from the TAs, watch this space"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32d1717b-fd40-4424-9658-52e3ef4b789f",
+        "type": "message",
+        "text": "for questions specific to this project and future projects - join the <#C024EJ8H3S8|project-questions>  *channel*",
+        "user": "U021UNQGZC4",
+        "ts": "1623146571.032800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/kYr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for questions specific to this project and future projects - join the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C024EJ8H3S8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35bb07a4-0694-4e8b-bcb5-c29dd6e09a0f",
+        "type": "message",
+        "text": "<!channel> When you are immersed in your project you can easily forget to have lunch, don’t do it! Enjoy your lunch :hamburger::pizza: and see you at 2.00 :wink:",
+        "user": "U021NHS652N",
+        "ts": "1623150571.034500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvlH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " When you are immersed in your project you can easily forget to have lunch, don’t do it! Enjoy your lunch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hamburger"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pizza"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and see you at 2.00 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4ab4944-4e16-4c7f-beb2-51db23c6cbc1",
+        "type": "message",
+        "text": "<!channel> lesson time people, probably it will be useful for your project :slightly_smiling_face:",
+        "user": "U021NHS652N",
+        "ts": "1623153701.035300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JFi6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lesson time people, probably it will be useful for your project "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df9fc24e-34e7-4784-a08d-d655a33242ea",
+        "type": "message",
+        "text": "All the teams already have a name and are working at full power:rocket:, go people! :raised_hands:\n\n*The A-Team* :man-man-boy-boy:   Andrea, Ángela, Anna, Axana\n*Team Puck* :dog:   Héctor, Marta, Julia, Andre\n*Wrangling crew* :right-facing_fist::left-facing_fist:   Jennifer, Nayib, Uroš, Gellért\n*Team Intercontinental* :earth_africa:   Lucas, Dámaris, Sathiya, Pedro\n*Flyingducks* :duck:   Arya, Fernando, Majed, Walter",
+        "user": "U021NHS652N",
+        "ts": "1623157388.039300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MMJ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All the teams already have a name and are working at full power"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", go people! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "The A-Team ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-man-boy-boy",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Andrea, Ángela, Anna, Axana\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Team Puck ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dog",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Héctor, Marta, Julia, Andre\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Wrangling crew ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "right-facing_fist",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "left-facing_fist",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "   ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Jennifer, Nayib, Uroš, Gellért\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Team Intercontinental ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "earth_africa",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Lucas, Dámaris, Sathiya, Pedro\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Flyingducks ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "duck",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Arya, Fernando, Majed, Walter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623157388.039300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1623237640.042500",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021NHS652N",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1623160420.039400"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1623160557.039600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623237640.042500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "86271149-1f1f-4a7a-9a71-9c8906a71309",
+        "type": "message",
+        "text": "the emojis are strong with you :grin:",
+        "user": "U021WEXHN4E",
+        "ts": "1623160420.039400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zcJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the emojis are strong with you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623157388.039300",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "7f54cac7-c155-4fb5-854e-3542bb3c8d0c",
+        "type": "message",
+        "text": "hahaha they make the life colorful",
+        "user": "U021NHS652N",
+        "ts": "1623160557.039600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5NC01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahaha they make the life colorful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623157388.039300",
+        "parent_user_id": "U021NHS652N"
+    }
+]

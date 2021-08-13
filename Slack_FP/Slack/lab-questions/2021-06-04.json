@@ -1,0 +1,468 @@
+[
+    {
+        "client_msg_id": "67ed8463-06a0-4640-8b69-973658d4a306",
+        "type": "message",
+        "text": "documentation for <https:\/\/matplotlib.org\/stable\/index.html|matplotlib> and <https:\/\/seaborn.pydata.org\/|seaborn>\n• here is a <https:\/\/pythonbasics.org\/matplotlib-bar-chart\/|simple tutorial> to get you started on making bar charts\n• here is a more in depth walk through of EDA (exploratory data analysis) using these libraries for the penguin data set <https:\/\/www.kaggle.com\/piyushgarg983\/penguin-dataset-eda> - which shows you how to build additional chart types you might want to try out on the penguins or healthcare for all case study \n• as we spoke about today - the key is to try to learn something from every chart, rather than just create the charts - enjoy exploring during the lab time ! ",
+        "user": "U021UNQGZC4",
+        "ts": "1622806630.025100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E\/D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "documentation for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/matplotlib.org\/stable\/index.html",
+                                "text": "matplotlib"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/seaborn.pydata.org\/",
+                                "text": "seaborn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "here is a "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/pythonbasics.org\/matplotlib-bar-chart\/",
+                                        "text": "simple tutorial"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to get you started on making bar charts"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "here is a more in depth walk through of EDA (exploratory data analysis) using these libraries for the penguin data set "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.kaggle.com\/piyushgarg983\/penguin-dataset-eda"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - which shows you how to build additional chart types you might want to try out on the penguins or healthcare for all case study "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "as we spoke about today - the key is to try to learn something from every chart, rather than just create the charts - enjoy exploring during the lab time ! "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "love a cheat sheet!!",
+        "files": [
+            {
+                "id": "F024R8NHKLY",
+                "created": 1622810567,
+                "timestamp": 1622810567,
+                "name": "Python_Matplotlib_Cheat_Sheet.pdf",
+                "title": "Python_Matplotlib_Cheat_Sheet.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 226368,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024R8NHKLY\/python_matplotlib_cheat_sheet.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024R8NHKLY\/download\/python_matplotlib_cheat_sheet.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024R8NHKLY-cf8c36cda3\/python_matplotlib_cheat_sheet_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F024R8NHKLY\/python_matplotlib_cheat_sheet.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024R8NHKLY-049ed534fe",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F023LM8UVGX",
+                "created": 1622810571,
+                "timestamp": 1622810571,
+                "name": "Python_Seaborn_Cheat_Sheet.pdf",
+                "title": "Python_Seaborn_Cheat_Sheet.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 638942,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023LM8UVGX\/python_seaborn_cheat_sheet.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023LM8UVGX\/download\/python_seaborn_cheat_sheet.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023LM8UVGX-bb09a94c46\/python_seaborn_cheat_sheet_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F023LM8UVGX\/python_seaborn_cheat_sheet.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F023LM8UVGX-5cffb2a5f3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "km=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "love a cheat sheet!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "ts": "1622810578.025900"
+    },
+    {
+        "client_msg_id": "f7f5a45f-1413-4355-bc1b-e1acb59e65a4",
+        "type": "message",
+        "text": "<@U021NHS652N> could you please share the solutions for the customer analysis round 2 lab? :pray:",
+        "user": "U021T7DU0BC",
+        "ts": "1622811323.027200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDSLD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could you please share the solutions for the customer analysis round 2 lab? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622811323.027200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1622811582.027500",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021T7DU0BC"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622811565.027300"
+            },
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1622811582.027500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "26202a1a-35d5-4fd8-af05-fdf33ef3ca03",
+        "type": "message",
+        "text": "<@U021NHS652N> is working on it :)",
+        "user": "U021UNQGZC4",
+        "ts": "1622811565.027300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7=g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is working on it :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622811323.027200",
+        "parent_user_id": "U021T7DU0BC"
+    },
+    {
+        "client_msg_id": "421a1e7d-cd00-445f-880e-c5cb792aa7da",
+        "type": "message",
+        "text": "thank you!",
+        "user": "U021T7DU0BC",
+        "ts": "1622811582.027500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ru2j9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622811323.027200",
+        "parent_user_id": "U021T7DU0BC"
+    },
+    {
+        "client_msg_id": "57ea5088-8076-4336-bba7-1061ac9a2a22",
+        "type": "message",
+        "text": "<!channel>,\nhave here the solutions for Customer Analysis Round 2, in case you struggled with it. Plus it is the basis for the 3rd part <https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Solutions\/unit1\/day4\/customer_analysis_round_2_solution.ipynb>",
+        "user": "U021WEXHN4E",
+        "ts": "1622812713.028900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "student-IH-labs-and-stuff\/BEES-DAFT-MAY21",
+                "title_link": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Solutions\/unit1\/day4\/customer_analysis_round_2_solution.ipynb",
+                "text": "repository for the classroom of the barcelona\/berlin joint data full time bootcamp, May-Jul 2021 - student-IH-labs-and-stuff\/BEES-DAFT-MAY21",
+                "fallback": "GitHub: student-IH-labs-and-stuff\/BEES-DAFT-MAY21",
+                "image_url": "https:\/\/opengraph.githubassets.com\/ba2509376de2a393b30fc4e46da96bab9be9d5c633ad5f08713edfc59c6152cb\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Solutions\/unit1\/day4\/customer_analysis_round_2_solution.ipynb",
+                "image_bytes": 51735,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Solutions\/unit1\/day4\/customer_analysis_round_2_solution.ipynb"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uzY7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nhave here the solutions for Customer Analysis Round 2, in case you struggled with it. Plus it is the basis for the 3rd part "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Solutions\/unit1\/day4\/customer_analysis_round_2_solution.ipynb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fc70bff-cc78-41ef-83e1-55a8c160a347",
+        "type": "message",
+        "text": "I have just uploaded that solution to the notion too: you will find it in the below the calendar in the `Lab Solutions` part",
+        "user": "U021NHS652N",
+        "ts": "1622812819.030000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021NHS652N",
+            "ts": "1622812839.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gtlj1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have just uploaded that solution to the notion too: you will find it in the below the calendar in the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lab Solutions",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " part"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

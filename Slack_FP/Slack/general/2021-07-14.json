@@ -1,0 +1,318 @@
+[
+    {
+        "bot_id": "B026HNU9KH9",
+        "type": "message",
+        "text": "<@U021WEXHN4E> has a polly for you! Votes in this polly are anonymous :lock:.",
+        "user": "U026W6RMN1F",
+        "ts": "1626247584.024200",
+        "team": "T021KE79B9B",
+        "bot_profile": {
+            "id": "B026HNU9KH9",
+            "deleted": false,
+            "name": "Polly",
+            "updated": 1624967127,
+            "app_id": "A04E6JX41",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_72.png"
+            },
+            "team_id": "T021KE79B9B"
+        },
+        "edited": {
+            "user": "B026HNU9KH9",
+            "ts": "1626250962.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "NXYle",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<!channel|channel>, In order for the teaching team to get an impression on how you're doing with the GNOD and the 1st prototype, we would ask you to fill out this survey. How far are you with the 1st prototype (anonymous vote)?*\n",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "PU+",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(mRPHJHr9T9HAPcd9n).VotingButton(0)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "1",
+                            "emoji": true
+                        },
+                        "value": "one"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(mRPHJHr9T9HAPcd9n).VotingButton(1)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "2",
+                            "emoji": true
+                        },
+                        "value": "two"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(mRPHJHr9T9HAPcd9n).VotingButton(2)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "3",
+                            "emoji": true
+                        },
+                        "value": "three"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "GQ+",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*1*: Finished!  \n\n`███████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  45% (5)",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "*2*: Working on it, but confident I can do it  \n\n`██ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  9% (1)",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "BBt",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*3*: Working on it, but struggling, need help.  \n\n`███████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  45% (5)",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "8=a9h",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Total Votes*: 11",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "4qBS",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(mRPHJHr9T9HAPcd9n).AddCommentButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Add a Comment",
+                            "emoji": true
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(mRPHJHr9T9HAPcd9n).ViewAllResponsesButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View All Responses",
+                            "emoji": true
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "c423"
+            },
+            {
+                "type": "context",
+                "block_id": "Lt1D",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Sender: @Florian Titze (Flo Titze) | :lock: *Responses:* Anonymous | *:clock930: Closes: *<!date^1628839582^{date_short} at {time}|Aug 13, 2021 at 07:26 AM>\n\n:zap: Try sending your own polly using one of <https:\/\/app.polly.ai\/templates\/global?utm_source=slack&amp;utm_medium=app&amp;utm_term=view_templates|our templates>",
+                        "verbatim": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d598e1c-71b0-4645-accc-975bece834f8",
+        "type": "message",
+        "text": "request <!everyone> - if we have guests joining our classroom, this is happening because :\na) i have spent my own time, outside of class hours, approaching them and setting it up\n+\nb) they are giving up their time, despite being busy, and *for free,* to provide us some insight into the data industry.\n\nessentially, I am calling in a lot of personal favours to benefit you- and I do this more than the other teachers because I feel it is important. But it seems like it’s not important to you!  …Luke has already given me feedback that you were very uncommunicative as a class, compared to previous times he has done this. Today most people looked bored, a handful of you were not really online, only Andre asked questions (thanks <@U021ZC6JR28> for saving me!)\n\n*here’s my request : If you want me to continue bringing guests in after today, show me on the next call that I should be doing that by being attentive, asking questions, and generally showing good manners. depending on how that goes, I can cancel all the remaining guest bookings, because really, you are making me look bad and this is an industry I plan to remain in.* ",
+        "user": "U021UNQGZC4",
+        "ts": "1626252963.038500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "10wG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "request "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - if we have guests joining our classroom, this is happening because :\na) i have spent my own time, outside of class hours, approaching them and setting it up\n+\nb) they are giving up their time, despite being busy, and"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for free,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to provide us some insight into the data industry.\n\nessentially, I am calling in a lot of personal favours to benefit you- and I do this more than the other teachers because I feel it is important. But it seems like it’s not important to you!  …Luke has already given me feedback that you were very uncommunicative as a class, compared to previous times he has done this. Today most people looked bored, a handful of you were not really online, only Andre asked questions (thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6JR28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for saving me!)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "here’s my request : If you want me to continue bringing guests in after today, show me on the next call that I should be doing that by being attentive, asking questions, and generally showing good manners. depending on how that goes, I can cancel all the remaining guest bookings, because really, you are making me look bad and this is an industry I plan to remain in. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "notebook from todays spotfy \/ spotipy class :",
+        "files": [
+            {
+                "id": "F027LCPR76K",
+                "created": 1626262104,
+                "timestamp": 1626262104,
+                "name": "Spotipy_outline_complete.ipynb",
+                "title": "Spotipy_outline_complete.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 4342887,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027LCPR76K\/spotipy_outline_complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027LCPR76K\/download\/spotipy_outline_complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027LCPR76K\/spotipy_outline_complete.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027LCPR76K-657199eba2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8P9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "notebook from todays spotfy \/ spotipy class :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626262122.039000"
+    },
+    {
+        "client_msg_id": "4a6cb67e-f6f4-4068-b428-92c7da96a7f1",
+        "type": "message",
+        "text": "<!channel> checkpoint time",
+        "user": "U021NHS652N",
+        "ts": "1626273228.039600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t7j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " checkpoint time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

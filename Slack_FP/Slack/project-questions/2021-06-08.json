@@ -1,0 +1,474 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623146585.000400",
+        "user": "U0225RJ3Z4H",
+        "text": "<@U0225RJ3Z4H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623146592.000600",
+        "user": "U021NHS652N",
+        "text": "<@U021NHS652N> has joined the channel",
+        "inviter": "U021UNQGZC4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623146593.000800",
+        "user": "U021WEXHN4E",
+        "text": "<@U021WEXHN4E> has joined the channel",
+        "inviter": "U021UNQGZC4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623146606.001000",
+        "user": "U021ZC6JR28",
+        "text": "<@U021ZC6JR28> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623146644.001200",
+        "user": "U021CE3UWPR",
+        "text": "<@U021CE3UWPR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623149735.001400",
+        "user": "U0225RHK6Q1",
+        "text": "<@U0225RHK6Q1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623155346.001600",
+        "user": "U021TDN4RAP",
+        "text": "<@U021TDN4RAP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623155347.001800",
+        "user": "U021Q54K3B7",
+        "text": "<@U021Q54K3B7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623155354.002200",
+        "user": "U021ZC6L676",
+        "text": "<@U021ZC6L676> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623155356.002400",
+        "user": "U021ZC6H9GC",
+        "text": "<@U021ZC6H9GC> has joined the channel"
+    },
+    {
+        "client_msg_id": "3fc02cad-75b4-4f4c-ab1d-ee702500d5e4",
+        "type": "message",
+        "text": "ask for help and suggestions!",
+        "user": "U021UNQGZC4",
+        "ts": "1623155358.002600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/e2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ask for help and suggestions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623155359.002800",
+        "user": "U021TDMLNTD",
+        "text": "<@U021TDMLNTD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623155360.003000",
+        "user": "U0225RJ6SNM",
+        "text": "<@U0225RJ6SNM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623155364.003200",
+        "user": "U021TDMEH27",
+        "text": "<@U021TDMEH27> has joined the channel"
+    },
+    {
+        "client_msg_id": "ec165654-c1e9-43b0-8c9a-e87a5e86fde2",
+        "type": "message",
+        "text": "just an idea - to get the number of years experience from the description, it looks like you can go with *data[‘description’].str.findall(r’\\d+\\s\\w+’)*",
+        "user": "U021UNQGZC4",
+        "ts": "1623155933.004200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=hG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just an idea - to get the number of years experience from the description, it looks like you can go with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "data[‘description’].str.findall(r’\\d+\\s\\w+’)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6d2444c-7698-46ba-90b1-badd07fab3eb",
+        "type": "message",
+        "text": "as in where is a number, then a space, then a word… 4 years experience. this doesnt cover the minimum experience if the string is ‘2-3 years’ … im thinking about it",
+        "user": "U021UNQGZC4",
+        "ts": "1623155960.004800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1623156037.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as in where is a number, then a space, then a word… 4 years experience. this doesnt cover the minimum experience if the string is ‘2-3 years’ … im thinking about it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7aaf59d-eb0f-4bab-a643-7f0394b5167b",
+        "type": "message",
+        "text": "this works!\n*\\d+\\s\\w+|[\\d]+\\S?[\\d]+\\s\\w+*\nthis will capture 2 years experience, or 3-4 years experience",
+        "user": "U021UNQGZC4",
+        "ts": "1623156449.005800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T1F7p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this works!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\d+\\s\\w+|[\\d]+\\S?[\\d]+\\s\\w+",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis will capture 2 years experience, or 3-4 years experience"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "481aba61-639a-4a76-b00b-023224936bee",
+        "type": "message",
+        "text": "*data[‘description’].str.findall(r’\\d+\\s\\byears\\b|[\\d]+\\S?[\\d]+\\s\\byears\\b’)*\n- will pick up the maximum years experience required, if the description consistently says ‘2-3 years’\n*data[‘description’].str.contains(r’\\d+\\s\\byears\\b’)*\nwill pick up how often a no of years experience is required.",
+        "user": "U021UNQGZC4",
+        "ts": "1623157643.007400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WhdM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "data[‘description’].str.findall(r’\\d+\\s\\byears\\b|[\\d]+\\S?[\\d]+\\s\\byears\\b’)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- will pick up the maximum years experience required, if the description consistently says ‘2-3 years’\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "data[‘description’].str.contains(r’\\d+\\s\\byears\\b’)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nwill pick up how often a no of years experience is required."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623158653.007600",
+        "user": "U0225RGM941",
+        "text": "<@U0225RGM941> has joined the channel"
+    },
+    {
+        "client_msg_id": "d0714f57-300d-40f1-9843-76fc6fd5e558",
+        "type": "message",
+        "text": "*TIP -* a useful setting for you - if you want to see more of the description in pandas, try setting\n*pd.options.display.max_colwidth = 350*",
+        "user": "U021UNQGZC4",
+        "ts": "1623159192.008600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TIP - ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "a useful setting for you - if you want to see more of the description in pandas, try setting\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "pd.options.display.max_colwidth = 350",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "this works, <@U021ZC6L676> cc <@U021NHS652N>",
+        "files": [
+            {
+                "id": "F0249EFG7RT",
+                "created": 1623159660,
+                "timestamp": 1623159660,
+                "name": "Screenshot from 2021-06-08 15-38-56.png",
+                "title": "Screenshot from 2021-06-08 15-38-56.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 38053,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0249EFG7RT\/screenshot_from_2021-06-08_15-38-56.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0249EFG7RT\/download\/screenshot_from_2021-06-08_15-38-56.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 71,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 95,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 143,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 159,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 191,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249EFG7RT-7e70132ea0\/screenshot_from_2021-06-08_15-38-56_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 203,
+                "image_exif_rotation": 1,
+                "original_w": 1174,
+                "original_h": 233,
+                "thumb_tiny": "AwAJADDRbpQB6GloFABg+tGPeiigAxS4pKKAP\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0249EFG7RT\/screenshot_from_2021-06-08_15-38-56.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0249EFG7RT-3c3db6d625",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cRApG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this works, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6L676"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1623159693.009000"
+    }
+]

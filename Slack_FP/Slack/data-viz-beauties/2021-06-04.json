@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "2c6dd3a0-6932-4231-8fc2-f215ba3cd0b1",
+        "type": "message",
+        "text": "<https:\/\/www.tylervigen.com\/spurious-correlations>",
+        "user": "U021UNQGZC4",
+        "ts": "1622805038.002600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "15 Insane Things That Correlate With Each Other",
+                "title_link": "https:\/\/www.tylervigen.com\/spurious-correlations",
+                "text": "Why do these things correlate? These 15 correlations will blow your mind. (Is this headline sensationalist enough for you to click on it yet?)",
+                "fallback": "15 Insane Things That Correlate With Each Other",
+                "image_url": "http:\/\/tylervigen.com\/images\/spurious-correlations-share.png",
+                "from_url": "https:\/\/www.tylervigen.com\/spurious-correlations",
+                "image_width": 498,
+                "image_height": 250,
+                "image_bytes": 40677,
+                "service_icon": "https:\/\/www.tylervigen.com\/images\/icons\/apple-icon-57x57.png",
+                "service_name": "tylervigen.com",
+                "id": 1,
+                "original_url": "https:\/\/www.tylervigen.com\/spurious-correlations"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vUVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tylervigen.com\/spurious-correlations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

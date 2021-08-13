@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "20f6ce4d-6c44-473a-935b-eeb2da262d25",
+        "type": "message",
+        "text": "<@U021WEXHN4E> I need you!",
+        "user": "U0225RJ6SNM",
+        "ts": "1624957236.004500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I need you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tick_checkmark",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "486854d3-40ba-4b98-8414-db89c7a66263",
+        "type": "message",
+        "text": ":chart: self paced statistics learning  <https:\/\/www.khanacademy.org\/math\/statistics-probability> -  highly recommended\n:git: git hub intro <https:\/\/www.youtube.com\/watch?v=fQLK8Ib_SKk>\n:snake: intro to anaconda - we recommend anaconda as a package manager, to launch jupyter notebook + conda environments to install modules\/ libraries <https:\/\/docs.anaconda.com\/anaconda\/user-guide\/?utm_source=anaconda.com&amp;utm_medium=individual-get-started>",
+        "user": "U021UNQGZC4",
+        "ts": "1621253569.002000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uEI5h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "chart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " self paced statistics learning  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.khanacademy.org\/math\/statistics-probability"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -  highly recommended\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "git"
+                            },
+                            {
+                                "type": "text",
+                                "text": " git hub intro "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=fQLK8Ib_SKk"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "snake"
+                            },
+                            {
+                                "type": "text",
+                                "text": " intro to anaconda - we recommend anaconda as a package manager, to launch jupyter notebook + conda environments to install modules\/ libraries "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.anaconda.com\/anaconda\/user-guide\/?utm_source=anaconda.com&utm_medium=individual-get-started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

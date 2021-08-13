@@ -1,0 +1,2416 @@
+[
+    {
+        "client_msg_id": "3285cabb-c802-4dba-a587-28771868e7b5",
+        "type": "message",
+        "text": "Hi! I'm getting an error when trying to fill one specific column of NaN values with 0, using fillna method. I got this error: KeyError: \"None of [Float64Index([0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,\\n              ...\\n              0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],\\n             dtype='float64', length=7315)] are in the [columns]\"",
+        "user": "U021TDMLNTD",
+        "ts": "1624961506.001400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I'm getting an error when trying to fill one specific column of NaN values with 0, using fillna method. I got this error: KeyError: \"None of [Float64Index([0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,\\n              ...\\n              0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],\\n             dtype='float64', length=7315)] are in the [columns]\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "reply_count": 25,
+        "reply_users_count": 2,
+        "latest_reply": "1624964401.008400",
+        "reply_users": [
+            "U021TDMLNTD",
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624961543.001500"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624961600.001700"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624961620.001900"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624961684.002100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624961768.002700"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624961800.002900"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624961933.003200"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624962337.003400"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624962344.003600"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624963536.005000"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624963631.005200"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624963645.005400"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624963657.005600"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624963700.005800"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624963757.006000"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624963758.006200"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624963793.006500"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624963913.006900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624964007.007100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624964025.007300"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624964032.007500"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624964241.007800"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624964332.008000"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624964382.008200"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624964401.008400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sos",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "222cec4a-4732-4a80-8c1a-10ff58b3e936",
+        "type": "message",
+        "text": "My code is: df_geonulls = df_geonulls[df_geonulls['reclat'].fillna(0)]",
+        "user": "U021TDMLNTD",
+        "ts": "1624961543.001500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZA3oW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My code is: df_geonulls = df_geonulls[df_geonulls['reclat'].fillna(0)]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "67c5d04e-d9c9-4681-bfa2-bb2fc86cf9d3",
+        "type": "message",
+        "text": "There is no problem when using fillna in the whole database, but it gives me this error when trying to fill just an specific column. Could anybody help me please?",
+        "user": "U021TDMLNTD",
+        "ts": "1624961600.001700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PEVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is no problem when using fillna in the whole database, but it gives me this error when trying to fill just an specific column. Could anybody help me please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "70093f48-3485-4c70-bb25-3df1e5615481",
+        "type": "message",
+        "text": "Only this part `df_geonulls['reclat'].fillna(0)` is enough to fill with 0. Why the rest?",
+        "user": "U021WEXHN4E",
+        "ts": "1624961620.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only this part "
+                            },
+                            {
+                                "type": "text",
+                                "text": "df_geonulls['reclat'].fillna(0)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is enough to fill with 0. Why the rest?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "291c84cb-e62a-4fb2-86f6-1338d87ff758",
+        "type": "message",
+        "text": "Because i was trying to maintain the dataframe format",
+        "user": "U021TDMLNTD",
+        "ts": "1624961684.002100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0oBpx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because i was trying to maintain the dataframe format"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "a8f12e07-b7e3-4935-89db-27bee2e82b16",
+        "type": "message",
+        "text": "what do you mean by dataframe format?",
+        "user": "U021WEXHN4E",
+        "ts": "1624961768.002700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZhaU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what do you mean by dataframe format?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "a4f2d918-ef12-4584-9c1d-f2111911b96e",
+        "type": "message",
+        "text": "But yeah, it was a worng idea haha",
+        "user": "U021TDMLNTD",
+        "ts": "1624961800.002900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0zk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But yeah, it was a worng idea haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "b2948188-36cf-4d96-8321-a5ce6e97025e",
+        "type": "message",
+        "text": "Igngore me, I was imagining sth weird haha Now i understand! thx flo!! :)",
+        "user": "U021TDMLNTD",
+        "ts": "1624961933.003200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=yF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Igngore me, I was imagining sth weird haha Now i understand! thx flo!! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "018ccb9f-86bf-433f-9352-d9af773ae466",
+        "type": "message",
+        "text": "<@U021WEXHN4E> Idk why but it is not working..",
+        "user": "U021TDMLNTD",
+        "ts": "1624962337.003400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Idk why but it is not working.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F026AH4JFAA",
+                "created": 1624962339,
+                "timestamp": 1624962339,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021TDMLNTD",
+                "editable": false,
+                "size": 637420,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026AH4JFAA\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026AH4JFAA\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 186,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 247,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 371,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 412,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 495,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026AH4JFAA-187a230192\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 528,
+                "original_w": 2080,
+                "original_h": 1072,
+                "thumb_tiny": "AwAYADDRI5pQBikPJB9KUZxQAuKMUnNLQAYoxRRmgBG7U3q1K\/akHWgAwNtJ0z9aU\/doPU0AIOTzSgDjjvQKUdvrQB\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021TDMLNTD\/F026AH4JFAA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026AH4JFAA-1df32b432e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021TDMLNTD",
+        "display_as_bot": false,
+        "ts": "1624962344.003600",
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "752551a7-7a27-4196-a94f-b30c1cf26512",
+        "type": "message",
+        "text": "because you're not reassigning  the result to the colum. you're just outputting it to Jupiter notebook",
+        "user": "U021WEXHN4E",
+        "ts": "1624963536.005000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4kkj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "because you're not reassigning  the result to the colum. you're just outputting it to Jupiter notebook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "000fe6e9-36ca-4e83-a02d-4d563c345139",
+        "type": "message",
+        "text": "that's why i was trying to write the long thing: df_geonulls = df_geonulls[df_geonulls['reclat'].fillna(0)]",
+        "user": "U021TDMLNTD",
+        "ts": "1624963631.005200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Udqni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's why i was trying to write the long thing: df_geonulls = df_geonulls[df_geonulls['reclat'].fillna(0)]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "6233273b-934b-4320-a31f-5c4bf66ff082",
+        "type": "message",
+        "text": "how should I do it instead?",
+        "user": "U021TDMLNTD",
+        "ts": "1624963645.005400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OKE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how should I do it instead?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "ee093b1d-bd47-477a-8d62-fcff99d8913f",
+        "type": "message",
+        "text": "I do want to modify the dataframe",
+        "user": "U021TDMLNTD",
+        "ts": "1624963657.005600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "znqG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do want to modify the dataframe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "3a6fb856-2f36-40c0-9a1f-ebd04bc348f8",
+        "type": "message",
+        "text": "`df_geonulls['reclat']= df_geonulls['reclat'].fillna(0)`",
+        "user": "U021WEXHN4E",
+        "ts": "1624963700.005800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IAnEx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "df_geonulls['reclat']= df_geonulls['reclat'].fillna(0)",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "89f811b1-5148-4abb-b0b2-7cf7f0ff1a13",
+        "type": "message",
+        "text": "no subsetting (your long thing). subsetting only when you want to create a boolean table according to some condition and then filter the whole dataframe according to that",
+        "user": "U021WEXHN4E",
+        "ts": "1624963757.006000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4OTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no subsetting (your long thing). subsetting only when you want to create a boolean table according to some condition and then filter the whole dataframe according to that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0864f890-52fd-4f8b-8ecf-a00fc0f0b046",
+        "type": "message",
+        "text": "i also did this but it gives me a warning that says it is trying to be set on a copy of a slice from a DataFrame.",
+        "user": "U021TDMLNTD",
+        "ts": "1624963758.006200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPJPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i also did this but it gives me a warning that says it is trying to be set on a copy of a slice from a DataFrame."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F026HHVJT0T",
+                "created": 1624963787,
+                "timestamp": 1624963787,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021TDMLNTD",
+                "editable": false,
+                "size": 81249,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026HHVJT0T\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026HHVJT0T\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 99,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 132,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 197,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 219,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 263,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026HHVJT0T-7bcded8e65\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 281,
+                "original_w": 1276,
+                "original_h": 350,
+                "thumb_tiny": "AwANADC7k56fzo3N6UEc0YoGGT3H86MtjpQR9KPyoAMtnp\/OnBm7im\/lTscUAf\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021TDMLNTD\/F026HHVJT0T\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026HHVJT0T-7463fb61b6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021TDMLNTD",
+        "display_as_bot": false,
+        "ts": "1624963793.006500",
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "9597a8a8-4302-491b-873b-65e3d476cbae",
+        "type": "message",
+        "text": "should i skip it or is this a  problematic thing?",
+        "user": "U021TDMLNTD",
+        "ts": "1624963913.006900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "should i skip it or is this a  problematic thing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "95989902-2433-4440-be5c-1a57152f1177",
+        "type": "message",
+        "text": "you can skip it, if the fillna had an effect of course",
+        "user": "U021WEXHN4E",
+        "ts": "1624964007.007100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ewL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can skip it, if the fillna had an effect of course"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb957670-d149-4a0d-8ce3-78977b19671c",
+        "type": "message",
+        "text": "looking for a better way so that this warning doesn't appear",
+        "user": "U021WEXHN4E",
+        "ts": "1624964025.007300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q20Tt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looking for a better way so that this warning doesn't appear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "538df5f5-65d3-49e2-a88a-65856b61dc5f",
+        "type": "message",
+        "text": "ok thanks!!",
+        "user": "U021TDMLNTD",
+        "ts": "1624964032.007500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zf8T7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok thanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "a44430db-9efb-479f-9495-62e7bf517de5",
+        "type": "message",
+        "text": "Internet says you can give the loc method a try\n`df_geonulls.loc[:, 'reclong'].fillna(0, inplace=True)`",
+        "user": "U021WEXHN4E",
+        "ts": "1624964241.007800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMyv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Internet says you can give the loc method a try\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "df_geonulls.loc[:, 'reclong'].fillna(0, inplace=True)",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "83f8c0e1-99fa-4076-bb6e-73bcbecadec8",
+        "type": "message",
+        "text": "Yeah, i also tried this but still it gives the warning",
+        "user": "U021TDMLNTD",
+        "ts": "1624964332.008000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0C4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, i also tried this but still it gives the warning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "2f61f963-3ac2-4125-b37f-d23d3d80f73a",
+        "type": "message",
+        "text": "yeah ignore it then. If it has the desired effect",
+        "user": "U021WEXHN4E",
+        "ts": "1624964382.008200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVtr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah ignore it then. If it has the desired effect"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "aae95c53-8e7f-49ab-9ba0-f7a77c6a2567",
+        "type": "message",
+        "text": "yeahh thanks :)",
+        "user": "U021TDMLNTD",
+        "ts": "1624964401.008400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wz+pi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeahh thanks :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624961506.001400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "4073818d-2928-4325-b5d5-dee61a27c7ad",
+        "type": "message",
+        "text": "Hello <@U021WEXHN4E>! I'm having problems extracting year from time in one of my DFs. Can you help me after lunch?\nDanke und guten appetit!",
+        "user": "U0225RJ6SNM",
+        "ts": "1624966637.011000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e0G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I'm having problems extracting year from time in one of my DFs. Can you help me after lunch?\nDanke und guten appetit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624966637.011000",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1624967464.012500",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624966761.011100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624966866.011300"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624967291.011500"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624967330.011700"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624967391.012000"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624967426.012300"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624967464.012500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6b4128fe-dcdf-468c-98d6-20a3d5958508",
+        "type": "message",
+        "text": "`pd.to_datetime(df['column1']).dt.year` , does that work?",
+        "user": "U021WEXHN4E",
+        "ts": "1624966761.011100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zaFO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pd.to_datetime(df['column1']).dt.year",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , does that work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624966637.011000",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "1d69cab8-85b9-4134-94a7-d3518d8a8806",
+        "type": "message",
+        "text": "datetime columns always have that `.dt` attribute with which you can extract any time unit",
+        "user": "U021WEXHN4E",
+        "ts": "1624966866.011300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xbyO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "datetime columns always have that "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".dt",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " attribute with which you can extract any time unit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624966637.011000",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "9b89a999-682e-46af-95b2-5e3a8c25070d",
+        "type": "message",
+        "text": "I did that and all the fields  of the column gave 1970 as value and it should give different values from 2011 to 2020",
+        "user": "U0225RJ6SNM",
+        "ts": "1624967291.011500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xy+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did that and all the fields  of the column gave 1970 as value and it should give different values from 2011 to 2020"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624966637.011000",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "dd5b436f-7349-481e-89ec-15b30bd05d98",
+        "type": "message",
+        "text": "ah... 1970... the start of the Unix epoch :grin:",
+        "user": "U021WEXHN4E",
+        "ts": "1624967330.011700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1624967364.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RC6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah... 1970... the start of the Unix epoch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624966637.011000",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "3544a8d2-96da-4bde-a8a5-467cc727518b",
+        "type": "message",
+        "text": "<https:\/\/en.m.wikipedia.org\/wiki\/Unix_time|https:\/\/en.m.wikipedia.org\/wiki\/Unix_time>",
+        "user": "U021WEXHN4E",
+        "ts": "1624967391.012000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e3\/1000000000seconds.jpg",
+                "image_width": 1118,
+                "image_height": 480,
+                "image_bytes": 106851,
+                "title": "Unix time",
+                "title_link": "https:\/\/en.m.wikipedia.org\/wiki\/Unix_time",
+                "from_url": "https:\/\/en.m.wikipedia.org\/wiki\/Unix_time",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "Unix time (also known as Epoch time, Posix time, seconds since the Epoch, or UNIX Epoch time) is a system for describing a point in time. It is the number of seconds that have elapsed since the Unix epoch, minus leap seconds; the Unix epoch is 00:00:00 UTC on 1 January 1970 (an arbitrary date); it is nonlinear with a leap second having the same Unix time as the second before it, and every day is treated as if it contains exactly 86400 seconds. Due to this treatment Unix time is not a true representation of UTC.\nUnix time is widely used in operating systems and file formats. In Unix-like operating systems, date is a command which will print or set the current time; by default, it prints or sets the time in the system time zone, but with the -u flag, it prints or sets the time in UTC and, with the TZ environment variable set to refer to a particular time zone, prints or sets the time in that time zone.",
+                "fallback": "wikipedia: Unix time",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.m.wikipedia.org\/wiki\/Unix_time"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qc2ih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.m.wikipedia.org\/wiki\/Unix_time",
+                                "text": "https:\/\/en.m.wikipedia.org\/wiki\/Unix_time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624966637.011000",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "eb446ec6-e7f3-4b85-86cc-932aeb5978a9",
+        "type": "message",
+        "text": "probably to_datetime messed up the inferences. we can look at it in 10min",
+        "user": "U021WEXHN4E",
+        "ts": "1624967426.012300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wDMFz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "probably to_datetime messed up the inferences. we can look at it in 10min"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624966637.011000",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "1504f5fc-0d3b-4db9-bae1-50f1dac4f4ab",
+        "type": "message",
+        "text": "Perfect, see you then in a room",
+        "user": "U0225RJ6SNM",
+        "ts": "1624967464.012500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k0GZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect, see you then in a room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624966637.011000",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "bot_id": "B026HNU9KH9",
+        "type": "message",
+        "text": "<@U021UNQGZC4> has a polly for you!",
+        "user": "U026W6RMN1F",
+        "ts": "1624967592.012700",
+        "team": "T021KE79B9B",
+        "bot_profile": {
+            "id": "B026HNU9KH9",
+            "deleted": false,
+            "name": "Polly",
+            "updated": 1624967127,
+            "app_id": "A04E6JX41",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_72.png"
+            },
+            "team_id": "T021KE79B9B"
+        },
+        "edited": {
+            "user": "B026HNU9KH9",
+            "ts": "1624984274.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "NA6Z",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Tuesday check in - how are you feeling about your project?*\n",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "1Fa",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(xXz9rNAfpJAiLdRov).VotingButton(0)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "1",
+                            "emoji": true
+                        },
+                        "value": "one"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(xXz9rNAfpJAiLdRov).VotingButton(1)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "2",
+                            "emoji": true
+                        },
+                        "value": "two"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(xXz9rNAfpJAiLdRov).VotingButton(2)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "3",
+                            "emoji": true
+                        },
+                        "value": "three"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(xXz9rNAfpJAiLdRov).VotingButton(3)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "4",
+                            "emoji": true
+                        },
+                        "value": "four"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "n5W",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*1*: Fairly confident - project is on track, occasional issues but I am solving them as I go  \n\n`█████████████████████ ⁢ ⁢ ⁢ ⁢`  |  85% (11)\n\n<@U021Q53LBPX>, <@U021TDMEH27>, <@U0225RHK6Q1> + 8 more",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "*2*: Some things are going well, but I am not confident I am on the right track and need help with a few questions  \n\n`███ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  15% (2)\n\n<@U021TDMBPRR>, <@U021CE3UWPR>",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "xYaNw",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*3*: Starting to feel lost, have a lot of questions  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "*4*: I am already lost in my project and need 1on1 guidance  \n\n`⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ `  |  0% (0)",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "Rnu",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Total Votes*: 13",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "sJ9t",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(xXz9rNAfpJAiLdRov).AddCommentButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Add a Comment",
+                            "emoji": true
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(xXz9rNAfpJAiLdRov).ViewAllResponsesButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View All Responses",
+                            "emoji": true
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "bviso"
+            },
+            {
+                "type": "context",
+                "block_id": "5uQF",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Sender: @Sian Davies | :unlock: *Responses:* Non-Anonymous | *:clock930: Closes: *<!date^1627559591^{date_short} at {time}|Jul 29, 2021 at 11:53 AM>\n\n:zap: Try sending your own polly using one of <https:\/\/app.polly.ai\/templates\/global?utm_source=slack&amp;utm_medium=app&amp;utm_term=view-templates|our templates>",
+                        "verbatim": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1624968004.013100",
+        "user": "U021TDMHF5H",
+        "text": "<@U021TDMHF5H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1624969520.013900",
+        "user": "U022VC1JD29",
+        "text": "<@U022VC1JD29> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1624970284.014700",
+        "user": "U021TDMBPRR",
+        "text": "<@U021TDMBPRR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1624970992.015100",
+        "user": "U021Q53LBPX",
+        "text": "<@U021Q53LBPX> has joined the channel"
+    },
+    {
+        "client_msg_id": "af5b6f7d-a960-4b6c-96d2-e67706b1b087",
+        "type": "message",
+        "text": "<@U021WEXHN4E>\nhow I need to apply a function (just divide by 1000000) all the fields of several columns. how can I do that not to do column by column?",
+        "user": "U0225RJ6SNM",
+        "ts": "1624975115.018300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sASw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nhow I need to apply a function (just divide by 1000000) all the fields of several columns. how can I do that not to do column by column?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1624981057.021000",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624975151.018400"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624975186.018600"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624975393.018800"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624975398.019100"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624975486.019300"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624980515.019800"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624980652.020400"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624980698.020800"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624981057.021000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "777196e4-87e9-4869-b8c8-0c303acc924e",
+        "type": "message",
+        "text": "what have you tried?",
+        "user": "U021WEXHN4E",
+        "ts": "1624975151.018400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KwS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what have you tried?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "dca5dac2-b7ce-4982-a9a4-3872910b6223",
+        "type": "message",
+        "text": "I can only think in column by column, so I havent tried actually",
+        "user": "U0225RJ6SNM",
+        "ts": "1624975186.018600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can only think in column by column, so I havent tried actually"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "c8564548-ef37-4c6b-a8fd-de08b0fe087a",
+        "type": "message",
+        "text": "<https:\/\/www.geeksforgeeks.org\/how-to-apply-a-function-to-multiple-columns-in-pandas\/|https:\/\/www.geeksforgeeks.org\/how-to-apply-a-function-to-multiple-columns-in-pandas\/>",
+        "user": "U021WEXHN4E",
+        "ts": "1624975393.018800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GeeksforGeeks",
+                "title": "How to Apply a function to multiple columns in Pandas? - GeeksforGeeks",
+                "title_link": "https:\/\/www.geeksforgeeks.org\/how-to-apply-a-function-to-multiple-columns-in-pandas\/",
+                "text": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice\/competitive programming\/company interview Questions.",
+                "fallback": "GeeksforGeeks: How to Apply a function to multiple columns in Pandas? - GeeksforGeeks",
+                "ts": 1597708840,
+                "from_url": "https:\/\/www.geeksforgeeks.org\/how-to-apply-a-function-to-multiple-columns-in-pandas\/",
+                "thumb_url": "https:\/\/media.geeksforgeeks.org\/wp-content\/cdn-uploads\/gfg_200x200-min.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.geeksforgeeks.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.geeksforgeeks.org\/how-to-apply-a-function-to-multiple-columns-in-pandas\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kmrub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.geeksforgeeks.org\/how-to-apply-a-function-to-multiple-columns-in-pandas\/",
+                                "text": "https:\/\/www.geeksforgeeks.org\/how-to-apply-a-function-to-multiple-columns-in-pandas\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "253de6d6-e83a-4281-9007-0309de45855e",
+        "type": "message",
+        "text": "example 2",
+        "user": "U021WEXHN4E",
+        "ts": "1624975398.019100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "81t4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "example 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "cba1c609-629e-4067-b705-7da934e2920f",
+        "type": "message",
+        "text": "do you mind if I see that after yoga? it wont be long",
+        "user": "U0225RJ6SNM",
+        "ts": "1624975486.019300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yV5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you mind if I see that after yoga? it wont be long"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "39011175-5d35-46ca-ae6c-490e9e092cb6",
+        "type": "message",
+        "text": "hello <@U021WEXHN4E>!\nI have my dataframe with 3columns (year, country and population) but there are more countries than necessary. I want to select rows with countries I want. I tried .loc(), iloc(), isin() and I can't find anything understandable in google. could you help me?",
+        "user": "U0225RJ6SNM",
+        "ts": "1624980515.019800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lCL7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\nI have my dataframe with 3columns (year, country and population) but there are more countries than necessary. I want to select rows with countries I want. I tried .loc(), iloc(), isin() and I can't find anything understandable in google. could you help me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "cf2c1592-b5cd-4735-8d8f-bc37e11b52e0",
+        "type": "message",
+        "text": "here you would want to write a condition first and subset your dataframe",
+        "user": "U021WEXHN4E",
+        "ts": "1624980652.020400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "98mA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here you would want to write a condition first and subset your dataframe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "51bb53ca-7ed4-4949-b6dd-b261778ded4b",
+        "type": "message",
+        "text": "im still in room 10, if anyone in my group needs some help <@U021TDMEH27> <@U021TDMLNTD> <@U021TDN4RAP> <@U021TDMBPRR>",
+        "user": "U021UNQGZC4",
+        "ts": "1624980660.020700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJpjS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im still in room 10, if anyone in my group needs some help "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMEH27"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMLNTD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDN4RAP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMBPRR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cc64018-8507-4842-8e45-c3c133f6bae2",
+        "type": "message",
+        "text": "... with that condition",
+        "user": "U021WEXHN4E",
+        "ts": "1624980698.020800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LerA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... with that condition"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0263TUMV2T",
+                "created": 1624981053,
+                "timestamp": 1624981053,
+                "name": "Screenshot from 2021-06-29 17-36-25.png",
+                "title": "Screenshot from 2021-06-29 17-36-25.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 71590,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0263TUMV2T\/screenshot_from_2021-06-29_17-36-25.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0263TUMV2T\/download\/screenshot_from_2021-06-29_17-36-25.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 222,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 296,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 443,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 493,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 591,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263TUMV2T-13a4ce7734\/screenshot_from_2021-06-29_17-36-25_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 631,
+                "image_exif_rotation": 1,
+                "original_w": 1135,
+                "original_h": 699,
+                "thumb_tiny": "AwAdADDSPTikx70rdKRQOKADafU0Y9zTqKAEx9aMfWlooAQ9KQHP\/wCqnHmkA6UAGD6\/pS0UUAFFFFAH\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0263TUMV2T\/screenshot_from_2021-06-29_17-36-25.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0263TUMV2T-303ed2bbb5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1624981057.021000",
+        "thread_ts": "1624975115.018300",
+        "parent_user_id": "U0225RJ6SNM"
+    }
+]

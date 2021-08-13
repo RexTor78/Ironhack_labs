@@ -1,0 +1,1089 @@
+[
+    {
+        "client_msg_id": "b8b84807-8af8-4f2d-aadd-d071fd996460",
+        "type": "message",
+        "text": "yep, thanks!",
+        "user": "U021ZC6L676",
+        "ts": "1622530807.012700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JQjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "bddc7881-6895-4998-984b-3838f7dda837",
+        "type": "message",
+        "text": "i'm getting this error - Cloning into 'JupiterLab'...\nfatal: repository '<https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab\/>' not found",
+        "user": "U021ZC6L676",
+        "ts": "1622532299.012900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "urospetkovic\/LabworkUros",
+                "title_link": "https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab\/",
+                "text": "Contribute to urospetkovic\/LabworkUros development by creating an account on GitHub.",
+                "fallback": "GitHub: urospetkovic\/LabworkUros",
+                "image_url": "https:\/\/opengraph.githubassets.com\/d8f0f88daf556c3a2be40889664bb542cd7c78f9f83d81f3d627b94c1ff44b9b\/urospetkovic\/LabworkUros",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab\/",
+                "image_bytes": 71170,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm getting this error - Cloning into 'JupiterLab'...\nfatal: repository '"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "' not found"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "5172f5bc-cc93-4702-b282-9933c8fa7409",
+        "type": "message",
+        "text": "what am i doing wrong?",
+        "user": "U021ZC6L676",
+        "ts": "1622532308.013300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSvF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what am i doing wrong?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "5ce8d1af-91b3-4784-a66b-cb68c71cb376",
+        "type": "message",
+        "text": "what's the command you're running?",
+        "user": "U021WEXHN4E",
+        "ts": "1622532348.013500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtoV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's the command you're running?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "dd389165-b5b2-4cc2-b8f7-50b0bbbcf986",
+        "type": "message",
+        "text": "git clone",
+        "user": "U021ZC6L676",
+        "ts": "1622532356.013700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H4VV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "345a586b-6359-4a46-90ea-32151e4cb3c2",
+        "type": "message",
+        "text": "and the link",
+        "user": "U021ZC6L676",
+        "ts": "1622532367.013900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6tc+n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and the link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "e8fe5922-6e3a-4ce7-9a24-91ba079069e9",
+        "type": "message",
+        "text": "and you want to push your work to github?",
+        "user": "U021WEXHN4E",
+        "ts": "1622532388.014100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIMrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and you want to push your work to github?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "68ff6170-abff-4de4-a7b1-3014b911d614",
+        "type": "message",
+        "text": "`git clone <https:\/\/github.com\/urospetkovic\/LabworkUros.git>` would create a repository folder `LabworkUros` in the folder from which you run this command. Is that what you want to achieve?",
+        "user": "U021WEXHN4E",
+        "ts": "1622532513.014300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cI0aS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/urospetkovic\/LabworkUros.git",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " would create a repository folder "
+                            },
+                            {
+                                "type": "text",
+                                "text": "LabworkUros",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the folder from which you run this command. Is that what you want to achieve?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "959891f7-ef04-47b7-a0cf-9f5eda8e879b",
+        "type": "message",
+        "text": "not really :slightly_smiling_face:",
+        "user": "U021ZC6L676",
+        "ts": "1622532598.014500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gSChI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not really "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "86edc923-53c1-4a13-856b-1a8d8a6f085c",
+        "type": "message",
+        "text": "i made a new folder and trying to clone 2 repos from yesterday into it",
+        "user": "U021ZC6L676",
+        "ts": "1622532622.014700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cHUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i made a new folder and trying to clone 2 repos from yesterday into it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "dc8a0947-ca8a-41de-baae-8c6f2fe50243",
+        "type": "message",
+        "text": "then `git clone url_of_repo_1.git`  and `git clone url_of_repo_2.git`  would do that",
+        "user": "U021WEXHN4E",
+        "ts": "1622532690.014900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yr1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "then "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git clone url_of_repo_1.git",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git clone url_of_repo_2.git",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  would do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "686d79e4-37d2-4ad8-9f36-9a1c7501a955",
+        "type": "message",
+        "text": "i'm typing this in:",
+        "user": "U021ZC6L676",
+        "ts": "1622532698.015100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QCaA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm typing this in:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "b2fbbe5a-a38c-4099-9597-fffe1ec0cc5a",
+        "type": "message",
+        "text": "git clone <https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab>",
+        "user": "U021ZC6L676",
+        "ts": "1622532701.015300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "urospetkovic\/LabworkUros",
+                "title_link": "https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab",
+                "text": "Contribute to urospetkovic\/LabworkUros development by creating an account on GitHub.",
+                "fallback": "GitHub: urospetkovic\/LabworkUros",
+                "image_url": "https:\/\/opengraph.githubassets.com\/d8f0f88daf556c3a2be40889664bb542cd7c78f9f83d81f3d627b94c1ff44b9b\/urospetkovic\/LabworkUros",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab",
+                "image_bytes": 71170,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4BW0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git clone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/urospetkovic\/LabworkUros\/tree\/main\/JupiterLab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "b104aac4-0ccf-47d1-b00a-f6f785101a8a",
+        "type": "message",
+        "text": "`JupiterLab` is only a folder in that repo. Not the \"root\" of the folder itself",
+        "user": "U021WEXHN4E",
+        "ts": "1622532803.015700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfzF2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "JupiterLab",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is only a folder in that repo. Not the \"root\" of the folder itself"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "c8ed56ee-c157-42be-80bc-0fc2c31efa3a",
+        "type": "message",
+        "text": "<https:\/\/github.com\/urospetkovic\/LabworkUros> this is the \"root\"",
+        "user": "U021WEXHN4E",
+        "ts": "1622532820.015900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "urospetkovic\/LabworkUros",
+                "title_link": "https:\/\/github.com\/urospetkovic\/LabworkUros",
+                "text": "Contribute to urospetkovic\/LabworkUros development by creating an account on GitHub.",
+                "fallback": "GitHub: urospetkovic\/LabworkUros",
+                "image_url": "https:\/\/opengraph.githubassets.com\/d8f0f88daf556c3a2be40889664bb542cd7c78f9f83d81f3d627b94c1ff44b9b\/urospetkovic\/LabworkUros",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/urospetkovic\/LabworkUros",
+                "image_bytes": 71170,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/urospetkovic\/LabworkUros"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HaBF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/urospetkovic\/LabworkUros"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is the \"root\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "80030e51-ec0a-462c-a70f-c601553709d6",
+        "type": "message",
+        "text": "yes",
+        "user": "U021ZC6L676",
+        "ts": "1622532828.016300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRD\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "c9264e7c-6176-43ad-ada0-d62955a058fb",
+        "type": "message",
+        "text": "so how do i clone just the JupyterLab folder into a new place?",
+        "user": "U021ZC6L676",
+        "ts": "1622532866.016500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dkEP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so how do i clone just the JupyterLab folder into a new place?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "type": "message",
+        "text": "and you can only clone those that have this green button:",
+        "files": [
+            {
+                "id": "F023LQK0NSF",
+                "created": 1622532868,
+                "timestamp": 1622532868,
+                "name": "Screenshot_2021-06-01 urospetkovic LabworkUros.png",
+                "title": "Screenshot_2021-06-01 urospetkovic LabworkUros.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 45410,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023LQK0NSF\/screenshot_2021-06-01_urospetkovic_labworkuros.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023LQK0NSF\/download\/screenshot_2021-06-01_urospetkovic_labworkuros.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023LQK0NSF-948a194928\/screenshot_2021-06-01_urospetkovic_labworkuros_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023LQK0NSF-948a194928\/screenshot_2021-06-01_urospetkovic_labworkuros_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023LQK0NSF-948a194928\/screenshot_2021-06-01_urospetkovic_labworkuros_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023LQK0NSF-948a194928\/screenshot_2021-06-01_urospetkovic_labworkuros_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 274,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023LQK0NSF-948a194928\/screenshot_2021-06-01_urospetkovic_labworkuros_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023LQK0NSF-948a194928\/screenshot_2021-06-01_urospetkovic_labworkuros_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 410,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023LQK0NSF-948a194928\/screenshot_2021-06-01_urospetkovic_labworkuros_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 456,
+                "original_w": 909,
+                "original_h": 518,
+                "thumb_tiny": "AwAbADDOopccUYpgGPcUoUH+NR9aTmlGaQhMUmKXt\/8AXpKYxc0lFFABS5pKKAF7dTmkpe1JQB\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F023LQK0NSF\/screenshot_2021-06-01_urospetkovic_labworkuros.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F023LQK0NSF-332ae03de6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jzF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and you can only clone those that have this green button:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1622532872.016700",
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "a6074441-cdbe-4c9e-934c-0b1afd1c6774",
+        "type": "message",
+        "text": "i see",
+        "user": "U021ZC6L676",
+        "ts": "1622532916.017100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zG1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i see"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "dea0b6f1-9286-4560-8efc-801c08046d37",
+        "type": "message",
+        "text": "you can't only clone one folder - you could download it manually. But then it wouldn't be tracked by git anymore",
+        "user": "U021WEXHN4E",
+        "ts": "1622532926.017300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eUJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can't only clone one folder - you could download it manually. But then it wouldn't be tracked by git anymore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "e931fe66-075a-49e5-a0ec-cc7c196d00c1",
+        "type": "message",
+        "text": "so what do i do then? :slightly_smiling_face:",
+        "user": "U021ZC6L676",
+        "ts": "1622532948.017500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bmm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so what do i do then? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "type": "message",
+        "text": "Installation of Anaconda on windows:\nMake sure you have ticked the upper box:\n\"Add Anaconda3 to my PATH environment variable\"\n\notherwise your git bash won't recognize your `conda ...` commands",
+        "files": [
+            {
+                "id": "F023TQNMB1S",
+                "created": 1622551588,
+                "timestamp": 1622551588,
+                "name": "win-install-options.png",
+                "title": "win-install-options.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 105584,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023TQNMB1S\/win-install-options.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023TQNMB1S\/download\/win-install-options.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023TQNMB1S-be92d98df1\/win-install-options_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023TQNMB1S-be92d98df1\/win-install-options_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023TQNMB1S-be92d98df1\/win-install-options_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 279,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023TQNMB1S-be92d98df1\/win-install-options_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 373,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023TQNMB1S-be92d98df1\/win-install-options_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023TQNMB1S-be92d98df1\/win-install-options_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 559,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023TQNMB1S-be92d98df1\/win-install-options_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 621,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023TQNMB1S-be92d98df1\/win-install-options_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 745,
+                "original_w": 992,
+                "original_h": 770,
+                "thumb_tiny": "AwAlADDQP+4T+NAGeqY980jcc5NND0APG4dhRl\/QU3fQH5oAkz7GlqMMCcCnUANfGOaZ8vp+tSEA9aTavpQAz5fT9aUBPp+NO2r6UbV9KABSvQGnUmBS0AFFFFABTcH1\/SnUdqAGgHP3qXBz1o9KXtQB\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F023TQNMB1S\/win-install-options.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F023TQNMB1S-3756126eec",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4z\/6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Installation of Anaconda on windows:\nMake sure you have ticked the upper box:\n\"Add Anaconda3 to my PATH environment variable\"\n\notherwise your git bash won't recognize your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "conda ...",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " commands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1622551629.018700"
+    }
+]

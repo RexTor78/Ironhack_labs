@@ -1,0 +1,490 @@
+[
+    {
+        "client_msg_id": "eebecd13-b2a8-46ed-8ad5-987c9b21fc3e",
+        "type": "message",
+        "text": "Hallo all! After sqlpro was giving me error after error, I downloaded mysql workbench, but I am not being able to import the apple data base, because of an encoding error. I tried all the encoding possibilities, and I used the same file <@U021WEXHN4E> uses in his computer with the same version of workbench and macos, and it still gives me the same encoding error. I am very open to any idea for how to fix it, thanks!",
+        "user": "U021Q54K3B7",
+        "ts": "1621587532.002100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hallo all! After sqlpro was giving me error after error, I downloaded mysql workbench, but I am not being able to import the apple data base, because of an encoding error. I tried all the encoding possibilities, and I used the same file "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uses in his computer with the same version of workbench and macos, and it still gives me the same encoding error. I am very open to any idea for how to fix it, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd297818-f301-43cf-ac53-df463f743238",
+        "type": "message",
+        "text": "Also: in case someone is doing the Coursera Math Skills course, and is finding Week 4 as challenging as I did, this unit from Khan Academy helped me a lot: <https:\/\/www.khanacademy.org\/math\/statistics-probability\/counting-permutations-and-combinations>",
+        "user": "U021Q54K3B7",
+        "ts": "1621587708.003100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Khan Academy",
+                "title": "Counting, permutations, and combinations | Khan Academy",
+                "title_link": "https:\/\/www.khanacademy.org\/math\/statistics-probability\/counting-permutations-and-combinations",
+                "text": "This unit covers methods for counting how many possible outcomes there are in various situations. We'll learn about factorial, permutations, and combinations. We'll also look at how to use these ideas to find probabilities.",
+                "fallback": "Khan Academy: Counting, permutations, and combinations | Khan Academy",
+                "image_url": "https:\/\/cdn.kastatic.org\/images\/khan-logo-dark-background-2.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.khanacademy.org\/math\/statistics-probability\/counting-permutations-and-combinations",
+                "image_bytes": 4675,
+                "service_icon": "https:\/\/cdn.kastatic.org\/images\/apple-touch-icon-57x57-precomposed.new.png",
+                "id": 1,
+                "original_url": "https:\/\/www.khanacademy.org\/math\/statistics-probability\/counting-permutations-and-combinations"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+tu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also: in case someone is doing the Coursera Math Skills course, and is finding Week 4 as challenging as I did, this unit from Khan Academy helped me a lot: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.khanacademy.org\/math\/statistics-probability\/counting-permutations-and-combinations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "707dcbc0-b765-47c7-bff7-4ad546e19b6f",
+        "type": "message",
+        "text": "Also, in order to run Mysql Workbench, I had to update from Catalina to Big Sur, and now I'm not able to run mysql in the Terminal :disappointed_relieved:, if anyone have an idea of how to fix that I'd also really appreciate it =)",
+        "user": "U021Q54K3B7",
+        "ts": "1621587829.004300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/YW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, in order to run Mysql Workbench, I had to update from Catalina to Big Sur, and now I'm not able to run mysql in the Terminal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", if anyone have an idea of how to fix that I'd also really appreciate it =)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97ac0bad-70ee-4f98-94a7-31ef2bffae59",
+        "type": "message",
+        "text": "cool, thanks!",
+        "user": "U021ZC6L676",
+        "ts": "1621591746.004400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s+ez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621534772.004600",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "618c5e31-ad50-4b4f-b1d7-f68fc525c047",
+        "type": "message",
+        "text": "Hi there! I can’t get to install “brew cask” properly! And I am quite stock then with prework… It says to me: Error: Unknown command: cask",
+        "user": "U021ZC6H9GC",
+        "ts": "1621594705.005400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6VvJV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi there! I can’t get to install “brew cask” properly! And I am quite stock then with prework… It says to me: Error: Unknown command: cask"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621594705.005400",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1621596159.015500",
+        "reply_users": [
+            "U021TDMLNTD",
+            "U021ZC6H9GC"
+        ],
+        "replies": [
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1621595792.014200"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1621595882.015100"
+            },
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1621596102.015300"
+            },
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1621596159.015500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c726c5b0-de17-42f5-a537-3d20470740aa",
+        "type": "message",
+        "text": "Anyone had the same issue? :pray::skin-tone-2::pray::skin-tone-2::pray::skin-tone-2::pray::skin-tone-2:",
+        "user": "U021ZC6H9GC",
+        "ts": "1621594731.006000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TDH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone had the same issue? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33167ABC-B447-44AD-BAA0-D60B62E6036B",
+        "type": "message",
+        "text": "If u installed Homebrew, you should already have Brew Cask installed.\nSth similar happened to me. The error could be because you have to use this syntax: brew install ——cask google-chrome instead of the syntax shown in the prework example (brew cask install google-chrome)\n",
+        "user": "U021TDMLNTD",
+        "ts": "1621595792.014200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2mR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If u installed Homebrew, you should already have Brew Cask installed.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sth similar happened to me. The error could be because you have to use this syntax: brew install ——cask google-chrome instead of the syntax shown in the prework example (brew cask install google-chrome)\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621594705.005400",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "933937C0-2F10-44B2-814E-609E75E62077",
+        "type": "message",
+        "text": "(Change “google-chrome” for the program you want to install)",
+        "user": "U021TDMLNTD",
+        "ts": "1621595882.015100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Change “google-chrome” for the program you want to install)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621594705.005400",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "a44724ce-dc17-4588-8c8d-cade34351acc",
+        "type": "message",
+        "text": "oh thank you!!!!!",
+        "user": "U021ZC6H9GC",
+        "ts": "1621596102.015300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Baj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh thank you!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621594705.005400",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "a7dee193-8dca-45b2-993f-b02b3ca16843",
+        "type": "message",
+        "text": "Annabeele, can I ask you: I can’t manage to change the mysql password after installing it with Homebrew, did you find a way to do so? It doen’t recognize the syntax in the prework file too..",
+        "user": "U021ZC6H9GC",
+        "ts": "1621596159.015500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TFN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annabeele, can I ask you: I can’t manage to change the mysql password after installing it with Homebrew, did you find a way to do so? It doen’t recognize the syntax in the prework file too.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621594705.005400",
+        "parent_user_id": "U021ZC6H9GC"
+    }
+]

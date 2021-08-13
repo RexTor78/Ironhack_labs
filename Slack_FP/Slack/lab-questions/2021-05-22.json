@@ -1,0 +1,294 @@
+[
+    {
+        "client_msg_id": "082d032d-06fd-4e76-848b-c0bd49f4d76d",
+        "type": "message",
+        "text": "Hi everyone! I don't know where to explain this, hope this is a right place. I just wanted to say that i just finished my prework now and I wasn't able to do it better. :smiling_face_with_tear:Sorry. I finished all. But most of the exercises in Python Lab were giving me error so I couldn't get to a final result in some of them, I couldn't result others although I understood its logic. In a pair of them I wasn't able to find THE FORMULA (like, which is the function in python for standar deviation? I found it in google but it was giving me error...) SO, really hoping to learn a lot in the course. I'm coming from a different professional area, not related at all with techs, psychology, so aaaaall is new for me. All ok with statistics because I worked with that in the past but Python, Mysql, ... I don't master it all. See you on the course!",
+        "user": "U0225RHK6Q1",
+        "ts": "1621697909.010100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! I don't know where to explain this, hope this is a right place. I just wanted to say that i just finished my prework now and I wasn't able to do it better. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sorry. I finished all. But most of the exercises in Python Lab were giving me error so I couldn't get to a final result in some of them, I couldn't result others although I understood its logic. In a pair of them I wasn't able to find THE FORMULA (like, which is the function in python for standar deviation? I found it in google but it was giving me error...) SO, really hoping to learn a lot in the course. I'm coming from a different professional area, not related at all with techs, psychology, so aaaaall is new for me. All ok with statistics because I worked with that in the past but Python, Mysql, ... I don't master it all. See you on the course!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621697909.010100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1621842842.000400",
+        "reply_users": [
+            "U0225RJ6SNM",
+            "U021Q54K3B7",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1621701447.012000"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1621702369.012500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621842842.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f3b13bcf-fdb5-4ef6-9b4d-9791313412c2",
+        "type": "message",
+        "text": "Also...I have the same problem than Pedro, I couldn't run mysql in the terminal but in windows system. I keep trying! Maybe I'll go for uninstall and install again",
+        "user": "U0225RHK6Q1",
+        "ts": "1621698072.011900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kCIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also...I have the same problem than Pedro, I couldn't run mysql in the terminal but in windows system. I keep trying! Maybe I'll go for uninstall and install again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621698072.011900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621842671.000100",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621842671.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "33ade25c-f185-442e-9539-eb2d1c375b60",
+        "type": "message",
+        "text": "Hi! Python exercises have been very hard for me too. About the errors, check what kind of error it is. It usually says the line where it was found and at the bottom what is the problem. It happened to me that it said syntax error and it was just adding : at the end of conditionals or ' ' for strings, indenting sentences... Or that something  was not defined, like a variable, because i didn't run some lines before.\nI hope I could help you a little bit!",
+        "user": "U0225RJ6SNM",
+        "ts": "1621701447.012000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUD4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Python exercises have been very hard for me too. About the errors, check what kind of error it is. It usually says the line where it was found and at the bottom what is the problem. It happened to me that it said syntax error and it was just adding : at the end of conditionals or ' ' for strings, indenting sentences... Or that something  was not defined, like a variable, because i didn't run some lines before.\nI hope I could help you a little bit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621697909.010100",
+        "parent_user_id": "U0225RHK6Q1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff8418a2-a2f6-4d63-8025-bdb6958afb8d",
+        "type": "message",
+        "text": "Hello, some days before someone explain how to push the exercices to github, but I can't view in this moment and I'm having problems to do, can someone repeat the process to view what I'm doing wrong, please",
+        "user": "U021CE3UWPR",
+        "ts": "1621701569.012300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, some days before someone explain how to push the exercices to github, but I can't view in this moment and I'm having problems to do, can someone repeat the process to view what I'm doing wrong, please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621701569.012300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621948621.001000",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021CE3UWPR"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621843147.000600"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1621948621.001000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1622a41d-c610-4c34-8f58-99efed365cc6",
+        "type": "message",
+        "text": "Hey Damaris! We are all on this :smiley: They have been super challenging for me too. So far I have gotten the results, but I've moved suuuper slow, after three weeks I'm still missing the last! But hopefully once the course start we'll get to learn and get rid of this feeling of being on the blind.\nPS. For the standard deviation, if you run \"import statistics\", before and then run the function .stdev() it will work =)",
+        "user": "U021Q54K3B7",
+        "ts": "1621702369.012500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021Q54K3B7",
+            "ts": "1621702499.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r12Ro",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Damaris! We are all on this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            },
+                            {
+                                "type": "text",
+                                "text": " They have been super challenging for me too. So far I have gotten the results, but I've moved suuuper slow, after three weeks I'm still missing the last! But hopefully once the course start we'll get to learn and get rid of this feeling of being on the blind.\nPS. For the standard deviation, if you run \"import statistics\", before and then run the function .stdev() it will work =)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621697909.010100",
+        "parent_user_id": "U0225RHK6Q1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

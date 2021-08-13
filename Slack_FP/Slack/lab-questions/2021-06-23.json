@@ -1,0 +1,3130 @@
+[
+    {
+        "client_msg_id": "727cb7dc-d035-4726-85a9-18c3c81be4e5",
+        "type": "message",
+        "text": "remember <!here> is a good place to ask lab questions to the teaching team and your classmates if you get stuck!",
+        "user": "U021UNQGZC4",
+        "ts": "1624450735.033500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Puiy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "remember "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a good place to ask lab questions to the teaching team and your classmates if you get stuck!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33252fb2-cf06-450f-b1b4-6292c3e98cc9",
+        "type": "message",
+        "text": "i have a git hub question",
+        "user": "U021ZC6L676",
+        "ts": "1624451233.033800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have a git hub question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3acef5ed-fb10-46d1-a8d2-2b80be40e96f",
+        "type": "message",
+        "text": "go for it :)",
+        "user": "U021UNQGZC4",
+        "ts": "1624451537.034100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "go for it :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e96941d-de11-47a6-90ca-86e7d1a7be59",
+        "type": "message",
+        "text": "is it ' what is git’ :glitch_crab:",
+        "user": "U021UNQGZC4",
+        "ts": "1624451798.034500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IfU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is it ' what is git’ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "glitch_crab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "reply_count": 28,
+        "reply_users_count": 2,
+        "latest_reply": "1624454073.048800",
+        "reply_users": [
+            "U021ZC6L676",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624452572.040100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624452616.040300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624452633.040500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624452766.041600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624452784.042000"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624452797.042500"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624452799.042800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453030.043400"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624453070.043800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453076.044000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453092.044200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453105.044400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453164.044600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453174.044900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624453293.045400"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624453306.045600"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624453342.046000"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624453345.046200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453390.046400"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624453451.046800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453487.047000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453529.047200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453592.047400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453700.047600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453777.048000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624453782.048400"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624453994.048600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624454073.048800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c8f5fbff-33cd-4186-bf65-4225d107caa2",
+        "type": "message",
+        "text": "I need to confirm something: for statistics operations like mean, standard deviation, the code for the library to import is this?? from scipy import stats  ??",
+        "user": "U0225RHK6Q1",
+        "ts": "1624452290.036600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zVoZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need to confirm something: for statistics operations like mean, standard deviation, the code for the library to import is this?? from scipy import stats  ??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d19edd2-904a-40a9-99bb-dc5b07d5e921",
+        "type": "message",
+        "text": "i used numpy",
+        "user": "U021TDMLNTD",
+        "ts": "1624452326.036800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HO0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i used numpy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a26faa53-4ac6-4ebe-a577-d162eaf3e795",
+        "type": "message",
+        "text": "np.mean",
+        "user": "U021TDMLNTD",
+        "ts": "1624452340.037100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sp+6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "np.mean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b74b4ea-099a-430b-9feb-5fb2e8057283",
+        "type": "message",
+        "text": "you can also use the pandas in-built functions",
+        "user": "U021WEXHN4E",
+        "ts": "1624452351.037500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IUYJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can also use the pandas in-built functions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "916b37ed-9417-4f9a-9a55-b23501d0504e",
+        "type": "message",
+        "text": "every series object (meaning: column) has those...",
+        "user": "U021WEXHN4E",
+        "ts": "1624452359.037900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1624452444.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "every series object (meaning: column) has those..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddbba17a-e3d7-4c99-8b10-c52ea551ff48",
+        "type": "message",
+        "text": "`temp['Temperatures'].mean()`",
+        "user": "U021WEXHN4E",
+        "ts": "1624452380.038300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HqokY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "temp['Temperatures'].mean()",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0eb5d708-5038-4a30-88e1-3f126d98b1eb",
+        "type": "message",
+        "text": "but also `np.mean(temp['Temperatures'])` works.... many possibilities",
+        "user": "U021WEXHN4E",
+        "ts": "1624452407.039000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fFE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but also "
+                            },
+                            {
+                                "type": "text",
+                                "text": "np.mean(temp['Temperatures'])",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " works.... many possibilities"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61ccf03c-1578-4215-8f55-013acfbef452",
+        "type": "message",
+        "text": "ah!! ok! much easier, thank you both!",
+        "user": "U0225RHK6Q1",
+        "ts": "1624452429.039400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah!! ok! much easier, thank you both!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0e36cf6-eae4-4f8b-a2fe-76322ed522d5",
+        "type": "message",
+        "text": "nope :slightly_smiling_face:",
+        "user": "U021ZC6L676",
+        "ts": "1624452572.040100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FB=ui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nope "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "db364363-bf30-4dbd-8cc3-dd07d5973ade",
+        "type": "message",
+        "text": "how do i get the lab directory into my local folder (which is a repo) without making nested repos?",
+        "user": "U021ZC6L676",
+        "ts": "1624452616.040300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9jUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how do i get the lab directory into my local folder (which is a repo) without making nested repos?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "21143799-0846-4fa4-b024-1a4fdbcfc78e",
+        "type": "message",
+        "text": "other than cloning and deleting the .git",
+        "user": "U021ZC6L676",
+        "ts": "1624452633.040500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "other than cloning and deleting the .git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "5685c8a2-1334-4ae9-bbb9-d8eb62d41acb",
+        "type": "message",
+        "text": "you mean the lab directory from the class repo ? <https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/tree\/main\/Labs>",
+        "user": "U021UNQGZC4",
+        "ts": "1624452766.041600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SVpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you mean the lab directory from the class repo ? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/tree\/main\/Labs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "09f4994e-dcc9-43ed-9b1b-8f5238fa96b6",
+        "type": "message",
+        "text": "or another lab directory",
+        "user": "U021UNQGZC4",
+        "ts": "1624452784.042000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or another lab directory"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "1df82d0c-05aa-4616-8f40-9ecfaa7b236b",
+        "type": "message",
+        "text": "`.mean()`, `.median()` , `.min()` , `.max()`, `.sum()`, `.size()`, `.count()` , `.std()` , `.var()`, ... these are all aggregation functions that you can run on a column",
+        "user": "U021WEXHN4E",
+        "ts": "1624452788.042300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lCg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".mean()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".median()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".min()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".max()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".sum()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".size()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".count()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".std()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".var()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ... these are all aggregation functions that you can run on a column"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2f7f2f4-431e-4e1b-839c-02172bf50d1a",
+        "type": "message",
+        "text": "this one for today",
+        "user": "U021ZC6L676",
+        "ts": "1624452797.042500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uxq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this one for today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "9af157bb-087a-4d9c-b22b-d544cd51d70e",
+        "type": "message",
+        "text": "<https:\/\/github.com\/ta-data-bcn\/lab-subsetting-and-descriptive-stats>",
+        "user": "U021ZC6L676",
+        "ts": "1624452799.042800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "ta-data-bcn\/lab-subsetting-and-descriptive-stats",
+                "title": "ta-data-bcn\/lab-subsetting-and-descriptive-stats",
+                "id": 1,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "7 months ago",
+                        "short": true
+                    }
+                ],
+                "bot_id": "B02424P9JTC",
+                "app_unfurl_url": "https:\/\/github.com\/ta-data-bcn\/lab-subsetting-and-descriptive-stats",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fSJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ta-data-bcn\/lab-subsetting-and-descriptive-stats"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "8dbc6ff5-4ef4-4fad-86c2-5c39f42ae3fa",
+        "type": "message",
+        "text": "<https:\/\/cmdlinetips.com\/2019\/10\/pandas-groupby-13-functions-to-aggregate\/>",
+        "user": "U021WEXHN4E",
+        "ts": "1624452799.043000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Uyn0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cmdlinetips.com\/2019\/10\/pandas-groupby-13-functions-to-aggregate\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ahhh i see. so for example i clone that repo into my local directory using gitclone\nin itself the overall directory \/Users\/siandavies\/Documents\/GitHub\/BEESLabworkSian is a repo",
+        "files": [
+            {
+                "id": "F025V49K02Z",
+                "created": 1624452953,
+                "timestamp": 1624452953,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 27592,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025V49K02Z\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025V49K02Z\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V49K02Z-ccecc8ca4d\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V49K02Z-ccecc8ca4d\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V49K02Z-ccecc8ca4d\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 218,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V49K02Z-ccecc8ca4d\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 367,
+                "original_h": 222,
+                "thumb_tiny": "AwAdADC8MelM3fvNuzj1xTh\/SnADHIzQAmBnpSYBPpxUuxfSjYvpQBFtH96jAHvUw4FB6UARAZHvR6Dj\/P4U+P7lOoATevrRuB70tFABRRRQB\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025V49K02Z\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025V49K02Z-bec27198be",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2iZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhh i see. so for example i clone that repo into my local directory using gitclone\nin itself the overall directory \/Users\/siandavies\/Documents\/GitHub\/BEESLabworkSian is a repo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624453030.043400",
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "c8806c71-3a82-44b0-8a09-3e916f73b2c5",
+        "type": "message",
+        "text": "but then it's nested?",
+        "user": "U021ZC6L676",
+        "ts": "1624453070.043800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+VQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but then it's nested?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "4a6dfc7f-1440-47bf-b993-a6865e3385ef",
+        "type": "message",
+        "text": "when you do your next commit you will see that folder has been added. but youre saying you dont want to folder to be added, i suppose, just the jupyter notebook once youve completed it ?",
+        "user": "U021UNQGZC4",
+        "ts": "1624453076.044000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bzdlD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when you do your next commit you will see that folder has been added. but youre saying you dont want to folder to be added, i suppose, just the jupyter notebook once youve completed it ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "f9f59e26-71fb-496e-90b1-3a6b3681ec8b",
+        "type": "message",
+        "text": "so instead of using an add . add the file by name.",
+        "user": "U021UNQGZC4",
+        "ts": "1624453092.044200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1U0cT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so instead of using an add . add the file by name."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "9d0e05c4-87b0-4843-81d2-9287a1292128",
+        "type": "message",
+        "text": "you will see this reflected in the git status retrieval",
+        "user": "U021UNQGZC4",
+        "ts": "1624453105.044400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bJ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you will see this reflected in the git status retrieval"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "88661ec9-13f0-473d-a424-17d39e476911",
+        "type": "message",
+        "text": "the fact is that although the original folder \/\n<https:\/\/github.com\/ta-data-bcn\/lab-subsetting-and-descriptive-stats|lab-subsetting-and-descriptive-stats> is a repo, because you have no permissions on that repo, you cannot write to it, therefore you cannot track it as a nested repo - you are not an owner or have a specific role",
+        "user": "U021UNQGZC4",
+        "ts": "1624453164.044600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71VH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the fact is that although the original folder \/\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ta-data-bcn\/lab-subsetting-and-descriptive-stats",
+                                "text": "lab-subsetting-and-descriptive-stats"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a repo, because you have no permissions on that repo, you cannot write to it, therefore you cannot track it as a nested repo - you are not an owner or have a specific role"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "1aeee49e-2b3c-48e5-8dc6-5605589b7bee",
+        "type": "message",
+        "text": "to your computer, this is just a downloaded folder of contents",
+        "user": "U021UNQGZC4",
+        "ts": "1624453174.044900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624453269.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aTO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to your computer, this is just a downloaded folder of contents"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "5660892f-5203-4f2f-835f-1b99ec8e9744",
+        "type": "message",
+        "text": "but with a .git file inside",
+        "user": "U021ZC6L676",
+        "ts": "1624453293.045400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ctJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but with a .git file inside"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025Y5WBYH0",
+                "created": 1624453302,
+                "timestamp": 1624453302,
+                "name": "Screenshot 2021-06-23 at 15.01.11.png",
+                "title": "Screenshot 2021-06-23 at 15.01.11.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6L676",
+                "editable": false,
+                "size": 188853,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025Y5WBYH0\/screenshot_2021-06-23_at_15.01.11.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025Y5WBYH0\/download\/screenshot_2021-06-23_at_15.01.11.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 252,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 337,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 505,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 561,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 673,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025Y5WBYH0-6b807bcd50\/screenshot_2021-06-23_at_15.01.11_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 718,
+                "original_w": 1640,
+                "original_h": 1150,
+                "thumb_tiny": "AwAhADCjuY9SfzpNzetIQT0pu00ALvbPWk3t6mjB9Kcc9qAG729TS72\/vGkJNJmgB2V\/2vzo3LjHzU2igB4ZR2akyv8AtfnTaKAHHbnvSfL70lFABRRRQAUUUUAFFFFAH\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6L676\/F025Y5WBYH0\/screenshot_2021-06-23_at_15.01.11.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025Y5WBYH0-215fff0b9e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021ZC6L676",
+        "display_as_bot": false,
+        "ts": "1624453306.045600",
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "8caf8e86-4ad2-4308-9279-3c7296a7e29f",
+        "type": "message",
+        "text": "so if i add it i'll make a nested repo, did it few time already :slightly_smiling_face:",
+        "user": "U021ZC6L676",
+        "ts": "1624453342.046000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQOZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so if i add it i'll make a nested repo, did it few time already "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "befb7aa4-2551-4f83-85ba-47a9822a95c5",
+        "type": "message",
+        "text": "times",
+        "user": "U021ZC6L676",
+        "ts": "1624453345.046200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "times"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "56766ca4-eb76-4d26-9213-74c8b18ee2da",
+        "type": "message",
+        "text": "true. but should not cause an issue.\nif i was concerned about which files i wanted to push to git each time and i thought there was a chance i would forget to add specific files when pushing, i would use a .gitignore to exlude that folder entirely from the git process  <https:\/\/www.atlassian.com\/git\/tutorials\/saving-changes\/gitignore>\nthis means the folder is simply stored locally as a folder, for local organisation purposes",
+        "user": "U021UNQGZC4",
+        "ts": "1624453390.046400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "true. but should not cause an issue.\nif i was concerned about which files i wanted to push to git each time and i thought there was a chance i would forget to add specific files when pushing, i would use a .gitignore to exlude that folder entirely from the git process  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.atlassian.com\/git\/tutorials\/saving-changes\/gitignore"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis means the folder is simply stored locally as a folder, for local organisation purposes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "c458dbed-fde5-4950-9ce7-8eb55e247910",
+        "type": "message",
+        "text": "ok, but then i can also just delete the .git",
+        "user": "U021ZC6L676",
+        "ts": "1624453451.046800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CkU2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, but then i can also just delete the .git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "fba4bc3d-21c7-41e6-99ef-250bc6da1114",
+        "type": "message",
+        "text": "yes, but whenever you push from your overall folder, theres a risk you would push the subfolder in error. thats why gitignore is the ‘proper’ way to do it",
+        "user": "U021UNQGZC4",
+        "ts": "1624453487.047000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w3W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, but whenever you push from your overall folder, theres a risk you would push the subfolder in error. thats why gitignore is the ‘proper’ way to do it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "a3e7d083-a95e-4552-a0cd-830823fe5226",
+        "type": "message",
+        "text": "because it would be easy to rush a git add . git commit git push process. gitignore says yes ill push everything but not that thing. this is coexistence",
+        "user": "U021UNQGZC4",
+        "ts": "1624453529.047200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7C87N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "because it would be easy to rush a git add . git commit git push process. gitignore says yes ill push everything but not that thing. this is coexistence"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "8540129c-775e-4e7e-a086-224673dffba7",
+        "type": "message",
+        "text": "when we say avoided nested repos we really mean repos that you create, and own, and write to. that would get messy very quickly",
+        "user": "U021UNQGZC4",
+        "ts": "1624453592.047400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8II",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when we say avoided nested repos we really mean repos that you create, and own, and write to. that would get messy very quickly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "type": "message",
+        "text": "in gitkraken i can see that new folder and so far so good, i havent staged it - i can add it straight to git ignore",
+        "files": [
+            {
+                "id": "F025HEWMPAB",
+                "created": 1624453683,
+                "timestamp": 1624453683,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 369963,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025HEWMPAB\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025HEWMPAB\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 148,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 198,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 296,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 329,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 395,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025HEWMPAB-597526f75b\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 421,
+                "original_w": 2454,
+                "original_h": 1010,
+                "thumb_tiny": "AwATADCsevemFs+n50pPNMHUfWmA7OKNwoPemUAS4H0FKo5HXGaZg0q\/eH1oAKYOo+tPpg6j60gFbv8AWm05u\/1ptADqVfvD60lKv3h9aYH\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025HEWMPAB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025HEWMPAB-4a92f5455b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t6C1G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in gitkraken i can see that new folder and so far so good, i havent staged it - i can add it straight to git ignore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624453700.047600",
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "type": "message",
+        "text": "now ive pushed my gitignore it looks like this",
+        "files": [
+            {
+                "id": "F025V6768UD",
+                "created": 1624453763,
+                "timestamp": 1624453763,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 45765,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025V6768UD\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025V6768UD\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V6768UD-878777ed2f\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V6768UD-878777ed2f\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V6768UD-878777ed2f\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 251,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V6768UD-878777ed2f\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 335,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V6768UD-878777ed2f\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V6768UD-878777ed2f\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 502,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025V6768UD-878777ed2f\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 558,
+                "original_w": 940,
+                "original_h": 656,
+                "thumb_tiny": "AwAhADDTP0pM8Z2n6UH64po6\/fBoAdk\/3TSFuPumlAPrRigAHPbH1paTFGKAA0Z9qWkx7mgAyc9KM0Y9zRj3NABRS0UAFFFFABRRRQAUUUUAf\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025V6768UD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025V6768UD-b6c4de6d3f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6YwV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now ive pushed my gitignore it looks like this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624453777.048000",
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "6aedaf76-84fc-4089-aa95-22eb1afe58ee",
+        "type": "message",
+        "text": "i hope this makes sense!",
+        "user": "U021UNQGZC4",
+        "ts": "1624453782.048400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faqD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i hope this makes sense!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "010d380a-2827-4689-aa88-ba873f825089",
+        "type": "message",
+        "text": "yes, thanks!",
+        "user": "U021ZC6L676",
+        "ts": "1624453994.048600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "31461cac-d362-4007-906f-1ce55f3f9e66",
+        "type": "message",
+        "text": ":+1: happy to help",
+        "user": "U021UNQGZC4",
+        "ts": "1624454073.048800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " happy to help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624451798.034500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "847109a5-02a1-44d0-8d72-83939b0f9efd",
+        "type": "message",
+        "text": "<@U021UNQGZC4> - I used .loc for most of the questions in the first challenge. However, I remember you not being super excited about loc. I forgot about the  shortcomings. but would you say it’s a pandas function that is fair to use in this case. Or should I rather rethink my approach?",
+        "user": "U021ZC6JR28",
+        "ts": "1624456393.050600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/R+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I used .loc for most of the questions in the first challenge. However, I remember you not being super excited about loc. I forgot about the  shortcomings. but would you say it’s a pandas function that is fair to use in this case. Or should I rather rethink my approach?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624456393.050600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624456807.050700",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624456807.050700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9dea4126-dd1c-4321-a76e-9752acae7a83",
+        "type": "message",
+        "text": "loc works--- theres no real disadvantage for querying - but i would not use loc over iloc if the purpose was to select by position",
+        "user": "U021UNQGZC4",
+        "ts": "1624456807.050700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FSW0e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "loc works--- theres no real disadvantage for querying - but i would not use loc over iloc if the purpose was to select by position"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624456393.050600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "8e012600-63d2-4ca6-9174-94f7130efbba",
+        "type": "message",
+        "text": "Select all the customers from Spain.\n*Hint*: Remember that you are not asked to find orders from Spain but customers. A customer might have more than one order associated.",
+        "user": "U021ZC6L676",
+        "ts": "1624458972.051000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/kL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Select all the customers from Spain.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hint",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Remember that you are not asked to find orders from Spain but customers. A customer might have more than one order associated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458972.051000",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1624459671.054600",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021ZC6L676"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624459334.053400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624459367.053900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624459539.054200"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624459618.054400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624459671.054600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "310d146d-2763-4a6d-bf91-66689a020cf7",
+        "type": "message",
+        "text": "there is only one column about the location. how do we know is it a customer or a order location?",
+        "user": "U021ZC6L676",
+        "ts": "1624459005.051800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "inZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there is only one column about the location. how do we know is it a customer or a order location?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55c42223-52be-43f5-9d5e-374827bb2659",
+        "type": "message",
+        "text": "aa, ok. i misinterpreted :slightly_smiling_face:",
+        "user": "U021ZC6L676",
+        "ts": "1624459334.053300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n4qQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aa, ok. i misinterpreted "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c253dcb9-3270-442f-9aa9-4594cb0ab6b8",
+        "type": "message",
+        "text": "great question ! i dont think we have had any good example of this in class\nspanish_customers will be retried by querying the orders table, where country is spain (==) and the customerid is unique - similar to SQL discrete!",
+        "user": "U021UNQGZC4",
+        "ts": "1624459334.053400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great question ! i dont think we have had any good example of this in class\nspanish_customers will be retried by querying the orders table, where country is spain (==) and the customerid is unique - similar to SQL discrete!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458972.051000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "059834aa-6091-43c6-8864-9b6b91307eb5",
+        "type": "message",
+        "text": "<https:\/\/pandas.pydata.org\/docs\/reference\/api\/pandas.Series.unique.html>",
+        "user": "U021UNQGZC4",
+        "ts": "1624459367.053900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pandas.pydata.org\/docs\/reference\/api\/pandas.Series.unique.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458972.051000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "a3903561-6e43-4d60-8931-93b72f5603fc",
+        "type": "message",
+        "text": "In the 'orders' challenge, what does purchase price mean, is it amount or unitprice related?",
+        "user": "U021TDMEH27",
+        "ts": "1624459386.054100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "5e53fc88cd04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085183476640_5e53fc88cd04a1cf4cb8_72.jpg",
+            "first_name": "Ángela",
+            "real_name": "Ángela Sánchez",
+            "display_name": "Angela",
+            "team": "T021KE79B9B",
+            "name": "angela.s.ferriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N343I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the 'orders' challenge, what does purchase price mean, is it amount or unitprice related?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624459386.054100",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1624459773.055200",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624459712.054800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624459751.055000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624459773.055200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "817eb337-300c-4607-88f6-c70a76643975",
+        "type": "message",
+        "text": "something like\n```pd.Series(df[df[country]=='spain']customerid.unique())```\n",
+        "user": "U021UNQGZC4",
+        "ts": "1624459539.054200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hWd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "something like\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pd.Series(df[df[country]=='spain']customerid.unique())"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458972.051000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "0b19dc4d-510d-4282-aa7a-bcc13878b1cf",
+        "type": "message",
+        "text": "yes, i misunderstood the question :slightly_smiling_face:",
+        "user": "U021ZC6L676",
+        "ts": "1624459618.054400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gmD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, i misunderstood the question "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458972.051000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "c3402bbe-e5f1-4542-8fe9-ca986e7af8e4",
+        "type": "message",
+        "text": "or, you could create a new df from the orders table, and drop duplicates based on customerid ?\ndf = df.drop_duplicates(subset = ‘customer’, keep = ‘first’) and filter to spain",
+        "user": "U021UNQGZC4",
+        "ts": "1624459671.054600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or, you could create a new df from the orders table, and drop duplicates based on customerid ?\ndf = df.drop_duplicates(subset = ‘customer’, keep = ‘first’) and filter to spain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458972.051000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "c861080a-a97a-4ad6-a00c-224301edd4cf",
+        "type": "message",
+        "text": "price is amount_spent ?",
+        "user": "U021UNQGZC4",
+        "ts": "1624459712.054800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZAKI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "price is amount_spent ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624459386.054100",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "client_msg_id": "227b2e1b-236f-4324-9fc4-a947da3794af",
+        "type": "message",
+        "text": "or you can use unit price… up to you ! i would accept either",
+        "user": "U021UNQGZC4",
+        "ts": "1624459751.055000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i8UyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or you can use unit price… up to you ! i would accept either"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624459386.054100",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "client_msg_id": "b26fcc3a-bfdf-4e1c-892e-32f8281dd35d",
+        "type": "message",
+        "text": "sorry that was a useless answer :) just use either",
+        "user": "U021UNQGZC4",
+        "ts": "1624459773.055200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry that was a useless answer :) just use either"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624459386.054100",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "client_msg_id": "1ac4d124-ec68-4259-91fb-a5c9fa282151",
+        "type": "message",
+        "text": "I would like to know how to filter in a dataframe a column but with a condition of an other column without creating a new variable, is that possible to do? I'm not sure if I don't remember that lesson or what is it, but I'm checking lots of examples in goolge and none seems to fit",
+        "user": "U0225RHK6Q1",
+        "ts": "1624463692.057800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hoL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would like to know how to filter in a dataframe a column but with a condition of an other column without creating a new variable, is that possible to do? I'm not sure if I don't remember that lesson or what is it, but I'm checking lots of examples in goolge and none seems to fit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624463692.057800",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1624477687.059600",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RHK6Q1",
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624464759.058300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624464795.058500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624464933.058700"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1624465096.058900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624469245.059100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624469280.059300"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1624477687.059600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f68a43be-144a-4286-b338-f34d698e7a4c",
+        "type": "message",
+        "text": "if i am following correctly, there are a few ways to do that - the easiest might be\ndf.query(‘country==“Spain” &amp; year==2018’)",
+        "user": "U021UNQGZC4",
+        "ts": "1624464759.058300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aIeB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if i am following correctly, there are a few ways to do that - the easiest might be\ndf.query(‘country==“Spain” & year==2018’)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624463692.057800",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "36183fc8-0b33-42ea-bd8f-a4a748af4108",
+        "type": "message",
+        "text": "is this the type of double condition you mean ? you can also provide the question you are trying to answer so i can specifically help",
+        "user": "U021UNQGZC4",
+        "ts": "1624464795.058500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7NiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is this the type of double condition you mean ? you can also provide the question you are trying to answer so i can specifically help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624463692.057800",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "7a50502a-4f30-4bb6-9e44-b3a0cf07b2e0",
+        "type": "message",
+        "text": "also, we can help you tomorrow if you are stuck today !",
+        "user": "U021UNQGZC4",
+        "ts": "1624464933.058700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ffX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, we can help you tomorrow if you are stuck today !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624463692.057800",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "32d7b11e-e55f-46df-9e97-46144528b084",
+        "type": "message",
+        "text": "oh thanks Sian! yes the conditions are any city with temperature &gt; 15, i have problems with that \"any city\"",
+        "user": "U0225RHK6Q1",
+        "ts": "1624465096.058900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ma6W1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh thanks Sian! yes the conditions are any city with temperature > 15, i have problems with that \"any city\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624463692.057800",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "5295222e-3f06-45bf-8573-af0cf74df9da",
+        "type": "message",
+        "text": "simple subsetting with a condition (generates you a boolean column as a \"stencil\") and then just addressing the city column of that filtered dataframe also works\n`df[df[\"Temperature\"] &gt; 15][\"city\"]`",
+        "user": "U021WEXHN4E",
+        "ts": "1624469245.059100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3=7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "simple subsetting with a condition (generates you a boolean column as a \"stencil\") and then just addressing the city column of that filtered dataframe also works\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "df[df[\"Temperature\"] > 15][\"city\"]",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624463692.057800",
+        "parent_user_id": "U0225RHK6Q1",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b65719aa-9905-4808-81d8-5d8ccdbee692",
+        "type": "message",
+        "text": "if you want, you can then do a unique() on that column to get the unique cities",
+        "user": "U021WEXHN4E",
+        "ts": "1624469280.059300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0yLV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you want, you can then do a unique() on that column to get the unique cities"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624463692.057800",
+        "parent_user_id": "U0225RHK6Q1",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b28c7ddc-4f8a-4373-a651-a6a0fbe05f39",
+        "type": "message",
+        "text": "Thank you Flo!!",
+        "user": "U0225RHK6Q1",
+        "ts": "1624477687.059600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxKUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Flo!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624463692.057800",
+        "parent_user_id": "U0225RHK6Q1"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "9218e50f-5933-4927-8f63-d64a7bf7e3c0",
+        "type": "message",
+        "text": "<!channel>,\nall :zoom: recordings of this week are on <https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1|Notion>. Enjoy your weekend and have some rest!",
+        "user": "U021WEXHN4E",
+        "ts": "1623487101.001300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Classroom Recordings- May2Jul",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Classroom Recordings- May2Jul",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s\/Qns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nall "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zoom"
+                            },
+                            {
+                                "type": "text",
+                                "text": " recordings of this week are on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1",
+                                "text": "Notion"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Enjoy your weekend and have some rest!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d7904ef-c81c-4b91-9536-a61fe332964f",
+        "type": "message",
+        "text": "Thanks a lot Flo, have a nice weekend",
+        "user": "U021CE3UWPR",
+        "ts": "1623488021.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jxfd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks a lot Flo, have a nice weekend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

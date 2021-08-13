@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "text": "this is rather brilliant. Use the Acronym LINEAR to remember the conditions that must be fulfilled for inference in linear regression. taken from the khanacademy course on statistics: <https:\/\/www.khanacademy.org\/math\/ap-statistics|https:\/\/www.khanacademy.org\/math\/ap-statistics>",
+        "files": [
+            {
+                "id": "F026R512D6J",
+                "created": 1625231943,
+                "timestamp": 1625231943,
+                "name": "E5SXawsWQAIB9IJ.jpeg",
+                "title": "E5SXawsWQAIB9IJ.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 83081,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026R512D6J\/e5sxawswqaib9ij.jpeg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026R512D6J\/download\/e5sxawswqaib9ij.jpeg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 191,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 255,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_720.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 383,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_800.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 425,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_960.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 510,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026R512D6J-3eb94bbfd2\/e5sxawswqaib9ij_1024.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 544,
+                "original_w": 2032,
+                "original_h": 1080,
+                "thumb_tiny": "AwAZADDOGAoyM0mNx4FOA3AZOAKQk4wAcUAAC85z7UgGV989aBknBzSjA9aAE+X3obGflzj3p3B4zmmsMHFACdKMmiigBVPzDNBpKKAFBwc4oJ9KSigD\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F026R512D6J\/e5sxawswqaib9ij.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026R512D6J-4102e44cd7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQQx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is rather brilliant. Use the Acronym LINEAR to remember the conditions that must be fulfilled for inference in linear regression. taken from the khanacademy course on statistics: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.khanacademy.org\/math\/ap-statistics",
+                                "text": "https:\/\/www.khanacademy.org\/math\/ap-statistics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1625232158.003900",
+        "client_msg_id": "d30e1399-913e-45a8-932e-8822033c9250",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U0225RJ6SNM",
+                    "U021UNQGZC4",
+                    "U021NHS652N",
+                    "U0225RHK6Q1"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

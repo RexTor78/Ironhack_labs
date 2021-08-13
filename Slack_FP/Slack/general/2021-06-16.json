@@ -1,0 +1,607 @@
+[
+    {
+        "type": "message",
+        "text": "Hi guys sorry I can't access slack and zoom properly\nMy power died last night!!!\nI'm currently waiting for a computer shop to open since 9 to buy a new psu asap",
+        "user": "U021TDMHF5H",
+        "ts": "1623830833.010400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1623830833.010400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623841182.011300",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623841182.011300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<@U021ZC6H9GC> and anyone else who might have missed something",
+        "files": [
+            {
+                "id": "F025X45EGJU",
+                "created": 1623836110,
+                "timestamp": 1623836110,
+                "name": "16 jun sql lesson.sql",
+                "title": "16 jun sql lesson.sql",
+                "mimetype": "text\/plain",
+                "filetype": "sql",
+                "pretty_type": "SQL",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 3687,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025X45EGJU\/16_jun_sql_lesson.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025X45EGJU\/download\/16_jun_sql_lesson.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025X45EGJU\/16_jun_sql_lesson.sql",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025X45EGJU-7c5c34dfb4",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025X45EGJU\/16_jun_sql_lesson.sql\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wnch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6H9GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and anyone else who might have missed something"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623836121.010800"
+    },
+    {
+        "client_msg_id": "e15a5f94-3ce7-4fd6-8c57-f4f83f9fb5fa",
+        "type": "message",
+        "text": "let me know if anything isnt clear!",
+        "user": "U021UNQGZC4",
+        "ts": "1623836129.011200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "un4U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let me know if anything isnt clear!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32d292fa-c727-498e-a975-7897705fbebc",
+        "type": "message",
+        "text": "hi arya i saw your message on the zoom but then you left - this is the TA email in case you need it sometime <mailto:ta-data-ber@ironhack.com|ta-data-ber@ironhack.com>",
+        "user": "U021UNQGZC4",
+        "ts": "1623841182.011300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJy=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi arya i saw your message on the zoom but then you left - this is the TA email in case you need it sometime "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:ta-data-ber@ironhack.com",
+                                "text": "ta-data-ber@ironhack.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623830833.010400",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "d2df4dbf-2758-43cf-b4c2-2e1cea2be9a1",
+        "type": "message",
+        "text": "this is the text editor i mentioned earlier <https:\/\/pcmacstore.com\/en\/app\/1477419086\/moped-text-editor>",
+        "user": "U021UNQGZC4",
+        "ts": "1623841358.011700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Pcmacstore.com",
+                "title": "Moped Text Editor for Windows Pc &amp; Mac: Free Download (2021) - Pcmacstore.com",
+                "title_link": "https:\/\/pcmacstore.com\/en\/app\/1477419086\/moped-text-editor",
+                "text": "Moped Text Editor Download and Install for your computer - on Windows PC 10, Windows 8 or Windows 7 and Macintosh macOS 10 X, Mac 11 and above, 32\/64-bit processor, we have you covered",
+                "fallback": "Pcmacstore.com: Moped Text Editor for Windows Pc &amp; Mac: Free Download (2021) - Pcmacstore.com",
+                "from_url": "https:\/\/pcmacstore.com\/en\/app\/1477419086\/moped-text-editor",
+                "thumb_url": "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Purple114\/v4\/77\/c4\/b0\/77c4b09b-e6dd-3361-cf4d-7e55077e4ca5\/source\/100x100bb.png",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "service_icon": "https:\/\/pcmacstore.com\/public\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/pcmacstore.com\/en\/app\/1477419086\/moped-text-editor"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jnas7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is the text editor i mentioned earlier "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pcmacstore.com\/en\/app\/1477419086\/moped-text-editor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "224a29d9-804f-4588-899a-3625e3e46fe7",
+        "type": "message",
+        "text": "(i am not a share holder i just think its a useful tool)",
+        "user": "U021UNQGZC4",
+        "ts": "1623841381.012300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trtnM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(i am not a share holder i just think its a useful tool)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dac199fc-28e6-4a88-9fa4-600f539f222e",
+        "type": "message",
+        "text": "and if youre using chrome, this extension is awesome <https:\/\/chrome.google.com\/webstore\/detail\/grepper\/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en>",
+        "user": "U021UNQGZC4",
+        "ts": "1623841463.012600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Grepper",
+                "title_link": "https:\/\/chrome.google.com\/webstore\/detail\/grepper\/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en",
+                "text": "The Query &amp; Answer System for the Coder Community",
+                "fallback": "Grepper",
+                "from_url": "https:\/\/chrome.google.com\/webstore\/detail\/grepper\/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en",
+                "thumb_url": "https:\/\/lh3.googleusercontent.com\/dxnnhpmh0AsWudCrYLj6ItcxU6tb63SFxjgbeckmKn9v8RNshBIx_0Uc0JxTuSJv-PNSss7WpUAt0pQfLDdyNxf3oQ",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/www.google.com\/images\/icons\/product\/chrome_web_store-32.png",
+                "service_name": "chrome.google.com",
+                "id": 1,
+                "original_url": "https:\/\/chrome.google.com\/webstore\/detail\/grepper\/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Asn5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and if youre using chrome, this extension is awesome "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chrome.google.com\/webstore\/detail\/grepper\/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0dfb6bca-245e-440f-adf5-4bc39de59b2f",
+        "type": "message",
+        "text": "the rest of your day looks like this <!channel>\n• 2pm meet in the main zoom room - I have a short announcement about the career hack, then the TAs will set you up for todays labs - sql grouping (required), sql join (optional)\n• 5pm be back in the main zoom room to hear about your conceptual erd project and form your group (1-4 students per group)\nas it is :hot_pepper:  remember to take plenty of breaks this afternoon for:potable_water: or :watermelon: and to get away from the personal :fire: that is your laptop",
+        "user": "U021UNQGZC4",
+        "ts": "1623842409.016800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QdC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the rest of your day looks like this "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2pm meet in the main zoom room - I have a short announcement about the career hack, then the TAs will set you up for todays labs - sql grouping (required), sql join (optional)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5pm be back in the main zoom room to hear about your conceptual erd project and form your group (1-4 students per group)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as it is "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_pepper"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  remember to take plenty of breaks this afternoon for"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "potable_water"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "watermelon"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and to get away from the personal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that is your laptop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021ZC6H9GC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de92689f-32e2-4560-96f4-58714b8dd177",
+        "type": "message",
+        "text": "Could you send the updated sql lesson please ?",
+        "user": "U021TDN4RAP",
+        "ts": "1623849491.017600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could you send the updated sql lesson please ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623849491.017600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1623857524.018100",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021TDN4RAP"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623856680.017700"
+            },
+            {
+                "user": "U021TDN4RAP",
+                "ts": "1623857524.018100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "sure! not much added in though",
+        "files": [
+            {
+                "id": "F025MB1RAG1",
+                "created": 1623856665,
+                "timestamp": 1623856665,
+                "name": "16 jun sql lesson.sql",
+                "title": "16 jun sql lesson.sql",
+                "mimetype": "text\/plain",
+                "filetype": "sql",
+                "pretty_type": "SQL",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 4717,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025MB1RAG1\/16_jun_sql_lesson.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025MB1RAG1\/download\/16_jun_sql_lesson.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025MB1RAG1\/16_jun_sql_lesson.sql",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025MB1RAG1-120fc1cd1e",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025MB1RAG1\/16_jun_sql_lesson.sql\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IgHhD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure! not much added in though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623856680.017700",
+        "thread_ts": "1623849491.017600",
+        "parent_user_id": "U021TDN4RAP"
+    },
+    {
+        "client_msg_id": "9e4b60dd-41e1-4743-bcb5-5cfabba7cb62",
+        "type": "message",
+        "text": "Thank you! I was missing the having statements.",
+        "user": "U021TDN4RAP",
+        "ts": "1623857524.018100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5TdTU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! I was missing the having statements."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623849491.017600",
+        "parent_user_id": "U021TDN4RAP"
+    }
+]

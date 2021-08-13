@@ -1,0 +1,134 @@
+[
+    {
+        "type": "message",
+        "text": "a bit of a dirty workaround but works for the Mumbling one",
+        "files": [
+            {
+                "id": "F0286K1K9A9",
+                "created": 1626421222,
+                "timestamp": 1626421222,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6JR28",
+                "editable": false,
+                "size": 82966,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0286K1K9A9\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0286K1K9A9\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 151,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 202,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 303,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 336,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 404,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0286K1K9A9-27fcf5c6dd\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 431,
+                "original_w": 1574,
+                "original_h": 662,
+                "thumb_tiny": "AwAUADCjnPWkz\/nFHelzQAmaMmk\/KigBdxo3GkooAdtFG0UtFACbRRtFLRQAm0UbRS0UAf\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6JR28\/F0286K1K9A9\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0286K1K9A9-f74d207adf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LV9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a bit of a dirty workaround but works for the Mumbling one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021ZC6JR28",
+        "display_as_bot": false,
+        "ts": "1626421238.000600",
+        "thread_ts": "1626421238.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1626421603.000900",
+        "reply_users": [
+            "U0225RGM941"
+        ],
+        "replies": [
+            {
+                "user": "U0225RGM941",
+                "ts": "1626421603.000900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b9c237ad-7d62-48ff-b174-18a709282bf8",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U0225RGM941",
+        "ts": "1626421603.000900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pB1SE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626421238.000600",
+        "parent_user_id": "U021ZC6JR28"
+    }
+]

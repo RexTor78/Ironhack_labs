@@ -1,0 +1,1424 @@
+[
+    {
+        "client_msg_id": "6a384bd1-f0a4-414a-880f-3da76b127dfe",
+        "type": "message",
+        "text": "thanks Sian for the feedback! :pray:",
+        "user": "U021ZC6H9GC",
+        "ts": "1623673315.005600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z0toZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks Sian for the feedback! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623426333.011500",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "7ba5c4f4-9dfd-4e08-ad36-0f6969bb393a",
+        "type": "message",
+        "text": "seems like very comprehensive data and a really nice layout on your dashboard <@U021ZC6L676>! do be careful with re-using one colour to mean different things as there could be a misinterpretation they are related.  we have orange and red being reused to signify urban, stations, traffic and the west part of germany. i think you could pay more attention to your use of text int the labels on the map, axis, pie charts - theres a lot of text on here, which could be cleaned up without detracting from the message. one simple thing to enhance the impact of the viz is to avoid cognitive overload : save your text for an eye catching heading, embed a question in the heading and think about the order in which someone will explore the dashboard - if you make it intuitive (like drill down from bar chart 1 to barchart 2) then you dont need so much supporting text",
+        "user": "U021UNQGZC4",
+        "ts": "1623678548.005800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbAdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "seems like very comprehensive data and a really nice layout on your dashboard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6L676"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! do be careful with re-using one colour to mean different things as there could be a misinterpretation they are related.  we have orange and red being reused to signify urban, stations, traffic and the west part of germany. i think you could pay more attention to your use of text int the labels on the map, axis, pie charts - theres a lot of text on here, which could be cleaned up without detracting from the message. one simple thing to enhance the impact of the viz is to avoid cognitive overload : save your text for an eye catching heading, embed a question in the heading and think about the order in which someone will explore the dashboard - if you make it intuitive (like drill down from bar chart 1 to barchart 2) then you dont need so much supporting text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623423835.008400",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "c5a7f40f-27f2-4c48-8636-6accd6e869bf",
+        "type": "message",
+        "text": "wow lots in here Julia! I like the 6 card layout, but i wonder if you could have picked a less diverse colour scheme..? and the overall look is quite busy  to my eyes, with a lot to read and make sense of. a couple of suggestions - can you switch the bar charts around upper right, so the labels read horizontally ? could you make all the charts grey but pick out spain on each one? that could be very interesting - then it would hang together a bit more into one story. maybe have one dashboard heading too?\nthe other thing is to reorder the rows in the circle chart - im not sure i completely understand what the chart is showing me but i notice that the labels for &lt;10 and &lt;15 are in the wrong order",
+        "user": "U021UNQGZC4",
+        "ts": "1623678809.006000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1623678891.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Iu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wow lots in here Julia! I like the 6 card layout, but i wonder if you could have picked a less diverse colour scheme..? and the overall look is quite busy  to my eyes, with a lot to read and make sense of. a couple of suggestions - can you switch the bar charts around upper right, so the labels read horizontally ? could you make all the charts grey but pick out spain on each one? that could be very interesting - then it would hang together a bit more into one story. maybe have one dashboard heading too?\nthe other thing is to reorder the rows in the circle chart - im not sure i completely understand what the chart is showing me but i notice that the labels for <10 and <15 are in the wrong order"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623496293.000100",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F024S0LCJLE",
+                "created": 1623678893,
+                "timestamp": 1623678893,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 44152,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024S0LCJLE\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024S0LCJLE\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024S0LCJLE-ed59109a81\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024S0LCJLE-ed59109a81\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024S0LCJLE-ed59109a81\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 287,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024S0LCJLE-ed59109a81\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 333,
+                "original_h": 417,
+                "thumb_tiny": "AwAwACa+vAJGMmnDJ6k9KbngjNSUhjG6gE9fekycfeHTPWnnqKMjHXtTAa5C4zk0zenofzp0qlgMVF5belIaSJgOTk07IpDgdRn3oGSAePypkiMqMRkfrSeVHjGP1pTnPQdM9KXn0H5UDuxTjAHSk4\/vCkc4HzHH4U3ev979KBDmwM9Pzp9MKknk0+gBMUtH40mD6mgCOfoPrUGD6VcIzTdvvQO5\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F024S0LCJLE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024S0LCJLE-6c57d2a364",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623678894.006300",
+        "thread_ts": "1623496293.000100",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "62ed9cc5-81f4-4534-be66-aba95b4f0345",
+        "type": "message",
+        "text": "hi Sathiya, looks like a nice data source that you found! your dashboard feels a little bit hectic because of the charts being very busy and colourful, also all different colours, lots of labels and spiky lines, so its cognitively overwhelming and its hard to follow a story in there. can you add a single heading, perhaps a question, which stands as the dashboard header and ties everything together?. can you try using a single colour scheme of complementary colours? what about picking just two charts and seeing what could be done with those, or selecting and focusing on one pollutant at a time?\n i do like your charts! all beautifully done singularly, this just needs some thinking about as far as dashboarding is concerned to tie it all together without overwhelming us",
+        "user": "U021UNQGZC4",
+        "ts": "1623679124.006700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4fc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi Sathiya, looks like a nice data source that you found! your dashboard feels a little bit hectic because of the charts being very busy and colourful, also all different colours, lots of labels and spiky lines, so its cognitively overwhelming and its hard to follow a story in there. can you add a single heading, perhaps a question, which stands as the dashboard header and ties everything together?. can you try using a single colour scheme of complementary colours? what about picking just two charts and seeing what could be done with those, or selecting and focusing on one pollutant at a time?\n i do like your charts! all beautifully done singularly, this just needs some thinking about as far as dashboarding is concerned to tie it all together without overwhelming us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623509643.003000",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "b40e8312-e854-4ea5-81f5-0485d0e76f66",
+        "type": "message",
+        "text": "hi Majed-- is this a good news story, i see, or only partial data collected for 2016? i like the layout and the background, the labels and map is pretty clear too- be careful when using colours, that it is consistent - we have a red for ny city levels and a pink for CA overall which is visually inconsistent. maybe choose to focus on either states or cities?",
+        "user": "U021UNQGZC4",
+        "ts": "1623679285.006900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6lk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi Majed-- is this a good news story, i see, or only partial data collected for 2016? i like the layout and the background, the labels and map is pretty clear too- be careful when using colours, that it is consistent - we have a red for ny city levels and a pink for CA overall which is visually inconsistent. maybe choose to focus on either states or cities?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623589898.001600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "b531c551-9922-47f1-98cc-b4a9a9adced1",
+        "type": "message",
+        "text": "really nice job hector! i like that the colours match across the bar chart and the pie chart",
+        "user": "U021UNQGZC4",
+        "ts": "1623680372.007100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "really nice job hector! i like that the colours match across the bar chart and the pie chart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623593447.002400",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "7e538e56-22c6-42c9-b444-b627cfe02d14",
+        "type": "message",
+        "text": "i would be inclined to perhaps not include the map, as its visually distracting (maybe a scatter instead, which would have a smaller profile) -and to consider reducing the number of countries to only the top 10 --- this would make better use of your space and things could line up better - you have a lot of grey space in the middle of the dashboard! What about a bigger, bolder title ? i think the green font gets kind of lost in here",
+        "user": "U021UNQGZC4",
+        "ts": "1623683392.007300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d07",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i would be inclined to perhaps not include the map, as its visually distracting (maybe a scatter instead, which would have a smaller profile) -and to consider reducing the number of countries to only the top 10 --- this would make better use of your space and things could line up better - you have a lot of grey space in the middle of the dashboard! What about a bigger, bolder title ? i think the green font gets kind of lost in here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623593447.002400",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "9414d173-f560-4146-86f9-37e6fa27b85c",
+        "type": "message",
+        "text": "ooh interesting, cool to see a non european city in here - and holy cow, what happened in 2013!\nI am glad that you decided to focus on NO2 only, as this is easier to interpret than some of the others I have seen. the map is also nice and clean. I do wonder if something could be done to make better use of space ? it seems to me that you could almost overlay your map on the line chart because theres room in the ocean for the sudden 2013+ rise, and then as the scatter plot is asking a separate question, that could be an accompanying chart, offset.\nbe careful with inadvertent colour associations - i confused your map colours with the line chart colours, before realising it was a theme choice - the better thing to do would be only colour residential and rural in that dark brown, (as its the stand out worst line), fade the others to grey to match the map, and repeat the colour scale on the scatter plot.",
+        "user": "U021UNQGZC4",
+        "ts": "1623683706.007500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ooh interesting, cool to see a non european city in here - and holy cow, what happened in 2013!\nI am glad that you decided to focus on NO2 only, as this is easier to interpret than some of the others I have seen. the map is also nice and clean. I do wonder if something could be done to make better use of space ? it seems to me that you could almost overlay your map on the line chart because theres room in the ocean for the sudden 2013+ rise, and then as the scatter plot is asking a separate question, that could be an accompanying chart, offset.\nbe careful with inadvertent colour associations - i confused your map colours with the line chart colours, before realising it was a theme choice - the better thing to do would be only colour residential and rural in that dark brown, (as its the stand out worst line), fade the others to grey to match the map, and repeat the colour scale on the scatter plot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623620826.002800",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "39164029-649d-4536-bfa4-f43182b82706",
+        "type": "message",
+        "text": "Anna! nice use of the colours orange, blue and teal across the bar and pie chart, so they match, and a stacked bar gets the message across well. I wonder if the pie chart is needed though - it sort of reinforces what we see in the bar chart and without the pie chart, the map would have more room and you could do a nice big overall title.\n• I guess this makes more sense in the interactive version, because i think I would select a province and then see the monitoring stations highlighted, is that right? in screenshot form it doesnt quite work visually, as i lose any sense of perspective. see how you feel about hiding the bar chart axis and relying on the tooltips for the values, i think it would be cleaner, also drop the grid lines",
+        "user": "U021UNQGZC4",
+        "ts": "1623683956.007700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B+27",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anna! nice use of the colours orange, blue and teal across the bar and pie chart, so they match, and a stacked bar gets the message across well. I wonder if the pie chart is needed though - it sort of reinforces what we see in the bar chart and without the pie chart, the map would have more room and you could do a nice big overall title.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I guess this makes more sense in the interactive version, because i think I would select a province and then see the monitoring stations highlighted, is that right? in screenshot form it doesnt quite work visually, as i lose any sense of perspective. see how you feel about hiding the bar chart axis and relying on the tooltips for the values, i think it would be cleaner, also drop the grid lines"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623624319.003600",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "3376743b-c892-4a5c-a940-6b44ddef58ae",
+        "type": "message",
+        "text": "Great. I feel like theres a really useful story here hiding in the donut chart centre - how many days over acceptable levels it has been. does that filter from the map ?\nfor me the pie of your donut just has too many sections\/ colours, and the colours of the provinces arent reflected in the colours on the map which is confusing. using a donut the span of the bar charts means a lot of wasted space around it, what about putting this information either on a tooltip or as a simple KPI number?\n  you could also clean up your map a bit - do we need to see the country names?\nI do like the minimal use of colours, min max, on the bar charts, and the red green scale on the map, i just think its the pie chart throwing your visual efforts away !",
+        "user": "U021UNQGZC4",
+        "ts": "1623684294.007900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great. I feel like theres a really useful story here hiding in the donut chart centre - how many days over acceptable levels it has been. does that filter from the map ?\nfor me the pie of your donut just has too many sections\/ colours, and the colours of the provinces arent reflected in the colours on the map which is confusing. using a donut the span of the bar charts means a lot of wasted space around it, what about putting this information either on a tooltip or as a simple KPI number?\n  you could also clean up your map a bit - do we need to see the country names?\nI do like the minimal use of colours, min max, on the bar charts, and the red green scale on the map, i just think its the pie chart throwing your visual efforts away !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652600.003900",
+        "parent_user_id": "U021Q54K3B7",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a865c6af-668a-4047-b74c-0daf22faf608",
+        "type": "message",
+        "text": "Thanks for the feedback Sian! So, regarding what happened in 2003, i wanted to actually try to understand that and visualise it using the rest of the data so that the dashboard could explain a story, but unfortunately i didn’t find anything in the data that could explain that behaviour.. maybe changes in regulation?\nNoted on the colour, they were chosen to keep the theme consistent like you mention although i completely understand how they can create confusion when looking at the other graphs.\nFinally, the correlation between No2 and So2 was quite off topic. After not being able to find an explanation for the dramatic increase in No2 pollution and not wanting to repeat graphics to cover So2 solely i decided to add it although i was never convinced!\nFinding a good data set proved to be quite hard",
+        "user": "U021Q53LBPX",
+        "ts": "1623684614.008200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021Q53LBPX",
+            "ts": "1623684823.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the feedback Sian! So, regarding what happened in 2003, i wanted to actually try to understand that and visualise it using the rest of the data so that the dashboard could explain a story, but unfortunately i didn’t find anything in the data that could explain that behaviour.. maybe changes in regulation?\nNoted on the colour, they were chosen to keep the theme consistent like you mention although i completely understand how they can create confusion when looking at the other graphs.\nFinally, the correlation between No2 and So2 was quite off topic. After not being able to find an explanation for the dramatic increase in No2 pollution and not wanting to repeat graphics to cover So2 solely i decided to add it although i was never convinced!\nFinding a good data set proved to be quite hard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623620826.002800",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "51e8be7a-ea18-46c6-97c0-2cf026ddcbec",
+        "type": "message",
+        "text": "thank you Sian for the feedback :relaxed::pray:",
+        "user": "U021Q54K3B7",
+        "ts": "1623684618.008400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3G=K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you Sian for the feedback "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652600.003900",
+        "parent_user_id": "U021Q54K3B7"
+    },
+    {
+        "client_msg_id": "86069C59-C105-4D9C-AEA4-838621CC90DA",
+        "type": "message",
+        "text": "Yess it is an interative version, so the screenshot looks weird. When u click on a province at the map, you got all of the the monitoring stations in this province (bar chart) and, in the pie you see that the proportion changes depending on which province you choose",
+        "user": "U021TDMLNTD",
+        "ts": "1623684993.012500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MMS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yess it is an interative version, so the screenshot looks weird. When u click on a province at the map, you got all of the the monitoring stations in this province (bar chart) and, in the pie you see that the proportion changes depending on which province you choose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623624319.003600",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "DE05D9E4-C00C-448C-A198-D2A44761AB73",
+        "type": "message",
+        "text": "Great Sian, I will take your tips and improve it  :)",
+        "user": "U021TDMLNTD",
+        "ts": "1623685076.013400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nexx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great Sian, I will take your tips and improve it  :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623624319.003600",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "99860C87-D729-4EDE-8835-481E27D0672B",
+        "type": "message",
+        "text": "Thanks",
+        "user": "U021TDMLNTD",
+        "ts": "1623685080.013700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V0iw4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623624319.003600",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F024SL9UBK8",
+                "created": 1623686592,
+                "timestamp": 1623686592,
+                "name": "AQI Berlin.png",
+                "title": "AQI Berlin.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RGM941",
+                "editable": false,
+                "size": 123815,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024SL9UBK8\/aqi_berlin.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024SL9UBK8\/download\/aqi_berlin.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 197,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 263,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 394,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 438,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 526,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SL9UBK8-4767d662f5\/aqi_berlin_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 561,
+                "original_w": 1643,
+                "original_h": 900,
+                "thumb_tiny": "AwAaADDSY4UmofPO8jHAHNPeIMeScZzj3pvkDJOTyMdaBjftA2MxXpnFBmw6gLgHr+tKbddpXJxz3pfIBYHJ496QaCrcKd2QRino4dAw6H1qPyAM8nn3o+zqVCknAoDQlyM9qMD2oxSYGelMQHaPSlwKMD0pMUALx7UYFIAPSggelAH\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RGM941\/F024SL9UBK8\/aqi_berlin.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024SL9UBK8-9b9027d47b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0225RGM941",
+        "display_as_bot": false,
+        "ts": "1623686608.013900",
+        "thread_ts": "1623509643.003000",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "e009e77c-14b8-4fa9-91ee-6437b4e6b8ec",
+        "type": "message",
+        "text": "Hi Sian, I made some changes as you said. Please let me know if there are more changes to do.",
+        "user": "U0225RGM941",
+        "ts": "1623686868.014300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jz+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sian, I made some changes as you said. Please let me know if there are more changes to do."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623509643.003000",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "7f81585e-cdb2-4662-8aa0-061e007668ab",
+        "type": "message",
+        "text": "oh much cleaner! well done Sathiya, this is much easier to make sense of",
+        "user": "U021UNQGZC4",
+        "ts": "1623689305.014500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yQ4A8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh much cleaner! well done Sathiya, this is much easier to make sense of"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623509643.003000",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "99EE26DB-DDAA-4206-8A8B-1A4512D204C0",
+        "type": "message",
+        "text": "Thank you Sian ",
+        "user": "U0225RGM941",
+        "ts": "1623689361.015000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2h6eO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Sian "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623509643.003000",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "b8e411e4-bc3d-4da9-8a46-b9b4d632ca34",
+        "type": "message",
+        "text": "yes its a hard thing to find sufficient data on - thanks for the explanation about 2003!",
+        "user": "U021UNQGZC4",
+        "ts": "1623691640.015200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VjTNU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes its a hard thing to find sufficient data on - thanks for the explanation about 2003!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623620826.002800",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "867c525c-f741-48df-921e-a6cfd5556327",
+        "type": "message",
+        "text": "<@U0225RJ3Z4H> i like what youve done with the limited data you have - its clear that people living in the borough of westminster are having too much exposure, and good choice of colour scheme. thats for the bar chart… the line chart kind of confuses me though, because there are lines drawn between boroughs which is misleading and i dont get what the axis means (whats 100k - no of people, no of days?\nprobably you didnt want to do another bar chart here, but as a better chart choice, can i suggest pick the two age groups (or better keep children separate but join adults and seniors in one group) and create a scatter, which could be plotted to the right side of the bar, working with a hover highlighter action would show how many children and adults in that borough have been impacted by air pollution - give it a try!",
+        "user": "U021UNQGZC4",
+        "ts": "1623692283.015700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ3Z4H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i like what youve done with the limited data you have - its clear that people living in the borough of westminster are having too much exposure, and good choice of colour scheme. thats for the bar chart… the line chart kind of confuses me though, because there are lines drawn between boroughs which is misleading and i dont get what the axis means (whats 100k - no of people, no of days?\nprobably you didnt want to do another bar chart here, but as a better chart choice, can i suggest pick the two age groups (or better keep children separate but join adults and seniors in one group) and create a scatter, which could be plotted to the right side of the bar, working with a hover highlighter action would show how many children and adults in that borough have been impacted by air pollution - give it a try!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623416709.002800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "AD378B86-FC81-49FA-9536-B83A7168A2BE",
+        "type": "message",
+        "text": "<@U021UNQGZC4> Ok thanks Sian I will try it out!!! ",
+        "user": "U0225RJ3Z4H",
+        "ts": "1623692437.016400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hYwGQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ok thanks Sian I will try it out!!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623416709.002800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "e6191a70-0049-45b6-94a9-d8c43672e157",
+        "type": "message",
+        "text": "<@U021ZC6JR28> a good start, needs a little more development i would say, but nice to have the pop up instructions on the ? and it looks as though your map and pie chart line up well in terms of colour. not sure about the bar chart - lots of white space, maybe have a think about how you can redesign so as not to have a scroll bar - what about worst polluted cities (per region of germany) on a word cloud ?\n-also it looks like you did the task but didnt submit the url on the student portal, please add it when you get the chance !",
+        "user": "U021UNQGZC4",
+        "ts": "1623692504.016600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1623692537.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ql3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6JR28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a good start, needs a little more development i would say, but nice to have the pop up instructions on the ? and it looks as though your map and pie chart line up well in terms of colour. not sure about the bar chart - lots of white space, maybe have a think about how you can redesign so as not to have a scroll bar - what about worst polluted cities (per region of germany) on a word cloud ?\n-also it looks like you did the task but didnt submit the url on the student portal, please add it when you get the chance !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623416709.002800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "99391e7c-3319-4e08-89fb-91239c6a12ed",
+        "type": "message",
+        "text": "<@U021TDN4RAP> I am a bit surprised by california, whats going on there?! the bubble chart really makes it stand out!\n I like the us flag, for a bit of a visual, but its quite overpowering- i wonder if you could integrate it into your background instead? I think the map requires a bit of attention, because the blue blobs blend into eachother and i can see one big label for san antonio, unexpectedly. try adjusting your opacity for the marks, and play with colours \/border to get a better affect - you may also just want to gíve the map more real estate. I like the big bold title but in terms of other text, you could have a clean up easily  - the chart titles, axis labels - consider if they are needed and if theres a better way to display those. its helpful to see those air pollutant trend lines heading down though, maybe theres a story in there you could bring out more?",
+        "user": "U021UNQGZC4",
+        "ts": "1623692844.017100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1623692902.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rkA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDN4RAP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am a bit surprised by california, whats going on there?! the bubble chart really makes it stand out!\n I like the us flag, for a bit of a visual, but its quite overpowering- i wonder if you could integrate it into your background instead? I think the map requires a bit of attention, because the blue blobs blend into eachother and i can see one big label for san antonio, unexpectedly. try adjusting your opacity for the marks, and play with colours \/border to get a better affect - you may also just want to gíve the map more real estate. I like the big bold title but in terms of other text, you could have a clean up easily  - the chart titles, axis labels - consider if they are needed and if theres a better way to display those. its helpful to see those air pollutant trend lines heading down though, maybe theres a story in there you could bring out more?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623416709.002800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "b4b4a459-35d0-4dfc-96ab-4d75fffd3b06",
+        "type": "message",
+        "text": "<@U021T7DU0BC> this looks like youve already put some thought into the user experience of interacting with the viz - well done! i wonder if the borough drop down is not needed because you have the map (which could be interactive) and the bar chart - could you play with actions and see if you could do without it? nice consistent colour scheme on the map and bar chart, nice clean map. Although i do love a donut it feels a little isolated here… what about using icons for child, adult, elderly people, and varying their size depending on the proportion affected per borough? my other idea would be switch to floating mode to see if you can get the donut a bit tighter with the map. im also not convinced about the blue…. try a grey palette and see how that looks !",
+        "user": "U021UNQGZC4",
+        "ts": "1623693192.017500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PLx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021T7DU0BC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this looks like youve already put some thought into the user experience of interacting with the viz - well done! i wonder if the borough drop down is not needed because you have the map (which could be interactive) and the bar chart - could you play with actions and see if you could do without it? nice consistent colour scheme on the map and bar chart, nice clean map. Although i do love a donut it feels a little isolated here… what about using icons for child, adult, elderly people, and varying their size depending on the proportion affected per borough? my other idea would be switch to floating mode to see if you can get the donut a bit tighter with the map. im also not convinced about the blue…. try a grey palette and see how that looks !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623416709.002800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "2f4b0400-e887-4bb1-94c8-2840244df215",
+        "type": "message",
+        "text": "Thanks for the feedback, Sian! And yes, I agree with you on the color consistency :slightly_smiling_face: Regarding 2016, I tried to find out an answer to that question in the data source but found nothing about that... so i assumed the entire 2016 was covered since the publishing was after that.. And to be honest, if this data is accurate, it'd be really interesting :grinning:",
+        "user": "U022VC1JD29",
+        "ts": "1623699340.017700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022VC1JD29",
+            "ts": "1623710489.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y5dzp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the feedback, Sian! And yes, I agree with you on the color consistency "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Regarding 2016, I tried to find out an answer to that question in the data source but found nothing about that... so i assumed the entire 2016 was covered since the publishing was after that.. And to be honest, if this data is accurate, it'd be really interesting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623589898.001600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "type": "message",
+        "text": "Now I tried to include your feedback",
+        "files": [
+            {
+                "id": "F0258387P60",
+                "created": 1623740128,
+                "timestamp": 1623740128,
+                "name": "Screenshot 2021-06-15 at 08.53.52.png",
+                "title": "Screenshot 2021-06-15 at 08.53.52.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021Q54K3B7",
+                "editable": false,
+                "size": 544980,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0258387P60\/screenshot_2021-06-15_at_08.53.52.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0258387P60\/download\/screenshot_2021-06-15_at_08.53.52.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 273,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 409,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 455,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 546,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0258387P60-d5f3b07e2e\/screenshot_2021-06-15_at_08.53.52_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 582,
+                "original_w": 2808,
+                "original_h": 1596,
+                "thumb_tiny": "AwAbADDSZgoyahhkfewcjaOQTTLuR1ZUUdeaacqAG6nrSbBq2pbDBs4IOKGOFJ9BUFspBbrg1MWA64H1pgiGIl08zecHnpwKnU5ANQLBECcMQCc7c8VOpXoCKQxksW8qQcEUEe351JRgUxAOlMJUHnr70+jAznAzQA3zF\/vClDA8ZoNLQB\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021Q54K3B7\/F0258387P60\/screenshot_2021-06-15_at_08.53.52.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0258387P60-fc0bfc9d62",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02524N89PD",
+                "created": 1623740132,
+                "timestamp": 1623740132,
+                "name": "Screenshot 2021-06-15 at 08.54.34.png",
+                "title": "Screenshot 2021-06-15 at 08.54.34.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021Q54K3B7",
+                "editable": false,
+                "size": 413983,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02524N89PD\/screenshot_2021-06-15_at_08.54.34.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02524N89PD\/download\/screenshot_2021-06-15_at_08.54.34.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 215,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 287,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 431,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 479,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 574,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02524N89PD-64c992c6a6\/screenshot_2021-06-15_at_08.54.34_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 613,
+                "original_w": 2852,
+                "original_h": 1706,
+                "thumb_tiny": "AwAcADDTwKjEsbSbFOT7VBdyurFMjaw9KqAkHjig0ULo0o5RIzKAQV6084AJPAFUbVZPNDKDt7mrzAMCDyDwaCZKzGJIG+6QR7GpKggtxCGAbOT6VPQJ+RQu1bz\/AFyOKEtHZcn5T2Bq8QCQSAcdKWgrndhsaCNAo7UFVJyeadTSisckUEBhfQUoC54AzTDGgP3aeFA6ACgZ\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021Q54K3B7\/F02524N89PD\/screenshot_2021-06-15_at_08.54.34.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02524N89PD-6ef44323c4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHDON",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now I tried to include your feedback"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021Q54K3B7",
+        "ts": "1623740136.018900",
+        "thread_ts": "1623652600.003900",
+        "parent_user_id": "U021Q54K3B7"
+    },
+    {
+        "client_msg_id": "b5654dbf-7eb7-4ac1-9afc-858050512bee",
+        "type": "message",
+        "text": "Thanks for your feedback, <@U021UNQGZC4>! This is super helpful. The bar chart and map are linked by an action, I just couldn’t make it work for the pie chart. I’ll play around with it a bit more to incorporate your suggestions.",
+        "user": "U021T7DU0BC",
+        "ts": "1623740254.019500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lkRVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for your feedback, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! This is super helpful. The bar chart and map are linked by an action, I just couldn’t make it work for the pie chart. I’ll play around with it a bit more to incorporate your suggestions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623416709.002800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "fff05a27-029f-41bd-9c7d-53d8cfefdb50",
+        "type": "message",
+        "text": "true, thanks for the tips!!",
+        "user": "U021ZC6L676",
+        "ts": "1623740385.019700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "true, thanks for the tips!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623423835.008400",
+        "parent_user_id": "U021ZC6L676"
+    }
+]

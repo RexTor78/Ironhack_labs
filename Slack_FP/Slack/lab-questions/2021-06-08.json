@@ -1,0 +1,123 @@
+[
+    {
+        "type": "message",
+        "text": "for those of you who are having format issues when opening the csv file for our first project (in Excel from a Mac), please try opening the following:",
+        "files": [
+            {
+                "id": "F0244UP7P9C",
+                "created": 1623146613,
+                "timestamp": 1623146613,
+                "name": "alldata.xlsx",
+                "title": "alldata.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U021Q53LBPX",
+                "editable": false,
+                "size": 9633703,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0244UP7P9C\/alldata.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0244UP7P9C\/download\/alldata.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0244UP7P9C-91d7e8e91f\/alldata_converted.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0244UP7P9C-91d7e8e91f\/alldata_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021Q53LBPX\/F0244UP7P9C\/alldata.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0244UP7P9C-b396411ce6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for those of you who are having format issues when opening the csv file for our first project (in Excel from a Mac), please try opening the following:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021Q53LBPX",
+        "display_as_bot": false,
+        "ts": "1623146637.008800",
+        "thread_ts": "1623146637.008800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623146645.009100",
+        "reply_users": [
+            "U021ZC6JR28"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1623146645.009100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4e60c30b-8e5b-4dbc-9e79-629c039e0732",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U021ZC6JR28",
+        "ts": "1623146645.009100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjKJG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623146637.008800",
+        "parent_user_id": "U021Q53LBPX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

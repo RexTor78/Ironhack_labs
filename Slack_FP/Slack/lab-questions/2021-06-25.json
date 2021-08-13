@@ -1,0 +1,2836 @@
+[
+    {
+        "client_msg_id": "428e4bac-cdad-4537-9305-b936d55e06fd",
+        "type": "message",
+        "text": "lets include this in the Q&amp;A <@U021WEXHN4E>",
+        "user": "U021UNQGZC4",
+        "ts": "1624609615.067500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LgyPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lets include this in the Q&A "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624549271.065300",
+        "parent_user_id": "U021CE3UWPR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0b8cf5c-eabd-4783-a910-275af787cdd8",
+        "type": "message",
+        "text": "Yesterday's lab is optional isn't it? but there's the submit requirement in the students portal, so i'm confused... :flushed:",
+        "user": "U021TDMEH27",
+        "ts": "1624609959.069800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "5e53fc88cd04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085183476640_5e53fc88cd04a1cf4cb8_72.jpg",
+            "first_name": "Ángela",
+            "real_name": "Ángela Sánchez",
+            "display_name": "Angela",
+            "team": "T021KE79B9B",
+            "name": "angela.s.ferriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlSY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yesterday's lab is optional isn't it? but there's the submit requirement in the students portal, so i'm confused... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624609959.069800",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1624610498.071100",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624610491.070900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624610498.071100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e003cd93-b949-4fca-ad05-2ecdf29b58d1",
+        "type": "message",
+        "text": "<@U021TDMEH27> Yes its an optional lab",
+        "user": "U0225RGM941",
+        "ts": "1624610029.070300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQpi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMEH27"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes its an optional lab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624610029.070300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624610135.070600",
+        "reply_users": [
+            "U021TDMEH27"
+        ],
+        "replies": [
+            {
+                "user": "U021TDMEH27",
+                "ts": "1624610135.070600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e77f077b-a62f-4c0f-a87d-bf25e15f5f01",
+        "type": "message",
+        "text": "thanks Sathiya!!! :heart:",
+        "user": "U021TDMEH27",
+        "ts": "1624610135.070600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "5e53fc88cd04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085183476640_5e53fc88cd04a1cf4cb8_72.jpg",
+            "first_name": "Ángela",
+            "real_name": "Ángela Sánchez",
+            "display_name": "Angela",
+            "team": "T021KE79B9B",
+            "name": "angela.s.ferriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1s9M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks Sathiya!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624610029.070300",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "8a68cd6a-2bb3-4df3-99cc-ff96291bfc73",
+        "type": "message",
+        "text": "optional, definitely ! submit only if you wanted feedback. sorry for the confusion",
+        "user": "U021UNQGZC4",
+        "ts": "1624610491.070900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Yq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "optional, definitely ! submit only if you wanted feedback. sorry for the confusion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624609959.069800",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "client_msg_id": "421991ec-a9b6-4ff7-ba23-f3c599304d96",
+        "type": "message",
+        "text": "ill update the link",
+        "user": "U021UNQGZC4",
+        "ts": "1624610498.071100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mm46",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ill update the link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624609959.069800",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "type": "message",
+        "text": "now updated to show as optional",
+        "files": [
+            {
+                "id": "F0263EL6U69",
+                "created": 1624610633,
+                "timestamp": 1624610633,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 9437,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0263EL6U69\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0263EL6U69\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263EL6U69-10ffdcfbd9\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263EL6U69-10ffdcfbd9\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263EL6U69-10ffdcfbd9\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 260,
+                "thumb_360_h": 220,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0263EL6U69-10ffdcfbd9\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 260,
+                "original_h": 220,
+                "thumb_tiny": "AwAoADDTJAGTRSEZGDTRGoJ460APooAwAB2ooAKKKKACmlucZGadTG6\/ex+FAC7gOppQ6k4zzTf+BfpShSejfpQAoZScZFL9aQDHU5\/CloAKKKKACiiigAooooA\/\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0263EL6U69\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0263EL6U69-ecf6b3dcad",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qGlcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now updated to show as optional"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624610635.071400",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U021TDMEH27"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f8b30cf-1d00-45b1-8a2a-743154475ef7",
+        "type": "message",
+        "text": "just refresh your browser",
+        "user": "U021UNQGZC4",
+        "ts": "1624610645.071800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just refresh your browser"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Does this mean we should extract all unique combinations of Type 1 &amp; 2 or rather just the unique values per column?",
+        "files": [
+            {
+                "id": "F0266MM96PM",
+                "created": 1624610851,
+                "timestamp": 1624610851,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6JR28",
+                "editable": false,
+                "size": 29352,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0266MM96PM\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0266MM96PM\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 35,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 47,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 70,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 78,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 93,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0266MM96PM-4396c23938\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 99,
+                "original_w": 1548,
+                "original_h": 150,
+                "thumb_tiny": "AwAEADDQ2ijaKWigBMUvPrR2ooAOfWl59aSloA\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6JR28\/F0266MM96PM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0266MM96PM-ec44386509",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8iNAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does this mean we should extract all unique combinations of Type 1 & 2 or rather just the unique values per column?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021ZC6JR28",
+        "display_as_bot": false,
+        "ts": "1624610881.072500",
+        "thread_ts": "1624610881.072500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624611088.074100",
+        "reply_users": [
+            "U0225RJ6SNM",
+            "U021ZC6JR28",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624610980.072800"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1624611011.073100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624611088.074100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9c7ee804-9c56-4eeb-8978-88c53d5bc974",
+        "type": "message",
+        "text": "I think we have to get the unique values of the two columns together, as there are the same types in both",
+        "user": "U0225RJ6SNM",
+        "ts": "1624610980.072800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+zMcG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we have to get the unique values of the two columns together, as there are the same types in both"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624610881.072500",
+        "parent_user_id": "U021ZC6JR28",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021ZC6JR28"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cda769f-ef25-47d4-b26b-058f795006d5",
+        "type": "message",
+        "text": "thanks :slightly_smiling_face:",
+        "user": "U021ZC6JR28",
+        "ts": "1624611011.073100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624610881.072500",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "882742b4-e463-4c56-accb-44e442715def",
+        "type": "message",
+        "text": "agree, from each column what are the unique values",
+        "user": "U021UNQGZC4",
+        "ts": "1624611088.074100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5eRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "agree, from each column what are the unique values"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624610881.072500",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "cd338b44-971b-431f-beec-b8c54ed5f9ea",
+        "type": "message",
+        "text": "and in the same challenge, next question that talks about fields containing the name MEGA. Does anybody have a hint for it? I am completely lost",
+        "user": "U0225RJ6SNM",
+        "ts": "1624611141.075200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ggc5G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and in the same challenge, next question that talks about fields containing the name MEGA. Does anybody have a hint for it? I am completely lost"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1624612666.078700",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RJ6SNM",
+            "U021ZC6L676",
+            "U021ZC6JR28"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624611244.075300"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624611259.075500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624611261.075700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624611326.076000"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624612478.076200"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624612514.076400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624612536.076600"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1624612593.077500"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624612666.078700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "401d1052-316a-42d6-a82e-88f9b0cb8477",
+        "type": "message",
+        "text": "my hint would be use the pandas str.replace() function",
+        "user": "U021UNQGZC4",
+        "ts": "1624611244.075300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "79oXt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my hint would be use the pandas str.replace() function"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "52c186af-e28c-4107-bd81-f26d070c0c9e",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U0225RJ6SNM",
+        "ts": "1624611259.075500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTk5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "fcb891b1-fb82-492c-b8b9-187ee60796d9",
+        "type": "message",
+        "text": "<https:\/\/pandas.pydata.org\/docs\/reference\/api\/pandas.Series.str.replace.html>",
+        "user": "U021UNQGZC4",
+        "ts": "1624611261.075700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pandas.pydata.org\/docs\/reference\/api\/pandas.Series.str.replace.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RJ6SNM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fec8de7-9218-4d6e-865d-ac8362b1bcae",
+        "type": "message",
+        "text": "to be honest that documentation is very confusing! let me find a better example",
+        "user": "U021UNQGZC4",
+        "ts": "1624611326.076000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to be honest that documentation is very confusing! let me find a better example"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "db6398b7-056c-41eb-8835-181a77e18a9d",
+        "type": "message",
+        "text": "i was banging my head against the wall for hours with this :exploding_head:",
+        "user": "U021ZC6L676",
+        "ts": "1624612478.076200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kgX8C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i was banging my head against the wall for hours with this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "ba99dc91-2ad8-4353-a910-2cb7f6eb8058",
+        "type": "message",
+        "text": "worked with pandas replace in the end",
+        "user": "U021ZC6L676",
+        "ts": "1624612514.076400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3t5zt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "worked with pandas replace in the end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "2414f257-3a85-406c-9241-89ea591b2872",
+        "type": "message",
+        "text": "<https:\/\/www.geeksforgeeks.org\/python-pandas-series-str-replace-to-replace-text-in-a-series\/>\n\ni thought i would give an example plus regex tips if you wanted to take it further\n\nExample : if we wanted to change a column of age, stored as int, with the words, we could look for one value, eg 38, in that column and replace it like:\n`data[\"Age\"]*=*` `data[\"Age\"].str.replace(38, \"thirty eight\")`\nanother example, we want to remove the junk text that contains that pattern ‘38’ - lets say the string is\n*“nearly38 years old”* \nwe could use a regex pattern to identify all characters before the string ‘38’ and replace with nothing :\n`data[\"Age\"]*=*` `data[\"Age\"].str.replace(\".*(38)\", \"\")`\nthis returns *“years old”* because . finds any character and * allows you to take more than one character - that gives you all the letters up to 38, but includes 38.\nadding a ?= makes the pattern  what we can call un greedy - so take all characters up to 38 but dont steal 38:\n`data[\"Age\"]*=*` `data[\"Age\"].str.replace(\".*(?=38)\", \"\")`\nthis returns *“38 years old”*\n<https:\/\/cheatography.com\/davechild\/cheat-sheets\/regular-expressions\/>",
+        "user": "U021UNQGZC4",
+        "ts": "1624612536.076600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624612695.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ij+5S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.geeksforgeeks.org\/python-pandas-series-str-replace-to-replace-text-in-a-series\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ni thought i would give an example plus regex tips if you wanted to take it further\n\nExample : if we wanted to change a column of age, stored as int, with the words, we could look for one value, eg 38, in that column and replace it like:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "data[\"Age\"]",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "=",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "data[\"Age\"].str.replace(38, \"thirty eight\")",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nanother example, we want to remove the junk text that contains that pattern ‘38’ - lets say the string is\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "“nearly38 years old” ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nwe could use a regex pattern to identify all characters before the string ‘38’ and replace with nothing :\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "data[\"Age\"]",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "=",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "data[\"Age\"].str.replace(\".*(38)\", \"\")",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis returns "
+                            },
+                            {
+                                "type": "text",
+                                "text": "“years old”",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " because . finds any character and * allows you to take more than one character - that gives you all the letters up to 38, but includes 38.\nadding a ?= makes the pattern  what we can call un greedy - so take all characters up to 38 but dont steal 38:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "data[\"Age\"]",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "=",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "data[\"Age\"].str.replace(\".*(?=38)\", \"\")",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis returns "
+                            },
+                            {
+                                "type": "text",
+                                "text": "“38 years old”",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cheatography.com\/davechild\/cheat-sheets\/regular-expressions\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "f3babdad-20cd-4e0b-b7a3-a76e5bfea6c9",
+        "type": "message",
+        "text": "how about combo values?",
+        "user": "U021ZC6L676",
+        "ts": "1624612588.077300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m0MH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how about combo values?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ac4686c-6fb7-45ad-ad7a-9b67f25a63d2",
+        "type": "message",
+        "text": ".+?(?=Mega) that is the regex pattern I chose",
+        "user": "U021ZC6JR28",
+        "ts": "1624612593.077500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "893",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".+?(?=Mega) that is the regex pattern I chose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "589617c2-6537-460a-a48c-b81a26b4fc43",
+        "type": "message",
+        "text": "i can't make it with the '-' between :disappointed:",
+        "user": "U021ZC6L676",
+        "ts": "1624612609.078000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nh8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i can't make it with the '-' between "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8d9f685-90d5-479e-a6a8-233e83968335",
+        "type": "message",
+        "text": "this works, but without the '-'",
+        "user": "U021ZC6L676",
+        "ts": "1624612627.078400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iNmtQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this works, but without the '-'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84dc7bf5-3c96-4602-806b-f9f6ab84a352",
+        "type": "message",
+        "text": "pokemon['Combo Type'] = pokemon['Type 1'].add(pokemon['Type 2'], fill_value='')",
+        "user": "U021ZC6L676",
+        "ts": "1624612629.078600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I67E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pokemon['Combo Type'] = pokemon['Type 1'].add(pokemon['Type 2'], fill_value='')"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f144c37a-2fe4-42d7-a397-3fd9b0db8ccf",
+        "type": "message",
+        "text": "this works also - ^\\S+Mega",
+        "user": "U021ZC6L676",
+        "ts": "1624612666.078700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OnGO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this works also - ^\\S+Mega"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624611141.075200",
+        "parent_user_id": "U0225RJ6SNM",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cupcake",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "478a1709-842f-4dba-8d9a-8d31aa32f0e0",
+        "type": "message",
+        "text": "made this also but can't implement it :rage:",
+        "user": "U021ZC6L676",
+        "ts": "1624612778.079800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "made this also but can't implement it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a00c6219-2269-47be-a837-b34ebce6083c",
+        "type": "message",
+        "text": "def combo(x, y):\n    if np.isnan(x) and np.isnan(y):\n        return x + '-' + y\n    elif np.isnan(x):\n        return y\n    elif np.isnan(y):\n        return x",
+        "user": "U021ZC6L676",
+        "ts": "1624612781.080000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6jM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def combo(x, y):\n    if np.isnan(x) and np.isnan(y):\n        return x + '-' + y\n    elif np.isnan(x):\n        return y\n    elif np.isnan(y):\n        return x"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "reply_count": 15,
+        "reply_users_count": 4,
+        "latest_reply": "1624619779.087200",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021ZC6L676",
+            "U021WEXHN4E",
+            "U021Q54K3B7"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613198.080400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613209.080600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613386.080800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613427.081000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613614.081300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624613677.081600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613682.081800"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624613700.082000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613715.082200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613744.082400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624613769.082600"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624614397.083100"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1624615122.083500"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1624615181.083700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624619779.087200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aa850ebb-f0b3-4994-9ddc-8c522384b866",
+        "type": "message",
+        "text": "im just trying to understand the question ! <@U021WEXHN4E>",
+        "user": "U021UNQGZC4",
+        "ts": "1624613198.080400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zAh5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im just trying to understand the question ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "901708b1-9aef-4db2-955c-9d37388e5ea0",
+        "type": "message",
+        "text": "Create a new column called `Combo Type` whose value combines `Type 1` and `Type 2`.\nRules:\n• If both `Type 1` and `Type 2` have valid values, the `Combo Type` value should contain both values in the form of `&lt;Type 1&gt; &lt;Type 2&gt;`. For example, if `Type 1` value is `Grass` and `Type 2` value is `Poison`, `Combo Type` will be `Grass-Poison`.\n• If `Type 1` has valid value but `Type 2` is not, `Combo Type` will be the same as `Type 1`. For example, if `Type 1` is `Fire` whereas `Type 2` is `NaN`, `Combo Type` will be `Fire`.\n",
+        "user": "U021UNQGZC4",
+        "ts": "1624613209.080600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lwp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Create a new column called "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Combo Type",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " whose value combines "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Type 1",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Type 2",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nRules:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If both "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 1",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 2",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " have valid values, the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Combo Type",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " value should contain both values in the form of "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "<Type 1> <Type 2>",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". For example, if "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 1",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " value is "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Grass",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 2",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " value is "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Poison",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Combo Type",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " will be "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Grass-Poison",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 1",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " has valid value but "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 2",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is not, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Combo Type",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " will be the same as "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 1",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". For example, if "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 1",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Fire",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " whereas "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Type 2",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "NaN",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Combo Type",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " will be "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Fire",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "b57c0fa0-cbb7-43f5-9ec5-90f1cd234181",
+        "type": "message",
+        "text": "i dont think the function you have made is pandas friendly, but im not sure if thats why it doesnt work. I think you can avoid dealing with y nulls (type 2) because that doesnt seem to be an option.\ncould you do something like :",
+        "user": "U021UNQGZC4",
+        "ts": "1624613386.080800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gXM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i dont think the function you have made is pandas friendly, but im not sure if thats why it doesnt work. I think you can avoid dealing with y nulls (type 2) because that doesnt seem to be an option.\ncould you do something like :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "da6b9bc7-cec5-46be-8ee5-6d80b1b25e87",
+        "type": "message",
+        "text": "df[’combotype] = np.where(df[‘type2’].isnull(), df[’type1], (df[‘type1]+’ ’ +df[‘type2’]) ?",
+        "user": "U021UNQGZC4",
+        "ts": "1624613427.081000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624613463.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYrp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "df[’combotype] = np.where(df[‘type2’].isnull(), df[’type1], (df[‘type1]+’ ’ +df[‘type2’]) ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2ab9949-cb19-4023-98d2-6778b583f62b",
+        "type": "message",
+        "text": "or else try modifying your function using pd.isnull() rather than np.isnan",
+        "user": "U021UNQGZC4",
+        "ts": "1624613614.081300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bM4v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or else try modifying your function using pd.isnull() rather than np.isnan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "e4b8aaf5-d2b9-4e17-b4dc-31bf424ff6b2",
+        "type": "message",
+        "text": "works!",
+        "user": "U021ZC6L676",
+        "ts": "1624613677.081600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cvc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "works!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "7c4134d6-098f-4078-99c2-1f8b792e6b60",
+        "type": "message",
+        "text": "sweeet :)",
+        "user": "U021UNQGZC4",
+        "ts": "1624613682.081800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eSUr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sweeet :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "f0d9abba-25ec-444f-b38a-69ce0d8f53ae",
+        "type": "message",
+        "text": "didn't know about np where :eyes:",
+        "user": "U021ZC6L676",
+        "ts": "1624613700.082000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q8TPd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "didn't know about np where "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "482b3293-6dc6-410a-880c-0888ceaf97f0",
+        "type": "message",
+        "text": "ahhh…. stackoverflow is my friend :)",
+        "user": "U021UNQGZC4",
+        "ts": "1624613715.082200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhh…. stackoverflow is my friend :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "0bc26d32-1396-46d4-9c25-0f062279bcf5",
+        "type": "message",
+        "text": "also grepper brought that up when i searched ‘pandas if one column is null then string else string’",
+        "user": "U021UNQGZC4",
+        "ts": "1624613744.082400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also grepper brought that up when i searched ‘pandas if one column is null then string else string’"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "type": "message",
+        "text": "i kinda cheated hehe",
+        "files": [
+            {
+                "id": "F026WB6BQAC",
+                "created": 1624613767,
+                "timestamp": 1624613767,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 51073,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026WB6BQAC\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026WB6BQAC\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026WB6BQAC-2de2022973\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026WB6BQAC-2de2022973\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026WB6BQAC-2de2022973\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 188,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026WB6BQAC-2de2022973\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 251,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026WB6BQAC-2de2022973\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026WB6BQAC-2de2022973\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 377,
+                "original_w": 757,
+                "original_h": 396,
+                "thumb_tiny": "AwAZADDSOc8ED8KT5v7w\/Kqt3cyQzBUAORnmoPt839xfyoA0fm\/vD8qdmsv7fN\/cH5Gk\/tGX0X8qANTNLWX\/AGjL6L+VaaElQW60AQXFvHNIGcHIGODUf2KH0frnrVs\/eFLQBT+wwZzh\/wA6PsFv\/t\/nVyigCp\/Z0H+1+dWwMDFFFAH\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F026WB6BQAC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026WB6BQAC-01d403fb85",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8ZpD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i kinda cheated hehe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624613769.082600",
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "My solution, a bit longer :zany_face:",
+        "files": [
+            {
+                "id": "F0266M5RWH0",
+                "created": 1624614395,
+                "timestamp": 1624614395,
+                "name": "Untitled.py",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U021WEXHN4E",
+                "editable": true,
+                "size": 387,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0266M5RWH0\/untitled.py?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0266M5RWH0\/download\/untitled.py?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0266M5RWH0\/untitled.py",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0266M5RWH0-8daccd1fce",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0266M5RWH0\/untitled.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7G6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My solution, a bit longer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zany_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1624614397.083100",
+        "client_msg_id": "f9b09e25-c15e-4eb0-b4ea-63d2c58e7445",
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "c172a309-4758-4c35-86d7-98365a19163f",
+        "type": "message",
+        "text": "Actually only Flo's worked because the other would just leave the values in NaN if one of them was null",
+        "user": "U021Q54K3B7",
+        "ts": "1624615122.083500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+j3+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually only Flo's worked because the other would just leave the values in NaN if one of them was null"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F026CUB0REY",
+                "created": 1624615179,
+                "timestamp": 1624615179,
+                "name": "Screenshot 2021-06-25 at 11.59.13.png",
+                "title": "Screenshot 2021-06-25 at 11.59.13.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021Q54K3B7",
+                "editable": false,
+                "size": 71301,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026CUB0REY\/screenshot_2021-06-25_at_11.59.13.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026CUB0REY\/download\/screenshot_2021-06-25_at_11.59.13.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CUB0REY-57c73b01f7\/screenshot_2021-06-25_at_11.59.13_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CUB0REY-57c73b01f7\/screenshot_2021-06-25_at_11.59.13_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CUB0REY-57c73b01f7\/screenshot_2021-06-25_at_11.59.13_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 194,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CUB0REY-57c73b01f7\/screenshot_2021-06-25_at_11.59.13_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 258,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CUB0REY-57c73b01f7\/screenshot_2021-06-25_at_11.59.13_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CUB0REY-57c73b01f7\/screenshot_2021-06-25_at_11.59.13_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 388,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CUB0REY-57c73b01f7\/screenshot_2021-06-25_at_11.59.13_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 431,
+                "thumb_800_h": 800,
+                "original_w": 476,
+                "original_h": 884,
+                "thumb_tiny": "AwAwABm\/nDff79OKGyOrkZ9hTuc9BikcdMAH60AJ\/wAtBgn3FSUzH7zoPrT6AGEDd91s560kgHGQTSkHdnnH+9SsMjjP54oAbgeaODn1qSmnqvP606gBpUbs7efWkIGeUJoP3urflxQwxzub8KAA43jg0+mEHeOT+VPoA\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021Q54K3B7\/F026CUB0REY\/screenshot_2021-06-25_at_11.59.13.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026CUB0REY-e612eec4bf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021Q54K3B7",
+        "display_as_bot": false,
+        "ts": "1624615181.083700",
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "b632ed56-4386-4b89-b462-d3c11657ab63",
+        "type": "message",
+        "text": "I just realised I forgot to go through a question in the Q&amp;A <@U021CE3UWPR> had asked earlier - I am sorry! :cry: lets take that one into a breakout room this afternoon ?\n\nremember to post any questions you have on labs here <!channel> at any time, especially if you didnt have time today to ask your specific questions… Flo or I will get back to you. there is no such thing as a stupid question (believe me, i ask a lot of questions!) so if you didn’t know how to approach something, lets go through it in a breakout room!",
+        "user": "U021UNQGZC4",
+        "ts": "1624619747.087100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just realised I forgot to go through a question in the Q&A "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021CE3UWPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " had asked earlier - I am sorry! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lets take that one into a breakout room this afternoon ?\n\nremember to post any questions you have on labs here "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " at any time, especially if you didnt have time today to ask your specific questions… Flo or I will get back to you. there is no such thing as a stupid question (believe me, i ask a lot of questions!) so if you didn’t know how to approach something, lets go through it in a breakout room!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8cbbeb95-8d8b-44c8-bec8-ed41977ab75e",
+        "type": "message",
+        "text": "ahhhh good to know!",
+        "user": "U021UNQGZC4",
+        "ts": "1624619779.087200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40kk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhhh good to know!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624612781.080000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "4d784785-7e85-4701-bf77-c8f8af7f60dc",
+        "type": "message",
+        "text": "sian, did you finally uploaded the solutions of the labs so we can compare?",
+        "user": "U021ZC6H9GC",
+        "ts": "1624619797.087700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sian, did you finally uploaded the solutions of the labs so we can compare?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee7dd549-447f-4cfb-859e-4cb4d0c6de26",
+        "type": "message",
+        "text": "yes everything is here <https:\/\/www.notion.so\/ironhack\/15bb527f271a4089a803c3803f039419?v=a2611ab032c54359a8c975df4d29b470>",
+        "user": "U021UNQGZC4",
+        "ts": "1624619821.088000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Lab Solutions - May2Jul",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/15bb527f271a4089a803c3803f039419?v=a2611ab032c54359a8c975df4d29b470",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Lab Solutions - May2Jul",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/15bb527f271a4089a803c3803f039419?v=a2611ab032c54359a8c975df4d29b470",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/15bb527f271a4089a803c3803f039419?v=a2611ab032c54359a8c975df4d29b470"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes everything is here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/15bb527f271a4089a803c3803f039419?v=a2611ab032c54359a8c975df4d29b470"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "762c7533-281c-45ab-8f6d-eb45de57bfe3",
+        "type": "message",
+        "text": "ah great thanks!",
+        "user": "U021ZC6H9GC",
+        "ts": "1624619835.088300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/+NH6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah great thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e14471b3-2485-4fd5-87ee-0b88bbafab3a",
+        "type": "message",
+        "text": "here's the notebook for the logistic reg with more columns added:",
+        "user": "U021ZC6L676",
+        "ts": "1624621174.093100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vIIND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here's the notebook for the logistic reg with more columns added:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d9da321-06c9-4611-bb54-00c0b2fb7561",
+        "type": "message",
+        "text": "<https:\/\/github.com\/urospetkovic\/IronHackLabs\/blob\/master\/week4\/Logistic%20Regression%20LAB\/Logistic_regression_bank_outline2.ipynb>",
+        "user": "U021ZC6L676",
+        "ts": "1624621175.093300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "```\n{\n \"cells\": [\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"cleared-month\",\n   \"metadata\": {},\n   \"source\": [\n    \"## Binary classification with Logistic regression \"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"daily-planner\",\n   \"metadata\": {},\n   \"source\": [\n    \"### import libraries \"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 1,\n   \"id\": \"characteristic-flavor\",\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"import pandas as pd\\n\",\n    \"import numpy as np\\n\",\n    \"import seaborn as sns\\n\",\n    \"import matplotlib.pyplot as plt\\n\",\n    \"from sqlalchemy import create_engine\\n\",\n    \"import pymysql\\n\",\n    \"import getpass\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"static-cloud\",\n   \"metadata\": {},\n   \"source\": [\n    \"### connection to sql \"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 2,\n   \"id\": \"a29690e8\",\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"mysqlpassword = getpass.getpass()\\n\",\n    \"connection_string = '<mysql+pymysql:\/\/root:>' + mysqlpassword + '@localhost\/bank'\\n\",\n    \"engine = create_engine(connection_string)\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 82,\n   \"id\": \"based-touch\",\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"df=pd.read_sql_query('''\\n\",\n    \"select l.status, count(distinct t.trans_id) as nooftrans,\\n\",\n    \"datediff(19981231, convert(a.date, date)) as ageofaccount, \\n\",\n    \"d.A12 as 95unemp, d.A13 as 96unemp,\\n\",\n    \"l.amount as loanamount, c.birth_number, d.A15 as crime95, d.A16 as crime96,\\n\",\n    \"round((l.amount-l.payments)\/l.amount,2) as ratiopaid,\\n\",\n    \"t.k_symbol as trans_type\\n\",\n    \"from loan l\\n\",\n    \"left join trans t\\n\",\n    \"using(account_id)\\n\",\n    \"left join account a\\n\",\n    \"using(account_id)\\n\",\n    \"left join district d\\n\",\n    \"on a.district_id = d.A1\\n\",\n    \"left join disp dp\\n\",\n    \"on a.account_id= dp.account_id \\n\",\n    \"left join client c\\n\",\n    \"using(client_id)\\n\",\n    \"where dp.type='OWNER'\\n\",\n    \"group by loan_id, l.amount, status, d.A12, d.A13, c.birth_number, d.A15, d.A16, datediff(19981231, convert(a.date, date)),\\n\",\n    \" dp.type, round((l.amount-l.payments)\/l.amount,2), t.k_symbol\\n\",\n    \"''', engine)\\n\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"reduced-jamaica\",\n   \"metadata\": {},\n   \"source\": [\n    \"### EDA - exploratory data analysis - get to know the data \"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 83,\n   \"id\": \"athletic-climate\",\n   \"metadata\": {},\n   \"outputs\": [\n    {\n     \"output_type\": \"execute_result\",\n     \"data\": {\n      \"text\/plain\": [\n       \"   status  nooftrans  ageofaccount  95unemp  96unemp  loanamount  \\\\\\n\",\n       \"0       A        191          2134     0.29     0.43       80952   \\n\",\n       \"1       A         32          2134     0.29     0.43       80952   \\n\",\n       \"2       A         65          2134     0.29     0.43       80952   \\n\",\n       \"3       A         70          2134     0.29     0.43       80952   \\n\",\n       \"4       A         16          2134     0.29     0.43       80952   \\n\",\n       \"5       B         89          1364     1.51     2.07       30276   \\n\",\n       \"6       B          8          1364     1.51     2.07       30276   \\n\",\n       \"7       B         26          1364     1.51     2.07       30276   \\n\",\n       \"8       B         40          1364     1.51     2.07       30276   \\n\",\n       \"9       B         90          1364     1.51     2.07       30276   \\n\",\n       \"10      B          6          1364     1.51     2.07       30276   \\n\",\n       \"11      A        130           886     4.09     4.72       30276   \\n\",\n       \"12      A         17           886     4.09     4.72       30276   \\n\",\n       \"13      A         17           886     4.09     4.72       30276   \\n\",\n       \"14      A         26           886     4.09     4.72       30276   \\n\",\n       \"15      A         28           886     4.09     4.72       30276   \\n\",\n       \"16      A          7           886     4.09     4.72       30276   \\n\",\n       \"17      D         52           500     2.65     3.64      318480   \\n\",\n       \"18      D          8           500     2.65     3.64      318480   \\n\",\n       \"19      D          1           500     2.65     3.64      318480   \\n\",\n       \"\\n\",\n       \"    birth_number  crime95  crime96  ratiopaid   trans_type  \\n\",\n       \"0         450204    85677    99107       0.96               \\n\",\n       \"1         450204    85677    99107       0.96         SIPO  \\n\",\n       \"2         450204    85677    99107       0.96       SLUZBY  \\n\",\n       \"3         450204    85677    99107       0.96         UROK  \\n\",\n       \"4         450204    85677    99107       0.96         UVER  \\n\",\n       \"5         395423     2299     2354       0.92               \\n\",\n       \"6         395423     2299     2354       0.92  SANKC. UROK  \\n\",\n       \"7         395423     2299     2354       0.92         SIPO  \\n\",\n       \"8         395423     2299     2354       0.92       SLUZBY  \\n\",\n       \"9         395423     2299     2354       0.92         UROK  \\n\",\n       \"10        395423     2299     2354       0.92         UVER  \\n\",\n       \"11        620209     5623     5887       0.92               \\n\",\n       \"12        620209     5623     5887       0.92     POJISTNE  \\n\",\n       \"13        620209     5623     5887       0.92         SIPO  \\n\",\n       \"14        620209     5623     5887       0.92       SLUZBY  \\n\",\n       \"15        620209     5623     5887       0.92         UROK  \\n\",\n       \"16        620209     5623     5887       0.92         UVER  \\n\",\n       \"17        520826     1563     1542       0.98               \\n\",\n       \"18        520826     1563     1542       0.98     POJISTNE  \\n\",\n       \"19        520826     1563     1542       0.98  SANKC. UROK  \"\n      ],\n      \"text\/html\": \"&lt;div&gt;\\n&lt;style scoped&gt;\\n    .dataframe tbody tr th:only-of-type {\\n        vertical-align: middle;\\n    }\\n\\n    .dataframe tbody tr th {\\n        vertical-align: top;\\n    }\\n\\n    .dataframe thead th {\\n        text-align: right;\\n    }\\n&lt;\/style&gt;\\n&lt;table border=\\\"1\\\" class=\\\"dataframe\\\"&gt;\\n  &lt;thead&gt;\\n    &lt;tr style=\\\"text-align: right;\\\"&gt;\\n      &lt;th&gt;&lt;\/th&gt;\\n      &lt;th&gt;status&lt;\/th&gt;\\n      &lt;th&gt;nooftrans&lt;\/th&gt;\\n      &lt;th&gt;ageofaccount&lt;\/th&gt;\\n      &lt;th&gt;95unemp&lt;\/th&gt;\\n      &lt;th&gt;96unemp&lt;\/th&gt;\\n      &lt;th&gt;loanamount&lt;\/th&gt;\\n      &lt;th&gt;birth_number&lt;\/th&gt;\\n      &lt;th&gt;crime95&lt;\/th&gt;\\n      &lt;th&gt;crime96&lt;\/th&gt;\\n      &lt;th&gt;ratiopaid&lt;\/th&gt;\\n      &lt;th&gt;trans_type&lt;\/th&gt;\\n    &lt;\/tr&gt;\\n  &lt;\/thead&gt;\\n  &lt;tbody&gt;\\n    &lt;tr&gt;\\n      &lt;th&gt;0&lt;\/th&gt;\\n      &lt;td&gt;A&lt;\/td&gt;\\n      &lt;td&gt;191&lt;\/td&gt;\\n      &lt;td&gt;2134&lt;\/td&gt;\\n      &lt;td&gt;0.29&lt;\/td&gt;\\n      &lt;td&gt;0.43&lt;\/td&gt;\\n      &lt;td&gt;80952&lt;\/td&gt;\\n      &lt;td&gt;450204&lt;\/td&gt;\\n      &lt;td&gt;85677&lt;\/td&gt;\\n      &lt;td&gt;99107&lt;\/td&gt;\\n      &lt;td&gt;0.96&lt;\/td&gt;\\n      &lt;td&gt;&lt;\/td&gt;\\n    &lt;\/tr&gt;\\n    &lt;tr&gt;\\n      &lt;th&gt;1&lt;\/th&gt;\\n      &lt;td&gt;A&lt;\/td&gt;\\n      &lt;td&gt;32&lt;\/td&gt;\\n      &lt;td&gt;2134&lt;\/td&gt;\\n      &lt;td&gt;0.29&lt;\/td&gt;\\n      &lt;td&gt;0.43&lt;\/td&gt;\\n      &lt;td&gt;80952&lt;\/td&gt;\\n      &lt;td&gt;450204&lt;\/td&gt;\\n      &lt;td&gt;85677&lt;\/td&gt;\\n      &lt;td&gt;99107&lt;\/td&gt;\\n      &lt;td&gt;0.96&lt;\/td&gt;\\n      &lt;td&gt;SIPO&lt;\/td&gt;\\n    &lt;\/tr&gt;\\n    &lt;tr&gt;\\n      &lt;th&gt;2&lt;\/th&gt;\\n      &lt;td&gt;A&lt;\/td&gt;\\n      &lt;td&gt;65&lt;\/td&gt;\\n      &lt;td&gt;2134&lt;\/td&gt;\\n      &lt;td&gt;0.29&lt;\/td&gt;\\n      &lt;td&gt;0.43&lt;\/td&gt;\\n      &lt;td&gt;80952&lt;\/td&gt;\\n      &lt;td&gt;450204&lt;\/td&gt;\\n      &lt;td&gt;85677&lt;\/td&gt;\\n      &lt;td&gt;99107&lt;\/td&gt;\\n      &lt;td&gt;0.96&lt;\/td&gt;\\n      &lt;td&gt;SLUZBY&lt;\/td&gt;\\n    &lt;\/tr&g…",
+                "title": "<https:\/\/github.com\/urospetkovic\/IronHackLabs\/blob\/master\/week4\/Logistic%20Regression%20LAB\/Logistic_regression_bank_outline2.ipynb | Logistic_regression_bank_outline2.ipynb>",
+                "footer": "<https:\/\/github.com\/urospetkovic\/IronHackLabs|urospetkovic\/IronHackLabs>",
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "<https:\/\/github.com\/urospetkovic\/IronHackLabs\/blob\/master\/week4\/Logistic%20Regression%20LAB\/Logistic_regression_bank_outline2.ipynb | Logistic_regression_bank_outline2.ipynb>",
+                "bot_id": "B02424P9JTC",
+                "app_unfurl_url": "https:\/\/github.com\/urospetkovic\/IronHackLabs\/blob\/master\/week4\/Logistic%20Regression%20LAB\/Logistic_regression_bank_outline2.ipynb",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clqz+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/urospetkovic\/IronHackLabs\/blob\/master\/week4\/Logistic%20Regression%20LAB\/Logistic_regression_bank_outline2.ipynb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

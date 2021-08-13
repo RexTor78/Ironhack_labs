@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "b8e0d580-aaee-4709-add1-1dac2cb5a8be",
+        "type": "message",
+        "text": "<!channel>,\ngentle reminder, that we need the information about who you want to work with in a group or whether you want to work alone next week. Please tell us as soon as possible. I missed to follow up on this on Friday. The teaching team needs to assign themselves to you for morning stand-ups. So far we only know from Team \"Happiness\" - Novi, Jennifer, Uros, Axana <https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624627524110400>",
+        "user": "U021WEXHN4E",
+        "ts": "1624817704.116000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1624817762.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624627524110400",
+                "fallback": "[June 25th, 2021 6:25 AM] florian.titze: <!channel>,\n*Re: Week5 project*\nPlease everyone answer in this thread who you intend to work with for the project next week and at best give yourself a name! If you work in a group, answer by one spokesperson of course is sufficient",
+                "ts": "1624627524.110400",
+                "author_id": "U021WEXHN4E",
+                "author_subname": "Florian Titze",
+                "channel_id": "C021UM94GLU",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<!channel>,\n*Re: Week5 project*\nPlease everyone answer in this thread who you intend to work with for the project next week and at best give yourself a name! If you work in a group, answer by one spokesperson of course is sufficient",
+                "author_name": "Florian Titze",
+                "author_link": "https:\/\/da-ft-ber-05-21.slack.com\/team\/U021WEXHN4E",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624627524110400",
+                "footer": "Posted in #general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwoL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\ngentle reminder, that we need the information about who you want to work with in a group or whether you want to work alone next week. Please tell us as soon as possible. I missed to follow up on this on Friday. The teaching team needs to assign themselves to you for morning stand-ups. So far we only know from Team \"Happiness\" - Novi, Jennifer, Uros, Axana "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624627524110400"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

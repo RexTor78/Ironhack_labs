@@ -1,0 +1,925 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel>,\none \":cherries: on top\" idea for your recommender. Plays the song from the Jupyter Notebook",
+        "files": [
+            {
+                "id": "F028FMRGFSP",
+                "created": 1626678001,
+                "timestamp": 1626678001,
+                "name": "Screenshot from 2021-07-19 08-57-33.png",
+                "title": "Screenshot from 2021-07-19 08-57-33.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 93703,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028FMRGFSP\/screenshot_from_2021-07-19_08-57-33.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028FMRGFSP\/download\/screenshot_from_2021-07-19_08-57-33.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 145,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 193,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 290,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 322,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 386,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028FMRGFSP-38b3222961\/screenshot_from_2021-07-19_08-57-33_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 412,
+                "image_exif_rotation": 1,
+                "original_w": 1044,
+                "original_h": 420,
+                "thumb_tiny": "AwATADDSxxTWz\/k07NQyTqm4EHjrQA8HPTP504Zz0\/Wqn2yIfwt+dSwXCTMVUEEDPNAE2faloxRjigBaY0SOCGUEHrT6KAIfskH\/ADyWnRwRRHKIFPTipKKACg9KKD0oA\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F028FMRGFSP\/screenshot_from_2021-07-19_08-57-33.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028FMRGFSP-42552f8c8d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Ez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\none \""
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cherries"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on top\" idea for your recommender. Plays the song from the Jupyter Notebook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1626678007.000700",
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1626678109.000000"
+        },
+        "thread_ts": "1626678007.000700",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1626679836.004500",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021ZC6L676"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626678398.001300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626679447.001700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626679460.001900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626679474.002300"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626679559.002500"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626679561.002700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626679602.002900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626679672.003100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626679683.003300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626679687.003500"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626679767.003700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626679780.003900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626679798.004100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626679812.004300"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626679836.004500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U021T7DU0BC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "If you want to use it in a function, use `display`:",
+        "files": [
+            {
+                "id": "F028U69UNRX",
+                "created": 1626678397,
+                "timestamp": 1626678397,
+                "name": "Untitled.py",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U021WEXHN4E",
+                "editable": true,
+                "size": 359,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028U69UNRX\/untitled.py?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028U69UNRX\/download\/untitled.py?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F028U69UNRX\/untitled.py",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028U69UNRX-5a70f7b053",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F028U69UNRX\/untitled.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZyBw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want to use it in a function, use "
+                            },
+                            {
+                                "type": "text",
+                                "text": "display",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1626678398.001300",
+        "client_msg_id": "8ff547c1-197f-4e33-a1fa-0f22a25f509c",
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "31a75131-80c7-40fe-9655-d1976a42b71c",
+        "type": "message",
+        "text": "i can't get a playback, shows this after i hit play",
+        "user": "U021ZC6L676",
+        "ts": "1626679447.001700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Prc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i can't get a playback, shows this after i hit play"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F028MPVBAA0",
+                "created": 1626679457,
+                "timestamp": 1626679457,
+                "name": "Screenshot 2021-07-19 at 09.23.41.png",
+                "title": "Screenshot 2021-07-19 at 09.23.41.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6L676",
+                "editable": false,
+                "size": 82730,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028MPVBAA0\/screenshot_2021-07-19_at_09.23.41.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028MPVBAA0\/download\/screenshot_2021-07-19_at_09.23.41.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028MPVBAA0-5c1e5d6165\/screenshot_2021-07-19_at_09.23.41_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028MPVBAA0-5c1e5d6165\/screenshot_2021-07-19_at_09.23.41_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028MPVBAA0-5c1e5d6165\/screenshot_2021-07-19_at_09.23.41_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 94,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028MPVBAA0-5c1e5d6165\/screenshot_2021-07-19_at_09.23.41_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 125,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028MPVBAA0-5c1e5d6165\/screenshot_2021-07-19_at_09.23.41_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 658,
+                "original_h": 172,
+                "thumb_tiny": "AwAMADCvGh3LwvIzyahmXZjmp4zkZOD0FQ3Jy4pX1HbQjUr\/ABbvwNPwmOp5\/wBoVHk0bjTEPPlg87\/wNMz9aAxByKCScZoA\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6L676\/F028MPVBAA0\/screenshot_2021-07-19_at_09.23.41.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028MPVBAA0-a6a83aeafe",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021ZC6L676",
+        "display_as_bot": false,
+        "ts": "1626679460.001900",
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "b7a427ec-f936-4990-a7fd-f1d4301f3ac2",
+        "type": "message",
+        "text": "i'm logged in..",
+        "user": "U021ZC6L676",
+        "ts": "1626679474.002300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BF8uM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm logged in.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "b3197617-bf9e-413c-a097-281b37cb2cbe",
+        "type": "message",
+        "text": "hmm this should work regardless if you're logged in or not :thinking_face:",
+        "user": "U021WEXHN4E",
+        "ts": "1626679559.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l=LC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm this should work regardless if you're logged in or not "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "f265042e-4236-4d72-b1d4-0b79b86ca65e",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/embed\/track\/1a6Jt6USVGKzbjYpcKMwPB>",
+        "user": "U021WEXHN4E",
+        "ts": "1626679561.002700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GrhM\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/embed\/track\/1a6Jt6USVGKzbjYpcKMwPB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "35d917e8-d9e1-46c8-a81c-07fbd23b5927",
+        "type": "message",
+        "text": "should, but not in my notebook :slightly_smiling_face:",
+        "user": "U021ZC6L676",
+        "ts": "1626679602.002900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1e1b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "should, but not in my notebook "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "a4d23b96-291a-4b5e-9dd7-64966b1f1197",
+        "type": "message",
+        "text": "do you try it in a function or outside of a function?",
+        "user": "U021WEXHN4E",
+        "ts": "1626679672.003100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ClF+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you try it in a function or outside of a function?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "62121fbf-0206-45f3-b794-2c8be253ebaf",
+        "type": "message",
+        "text": "maybe first try if it works outside",
+        "user": "U021WEXHN4E",
+        "ts": "1626679683.003300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7JZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe first try if it works outside"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "bfae9e22-0b86-467c-b015-c0bc2c3b258c",
+        "type": "message",
+        "text": "both",
+        "user": "U021ZC6L676",
+        "ts": "1626679687.003500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Y6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "b0d5b929-efb3-4ae1-aab7-e7096c8423f3",
+        "type": "message",
+        "text": "and the track_id you're trying, does that <http:\/\/open.spotify.com|open.spotify.com> link work with it if you try it in a browser?",
+        "user": "U021WEXHN4E",
+        "ts": "1626679767.003700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wkcm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and the track_id you're trying, does that "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/open.spotify.com",
+                                "text": "open.spotify.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " link work with it if you try it in a browser?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "0d400c5d-f724-4273-93a1-b029e7f7b0c8",
+        "type": "message",
+        "text": "yep",
+        "user": "U021ZC6L676",
+        "ts": "1626679780.003900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NYK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "3398f493-7831-488d-9167-9f50a3c88e53",
+        "type": "message",
+        "text": "it get's the track and shows it in a frame, but not playing",
+        "user": "U021ZC6L676",
+        "ts": "1626679798.004100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kdkw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it get's the track and shows it in a frame, but not playing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "7e011cf4-5590-494a-b502-168e79bff5af",
+        "type": "message",
+        "text": "maybe it's a VSC thing",
+        "user": "U021ZC6L676",
+        "ts": "1626679812.004300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSaV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe it's a VSC thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "1e2dd85f-8250-4ba9-a82c-3940897570cd",
+        "type": "message",
+        "text": "ah.... you're on VSC. Yeah, most likely",
+        "user": "U021WEXHN4E",
+        "ts": "1626679836.004500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lWSm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah.... you're on VSC. Yeah, most likely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626678007.000700",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "text": "Is in top 100 yeahh",
+        "files": [
+            {
+                "id": "F0281989PGF",
+                "created": 1626687228,
+                "timestamp": 1626687228,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021CE3UWPR",
+                "editable": false,
+                "size": 187726,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0281989PGF\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0281989PGF\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 135,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 181,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 271,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 301,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 361,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0281989PGF-26483d09a2\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 385,
+                "original_w": 1372,
+                "original_h": 516,
+                "thumb_tiny": "AwASADDSJ98UtJ+VKKACiiigAqGF9zN8xPsamqhYhxcSFjwQePTmk1cC9QKKBTAWiiigAqGIDeamqKP7xoA\/\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021CE3UWPR\/F0281989PGF\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0281989PGF-6c7d64b981",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is in top 100 yeahh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021CE3UWPR",
+        "display_as_bot": false,
+        "ts": "1626687244.004900",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

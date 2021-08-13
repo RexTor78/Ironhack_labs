@@ -1,0 +1,592 @@
+[
+{
+    "id": "C0217P73WQP",
+    "name": "random",
+    "created": 1620810759,
+    "creator": "U0217P72YR5",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0217P72YR5",
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDD883V",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U0225RJ9GQZ",
+        "U022VC1JD29",
+        "U022YL7SA11",
+        "U0234JUMPJQ",
+        "U025N2C68SK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+        "creator": "U0217P72YR5",
+        "last_set": 1620810759
+    }
+},
+{
+    "id": "C0217SRJPD5",
+    "name": "data-resources",
+    "created": 1620812888,
+    "creator": "U021UNQGZC4",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0217P72YR5",
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDD883V",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U0225RJ9GQZ",
+        "U022VC1JD29",
+        "U022YL7SA11",
+        "U0234JUMPJQ",
+        "U025N2C68SK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C021FSUNCF8",
+    "name": "music",
+    "created": 1620813025,
+    "creator": "U021UNQGZC4",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0217P72YR5",
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDD883V",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U0225RJ9GQZ",
+        "U022VC1JD29",
+        "U022YL7SA11",
+        "U0234JUMPJQ",
+        "U025N2C68SK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C021UM94GLU",
+    "name": "general",
+    "created": 1620810759,
+    "creator": "U0217P72YR5",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U0217P72YR5",
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDD883V",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U0225RJ9GQZ",
+        "U022VC1JD29",
+        "U022YL7SA11",
+        "U0234JUMPJQ",
+        "U025N2C68SK"
+    ],
+    "pins": [
+        {
+            "id": "1622622012.044000",
+            "type": "C",
+            "created": 1622814874,
+            "user": "U021UNQGZC4",
+            "owner": "U021UNQGZC4"
+        },
+        {
+            "id": "1622815775.074600",
+            "type": "C",
+            "created": 1622815789,
+            "user": "U021NHS652N",
+            "owner": "U021NHS652N"
+        }
+    ],
+    "topic": {
+        "value": "<https:\/\/zoom.us\/j\/877626245>\nPw: 986565",
+        "creator": "U021UNQGZC4",
+        "last_set": 1626425849
+    },
+    "purpose": {
+        "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+        "creator": "U0217P72YR5",
+        "last_set": 1620810759
+    }
+},
+{
+    "id": "C021UQCSC7N",
+    "name": "getting_started_tips",
+    "created": 1620812620,
+    "creator": "U021UNQGZC4",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0217P72YR5",
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDD883V",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U0225RJ9GQZ",
+        "U022VC1JD29",
+        "U022YL7SA11",
+        "U0234JUMPJQ",
+        "U025N2C68SK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "a place to post vanilla learning, helpers, and additional resources you may want to learn from before you start the course",
+        "creator": "U021UNQGZC4",
+        "last_set": 1620812621
+    }
+},
+{
+    "id": "C022CAY8YJC",
+    "name": "lab-questions",
+    "created": 1620810905,
+    "creator": "U0217P72YR5",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0217P72YR5",
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDD883V",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U0225RJ9GQZ",
+        "U022VC1JD29",
+        "U022YL7SA11",
+        "U0234JUMPJQ",
+        "U025N2C68SK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This *channel* is for working on a project. Hold meetings, share docs, and make decisions together with your team.",
+        "creator": "U0217P72YR5",
+        "last_set": 1620810905
+    }
+},
+{
+    "id": "C022CECH1KJ",
+    "name": "data-viz-beauties",
+    "created": 1620812966,
+    "creator": "U021UNQGZC4",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0217P72YR5",
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDD883V",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U0225RJ9GQZ",
+        "U022VC1JD29",
+        "U022YL7SA11",
+        "U0234JUMPJQ",
+        "U025N2C68SK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C0233FVHBPH",
+    "name": "data-memes",
+    "created": 1622460873,
+    "creator": "U021UNQGZC4",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U022VC1JD29",
+        "U0234JUMPJQ"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C023ZTG44G6",
+    "name": "dataqueens",
+    "created": 1623054353,
+    "creator": "U021ZC6H9GC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U021TDMLNTD",
+        "U021ZC6H9GC",
+        "U0225RHK6Q1"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C024EJ8H3S8",
+    "name": "project-questions",
+    "created": 1623080467,
+    "creator": "U021UNQGZC4",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U022VC1JD29"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C024HQ61T27",
+    "name": "katas",
+    "created": 1623248558,
+    "creator": "U021WEXHN4E",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U021CE3UWPR",
+        "U021NHS652N",
+        "U021Q53LBPX",
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDMBPRR",
+        "U021TDMEH27",
+        "U021TDMLNTD",
+        "U021TDN4RAP",
+        "U021UNQGZC4",
+        "U021WEXHN4E",
+        "U021ZC6H9GC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U0225RHK6Q1",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U0225RJ9GQZ",
+        "U022VC1JD29",
+        "U022YL7SA11",
+        "U0234JUMPJQ"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C024YA09GN4",
+    "name": "team-project-1",
+    "created": 1623081497,
+    "creator": "U0225RJ9GQZ",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U021TDMBPRR",
+        "U021ZC6L676",
+        "U0225RJ3Z4H",
+        "U0225RJ9GQZ"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C025ERGC728",
+    "name": "berlin-get-together",
+    "created": 1623856010,
+    "creator": "U021ZC6L676",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U021Q54K3B7",
+        "U021T7DU0BC",
+        "U021TDMBPRR",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RGM941",
+        "U022VC1JD29"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C026TGWLTEY",
+    "name": "flo_standup_group_week5",
+    "created": 1625036466,
+    "creator": "U021WEXHN4E",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U021T7DU0BC",
+        "U021ZC6JR28",
+        "U021ZC6L676",
+        "U0225RJ3Z4H",
+        "U0225RJ5989",
+        "U0225RJ6SNM",
+        "U022VC1JD29"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C0273HMHJE7",
+    "name": "room4",
+    "created": 1625488877,
+    "creator": "U021ZC6H9GC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U021CE3UWPR",
+        "U021Q53LBPX",
+        "U021TDN4RAP",
+        "U021ZC6H9GC",
+        "U0225RGM941",
+        "U0225RJ6SNM",
+        "U0234JUMPJQ"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+}
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F024V2AB0M7",
+                "created": 1623230769,
+                "timestamp": 1623230769,
+                "name": "oldfaithful.xlsx",
+                "title": "oldfaithful.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U021NHS652N",
+                "editable": false,
+                "size": 24991,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024V2AB0M7\/oldfaithful.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024V2AB0M7\/download\/oldfaithful.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024V2AB0M7-47719daa84\/oldfaithful_converted.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024V2AB0M7-47719daa84\/oldfaithful_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021NHS652N\/F024V2AB0M7\/oldfaithful.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024V2AB0M7-5e8df9a799",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021NHS652N",
+        "display_as_bot": false,
+        "ts": "1623230773.040800"
+    },
+    {
+        "client_msg_id": "99460a63-bc41-43d6-ab06-9c2ba5b9a29b",
+        "type": "message",
+        "text": "works, thanks!",
+        "user": "U021ZC6L676",
+        "ts": "1623230825.041300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M9A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "works, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "168f7338-8af4-41cd-a846-36d91a02e918",
+        "type": "message",
+        "text": "todays tableau public workbook if you missed anything and want to download <https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/classworkbook9jun\/stackedbarchallenge>",
+        "user": "U021UNQGZC4",
+        "ts": "1623237151.042300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tableau Public",
+                "title": "class workbook 9 jun",
+                "title_link": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/classworkbook9jun\/stackedbarchallenge",
+                "text": "class workbook 9 jun",
+                "fallback": "Tableau Public: class workbook 9 jun",
+                "image_url": "https:\/\/public.tableau.com\/static\/images\/cl\/classworkbook9jun\/stackedbarchallenge\/4_3_hd.png",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/classworkbook9jun\/stackedbarchallenge",
+                "image_bytes": 91590,
+                "service_icon": "https:\/\/public.tableau.com\/app\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/classworkbook9jun\/stackedbarchallenge"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Xm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "todays tableau public workbook if you missed anything and want to download "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/classworkbook9jun\/stackedbarchallenge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1fecd26-99ec-4ad2-bfb9-ac33b2533d6f",
+        "type": "message",
+        "text": "is this also the order of presenting tomorrow morning <@U021NHS652N> ?",
+        "user": "U021UNQGZC4",
+        "ts": "1623237640.042500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXDK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is this also the order of presenting tomorrow morning "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623157388.039300",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "ad41ec82-c704-4d74-abbc-9df60e4f7942",
+        "type": "message",
+        "text": "hey hey <!channel>, we will do Katas in 3 min, those interested come to the main room",
+        "user": "U021NHS652N",
+        "ts": "1623247059.043600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CSo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", we will do Katas in 3 min, those interested come to the main room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2163 @@
+[
+    {
+        "client_msg_id": "2f337a18-6831-414a-974e-325749772b27",
+        "type": "message",
+        "text": "when will the sessions start?",
+        "user": "U021TDMHF5H",
+        "ts": "1622533918.007200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h\/S5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when will the sessions start?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622533918.007200",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1622534574.008300",
+        "reply_users": [
+            "U021Q54K3B7",
+            "U021NHS652N",
+            "U021TDMHF5H",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1622533950.007300"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1622533960.007500"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1622533970.007700"
+            },
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1622534013.007900"
+            },
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1622534016.008100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622534574.008300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "319649f9-174a-44e7-b4f8-d9c690aaf6c7",
+        "type": "message",
+        "text": "we are on it since 50 minutes ago",
+        "user": "U021Q54K3B7",
+        "ts": "1622533950.007300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rk54W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are on it since 50 minutes ago"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622533918.007200",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "1aee2371-abaf-412b-916b-e2987a8ca6df",
+        "type": "message",
+        "text": "<https:\/\/zoom.us\/j\/877626245> (psw 986565), here",
+        "user": "U021NHS652N",
+        "ts": "1622533960.007500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uV+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/877626245"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (psw 986565), here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622533918.007200",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "42a8590b-4d7d-42f7-a638-d5323db8bd50",
+        "type": "message",
+        "text": "this is our class zoom",
+        "user": "U021NHS652N",
+        "ts": "1622533970.007700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLAWM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is our class zoom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622533918.007200",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "d25e8c9d-a8c8-4297-afe4-9c611cf3100d",
+        "type": "message",
+        "text": "eh, ok",
+        "user": "U021TDMHF5H",
+        "ts": "1622534013.007900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eh, ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622533918.007200",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "8471b52c-48a2-4c38-8db7-0e6664eb54e0",
+        "type": "message",
+        "text": "thx",
+        "user": "U021TDMHF5H",
+        "ts": "1622534016.008100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622533918.007200",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "0b508082-1157-4992-b1f9-65ff5e24c23c",
+        "type": "message",
+        "text": "9 am every day :)",
+        "user": "U021UNQGZC4",
+        "ts": "1622534574.008300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vN3Um",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9 am every day :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622533918.007200",
+        "parent_user_id": "U021TDMHF5H"
+    },
+    {
+        "client_msg_id": "29fd283b-59ca-4c2a-825f-f433573847d9",
+        "type": "message",
+        "text": "<!channel>,\nhere comes the afternoon entertainment schedule :grin:\n\n• *2 pm - 3 pm:* :snake: TA's will offer support in setting up your (Ana)conda environments and also try to solve your technical issues in the terminal (\"command not found\"... those things)\n• *3 pm - 3.30 pm:* :martial_arts_uniform: introduction to Katas on <http:\/\/codewars.com|codewars.com>\n• *4 pm - 6 pm*: Prework and general Q &amp; A. Ask the TA's all your remaining questions about your prework (you know, :snail: :female_mage: :bus: :dart: :thermometer: :rock: :page_with_curl: :scissors: ) and all other questions you have for today\nenjoy your lunch!",
+        "user": "U021WEXHN4E",
+        "ts": "1622545635.014800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NV+Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nhere comes the afternoon entertainment schedule "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2 pm - 3 pm:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "snake"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " TA's will offer support in setting up your (Ana)conda environments and also try to solve your technical issues in the terminal (\"command not found\"... those things)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "3 pm - 3.30 pm:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "martial_arts_uniform"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " introduction to Katas on "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/codewars.com",
+                                        "text": "codewars.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "4 pm - 6 pm",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Prework and general Q & A. Ask the TA's all your remaining questions about your prework (you know, "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "snail"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "female_mage"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bus"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "dart"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "thermometer"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "rock"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "page_with_curl"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "scissors"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ) and all other questions you have for today"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nenjoy your lunch!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622545635.014800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1622549966.024300",
+        "reply_users": [
+            "U021Q53LBPX",
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1622549933.024100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622549966.024300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U021NHS652N",
+                    "U021Q53LBPX",
+                    "U0225RJ6SNM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff1f714f-f74f-41d0-a052-76526c8177ad",
+        "type": "message",
+        "text": "gotta love the emoji usage on the pre-work exercises, do you teach that as well?! :relaxed: definitely a valuable skill to have! :stuck_out_tongue_winking_eye:",
+        "user": "U021Q53LBPX",
+        "ts": "1622549933.024100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gotta love the emoji usage on the pre-work exercises, do you teach that as well?! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " definitely a valuable skill to have! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_winking_eye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622545635.014800",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "8a3d9224-d124-4a18-87b1-885785934930",
+        "type": "message",
+        "text": "week 7 will be completely on emoji usage",
+        "user": "U021WEXHN4E",
+        "ts": "1622549966.024300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BNDio",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "week 7 will be completely on emoji usage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622545635.014800",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "b057b6fc-d293-4e04-ada1-0d698020cd15",
+        "type": "message",
+        "text": "conda info command works for me in command terminal but not in git bash. shall I continue with command terminal?",
+        "user": "U0225RGM941",
+        "ts": "1622550249.027200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0225RGM941",
+            "ts": "1622550399.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "conda info command works for me in command terminal but not in git bash. shall I continue with command terminal?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550249.027200",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1622550931.030300",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RGM941"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622550715.029400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622550754.029600"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1622550870.029900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622550886.030100"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1622550931.030300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5b143aa8-a60d-49e4-bdae-d84154acb767",
+        "type": "message",
+        "text": ":microscope: *LAB WORK REVIEW*:microscope:\nThank you for your first set of lab work these two days, it’s great to see you all set up with your tools and infrastructure for the course, plus getting used to submitting work via the student portal. The teaching team can see when your work comes in, who is late etc, but we also learn a lot from looking at your submitted work - what students are struggling with and if we need to provide direct feedback or more instruction. Things I learnt:\n• one of you can lick their own elbow! :muscle:\n• one of you has more than 16 cousins!  :glitch_crab:\n• one of you agrees with me that cilantro\/coriander tastes like soap :face_vomiting:\n• theres an icehockey world championship that looks like a lot of fun! :ice_hockey_stick_and_puck:\n• some of you like scuba diving and beaches and the photos of these destinations are amazing :diving_mask:\n• one of you has a friend dressed as a superhero :male_superhero:\nFeedback\n• read the instructions on each lab carefully. If you are asked to write a .txt file, we expect to see a text file in the github repo. \n• when we say fun fact… we really do mean something fun, use your imagination :) \n• submit the url as well as pushing the content to your repo - otherwise we cant see you have completed the work! \n• please run all cells in your notebook before pushing to github \n• if displaying any images in your notebook, the image file will also need to be pushed to the github repo \n• always name your jupyter notebook files before pushing to github",
+        "user": "U021UNQGZC4",
+        "ts": "1622550694.029300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "microscope"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "LAB WORK REVIEW",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "microscope",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThank you for your first set of lab work these two days, it’s great to see you all set up with your tools and infrastructure for the course, plus getting used to submitting work via the student portal. The teaching team can see when your work comes in, who is late etc, but we also learn a lot from looking at your submitted work - what students are struggling with and if we need to provide direct feedback or more instruction. Things I learnt:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one of you can lick their own elbow! "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "muscle"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one of you has more than 16 cousins!  "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "glitch_crab"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one of you agrees with me that cilantro\/coriander tastes like soap "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "face_vomiting"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "theres an icehockey world championship that looks like a lot of fun! "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "ice_hockey_stick_and_puck"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "some of you like scuba diving and beaches and the photos of these destinations are amazing "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "diving_mask"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one of you has a friend dressed as a superhero "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "male_superhero"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nFeedback\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "read the instructions on each lab carefully. If you are asked to write a .txt file, we expect to see a text file in the github repo. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "when we say fun fact… we really do mean something fun, use your imagination :) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "submit the url as well as pushing the content to your repo - otherwise we cant see you have completed the work! "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "please run all cells in your notebook before pushing to github "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "if displaying any images in your notebook, the image file will also need to be pushed to the github repo "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "always name your jupyter notebook files before pushing to github"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25e8488c-791a-4a1e-9ddf-656911afa128",
+        "type": "message",
+        "text": "is this one for the lab help channel ?",
+        "user": "U021UNQGZC4",
+        "ts": "1622550715.029400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is this one for the lab help channel ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550249.027200",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "3b8893f9-8e17-4d7d-a926-cfe4ad0cf9d0",
+        "type": "message",
+        "text": "sounds like you have a solution though!",
+        "user": "U021UNQGZC4",
+        "ts": "1622550754.029600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TN+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sounds like you have a solution though!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550249.027200",
+        "parent_user_id": "U0225RGM941",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0225RGM941"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d41516d8-a1a1-4ea4-986d-6c1d3729c4b7",
+        "type": "message",
+        "text": "I opened the terminal from Anaconda navigator environment and then it workd. is this ok?",
+        "user": "U0225RGM941",
+        "ts": "1622550870.029900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I opened the terminal from Anaconda navigator environment and then it workd. is this ok?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550249.027200",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "4b83485c-f30d-4679-9ce4-fc2fdd63ce90",
+        "type": "message",
+        "text": "yes thats ideal :)",
+        "user": "U021UNQGZC4",
+        "ts": "1622550886.030100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WQCDv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes thats ideal :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550249.027200",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "f1bce141-5d6a-48f1-b177-f668c65a2b48",
+        "type": "message",
+        "text": ":slightly_smiling_face::thumbsup:",
+        "user": "U0225RGM941",
+        "ts": "1622550931.030300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z92NS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550249.027200",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "8dbe72f1-7ccc-4a58-aeaf-d3f4295e7e64",
+        "type": "message",
+        "text": "i also used to think that coriander tastes like soap! :sweat_smile: (not anymore though)",
+        "user": "U021Q53LBPX",
+        "ts": "1622552556.031000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZuZs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i also used to think that coriander tastes like soap! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (not anymore though)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f27b72a-c2b2-46b1-bb3d-3343084e4d18",
+        "type": "message",
+        "text": "Hahaha, coriander must be among the top 5 things I like the most in food",
+        "user": "U021Q54K3B7",
+        "ts": "1622554499.031500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qg9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahaha, coriander must be among the top 5 things I like the most in food"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622554499.031500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1622555212.032500",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622554660.032300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622555212.032500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "da59e956-e64e-4924-8651-cfb59847c4ee",
+        "type": "message",
+        "text": "I had coriander on my massaman for lunch today :yum:",
+        "user": "U021Q53LBPX",
+        "ts": "1622554634.032200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Xv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had coriander on my massaman for lunch today "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yum"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ba790c4-b443-4898-82d1-7926428349b1",
+        "type": "message",
+        "text": "#TeamCoriander :mechanical_arm:",
+        "user": "U021WEXHN4E",
+        "ts": "1622554660.032300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1Od",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#TeamCoriander "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mechanical_arm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622554499.031500",
+        "parent_user_id": "U021Q54K3B7"
+    },
+    {
+        "client_msg_id": "7c361132-a187-44e6-8329-ed76912c0fc2",
+        "type": "message",
+        "text": "youre all mad :)",
+        "user": "U021UNQGZC4",
+        "ts": "1622555212.032500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "youre all mad :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622554499.031500",
+        "parent_user_id": "U021Q54K3B7"
+    },
+    {
+        "client_msg_id": "80bb2a10-58e0-4161-9e42-af6aa09e28b9",
+        "type": "message",
+        "text": "<!channel>,\nhave some connection issues.... should be back in room 10 shortly",
+        "user": "U021WEXHN4E",
+        "ts": "1622557668.033300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fsZf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nhave some connection issues.... should be back in room 10 shortly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RJ3Z4H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18f8ca01-c3c3-4e85-8638-af8776669713",
+        "type": "message",
+        "text": "ok",
+        "user": "U021ZC6L676",
+        "ts": "1622557788.033600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aycU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af7880ce-2709-4684-8d9b-9458b37a2404",
+        "type": "message",
+        "text": "another one for git: i can't clone this lab for tomorrow - <https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Labs\/String_Operations_lab.ipynb>",
+        "user": "U021ZC6L676",
+        "ts": "1622560172.034300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "student-IH-labs-and-stuff\/BEES-DAFT-MAY21",
+                "title_link": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Labs\/String_Operations_lab.ipynb",
+                "text": "repository for the classroom of the barcelona\/berlin joint data full time bootcamp, May-Jul 2021 - student-IH-labs-and-stuff\/BEES-DAFT-MAY21",
+                "fallback": "GitHub: student-IH-labs-and-stuff\/BEES-DAFT-MAY21",
+                "image_url": "https:\/\/opengraph.githubassets.com\/82042ef557c4cd6401422d6de509670b797f56ea70e55a52e3b9b23678ca021f\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Labs\/String_Operations_lab.ipynb",
+                "image_bytes": 51715,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Labs\/String_Operations_lab.ipynb"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "82U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "another one for git: i can't clone this lab for tomorrow - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Labs\/String_Operations_lab.ipynb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622560172.034300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1622561310.035900",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622561310.035900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "edc145a7-de73-45f4-aecd-10832b1b02e7",
+        "type": "message",
+        "text": "and when i download it i can't open it",
+        "user": "U021ZC6L676",
+        "ts": "1622560973.034800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXAK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and when i download it i can't open it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2a0a8f1-cb67-43ef-add4-b3479d8b4e61",
+        "type": "message",
+        "text": "i get: Unable to open 'String_Operations_lab.ipynb': Unexpected token &lt; in JSON at position 6.",
+        "user": "U021ZC6L676",
+        "ts": "1622560983.035000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AwUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i get: Unable to open 'String_Operations_lab.ipynb': Unexpected token < in JSON at position 6."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "i cannot replicate the error you received :thinking_face:",
+        "files": [
+            {
+                "id": "F0237LR8WJK",
+                "created": 1622561153,
+                "timestamp": 1622561153,
+                "name": "String_Operations_lab.ipynb",
+                "title": "String_Operations_lab.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 8617,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0237LR8WJK\/string_operations_lab.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0237LR8WJK\/download\/string_operations_lab.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0237LR8WJK\/string_operations_lab.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0237LR8WJK-a50405be13",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8FV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i cannot replicate the error you received "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1622561178.035400"
+    },
+    {
+        "client_msg_id": "38ad7ded-aaa6-4e85-b978-fe46c6b56262",
+        "type": "message",
+        "text": "i wouldnt recommend to clone the class repo. perhaps make a fork ?",
+        "user": "U021UNQGZC4",
+        "ts": "1622561310.035900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oMbd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i wouldnt recommend to clone the class repo. perhaps make a fork ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622560172.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "1c116e98-b380-4382-9f29-19ee97e19e6e",
+        "type": "message",
+        "text": "ok, this one is opening",
+        "user": "U021ZC6L676",
+        "ts": "1622561312.036100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZsTKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, this one is opening"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561312.036100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1622561351.037300",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622561351.037300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c7368fc0-aeee-4d3e-a271-2c087b79b336",
+        "type": "message",
+        "text": "but how to actually download this file from github?",
+        "user": "U021ZC6L676",
+        "ts": "1622561332.036700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qoB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but how to actually download this file from github?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05be9f36-3fb1-4416-b457-de052de550ea",
+        "type": "message",
+        "text": "since i can't clone it",
+        "user": "U021ZC6L676",
+        "ts": "1622561345.037200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xN2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "since i can't clone it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b59bed1c-ee27-48a3-97da-ae05cd376b39",
+        "type": "message",
+        "text": "great! weird- lets see if it happens to someone else",
+        "user": "U021UNQGZC4",
+        "ts": "1622561351.037300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qh7d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great! weird- lets see if it happens to someone else"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561312.036100",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "865bff22-3a77-4b3f-87db-07f1fbb73b7e",
+        "type": "message",
+        "text": "cause i did 'save link as', that caused an error for sure, but i couldn't find any other way to download",
+        "user": "U021ZC6L676",
+        "ts": "1622561394.038100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cause i did 'save link as', that caused an error for sure, but i couldn't find any other way to download"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561394.038100",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1622561582.038800",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021UNQGZC4",
+            "U021ZC6L676"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622561471.038200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622561511.038400"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622561577.038600"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622561582.038800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "78c6fb2e-ff3c-46f0-9ff4-a7256901f895",
+        "type": "message",
+        "text": "when you do a rightclick on the \"raw\" button, that should usually work",
+        "user": "U021WEXHN4E",
+        "ts": "1622561471.038200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UseJA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when you do a rightclick on the \"raw\" button, that should usually work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561394.038100",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "0dbadcf2-5ca6-49d4-8813-16d7d9b3fdd4",
+        "type": "message",
+        "text": "or ctrl+ s \/ command +s",
+        "user": "U021UNQGZC4",
+        "ts": "1622561511.038400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nr=M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or ctrl+ s \/ command +s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561394.038100",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "b9c3d081-4e67-4bfd-a14f-20cce2eb93cb",
+        "type": "message",
+        "text": "true, 'raw\/save as' works!",
+        "user": "U021ZC6L676",
+        "ts": "1622561577.038600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "true, 'raw\/save as' works!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561394.038100",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "73e02697-9def-441d-b996-81c5dfdd6555",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U021ZC6L676",
+        "ts": "1622561582.038800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tcQo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561394.038100",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "509cd34b-34e9-4f24-9215-cd0b90b89afb",
+        "type": "message",
+        "text": "<!channel> as you will see in the Notion calendar, this morning you will need to attend the career hack at 9:00 <https:\/\/ironhack.zoom.us\/j\/95195033602.|here> and then meet us in our zoom classroom at 10am for lectures.",
+        "user": "U021UNQGZC4",
+        "ts": "1622616982.041300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1622617127.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1mai0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as you will see in the Notion calendar, this morning you will need to attend the career hack at 9:00 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ironhack.zoom.us\/j\/95195033602.",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and then meet us in our zoom classroom at 10am for lectures."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

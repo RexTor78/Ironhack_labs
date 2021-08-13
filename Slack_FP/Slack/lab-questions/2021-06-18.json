@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "78743743-af0c-432c-9243-118927c339b3",
+        "type": "message",
+        "text": "hello everyone! I am doing the lab and struggling with question 5. could anybody help me?",
+        "user": "U0225RJ6SNM",
+        "ts": "1624025988.014900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1VK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello everyone! I am doing the lab and struggling with question 5. could anybody help me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624025988.014900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624026328.015100",
+        "reply_users": [
+            "U021NHS652N"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1624026328.015100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c84d3a0b-bd63-4326-b555-086a81e716c5",
+        "type": "message",
+        "text": "Sure! Let’s go to breakout room 10 :smile:",
+        "user": "U021NHS652N",
+        "ts": "1624026328.015100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dr\/BF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure! Let’s go to breakout room 10 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624025988.014900",
+        "parent_user_id": "U0225RJ6SNM"
+    }
+]

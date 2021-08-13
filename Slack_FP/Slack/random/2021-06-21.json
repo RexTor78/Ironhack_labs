@@ -1,0 +1,88 @@
+[
+    {
+        "type": "message",
+        "text": "the power of water",
+        "files": [
+            {
+                "id": "F025PNBASNN",
+                "created": 1624289969,
+                "timestamp": 1624289969,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 2206456,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025PNBASNN\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025PNBASNN\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 318,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 424,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 636,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 707,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 848,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025PNBASNN-d46de17ecf\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 905,
+                "original_w": 1050,
+                "original_h": 928,
+                "thumb_tiny": "AwAqADBUkK\/LJ0\/vUsspiIAVm3dMGlBB+9071LJBHPEACVx0IqiUCNuUHGM01OFx7mg4Q4ByMUgbmgQ52wMDg1F1DKw+Uevehjnr0pjP6UALgnirYIVRjpioAuOc4qpM0jFkLEqmTj05oGi2w+Y+mabinQJmJD7UOypGzntn8aBEbA1GwNSQTJOxCqQQO9SMgH3hj3oCxIFA5\/U9arNt8y4H+zVpvumqsn+ukHtQMmhfFqrHstVXYMm0yFT6Y61afi149KqpzmgB8ESxsdpDdMHNXSBVWL\/Wp\/n1q1SGf\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025PNBASNN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025PNBASNN-6bd4101389",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iF=h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the power of water"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624289989.003300",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

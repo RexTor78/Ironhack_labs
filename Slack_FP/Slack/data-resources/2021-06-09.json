@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "122caa2e-ae28-48e5-94d9-e722dae5790c",
+        "type": "message",
+        "text": "step by step guide how to create a side by side bar chart - might be helpful, also for your projects, where some of you deal with Boolean values\n<https:\/\/www.pluralsight.com\/guides\/tableau-playbook-side-by-side-bar-chart>",
+        "user": "U021WEXHN4E",
+        "ts": "1623251100.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1623251191.000000"
+        },
+        "attachments": [
+            {
+                "title": "Tableau Playbook - Side-by-Side Bar Chart | Pluralsight",
+                "title_link": "https:\/\/www.pluralsight.com\/guides\/tableau-playbook-side-by-side-bar-chart",
+                "text": "Pluralsight Guides",
+                "fallback": "Tableau Playbook - Side-by-Side Bar Chart | Pluralsight",
+                "from_url": "https:\/\/www.pluralsight.com\/guides\/tableau-playbook-side-by-side-bar-chart",
+                "service_icon": "https:\/\/www.pluralsight.com\/etc\/clientlibs\/pluralsight\/main\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "pluralsight.com",
+                "id": 1,
+                "original_url": "https:\/\/www.pluralsight.com\/guides\/tableau-playbook-side-by-side-bar-chart"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tW8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "step by step guide how to create a side by side bar chart - might be helpful, also for your projects, where some of you deal with Boolean values\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pluralsight.com\/guides\/tableau-playbook-side-by-side-bar-chart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

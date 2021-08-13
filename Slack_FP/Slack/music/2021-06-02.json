@@ -1,0 +1,409 @@
+[
+    {
+        "client_msg_id": "348f5e1f-a3c1-4372-b02d-ef5adb3866b8",
+        "type": "message",
+        "text": "starting off our music recommendations - this always kept me company during the lockdowns <https:\/\/open.spotify.com\/playlist\/6PQLNIY9wZFZAygGzgH5hc?si=bded8aa8d0ee4f06>",
+        "user": "U021UNQGZC4",
+        "ts": "1622622298.000600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Quarantunes",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/6PQLNIY9wZFZAygGzgH5hc?si=bded8aa8d0ee4f06",
+                "thumb_url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27335132ef1e85ce1b2c27b4e45ab67616d0000b273886dc60712c6599a76777c7fab67616d0000b273a7086076d553ae2ea84f9bb3ab67616d0000b273b8d64ac6718c4d75b741277b",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Quarantunes",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Quarantunes\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/6PQLNIY9wZFZAygGzgH5hc?si=bded8aa8d0ee4f06\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/playlist\/6PQLNIY9wZFZAygGzgH5hc?si=bded8aa8d0ee4f06",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/6PQLNIY9wZFZAygGzgH5hc?si=bded8aa8d0ee4f06"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mlT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "starting off our music recommendations - this always kept me company during the lockdowns "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/6PQLNIY9wZFZAygGzgH5hc?si=bded8aa8d0ee4f06"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "notes",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8a20614-a485-4815-abce-a63e03533324",
+        "type": "message",
+        "text": "nice!! thank u for sharing",
+        "user": "U021ZC6H9GC",
+        "ts": "1622629282.000900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tdbR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice!! thank u for sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92f38e66-6f08-4f7b-b2a1-61b104ea82b2",
+        "type": "message",
+        "text": "sharing a song i like! <https:\/\/open.spotify.com\/track\/6Mvb8vVYbBlYn7lkTciTd6?si=363ff8a179004eee>",
+        "user": "U021Q53LBPX",
+        "ts": "1622629660.001300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Abusey Junction",
+                "title_link": "https:\/\/open.spotify.com\/track\/6Mvb8vVYbBlYn7lkTciTd6?si=363ff8a179004eee",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02fb5166bb3ece94b8dcfeafbd",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Abusey Junction",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Abusey Junction\" src=\"https:\/\/open.spotify.com\/embed\/track\/6Mvb8vVYbBlYn7lkTciTd6?si=363ff8a179004eee\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/track\/6Mvb8vVYbBlYn7lkTciTd6?si=363ff8a179004eee",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/track\/6Mvb8vVYbBlYn7lkTciTd6?si=363ff8a179004eee"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b+Bv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sharing a song i like! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/track\/6Mvb8vVYbBlYn7lkTciTd6?si=363ff8a179004eee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622629660.001300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1622634617.003700",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622634617.003700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9cbb6f3b-6004-4476-8544-bff04de031c4",
+        "type": "message",
+        "text": "this is hashtag music by the way",
+        "user": "U021TDMBPRR",
+        "ts": "1622633322.003000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pt96X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is hashtag music by the way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b9c6750-ca92-4b16-b7e7-1f5161abe2e9",
+        "type": "message",
+        "text": "python sound may sound like music to some people's ears however I believe *haha*",
+        "user": "U021TDMBPRR",
+        "ts": "1622633369.003500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aANAf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "python sound may sound like music to some people's ears however I believe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "haha",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be227b11-319b-4dbd-a09e-7d4b2856d385",
+        "type": "message",
+        "text": "like this !",
+        "user": "U021UNQGZC4",
+        "ts": "1622634617.003700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like this !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622629660.001300",
+        "parent_user_id": "U021Q53LBPX",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2ef09b3-e492-428e-b6c7-3f012ad26d7b",
+        "type": "message",
+        "text": "Music to learn German!\n\nA bit more refined:\n\n<https:\/\/open.spotify.com\/embed\/playlist\/0883lqgtine5QCzK33o46b|Auf Deutsch>\n\nAnd a bit less (German-Latin trap?):\n\n<https:\/\/open.spotify.com\/playlist\/0mDM4f2wIRQjPDJDwrPM4B?si=a9d909294c524cda|Tanzt>",
+        "user": "U021Q54K3B7",
+        "ts": "1622703561.004600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021Q54K3B7",
+            "ts": "1622703678.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Zurückbleiben bitte",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/0mDM4f2wIRQjPDJDwrPM4B?si=a9d909294c524cda",
+                "thumb_url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2732e565fff9dadbd4493a3c257ab67616d0000b27330e7aec7a987d30b25593e6cab67616d0000b2733fbf2f9dfc5c9be50681ed11ab67616d0000b273987a7815cdd46045507ead26",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Zurückbleiben bitte",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Zurückbleiben bitte\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/0mDM4f2wIRQjPDJDwrPM4B?si=a9d909294c524cda\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/playlist\/0mDM4f2wIRQjPDJDwrPM4B?si=a9d909294c524cda",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/0mDM4f2wIRQjPDJDwrPM4B?si=a9d909294c524cda"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0a5kl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Music to learn German!\n\nA bit more refined:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/embed\/playlist\/0883lqgtine5QCzK33o46b",
+                                "text": "Auf Deutsch"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnd a bit less (German-Latin trap?):\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/0mDM4f2wIRQjPDJDwrPM4B?si=a9d909294c524cda",
+                                "text": "Tanzt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

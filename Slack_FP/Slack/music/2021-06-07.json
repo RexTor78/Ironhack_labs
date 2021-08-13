@@ -1,0 +1,380 @@
+[
+    {
+        "client_msg_id": "2da51ed8-8df7-4848-8387-58cc81af77a8",
+        "type": "message",
+        "text": "anyone got some sunny hot weather music suggestions ?",
+        "user": "U021UNQGZC4",
+        "ts": "1623077093.000300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t0tMP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anyone got some sunny hot weather music suggestions ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "765feb3b-e54c-4820-aa2a-7c12620b196e",
+        "type": "message",
+        "text": "canned heat - going up the country",
+        "user": "U021Q53LBPX",
+        "ts": "1623077123.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "canned heat - going up the country"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623077123.000800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623077301.003200",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623077301.003200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3f4d2a78-aa44-47c0-b224-1cd896d8d8c2",
+        "type": "message",
+        "text": "Sunshine reggae",
+        "user": "U022VC1JD29",
+        "ts": "1623077133.001100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sunshine reggae"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "994bf463-0108-44e4-8471-cfbd58f51298",
+        "type": "message",
+        "text": "96 degrees in the shade - third world",
+        "user": "U021Q53LBPX",
+        "ts": "1623077160.001500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nxs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "96 degrees in the shade - third world"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "543fa262-9e68-4155-b334-5600e4b45c4c",
+        "type": "message",
+        "text": "mi swing es tropical quantic nickodemus (this one is in spanish)",
+        "user": "U021Q53LBPX",
+        "ts": "1623077208.002000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hTLqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mi swing es tropical quantic nickodemus (this one is in spanish)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76d5293c-7a29-44e7-9f1c-18a6d1758d09",
+        "type": "message",
+        "text": "nice :) i was thinking a bit of daft punk blasting out might suit but ill check these out too :)",
+        "user": "U021UNQGZC4",
+        "ts": "1623077258.002600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mCqP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice :) i was thinking a bit of daft punk blasting out might suit but ill check these out too :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b8f9464-f3a5-40cc-bb50-54fc605acbf2",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/album\/4m2880jivSbbyEGAKfITCa?si=3N11fdxNRSmG8woUTYPNJA>",
+        "user": "U021UNQGZC4",
+        "ts": "1623077263.002800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Random Access Memories",
+                "title_link": "https:\/\/open.spotify.com\/album\/4m2880jivSbbyEGAKfITCa?si=3N11fdxNRSmG8woUTYPNJA",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e021d97ca7376f835055f828139",
+                "thumb_width": 300,
+                "thumb_height": 298,
+                "fallback": "Spotify Audio: Random Access Memories",
+                "audio_html": "<iframe width=\"100%\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Random Access Memories\" src=\"https:\/\/open.spotify.com\/embed\/album\/4m2880jivSbbyEGAKfITCa?si=3N11fdxNRSmG8woUTYPNJA\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/album\/4m2880jivSbbyEGAKfITCa?si=3N11fdxNRSmG8woUTYPNJA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/album\/4m2880jivSbbyEGAKfITCa?si=3N11fdxNRSmG8woUTYPNJA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l6gt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/album\/4m2880jivSbbyEGAKfITCa?si=3N11fdxNRSmG8woUTYPNJA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c05fe06a-196d-49e7-8ed8-020fca5eb66a",
+        "type": "message",
+        "text": "Daft punk are great!",
+        "user": "U021Q53LBPX",
+        "ts": "1623077298.003100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gLf3h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Daft punk are great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05efec25-b65f-4ae1-b765-d7fc5034d535",
+        "type": "message",
+        "text": "good  choice - love this song!",
+        "user": "U021UNQGZC4",
+        "ts": "1623077301.003200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=Mc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good  choice - love this song!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623077123.000800",
+        "parent_user_id": "U021Q53LBPX"
+    }
+]

@@ -1,0 +1,751 @@
+[
+    {
+        "client_msg_id": "654aae86-1798-4c19-9954-f955d367b870",
+        "type": "message",
+        "text": "good morning <!channel>! welcome to day 2 of your mid bootcamp project.\n• Enjoy learning as you code and today, try focusing on 1 or 2 *specific data questions* as you are analysing your data. Remember questions generally start with a where, who, what, why, when or how.  These can be represented and explored with charts and within dashboards. \n• As you create these charts, consider the *visual best practices* we covered in week 2 - I would recommend returning to the slides to see if there were some steps that could be taken to better visually communicate the insight\n• An assumption of a relationship, eg. “this data will be correlated with this other data”, is something I often see students starting with. This is a *hypothesis*, you start from a null hypothesis, and in order to prove that relationship, data analysts would conduct robust statistical tests. You must also consider bias, that your sample may not be representative and include confidence bands to represent uncertainty. \n  <@U021TDN4RAP> <@U021TDMLNTD> <@U021TDMEH27> <@U021TDMBPRR> <@U021ZC6H9GC> <@U0225RHK6Q1> please meet me in room 10 at 10:30 for our morning stand up call, you will be sharing your trello boards to display progress, discuss blockers and prioritisation",
+        "user": "U021UNQGZC4",
+        "ts": "1624952016.044500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624952268.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good morning "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! welcome to day 2 of your mid bootcamp project.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Enjoy learning as you code and today, try focusing on 1 or 2 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "specific data questions",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " as you are analysing your data. Remember questions generally start with a where, who, what, why, when or how.  These can be represented and explored with charts and within dashboards. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "As you create these charts, consider the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "visual best practices",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " we covered in week 2 - I would recommend returning to the slides to see if there were some steps that could be taken to better visually communicate the insight"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "An assumption of a relationship, eg. “this data will be correlated with this other data”, is something I often see students starting with. This is a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "hypothesis",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", you start from a null hypothesis, and in order to prove that relationship, data analysts would conduct robust statistical tests. You must also consider bias, that your sample may not be representative and include confidence bands to represent uncertainty. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDN4RAP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMLNTD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMEH27"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMBPRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6H9GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please meet me in room 10 at 10:30 for our morning stand up call, you will be sharing your trello boards to display progress, discuss blockers and prioritisation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDN4RAP",
+                    "U021TDMEH27"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b411592-d04a-4ded-b4ee-08ab3d05a889",
+        "type": "message",
+        "text": "<!everyone> I have set up a quick poll \/ project check-in on the <#C024EJ8H3S8|project-questions>  channel. Please complete it on your return from lunch",
+        "user": "U021UNQGZC4",
+        "ts": "1624967664.046200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624967676.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pm0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have set up a quick poll \/ project check-in on the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C024EJ8H3S8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  channel. Please complete it on your return from lunch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "038ac311-f99f-42a7-bbe9-e3ae944d38f8",
+        "type": "message",
+        "text": "<!channel>,\nonly :berlin1: Berlin students again: please file your intended attendance here until tomorrow morning 8am, in case you want to come to campus.\nSo far, no one voiced interest in coming, which is fine. But in this case we won't have\/need a Data TA (meaning: me) on campus\n<https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624607129101600|https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624607129101600>",
+        "user": "U021WEXHN4E",
+        "ts": "1624973665.050300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624607129101600",
+                "fallback": "[June 25th, 2021 12:45 AM] brett.hunt: Thanks Flo! We'll be sending out another reminder email with some additional information and answers to questions from other classes towards the end of the day today. If anyone has any questions, feel free to DM me here and I will include them in this afternoon's message :slightly_smiling_face:\n\nFor now, here is the link to the <https:\/\/doodle.com\/poll\/irsv5x3wccsxn5wz|Doodle signup>",
+                "ts": "1624607129.101600",
+                "author_id": "U025N2C68SK",
+                "author_subname": "Brett Hunt",
+                "channel_id": "C021UM94GLU",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Thanks Flo! We'll be sending out another reminder email with some additional information and answers to questions from other classes towards the end of the day today. If anyone has any questions, feel free to DM me here and I will include them in this afternoon's message :slightly_smiling_face:\n\nFor now, here is the link to the <https:\/\/doodle.com\/poll\/irsv5x3wccsxn5wz|Doodle signup>",
+                "author_name": "Brett Hunt",
+                "author_link": "https:\/\/da-ft-ber-05-21.slack.com\/team\/U025N2C68SK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-06-24\/2200064215142_03f5f36dfceb08449ddb_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624607129101600",
+                "footer": "Posted in #general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cPWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nonly "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "berlin1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Berlin students again: please file your intended attendance here until tomorrow morning 8am, in case you want to come to campus.\nSo far, no one voiced interest in coming, which is fine. But in this case we won't have\/need a Data TA (meaning: me) on campus\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624607129101600",
+                                "text": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C021UM94GLU\/p1624607129101600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624973665.050300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1624977094.052700",
+        "reply_users": [
+            "U021ZC6L676",
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624974659.050600"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624974696.050800"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1624977094.052700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aaadfcb3-b303-4862-bae9-d5f0563dca5d",
+        "type": "message",
+        "text": "to be honest i'd rather meet you in a beergarden than having to make a test and be there with the mask all the time :8",
+        "user": "U021ZC6L676",
+        "ts": "1624974659.050600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "inar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to be honest i'd rather meet you in a beergarden than having to make a test and be there with the mask all the time :8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624973665.050300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "c851a9b9-ec14-4a91-8936-1c14ff4be6a9",
+        "type": "message",
+        "text": "haha, well ask me :grin:",
+        "user": "U021WEXHN4E",
+        "ts": "1624974696.050800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2KB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha, well ask me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624973665.050300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "643be02c-57ae-4572-ad0b-546cbaf4fb61",
+        "type": "message",
+        "text": "Robert is in the main room",
+        "user": "U021Q53LBPX",
+        "ts": "1624975386.051200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Robert is in the main room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975386.051200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624975401.051400",
+        "reply_users": [
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624975401.051400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "eae22109-9fde-48af-9f6e-208cceca0b0a",
+        "type": "message",
+        "text": "thanks!!",
+        "user": "U0225RJ6SNM",
+        "ts": "1624975401.051400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=V1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975386.051200",
+        "parent_user_id": "U021Q53LBPX",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4cff7da-5875-40ef-b9e6-34980309d755",
+        "type": "message",
+        "text": "yoga! <!channel>",
+        "user": "U021UNQGZC4",
+        "ts": "1624975458.051900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mf39r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yoga! "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f239ee7-4ec1-48d8-8590-f80330eb394b",
+        "type": "message",
+        "text": "sian could we mantain the breakout rooms open..?",
+        "user": "U021ZC6H9GC",
+        "ts": "1624975600.052200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sian could we mantain the breakout rooms open..?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975600.052200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1624975630.052500",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021ZC6H9GC"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624975617.052300"
+            },
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1624975630.052500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "49469c95-de39-426a-a62c-39b9e5b1d65e",
+        "type": "message",
+        "text": "yes, sorry I closed them accidentally",
+        "user": "U021WEXHN4E",
+        "ts": "1624975617.052300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rioq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, sorry I closed them accidentally"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975600.052200",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "84d95267-9b8b-4856-a13a-19bd9ccd5836",
+        "type": "message",
+        "text": "thank u!",
+        "user": "U021ZC6H9GC",
+        "ts": "1624975630.052500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sy+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank u!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624975600.052200",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "0836faf6-5361-4454-a4ee-3e05d158ae51",
+        "type": "message",
+        "text": "deal! we'll organise a beer analytics these days :grinning:",
+        "user": "U021ZC6L676",
+        "ts": "1624977094.052700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bs7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "deal! we'll organise a beer analytics these days "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624973665.050300",
+        "parent_user_id": "U021WEXHN4E"
+    }
+]

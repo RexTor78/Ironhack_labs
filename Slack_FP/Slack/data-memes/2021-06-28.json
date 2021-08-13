@@ -1,0 +1,184 @@
+[
+    {
+        "type": "message",
+        "text": "hehe, this is what Grepper has to say about covid code",
+        "files": [
+            {
+                "id": "F02728JNUUQ",
+                "created": 1624872873,
+                "timestamp": 1624872873,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 76772,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02728JNUUQ\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02728JNUUQ\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 123,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 164,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 246,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 274,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 328,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02728JNUUQ-de03018074\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 350,
+                "original_w": 1392,
+                "original_h": 476,
+                "thumb_tiny": "AwAQADDRIGelKOBxiqc6yGZiqyY\/2ZMVHsm\/uz\/9\/hQBoZoBzWf5c\/8Acn\/7\/CgxT\/3J\/wDv6KANA0orO8qf+5P\/AN\/RVq1V1XDhx\/vNnvQB\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F02728JNUUQ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02728JNUUQ-90114c4928",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FkEQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hehe, this is what Grepper has to say about covid code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624872877.000400",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0225RGM941",
+                    "U021WEXHN4E",
+                    "U021TDMLNTD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "dont forget what you might expect this week dealing with real world data...",
+        "files": [
+            {
+                "id": "F026CHZ5CAW",
+                "created": 1624873090,
+                "timestamp": 1624873090,
+                "name": "data_sets_in_the_wild.png",
+                "title": "data_sets_in_the_wild.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 903695,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026CHZ5CAW\/data_sets_in_the_wild.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026CHZ5CAW\/download\/data_sets_in_the_wild.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026CHZ5CAW-d79d5df435\/data_sets_in_the_wild_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1227,
+                "original_h": 690,
+                "thumb_tiny": "AwAaADDSYgA881EXcd\/0H+NQTIDdEsCRgdKMoU\/1II+lK6AuBge4oJHTIBqlaqq3Z29MGo9QOJSfYUwLu5vX+X+NSAjpkE1jlh5WcfNmpLJt1yv4\/wAqAL7Rt5rOMdOOagW2l81XbBx05q7RSsBVt4ZI5dz4xj1p01qkz7mzViiiwFF7Dn5Dx70sFm0M6sCCozmrtFMD\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F026CHZ5CAW\/data_sets_in_the_wild.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026CHZ5CAW-271c340fe4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3PP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dont forget what you might expect this week dealing with real world data..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1624873108.001100",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U021CE3UWPR",
+                    "U021TDMLNTD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

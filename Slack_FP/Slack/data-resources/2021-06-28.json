@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "ff4fad8b-9cec-4178-bbf2-67a9555bc945",
+        "type": "message",
+        "text": "<https:\/\/fred.stlouisfed.org\/?gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLVSUXF4J1BazinaZwWNiYUqz_2rtpzo_RP01BmmsXU-wIS92OlR9waAmIOEALw_wcB> Federal Reserve FRED is a good source for economic data FYI",
+        "user": "U0225RJ9GQZ",
+        "ts": "1624865398.000700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0225RJ9GQZ",
+            "ts": "1624865444.000000"
+        },
+        "attachments": [
+            {
+                "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+                "title_link": "https:\/\/fred.stlouisfed.org\/?gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLVSUXF4J1BazinaZwWNiYUqz_2rtpzo_RP01BmmsXU-wIS92OlR9waAmIOEALw_wcB",
+                "text": "Download, graph, and track 815,000 economic time series from 107 sources.",
+                "fallback": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+                "from_url": "https:\/\/fred.stlouisfed.org\/?gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLVSUXF4J1BazinaZwWNiYUqz_2rtpzo_RP01BmmsXU-wIS92OlR9waAmIOEALw_wcB",
+                "service_icon": "https:\/\/fred.stlouisfed.org\/favicon.ico",
+                "service_name": "fred.stlouisfed.org",
+                "id": 1,
+                "original_url": "https:\/\/fred.stlouisfed.org\/?gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLVSUXF4J1BazinaZwWNiYUqz_2rtpzo_RP01BmmsXU-wIS92OlR9waAmIOEALw_wcB"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rhrz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fred.stlouisfed.org\/?gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLVSUXF4J1BazinaZwWNiYUqz_2rtpzo_RP01BmmsXU-wIS92OlR9waAmIOEALw_wcB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Federal Reserve FRED is a good source for economic data FYI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

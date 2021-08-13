@@ -1,0 +1,231 @@
+[
+    {
+        "type": "message",
+        "text": ":uk:  , are you ok :pleading_face:",
+        "files": [
+            {
+                "id": "F026JRG220H",
+                "created": 1624604434,
+                "timestamp": 1624604434,
+                "name": "photo_2021-06-24_19-03-02.jpg",
+                "title": "photo_2021-06-24_19-03-02.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 74857,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026JRG220H\/photo_2021-06-24_19-03-02.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026JRG220H\/download\/photo_2021-06-24_19-03-02.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 213,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 284,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_720.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 425,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_800.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 473,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_960.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 567,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026JRG220H-9b486e2212\/photo_2021-06-24_19-03-02_1024.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 605,
+                "thumb_1024_h": 1024,
+                "original_w": 756,
+                "original_h": 1280,
+                "thumb_tiny": "AwAwABzRJOTyaASPU0uOepoIxk5NADZFaSMqrFD6iiJGjTDOXOepp9FACDr0oboaO9I7bQOOtADqKQHP4UtACE46c0mcnn0oznvQc9j+lACYxwafTRkd\/wBKXNAH\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F026JRG220H\/photo_2021-06-24_19-03-02.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026JRG220H-8ca102601d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WdIl=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "uk"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  , are you ok "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1624604460.005000",
+        "thread_ts": "1624604460.005000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624607664.005500",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624607664.005500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bcebbf3-7c06-402f-93cc-dfbd6331e438",
+        "type": "message",
+        "text": "yeah it does not look good over here …. but the bright side of that chart is that majority of infections are hitting young, healthy people, who have 1 or no vaccinations- very few deaths, and a small proportion of patients in ICU on ventilators",
+        "user": "U021UNQGZC4",
+        "ts": "1624607664.005500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+mt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah it does not look good over here …. but the bright side of that chart is that majority of infections are hitting young, healthy people, who have 1 or no vaccinations- very few deaths, and a small proportion of patients in ICU on ventilators"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624604460.005000",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "db3315e7-eec5-4ed5-973f-27402cbaa4bc",
+        "type": "message",
+        "text": "<https:\/\/www.theguardian.com\/artanddesign\/2021\/jun\/23\/ai-helps-return-rembrandts-the-night-watch-to-original-size>",
+        "user": "U021UNQGZC4",
+        "ts": "1624607854.005800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "the Guardian",
+                "title": "AI helps return Rembrandt’s The Night Watch to original size",
+                "title_link": "https:\/\/www.theguardian.com\/artanddesign\/2021\/jun\/23\/ai-helps-return-rembrandts-the-night-watch-to-original-size",
+                "text": "Rijksmuseum reproduces the work in all its glory, 300 years after it was cut to fit between doors",
+                "fallback": "the Guardian: AI helps return Rembrandt’s The Night Watch to original size",
+                "image_url": "https:\/\/i.guim.co.uk\/img\/media\/6c8bb35b8506b436b0b1889355d25d76e43ac7ae\/108_203_3299_1978\/master\/3299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02320d3c2fed82f460a8089b4aeb031f",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1624455741,
+                "from_url": "https:\/\/www.theguardian.com\/artanddesign\/2021\/jun\/23\/ai-helps-return-rembrandts-the-night-watch-to-original-size",
+                "image_bytes": 124911,
+                "service_icon": "https:\/\/static.guim.co.uk\/images\/favicon-32x32.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.theguardian.com\/artanddesign\/2021\/jun\/23\/ai-helps-return-rembrandts-the-night-watch-to-original-size"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zv6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theguardian.com\/artanddesign\/2021\/jun\/23\/ai-helps-return-rembrandts-the-night-watch-to-original-size"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U021TDMEH27"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U0225RJ3Z4H",
+                    "U021CE3UWPR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

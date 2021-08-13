@@ -1,0 +1,1157 @@
+[
+    {
+        "client_msg_id": "08cbd75c-2240-4386-9119-6b5d96df7715",
+        "type": "message",
+        "text": "Thanks for all you messages class, you are amazing and they helped me to feel much better :muscle:\nYesterday I was a little bit weak but I can feel how I’m improving, I’ll keep you updated. I’m looking forward to see your nice faces again :heart:",
+        "user": "U021NHS652N",
+        "ts": "1624521806.078700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z=03t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for all you messages class, you are amazing and they helped me to feel much better "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nYesterday I was a little bit weak but I can feel how I’m improving, I’ll keep you updated. I’m looking forward to see your nice faces again "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U021WEXHN4E",
+                    "U021CE3UWPR",
+                    "U021UNQGZC4",
+                    "U021ZC6JR28",
+                    "U0225RJ3Z4H",
+                    "U021ZC6L676",
+                    "U021TDMEH27",
+                    "U0225RJ9GQZ",
+                    "U021TDMLNTD"
+                ],
+                "count": 9
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U021CE3UWPR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "483f18df-746b-42c2-b46d-f08453eda90e",
+        "type": "message",
+        "text": "<https:\/\/miro.com\/welcomeonboard\/WXJYY0FyTHdtN0RTNnRnbkdySVN5QWlsMXhZWjV3b1JCaWpDVmI4WW8wU21icjNjNm05WnhlQ0FMSlZHRlpFeXwzMDc0NDU3MzUwMTM3OTI1MDc2>",
+        "user": "U021UNQGZC4",
+        "ts": "1624526204.080500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vbk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miro.com\/welcomeonboard\/WXJYY0FyTHdtN0RTNnRnbkdySVN5QWlsMXhZWjV3b1JCaWpDVmI4WW8wU21icjNjNm05WnhlQ0FMSlZHRlpFeXwzMDc0NDU3MzUwMTM3OTI1MDc2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "our review board today",
+        "files": [
+            {
+                "id": "F026RTNEMLY",
+                "created": 1624528672,
+                "timestamp": 1624528672,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 352938,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026RTNEMLY\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026RTNEMLY\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 186,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 249,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 373,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 414,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 497,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RTNEMLY-2d7b9ba183\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 530,
+                "original_w": 2078,
+                "original_h": 1076,
+                "thumb_tiny": "AwAYADDRoNFJnnigAOTRjmlOe2Kb8\/YL+dACjNLRSADsMUALjmkxgcUtFACc4pR0oooAKKKKAP\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F026RTNEMLY\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026RTNEMLY-adc0f7ef9d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ybLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "our review board today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624528676.080800",
+        "thread_ts": "1624528676.080800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624529056.081500",
+        "reply_users": [
+            "U0225RHK6Q1"
+        ],
+        "replies": [
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1624529056.081500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4a8b61bd-0be2-4852-a4a8-58af5df32b89",
+        "type": "message",
+        "text": "does anyone have news of lucas or nayib ? did they survive the party ?",
+        "user": "U021UNQGZC4",
+        "ts": "1624528891.081400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z2NRV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does anyone have news of lucas or nayib ? did they survive the party ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624528891.081400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624602703.094900",
+        "reply_users": [
+            "U021TDMLNTD",
+            "U021UNQGZC4",
+            "U0225RJ9GQZ"
+        ],
+        "replies": [
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1624529540.081700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624533336.087200"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1624602703.094900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86e3180d-30d8-4560-b2da-d1fe1366ae8b",
+        "type": "message",
+        "text": "Nice!",
+        "user": "U0225RHK6Q1",
+        "ts": "1624529056.081500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624528676.080800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "70da7a17-e2ef-4787-bdd6-970d6f4b81d4",
+        "type": "message",
+        "text": "haha they are alive but still recovering i think",
+        "user": "U021TDMLNTD",
+        "ts": "1624529540.081700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3XB4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha they are alive but still recovering i think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624528891.081400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "b6793507-1c98-42fe-9476-264dbfd9aa9d",
+        "type": "message",
+        "text": "Hi! to keep us all on track for the afternoon:\n•  our optional *mapfilterreduce* workshop with <@U021WEXHN4E> continues after lunch in the main zoom room, at 2pm. :fried_egg:\n• at 2:30 in breakout room 1 I will be running a few workshop style challenges, *joining data together* in various ways :flags:\nfor the remainder of the day:\n - if you want a kata today, do let Flo know to organise it.:fencer:\n - you have an optional lab to work on which Miguel has recommended as a review:diving_mask:\n - at 4pm Robert will join us for some cleansing yoga:man_in_lotus_position:\n- use the time to assimilate any knowledge from earlier weeks, revisit lectures and start thinking about your next week project:film_projector:\n\n:penguin: as always DM me with any non specific questions or use the lab-questions and project-questions channels",
+        "user": "U021UNQGZC4",
+        "ts": "1624533153.087000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624533309.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/OeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! to keep us all on track for the afternoon:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " our optional "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "mapfilterreduce",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " workshop with "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U021WEXHN4E"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " continues after lunch in the main zoom room, at 2pm. "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "fried_egg"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "at 2:30 in breakout room 1 I will be running a few workshop style challenges,"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " joining data together",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " in various ways "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "flags"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for the remainder of the day:\n - if you want a kata today, do let Flo know to organise it."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fencer"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n - you have an optional lab to work on which Miguel has recommended as a review"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "diving_mask"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n - at 4pm Robert will join us for some cleansing yoga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man_in_lotus_position"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- use the time to assimilate any knowledge from earlier weeks, revisit lectures and start thinking about your next week project"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "film_projector"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "penguin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as always DM me with any non specific questions or use the lab-questions and project-questions channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U022VC1JD29",
+                    "U0225RHK6Q1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0430a23-948b-4ca4-9432-74ba1a2fdc22",
+        "type": "message",
+        "text": "oh dear oh dear- thanks for letting me know.",
+        "user": "U021UNQGZC4",
+        "ts": "1624533336.087200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh dear oh dear- thanks for letting me know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624528891.081400",
+        "parent_user_id": "U021UNQGZC4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel>,\nthe script and the data for the map - filter - reduce workshop",
+        "files": [
+            {
+                "id": "F0262S2LA9H",
+                "created": 1624537188,
+                "timestamp": 1624537188,
+                "name": "map_filter_reduce_workshop.ipynb",
+                "title": "map_filter_reduce_workshop.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 27918,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0262S2LA9H\/map_filter_reduce_workshop.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0262S2LA9H\/download\/map_filter_reduce_workshop.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0262S2LA9H\/map_filter_reduce_workshop.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0262S2LA9H-e3fb827672",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F026SB02BAL",
+                "created": 1624537190,
+                "timestamp": 1624537190,
+                "name": "unit4_healthcare_for_all.csv",
+                "title": "unit4_healthcare_for_all.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 8528233,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026SB02BAL\/unit4_healthcare_for_all.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026SB02BAL\/download\/unit4_healthcare_for_all.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F026SB02BAL\/unit4_healthcare_for_all.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026SB02BAL-595c227ef1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xgkyt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nthe script and the data for the map - filter - reduce workshop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "ts": "1624537255.088600",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RJ6SNM",
+                    "U0225RHK6Q1",
+                    "U021ZC6H9GC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c1ac4ca-59da-4774-a65b-a4b27ea67cd3",
+        "type": "message",
+        "text": "<@U021UNQGZC4> did you record the previous workshop about joining data sets?",
+        "user": "U021TDMLNTD",
+        "ts": "1624545567.091100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZzwKK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did you record the previous workshop about joining data sets?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b1ecffc-6ee1-47a2-b2cf-b6d5a5cbb679",
+        "type": "message",
+        "text": "we were only recording the main room, but i will share an annotated notebook",
+        "user": "U021UNQGZC4",
+        "ts": "1624546002.091700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ZK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we were only recording the main room, but i will share an annotated notebook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546002.091700",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1624549920.094300",
+        "reply_users": [
+            "U022VC1JD29",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U022VC1JD29",
+                "ts": "1624547216.093400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624549219.093600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624549224.093900"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1624549393.094100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624549920.094300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3aec748f-5429-471b-922e-24c66be47e48",
+        "type": "message",
+        "text": "if theres anything you wanted to specifically do with data joins, just ask!",
+        "user": "U021UNQGZC4",
+        "ts": "1624546018.092100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCpZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if theres anything you wanted to specifically do with data joins, just ask!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9cbb2cb4-4ceb-4388-ba8f-e36f9d28f750",
+        "type": "message",
+        "text": "Where do I find the videos also for previous days\/weeks?",
+        "user": "U022VC1JD29",
+        "ts": "1624547216.093400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ig=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where do I find the videos also for previous days\/weeks?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546002.091700",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "caa23023-ddb3-40e0-aa25-844c4b21e9b6",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1>",
+        "user": "U021UNQGZC4",
+        "ts": "1624549219.093600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Classroom Recordings- May2Jul",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Classroom Recordings- May2Jul",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LY5T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546002.091700",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "b654ebd3-6a81-4492-8f55-866f82217de7",
+        "type": "message",
+        "text": "bookmark that!",
+        "user": "U021UNQGZC4",
+        "ts": "1624549224.093900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bookmark that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546002.091700",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "fa988971-34c7-4917-8ff9-5cc30c6e226d",
+        "type": "message",
+        "text": "Awesome! Thanks!",
+        "user": "U022VC1JD29",
+        "ts": "1624549393.094100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wn5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624546002.091700",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0260KJJ2FP",
+                "created": 1624549916,
+                "timestamp": 1624549916,
+                "name": "joining_data_concepts.zip",
+                "title": "joining_data_concepts.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 321632,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0260KJJ2FP\/joining_data_concepts.zip?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0260KJJ2FP\/download\/joining_data_concepts.zip?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0260KJJ2FP\/joining_data_concepts.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0260KJJ2FP-c1f4066674",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624549920.094300",
+        "thread_ts": "1624546002.091700",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "d92a42aa-7cd3-4e27-8453-e08796ea9676",
+        "type": "message",
+        "text": "we are up and running now... ready to go today :blush::muscle::male-technologist:",
+        "user": "U0225RJ9GQZ",
+        "ts": "1624602703.094900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4jiw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are up and running now... ready to go today "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "male-technologist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624528891.081400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "5052960c-cca2-43ca-a694-c81361f35e87",
+        "type": "message",
+        "text": "<!channel>,\nBuenas días, Guten Morgen, good morning! We'll start in a few minutes with the Friday Retro on <https:\/\/miro.com\/welcomeonboard\/TVdtNGJtMzhxM01zVXdjSEFJTkR1WUJKdjB6aEVJVzZlZ3hrVFJtZXFibmVBVVdObk5kUU9IakJzRVA2TFdDenwzMDc0NDU3MzUxMTA3NDQ5Mzkw|this Miro board>",
+        "user": "U021WEXHN4E",
+        "ts": "1624604238.096800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCIu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nBuenas días, Guten Morgen, good morning! We'll start in a few minutes with the Friday Retro on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miro.com\/welcomeonboard\/TVdtNGJtMzhxM01zVXdjSEFJTkR1WUJKdjB6aEVJVzZlZ3hrVFJtZXFibmVBVVdObk5kUU9IakJzRVA2TFdDenwzMDc0NDU3MzUxMTA3NDQ5Mzkw",
+                                "text": "this Miro board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U021TDMEH27"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

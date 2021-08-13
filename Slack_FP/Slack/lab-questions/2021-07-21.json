@@ -1,0 +1,546 @@
+[
+    {
+        "client_msg_id": "415bfad7-be7d-41a8-92ba-b1fe86245486",
+        "type": "message",
+        "text": "what's \"sales quota this year and last year\"? all sales are in 2001",
+        "user": "U021ZC6L676",
+        "ts": "1626859734.000500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=fQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's \"sales quota this year and last year\"? all sales are in 2001"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626859734.000500",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1626862791.006200",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U021Q54K3B7",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626859784.000900"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1626859850.001700"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626859929.001900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626862791.006200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59c71634-20fe-4fbc-80d3-f5c98305cf15",
+        "type": "message",
+        "text": "sales YTD and sales last year?",
+        "user": "U021ZC6L676",
+        "ts": "1626859765.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvYTF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sales YTD and sales last year?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e708c572-237e-4af3-b9b0-03c95032e9fc",
+        "type": "message",
+        "text": "My guess was that fiscal years do not always correspond to actual years i.e. they might go from March to March.",
+        "user": "U021ZC6JR28",
+        "ts": "1626859784.000900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7En",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My guess was that fiscal years do not always correspond to actual years i.e. they might go from March to March."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626859734.000500",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "41989BB8-3DCD-4067-9A00-6BE61A5F52EC",
+        "type": "message",
+        "text": "Normally they go from January to December, but maybe that is only in the countries I know ",
+        "user": "U021Q54K3B7",
+        "ts": "1626859850.001700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i93aT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Normally they go from January to December, but maybe that is only in the countries I know "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626859734.000500",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "91928c66-85f1-4249-9a9b-9456e72a5fb4",
+        "type": "message",
+        "text": "I had corporate clients where it was somewhere Mid-Year for the Fiscal Year",
+        "user": "U021ZC6JR28",
+        "ts": "1626859929.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZgm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had corporate clients where it was somewhere Mid-Year for the Fiscal Year"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626859734.000500",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "ad679e13-2229-4f98-85d8-9f38d4d4682f",
+        "type": "message",
+        "text": "<@U021CE3UWPR> asked a very nice question… is there a way to search by column name, if you have many tables like this ….\n\nwe found a feature i didnt know about :flamingo_dance:. If you right click on any table in the data source, and go to Table Maintenance, there is a column tab, with all database columns, that can be sorted alphabetically…\n\nthe other trick which i did know about - is to search the information schema. so if we are looking for a tax field, not sure what the column is or what table :\n\n*select table_name, column_name*\n*from information_schema.columns* \n*where table_schema =‘adventureworks’*\n*and column_name like ‘%tax%’*",
+        "user": "U021UNQGZC4",
+        "ts": "1626862704.005500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUOxI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021CE3UWPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " asked a very nice question… is there a way to search by column name, if you have many tables like this ….\n\nwe found a feature i didnt know about "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flamingo_dance"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If you right click on any table in the data source, and go to Table Maintenance, there is a column tab, with all database columns, that can be sorted alphabetically…\n\nthe other trick which i did know about - is to search the information schema. so if we are looking for a tax field, not sure what the column is or what table :\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "select table_name, column_name",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "from information_schema.columns ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "where table_schema =‘adventureworks’",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "and column_name like ‘%tax%’",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RHK6Q1",
+                    "U021NHS652N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec398fee-943e-4d60-bb0c-0703661c4c42",
+        "type": "message",
+        "text": "<@U021UNQGZC4> - Mabye not looking deep enough, but is there a table where we can find information on Painting Stages?\n\nI only see the OperationsSequence in workorder, but cannot link that to a stage.",
+        "user": "U021ZC6JR28",
+        "ts": "1626862753.006100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021ZC6JR28",
+            "ts": "1626862944.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ME1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Mabye not looking deep enough, but is there a table where we can find information on Painting Stages?\n\nI only see the OperationsSequence in workorder, but cannot link that to a stage."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "120311db-846e-46c3-aa5c-d570783b5954",
+        "type": "message",
+        "text": "check the salesperson table ! there is a sales YTD and last year with the quota",
+        "user": "U021UNQGZC4",
+        "ts": "1626862791.006200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BfIQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check the salesperson table ! there is a sales YTD and last year with the quota"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626859734.000500",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "2794ca24-e54f-405d-8f8c-b8aec5e4bb51",
+        "type": "message",
+        "text": "yes i wont lie to you, that one is very difficult to track down. the Location table contains the stage of product finishing, including paint shop, paint, pain storage, specialised paint",
+        "user": "U021UNQGZC4",
+        "ts": "1626862964.007600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes i wont lie to you, that one is very difficult to track down. the Location table contains the stage of product finishing, including paint shop, paint, pain storage, specialised paint"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U021T7DU0BC",
+                    "U021ZC6JR28"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9833217-b3f6-43b5-9567-341785c42b65",
+        "type": "message",
+        "text": "and the work order routing table contains the work order (ie something has to be done) the sequence (when to do that thing) and the location (where to do it)",
+        "user": "U021UNQGZC4",
+        "ts": "1626863051.008700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and the work order routing table contains the work order (ie something has to be done) the sequence (when to do that thing) and the location (where to do it)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8370d3ca-b90c-45dd-94bd-1c918fe5e3af",
+        "type": "message",
+        "text": "its funny language i admit… but on inventory and manufacturing databases you would run into this sort of terminology - its good to be faced with it now :)",
+        "user": "U021UNQGZC4",
+        "ts": "1626863095.009500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "djJZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its funny language i admit… but on inventory and manufacturing databases you would run into this sort of terminology - its good to be faced with it now :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U021ZC6JR28"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,885 @@
+[
+    {
+        "client_msg_id": "b19c8245-2d8a-438a-a7c2-727c2c1d7f7e",
+        "type": "message",
+        "text": "Hello <!channel>! Today is an important day! Please, prioritise the presentation and speech preparation. I’ll be available for any of you who want to do a rehearsal. I think it’s a good idea to do at least one. I’ll be ready for that, specially in the afternoon.\n\nPlease, I’m collecting music to play in the previous moments before your presentation. Send me you chosen song by replying this thread.",
+        "user": "U021NHS652N",
+        "ts": "1625123206.082100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XySvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Today is an important day! Please, prioritise the presentation and speech preparation. I’ll be available for any of you who want to do a rehearsal. I think it’s a good idea to do at least one. I’ll be ready for that, specially in the afternoon.\n\nPlease, I’m collecting music to play in the previous moments before your presentation. Send me you chosen song by replying this thread."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625123206.082100",
+        "reply_count": 7,
+        "reply_users_count": 7,
+        "latest_reply": "1625210752.103200",
+        "reply_users": [
+            "U0225RJ3Z4H",
+            "U022VC1JD29",
+            "U021TDMBPRR",
+            "U021NHS652N",
+            "U021TDMEH27",
+            "U021TDN4RAP",
+            "U021TDMHF5H"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1625125474.082700"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625139739.085200"
+            },
+            {
+                "user": "U021TDMBPRR",
+                "ts": "1625151757.089700"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625153287.089900"
+            },
+            {
+                "user": "U021TDMEH27",
+                "ts": "1625155331.102100"
+            },
+            {
+                "user": "U021TDN4RAP",
+                "ts": "1625181445.103000"
+            },
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1625210752.103200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "55977fa3-5207-4a41-bfdd-a60a14b22663",
+        "type": "message",
+        "text": "slot 12",
+        "user": "U021TDMHF5H",
+        "ts": "1625125056.082500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uung",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slot 12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "3cea7276-66ff-45b7-8c2e-9676eea45c1e",
+        "type": "message",
+        "text": "Happy - Pharrell",
+        "user": "U0225RJ3Z4H",
+        "ts": "1625125474.082700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xivv1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy - Pharrell"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625123206.082100",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "1be4db32-f032-4455-90d6-eec3263b6458",
+        "type": "message",
+        "text": "slot 12, added to previous thread by mistake",
+        "user": "U021TDMHF5H",
+        "ts": "1625127524.084100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slot 12, added to previous thread by mistake"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625053051.070500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "66f98db7-cd90-4116-b8e1-cef1a7d78e86",
+        "type": "message",
+        "text": "i will also be available for rehearsals this afternoon - youll find me in room 10 :) Ill bring the snacks, you bring the data",
+        "user": "U021UNQGZC4",
+        "ts": "1625127536.084500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Hg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i will also be available for rehearsals this afternoon - youll find me in room 10 :) Ill bring the snacks, you bring the data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07921fd7-ae06-4c75-a46d-d3e8f762e69d",
+        "type": "message",
+        "text": "cool see it now, thanks!",
+        "user": "U021UNQGZC4",
+        "ts": "1625127586.084700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=VlX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool see it now, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625053051.070500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "448a171b-05c6-44da-a7ea-5a27aa5b2378",
+        "type": "message",
+        "text": "Sultans of swing - Dire Straits",
+        "user": "U022VC1JD29",
+        "ts": "1625139739.085200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9R3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sultans of swing - Dire Straits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625123206.082100",
+        "parent_user_id": "U021NHS652N",
+        "reactions": [
+            {
+                "name": "catjam",
+                "users": [
+                    "U021TDMHF5H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b37a9479-ea72-4c91-8833-6556d216eea1",
+        "type": "message",
+        "text": "• CHAIR YOGA IN 10 MINS everyone! <!channel> \nin the main zoom room. might be nice for a little refresher \/ break from your projects and energise you for the afternoon",
+        "user": "U021UNQGZC4",
+        "ts": "1625147437.086800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1625147699.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BIK",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CHAIR YOGA IN 10 MINS everyone! "
+                                    },
+                                    {
+                                        "type": "broadcast",
+                                        "range": "channel"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in the main zoom room. might be nice for a little refresher \/ break from your projects and energise you for the afternoon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Marta just kindly reminded me to publish the assignment on your student portals to submit your project work github url before the presentations.",
+        "files": [
+            {
+                "id": "F0276GHH941",
+                "created": 1625150302,
+                "timestamp": 1625150302,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 16912,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0276GHH941\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0276GHH941\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0276GHH941-fa7cb56ced\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0276GHH941-fa7cb56ced\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0276GHH941-fa7cb56ced\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 193,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0276GHH941-fa7cb56ced\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 257,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0276GHH941-fa7cb56ced\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 620,
+                "original_h": 332,
+                "thumb_tiny": "AwAZADDRJbdgLkeuaQs\/GEB9eacevU0tADNz5+5+tG5\/+ef60+igBoZyeUx+NOoooACM0mBS0UAHSiiigAooooA\/\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0276GHH941\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0276GHH941-82c25822ae",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TNM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marta just kindly reminded me to publish the assignment on your student portals to submit your project work github url before the presentations."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625150350.089300",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d406140-9078-4053-9502-4e34b965ad19",
+        "type": "message",
+        "text": "so the song starts playing for a few seconds or we can have it on the whole time? my choice would be Scott Joplin - Maple Leaf Rag",
+        "user": "U021TDMBPRR",
+        "ts": "1625151757.089700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87JQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so the song starts playing for a few seconds or we can have it on the whole time? my choice would be Scott Joplin - Maple Leaf Rag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625123206.082100",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "469a63ee-5fb9-47e0-a3f4-09ae173e44b0",
+        "type": "message",
+        "text": "it’s just to fill the time you will be using to share the screen etc hehehe",
+        "user": "U021NHS652N",
+        "ts": "1625153287.089900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQTg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it’s just to fill the time you will be using to share the screen etc hehehe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625123206.082100",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "9e94f57d-bb76-47dc-b378-528347c5abe0",
+        "type": "message",
+        "text": "Tomorrows Schedule <!everyone>:\n• 09-09:30 - join the zoom classroom before 9:30, so that we can kick off at 9:30 promptly for the first presentation. \n• 12:30 -13:00 we might finish for lunch a little earlier than normal, looking at the presentation schedule.   \n• 13:00 - IF you want to receive personalised feedback on your projects do submit your work before 1pm. To complete this week of the course you will need submit the project repo tomorrow, latest at midnight. \n• TBC - after lunch, either at 1:30 or 2:00, return to the zoom classroom for a short lecture, standup and wrap of the week. With some fun. \n• 15:00 - you will will have the nice option to join the Barcelona UXUI students to see what they have been working on this week, and to get a view of what great user focused design looks like. If you prefer not to attend however, you may enjoy the rest of tomorrow afternoon as your free time.\nreminders - :notes: we need music choices from you, unless you want to enjoy a selection from ~sians’~ Miguel’s playlist :notes:\n                  - :hourglass_flowing_sand:we will cut your presentation off at 5 minutes tomorrow. :hourglass_flowing_sand:",
+        "user": "U021UNQGZC4",
+        "ts": "1625154930.101000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1625155124.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tomorrows Schedule "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "09-09:30 - join the zoom classroom before 9:30, so that we can kick off at 9:30 promptly for the first presentation. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12:30 -13:00 we might finish for lunch a little earlier than normal, looking at the presentation schedule.   "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "13:00 - IF you want to receive personalised feedback on your projects do submit your work before 1pm. To complete this week of the course you will need submit the project repo tomorrow, latest at midnight. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "TBC - after lunch, either at 1:30 or 2:00, return to the zoom classroom for a short lecture, standup and wrap of the week. With some fun. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:00 - you will will have the nice option to join the Barcelona UXUI students to see what they have been working on this week, and to get a view of what great user focused design looks like. If you prefer not to attend however, you may enjoy the rest of tomorrow afternoon as your free time."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nreminders - "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "notes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we need music choices from you, unless you want to enjoy a selection from"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sians’ ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Miguel’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "playlist "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "notes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n                  - "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hourglass_flowing_sand"
+                            },
+                            {
+                                "type": "text",
+                                "text": "we will cut your presentation off at 5 minutes tomorrow. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hourglass_flowing_sand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3707d6b6-836e-4daf-a5d2-870878fb2044",
+        "type": "message",
+        "text": "for Sathiya and me please, because we care a lot:\n<https:\/\/open.spotify.com\/track\/2z1uVu3OwTmPlfqt5TWk5k?si=6efdf96721fa424e>",
+        "user": "U021Q54K3B7",
+        "ts": "1625155088.101500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021Q54K3B7",
+            "ts": "1625155103.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "We Care a Lot",
+                "title_link": "https:\/\/open.spotify.com\/track\/2z1uVu3OwTmPlfqt5TWk5k?si=6efdf96721fa424e",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02a5821e8f8ec56a5a84725134",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: We Care a Lot",
+                "audio_html": "<iframe width=\"100%\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: We Care a Lot\" src=\"https:\/\/open.spotify.com\/embed\/track\/2z1uVu3OwTmPlfqt5TWk5k?si=6efdf96721fa424e\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/track\/2z1uVu3OwTmPlfqt5TWk5k?si=6efdf96721fa424e",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/track\/2z1uVu3OwTmPlfqt5TWk5k?si=6efdf96721fa424e"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wb3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for Sathiya and me please, because we care a lot:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/track\/2z1uVu3OwTmPlfqt5TWk5k?si=6efdf96721fa424e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021UNQGZC4",
+                    "U021NHS652N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ba0a818-c74f-4c1a-9b1e-df3496eb8f0b",
+        "type": "message",
+        "text": "Too Many Drugs - Rigoberta Bandini",
+        "user": "U021TDMEH27",
+        "ts": "1625155331.102100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "5e53fc88cd04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085183476640_5e53fc88cd04a1cf4cb8_72.jpg",
+            "first_name": "Ángela",
+            "real_name": "Ángela Sánchez",
+            "display_name": "Angela",
+            "team": "T021KE79B9B",
+            "name": "angela.s.ferriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4O8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Too Many Drugs - Rigoberta Bandini"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625123206.082100",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "72EA6333-01DE-4119-82AF-52897D690C3F",
+        "type": "message",
+        "text": "Shape of you - Ed Sheeran ",
+        "user": "U021TDN4RAP",
+        "ts": "1625181445.103000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shape of you - Ed Sheeran "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625123206.082100",
+        "parent_user_id": "U021NHS652N"
+    }
+]

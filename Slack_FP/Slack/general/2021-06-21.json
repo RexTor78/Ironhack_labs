@@ -1,0 +1,1301 @@
+[
+    {
+        "client_msg_id": "ee184d64-a709-4369-91be-d073d03cc799",
+        "type": "message",
+        "text": "```-- 7 find the movies that the most profitable customer has rented\n\nSELECT \n    film_id, title, amount\nFROM\n    film\n        JOIN\n    inventory USING (film_id)\n        JOIN\n    rental USING (inventory_id)\n        JOIN\n    payment USING (rental_id)\nWHERE\n    rental.customer_id = (SELECT \n            customer_id\n        FROM\n            customer\n                JOIN\n            payment USING (customer_id)\n        GROUP BY customer_id\n        ORDER BY SUM(amount) DESC\n        LIMIT 1)\nORDER BY rental_date DESC\n;```",
+        "user": "U021WEXHN4E",
+        "ts": "1624264494.029700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bj7",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-- 7 find the movies that the most profitable customer has rented\n\nSELECT \n    film_id, title, amount\nFROM\n    film\n        JOIN\n    inventory USING (film_id)\n        JOIN\n    rental USING (inventory_id)\n        JOIN\n    payment USING (rental_id)\nWHERE\n    rental.customer_id = (SELECT \n            customer_id\n        FROM\n            customer\n                JOIN\n            payment USING (customer_id)\n        GROUP BY customer_id\n        ORDER BY SUM(amount) DESC\n        LIMIT 1)\nORDER BY rental_date DESC\n;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f1622e6-ae77-4f6b-a839-026ea1981858",
+        "type": "message",
+        "text": "<@U021WEXHN4E> <https:\/\/stackoverflow.com\/questions\/53462728\/slow-sql-statement-when-using-variables>",
+        "user": "U021TDMHF5H",
+        "ts": "1624265974.029900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "Slow sql statement when using variables",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/53462728\/slow-sql-statement-when-using-variables",
+                "text": "I have the following SQL statement running against a MariaDB 10.1.26 with ~2.000 rows with instant results. select value, datetime from Schuppen where (value = (select min(value) from Schuppen wh...",
+                "fallback": "Stack Overflow: Slow sql statement when using variables",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/53462728\/slow-sql-statement-when-using-variables",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/53462728\/slow-sql-statement-when-using-variables"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKo9P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/53462728\/slow-sql-statement-when-using-variables"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9073bfeb-0516-43f1-80f7-53d4f5308531",
+        "type": "message",
+        "text": "turns out variables are not such a good idea for intensive queries\nit's a shame since aliasing could be better in sql , sometimes the query is just unreadable",
+        "user": "U021TDMHF5H",
+        "ts": "1624266122.031400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Vh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "turns out variables are not such a good idea for intensive queries\nit's a shame since aliasing could be better in sql , sometimes the query is just unreadable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025KADH6AZ",
+                "created": 1624268421,
+                "timestamp": 1624268421,
+                "name": "loan-status-churn.csv",
+                "title": "loan-status-churn.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 8329,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025KADH6AZ\/loan-status-churn.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025KADH6AZ\/download\/loan-status-churn.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025KADH6AZ\/loan-status-churn.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025KADH6AZ-024434937d",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025KADH6AZ\/loan-status-churn.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624268427.031700"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025KED5U4V",
+                "created": 1624271012,
+                "timestamp": 1624271012,
+                "name": "monmchurn.csv",
+                "title": "monmchurn.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 1689,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025KED5U4V\/monmchurn.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025KED5U4V\/download\/monmchurn.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025KED5U4V\/monmchurn.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025KED5U4V-8b38d1520f",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025KED5U4V\/monmchurn.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624271014.032000"
+    },
+    {
+        "type": "message",
+        "text": "todays sql queries for the 3 examples of churn analysis",
+        "files": [
+            {
+                "id": "F026CCXALUQ",
+                "created": 1624275947,
+                "timestamp": 1624275947,
+                "name": "lesson 21 jun sql bank.sql",
+                "title": "lesson 21 jun sql bank.sql",
+                "mimetype": "text\/plain",
+                "filetype": "sql",
+                "pretty_type": "SQL",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 2486,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026CCXALUQ\/lesson_21_jun_sql_bank.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026CCXALUQ\/download\/lesson_21_jun_sql_bank.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F026CCXALUQ\/lesson_21_jun_sql_bank.sql",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026CCXALUQ-18c1c98728",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F026CCXALUQ\/lesson_21_jun_sql_bank.sql\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AaC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "todays sql queries for the 3 examples of churn analysis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624275968.032700"
+    },
+    {
+        "client_msg_id": "3aff04e3-65ad-4477-a701-b69039561372",
+        "type": "message",
+        "text": "and this is my workbook with basic line charts in tableau, using the data exported from those queries - <https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/czechbanksqlanalysisvisualised\/3monthmovingavgstickyaccounts>",
+        "user": "U021UNQGZC4",
+        "ts": "1624276002.033400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624276028.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Tableau Public",
+                "title": "czech bank sql analysis visualised",
+                "title_link": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/czechbanksqlanalysisvisualised\/3monthmovingavgstickyaccounts",
+                "text": "czech bank sql analysis visualised",
+                "fallback": "Tableau Public: czech bank sql analysis visualised",
+                "image_url": "https:\/\/public.tableau.com\/static\/images\/cz\/czechbanksqlanalysisvisualised\/3monthmovingavgstickyaccounts\/4_3_hd.png",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/czechbanksqlanalysisvisualised\/3monthmovingavgstickyaccounts",
+                "image_bytes": 89784,
+                "service_icon": "https:\/\/public.tableau.com\/app\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/czechbanksqlanalysisvisualised\/3monthmovingavgstickyaccounts"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+MQkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and this is my workbook with basic line charts in tableau, using the data exported from those queries - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/czechbanksqlanalysisvisualised\/3monthmovingavgstickyaccounts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bb9622a-16e6-43e9-8d73-52666c1824f4",
+        "type": "message",
+        "text": "in case you missed it <!channel> return at 2:10 from lunch",
+        "user": "U021UNQGZC4",
+        "ts": "1624276051.033800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624276174.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UyH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in case you missed it "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " return at 2:10 from lunch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C95EFE2D-C77F-4CD4-A713-BAF220245E2B",
+        "type": "message",
+        "text": "Power’s out BCN campus FYI",
+        "user": "U0225RJ9GQZ",
+        "ts": "1624277534.034300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+0r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Power’s out BCN campus FYI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9dd91049-a0b3-4990-9209-eac5b6525236",
+        "type": "message",
+        "text": "Sorry my PC is not responding, i have to restart",
+        "user": "U0225RHK6Q1",
+        "ts": "1624278771.035400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry my PC is not responding, i have to restart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7993372d-386c-4a21-8e5e-3b1037133484",
+        "type": "message",
+        "text": "do we have the lecture from today power point format?",
+        "user": "U0225RJ9GQZ",
+        "ts": "1624281157.036300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do we have the lecture from today power point format?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624281157.036300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1624286750.045100",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RJ9GQZ"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624281824.038100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624281844.038500"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1624286750.045100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "639b898c-2328-4d46-a38a-5d4ffc44a83c",
+        "type": "message",
+        "text": "coming …",
+        "user": "U021UNQGZC4",
+        "ts": "1624281824.038100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s1hC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "coming …"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624281157.036300",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0261N5N55F",
+                "created": 1624281828,
+                "timestamp": 1624281828,
+                "name": "ML Classification - Bank and Titanic examples.pptx",
+                "title": "ML Classification - Bank and Titanic examples.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 12991261,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0261N5N55F\/ml_classification_-_bank_and_titanic_examples.pptx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0261N5N55F\/download\/ml_classification_-_bank_and_titanic_examples.pptx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261N5N55F-e9f817610b\/ml_classification_-_bank_and_titanic_examples_converted.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261N5N55F-e9f817610b\/ml_classification_-_bank_and_titanic_examples_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0261N5N55F\/ml_classification_-_bank_and_titanic_examples.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0261N5N55F-49b9846cd7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624281844.038500",
+        "thread_ts": "1624281157.036300",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "baa493ad-7407-4f15-b8b1-6538c4373cbd",
+        "type": "message",
+        "text": "<!channel>,\nplease everyone note your root password of your SQL server connection on a sheet of paper. It's a big hassle to retrieve it. There seems to be a workaround, but we couldn't make it work. So the only solution (I see) is to completely reinstall the SQL client &amp; server.",
+        "user": "U021WEXHN4E",
+        "ts": "1624281853.039300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1624281923.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RGYRm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nplease everyone note your root password of your SQL server connection on a sheet of paper. It's a big hassle to retrieve it. There seems to be a workaround, but we couldn't make it work. So the only solution (I see) is to completely reinstall the SQL client & server."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624281853.039300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624281941.039600",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624281941.039600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "uh-oh",
+        "files": [
+            {
+                "id": "F0261NDCCJV",
+                "created": 1624281937,
+                "timestamp": 1624281937,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 1832559,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0261NDCCJV\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0261NDCCJV\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0261NDCCJV-a62aa1e9c7\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 1400,
+                "original_h": 1050,
+                "thumb_tiny": "AwAkADDToqtdglgQcYFQIN5IDMCBnmockh2NCis+NWdSd+Me9KhMcg3nO4cc0+ZBYv0VCW4PXP8AuikhJaZzggYHBqriFmGWH0qpx5rfPtJbjHarzxliCDioGtNzbtw\/KsnFttlJoYMbSDge3SoQ7FpMAYUgDPp3q6IMDGRTBakH7\/6UlF9h3RDG0rEKNrIRkt\/KrMONxwc0ggKrgMPyp8UWxicjkY4GKpJ3uxOxJRRRWhIUUUUAFFFFAH\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0261NDCCJV\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0261NDCCJV-491b4d698a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Heed",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "uh-oh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624281941.039600",
+        "thread_ts": "1624281853.039300",
+        "parent_user_id": "U021WEXHN4E",
+        "reactions": [
+            {
+                "name": "this-is-fine-fire",
+                "users": [
+                    "U021WEXHN4E",
+                    "U021TDMLNTD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "847d160a-f579-4ec4-a714-9ee251918770",
+        "type": "message",
+        "text": "hey <!channel>, we will do some Katas at 16.30 for those of you who want to join!",
+        "user": "U021NHS652N",
+        "ts": "1624284439.040800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gymtN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", we will do some Katas at 16.30 for those of you who want to join!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7948b0c5-883a-4d29-9746-ea6e9c4743f7",
+        "type": "message",
+        "text": "<@U021UNQGZC4> or <@U021NHS652N> Could you please share the raw <https:\/\/github.com\/MajedAlqawasmi\/BEES-DAFT-MAY21\/commit\/98f26c9d44568b7657eb762efb8cde21ee540bfe|ipyn>b for the lab here?",
+        "user": "U022VC1JD29",
+        "ts": "1624285139.042100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022VC1JD29",
+            "ts": "1624314057.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4IyB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Could you please share the raw "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/MajedAlqawasmi\/BEES-DAFT-MAY21\/commit\/98f26c9d44568b7657eb762efb8cde21ee540bfe",
+                                "text": "ipyn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "b for the lab here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "you mean the one for the lab of today?",
+        "files": [
+            {
+                "id": "F0258JVJKU7",
+                "created": 1624285185,
+                "timestamp": 1624285185,
+                "name": "sqlpy-sakila_or_bank.ipynb",
+                "title": "sqlpy-sakila_or_bank.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021NHS652N",
+                "editable": false,
+                "size": 8793,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0258JVJKU7\/sqlpy-sakila_or_bank.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0258JVJKU7\/download\/sqlpy-sakila_or_bank.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021NHS652N\/F0258JVJKU7\/sqlpy-sakila_or_bank.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0258JVJKU7-ed411d3f13",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ng1u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you mean the one for the lab of today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021NHS652N",
+        "display_as_bot": false,
+        "ts": "1624285198.042400"
+    },
+    {
+        "client_msg_id": "1f69e842-7197-4c64-8277-f794f79d6cff",
+        "type": "message",
+        "text": "yes.. the usual struggle to download it to windows.. just started my lab now btw.. so won't make it for Katas",
+        "user": "U022VC1JD29",
+        "ts": "1624285252.043400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022VC1JD29",
+            "ts": "1624285295.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRiy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes.. the usual struggle to download it to windows.. just started my lab now btw.. so won't make it for Katas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285252.043400",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1624285460.044200",
+        "reply_users": [
+            "U021NHS652N",
+            "U022VC1JD29"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1624285380.043600"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1624285408.043800"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1624285437.044000"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1624285460.044200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4def7ad7-5c97-47db-ac7d-6bc4cc5f0dfc",
+        "type": "message",
+        "text": "I can look for you later, so we can have a look at this issue if you want",
+        "user": "U021NHS652N",
+        "ts": "1624285380.043600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can look for you later, so we can have a look at this issue if you want"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285252.043400",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "f5560f82-a643-4b94-bce5-2678eaea9e29",
+        "type": "message",
+        "text": "maybe in the next days yeah :slightly_smiling_face:",
+        "user": "U022VC1JD29",
+        "ts": "1624285408.043800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5UoVE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe in the next days yeah "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285252.043400",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "648be666-eb78-4a40-9a4e-a7056ab42a23",
+        "type": "message",
+        "text": "cool, just send me a message so we will check it together",
+        "user": "U021NHS652N",
+        "ts": "1624285437.044000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URHJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool, just send me a message so we will check it together"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285252.043400",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "e67a40a6-98d4-4027-8b65-17b82bc257b2",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U022VC1JD29",
+        "ts": "1624285460.044200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0XgH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285252.043400",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "66369f89-2f52-47bc-8c03-4239bfe5d05a",
+        "type": "message",
+        "text": "<!channel> katas time!",
+        "user": "U021NHS652N",
+        "ts": "1624286009.044700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0mItW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " katas time!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72D393D0-0EB9-4647-BC9F-195D1046D1E5",
+        "type": "message",
+        "text": "Thank you Sian!!!",
+        "user": "U0225RJ9GQZ",
+        "ts": "1624286750.045100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c66",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Sian!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624281157.036300",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "ec7b1548-d2ef-4379-b331-978a72a4f22d",
+        "type": "message",
+        "text": "as mentioned, if you want to get your head around this whole machine learning thing - why not spend 7 min and 17 seconds watching this guy explain it in terms of rock paper scissors <https:\/\/www.youtube.com\/watch?v=KNAWp2S3w94>",
+        "user": "U021UNQGZC4",
+        "ts": "1624287897.046100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Intro to Machine Learning (ML Zero to Hero - Part 1)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=KNAWp2S3w94",
+                "author_name": "TensorFlow",
+                "author_link": "https:\/\/www.youtube.com\/c\/TensorFlow",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/KNAWp2S3w94\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Intro to Machine Learning (ML Zero to Hero - Part 1)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/KNAWp2S3w94?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=KNAWp2S3w94",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=KNAWp2S3w94"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bgAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as mentioned, if you want to get your head around this whole machine learning thing - why not spend 7 min and 17 seconds watching this guy explain it in terms of rock paper scissors "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=KNAWp2S3w94"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

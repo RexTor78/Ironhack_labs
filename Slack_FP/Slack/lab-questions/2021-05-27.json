@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "51E05450-DDAB-4A0C-87C6-6B8D64DD04A7",
+        "type": "message",
+        "text": "Hey, \nI am having issues with linking my sequel pro with my local SQL server with both the standard and socket connection. Any idea of what may cause this not to be working ? ",
+        "user": "U021TDN4RAP",
+        "ts": "1622118725.001100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y47Et",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, \nI am having issues with linking my sequel pro with my local SQL server with both the standard and socket connection. Any idea of what may cause this not to be working ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622118725.001100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1622398414.000100",
+        "reply_users": [
+            "U021NHS652N",
+            "U021TDN4RAP"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1622123655.001200"
+            },
+            {
+                "user": "U021TDN4RAP",
+                "ts": "1622398414.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f410c9f2-975e-4ba7-802b-b3c8402f54cc",
+        "type": "message",
+        "text": "Hello Andrea! It is common to have problems in the connection in the begging. Recheck your credentials and check that the password that you entered does not contain the &lt;&gt; characters that are indicated in the prework part.\n\nIf sequel pro keeps giving you problems, you can try to use MySQL Workbench. In general it is easier to connect.\n\nIf not, we can have a talk to fix the problem (tomorrow or during the first week), don’t worry :slightly_smiling_face:",
+        "user": "U021NHS652N",
+        "ts": "1622123655.001200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Viyn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Andrea! It is common to have problems in the connection in the begging. Recheck your credentials and check that the password that you entered does not contain the <> characters that are indicated in the prework part.\n\nIf sequel pro keeps giving you problems, you can try to use MySQL Workbench. In general it is easier to connect.\n\nIf not, we can have a talk to fix the problem (tomorrow or during the first week), don’t worry "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622118725.001100",
+        "parent_user_id": "U021TDN4RAP"
+    }
+]

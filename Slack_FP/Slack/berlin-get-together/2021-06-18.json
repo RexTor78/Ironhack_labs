@@ -1,0 +1,409 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1624006039.001200",
+        "user": "U021TDMBPRR",
+        "text": "<@U021TDMBPRR> has joined the channel",
+        "inviter": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "5588aa7d-11d8-4eeb-943e-028e42c81cc1",
+        "type": "message",
+        "text": "<@U021TDMBPRR> - You are berlin based too, right? We will be meeting up in the BRLO beergarden later, if you care to join :slightly_smiling_face:",
+        "user": "U021ZC6JR28",
+        "ts": "1624006069.001800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLV9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMBPRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - You are berlin based too, right? We will be meeting up in the BRLO beergarden later, if you care to join "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f99b4b02-4a48-45bf-85aa-dc8d6d7c8774",
+        "type": "message",
+        "text": "yes Berlin",
+        "user": "U021TDMBPRR",
+        "ts": "1624006079.002000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes Berlin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11306da6-0bc8-49d8-82ac-1c2fdbb9f569",
+        "type": "message",
+        "text": "today around when? thanks for the invitation",
+        "user": "U021TDMBPRR",
+        "ts": "1624006091.002400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uXhim",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "today around when? thanks for the invitation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7ee2449-1df1-4e10-ae1e-3cdc45112adc",
+        "type": "message",
+        "text": "I guess a realistic time after class would be like 6:30pm? What does the rest think?",
+        "user": "U021ZC6JR28",
+        "ts": "1624006122.003000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0YK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess a realistic time after class would be like 6:30pm? What does the rest think?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "255b5a14-254a-4eaf-86e6-eda2414dfe04",
+        "type": "message",
+        "text": "yea sure I would say that's ok for me",
+        "user": "U021TDMBPRR",
+        "ts": "1624006158.003300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dsMW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea sure I would say that's ok for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80fd063a-528d-4878-8010-19efbd494365",
+        "type": "message",
+        "text": "I’m out tonight, too hot for me to leave the house :unamused:",
+        "user": "U021T7DU0BC",
+        "ts": "1624006518.003800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rpw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m out tonight, too hot for me to leave the house "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "unamused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a8a5ad5-25c8-4bd2-ba8f-0ba521a16146",
+        "type": "message",
+        "text": "6:30 sounds good, even before if we manage to finish earlier",
+        "user": "U021ZC6L676",
+        "ts": "1624014531.004500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MAyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6:30 sounds good, even before if we manage to finish earlier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4b5776f-a654-40d3-8004-d8683ddea5c3",
+        "type": "message",
+        "text": "i'd go there first (since i like really close to it) and try to catch a table, might be crowded. here's my number just in case you can't find me there - 0176 687 00 684",
+        "user": "U021ZC6L676",
+        "ts": "1624014639.006000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tjr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'd go there first (since i like really close to it) and try to catch a table, might be crowded. here's my number just in case you can't find me there - 0176 687 00 684"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40f4e504-7f68-4aea-aece-cbcf49624045",
+        "type": "message",
+        "text": "• i live close to it",
+        "user": "U021ZC6L676",
+        "ts": "1624014656.006400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPWK",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "i live close to it"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3e130a6-16f9-4520-a128-eddee9ce82d7",
+        "type": "message",
+        "text": "Sounds like a plan! See you guys later",
+        "user": "U022VC1JD29",
+        "ts": "1624017267.007400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/nC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds like a plan! See you guys later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

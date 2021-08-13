@@ -1,0 +1,1145 @@
+[
+    {
+        "client_msg_id": "b268b376-0d54-475c-bc49-f822e1e6ed78",
+        "type": "message",
+        "text": "this <!channel> tips for getting started - this afternoon it will be worth looking at anaconda if you havent already installed it, and try that github intro :point_up_2:- maybe leave the stats to another day, unless you finish early!",
+        "user": "U021UNQGZC4",
+        "ts": "1622460662.001300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qO4Cj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tips for getting started - this afternoon it will be worth looking at anaconda if you havent already installed it, and try that github intro "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "- maybe leave the stats to another day, unless you finish early!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07baf8b7-c7e2-462a-8a1e-5e198a923e6c",
+        "type": "message",
+        "text": "Hi guys, I have a basic question, how to navigate index in Jupyter notebook? suggestions are welcome!",
+        "user": "U0225RGM941",
+        "ts": "1622471624.002400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkmu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi guys, I have a basic question, how to navigate index in Jupyter notebook? suggestions are welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622471624.002400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1622472588.003400",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U021NHS652N",
+            "U021UNQGZC4",
+            "U0225RGM941"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1622471719.002600"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1622472269.002800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622472476.003100"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1622472588.003400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e444737e-9d89-4ca5-9211-5970690ecb5f",
+        "type": "message",
+        "text": "I will probably try with internal links, once I am there. Should be on slide 12 of the Jupyter intro PDF from this noon.",
+        "user": "U021ZC6JR28",
+        "ts": "1622471719.002600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gAJ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will probably try with internal links, once I am there. Should be on slide 12 of the Jupyter intro PDF from this noon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622471624.002400",
+        "parent_user_id": "U0225RGM941",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c0d846f-37e8-4664-a899-9b9e781bba05",
+        "type": "message",
+        "text": "yep, the guidelines of the PDF should be helpful for this part. If you can’t progress tell me and we can have a look together :slightly_smiling_face:",
+        "user": "U021NHS652N",
+        "ts": "1622472269.002800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5WT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep, the guidelines of the PDF should be helpful for this part. If you can’t progress tell me and we can have a look together "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622471624.002400",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "0dcdc16a-90aa-45b1-a9af-7e152a6a60b6",
+        "type": "message",
+        "text": "<https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html> this is also nice",
+        "user": "U021UNQGZC4",
+        "ts": "1622472476.003100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Dr. Sebastian Raschka",
+                "title": "Creating a table of contents with internal links in IPython Notebooks and Markdown documents",
+                "title_link": "https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html",
+                "text": "Many people have asked me how I create the table of contents with internal links for my IPython Notebooks and Markdown documents on GitHub. Well, no (IPython...",
+                "fallback": "Dr. Sebastian Raschka: Creating a table of contents with internal links in IPython Notebooks and Markdown documents",
+                "ts": 1400576400,
+                "from_url": "https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html",
+                "service_icon": "https:\/\/sebastianraschka.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/i6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is also nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622471624.002400",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "a1757412-c875-45ff-b53f-5dd4ccc12e36",
+        "type": "message",
+        "text": "<@U021NHS652N> <@U021UNQGZC4> Thank you...will try...if i couldnt will let you know",
+        "user": "U0225RGM941",
+        "ts": "1622472588.003400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FHRw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you...will try...if i couldnt will let you know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622471624.002400",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "77734609-501e-4414-912d-f5ffd19a73a7",
+        "type": "message",
+        "text": "<!channel>\n:github: A github hint, because we're seeing this every time at the beginning of the bootcamp - which is fine, don't worry :slightly_smiling_face:, but avoiding this can save you a lot of trouble:\nPlease, at all costs, avoid having *nested* repositories. That means, what you want to have is this:\n\n• Folder 1\n    ◦ Subfolder 1\n    ◦ Subfolder 2 (is a :github: repository)\n    ◦ Subfolder 3\n    ◦ Subfolder 4 (is a :github: repository) \nAnd *not* this (nested!!):\n\n• Folder 1 (is a :github: repository)\n    ◦ Subfolder 1\n    ◦ Subfolder 2 (is a :github: repository)\n    ◦ Subfolder 3\n    ◦ Subfolder 4 (is a :github: repository) \nAlways keep git repositories next to each other, not within each other. So this is also possible:\n\n• Folder 1\n    ◦ Subfolder 1\n    ◦ Subfolder 2 (is a :github: repository)\n    ◦ Subfolder 3\n        ▪︎ Subsubfolder1 (is a :github: repository)\n    ◦ Subfolder 4 (is a :github: repository) \n",
+        "user": "U021WEXHN4E",
+        "ts": "1622475091.009900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "github"
+                            },
+                            {
+                                "type": "text",
+                                "text": " A github hint, because we're seeing this every time at the beginning of the bootcamp - which is fine, don't worry "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", but avoiding this can save you a lot of trouble:\nPlease, at all costs, avoid having "
+                            },
+                            {
+                                "type": "text",
+                                "text": "nested",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " repositories. That means, what you want to have is this:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Folder 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 2 (is a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "github"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " repository)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 3"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 4 (is a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "github"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " repository) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAnd "
+                            },
+                            {
+                                "type": "text",
+                                "text": "not",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " this (nested!!):\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Folder 1 (is a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "github"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " repository)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 2 (is a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "github"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " repository)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 3"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 4 (is a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "github"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " repository) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAlways keep git repositories next to each other, not within each other. So this is also possible:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Folder 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 2 (is a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "github"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " repository)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 3"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subsubfolder1 (is a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "github"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " repository)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Subfolder 4 (is a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "github"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " repository) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd21782c-207a-4c8b-8357-2fe4e4c81890",
+        "type": "message",
+        "text": "ok, i already have nested repos, so how to 'un-nest' them?",
+        "user": "U021ZC6L676",
+        "ts": "1622475999.010700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lbA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, i already have nested repos, so how to 'un-nest' them?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "reply_count": 26,
+        "reply_users_count": 2,
+        "latest_reply": "1622532948.017500",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021ZC6L676"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622476859.011500"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622477137.011700"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622477385.011900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622530565.012200"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622530670.012400"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622530807.012700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532299.012900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532308.013300"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622532348.013500"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532356.013700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532367.013900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622532388.014100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622532513.014300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532598.014500"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532622.014700"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622532690.014900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532698.015100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532701.015300"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622532803.015700"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622532820.015900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532828.016300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532866.016500"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622532872.016700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532916.017100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622532926.017300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622532948.017500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8da88887-9759-4eb0-8d4b-6d177c5d32fc",
+        "type": "message",
+        "text": "how to make a main lab folder not a repo anymore?",
+        "user": "U021ZC6L676",
+        "ts": "1622476017.011200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MAdO\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how to make a main lab folder not a repo anymore?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17ad3d23-94e6-40b8-ac84-8b73e23fbece",
+        "type": "message",
+        "text": "ok, here's how I would do it:\n1. make sure all the changes of the \"sub\" repositories are pushed to github \/ are in sync with github\n2. clone them into another folder, keeping them separate\n3. delete the former \"sub\" repositories out of this \"main lab folder\"",
+        "user": "U021WEXHN4E",
+        "ts": "1622476859.011500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E7CLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, here's how I would do it:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "make sure all the changes of the \"sub\" repositories are pushed to github \/ are in sync with github"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "clone them into another folder, keeping them separate"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "delete the former \"sub\" repositories out of this \"main lab folder\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "12c5dfad-9958-4068-b33e-a5c0b525b3c6",
+        "type": "message",
+        "text": "ok, but then i would end up with a lot of lab repos in root, right? my idea was to keep them all in one folder",
+        "user": "U021ZC6L676",
+        "ts": "1622477137.011700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H9oU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, but then i would end up with a lot of lab repos in root, right? my idea was to keep them all in one folder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "5fcf1c03-86bc-4d8f-a9c6-21ee566b61ca",
+        "type": "message",
+        "text": "Yes, that's a good idea! But make sure the \"mother\" folder is not a repo itself",
+        "user": "U021WEXHN4E",
+        "ts": "1622477385.011900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Lg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, that's a good idea! But make sure the \"mother\" folder is not a repo itself"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "215975b9-cfee-479a-ae3d-ef22914cd3cc",
+        "type": "message",
+        "text": "meaning there are no commits in the root of the folder itself?",
+        "user": "U021ZC6L676",
+        "ts": "1622530565.012200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "meaning there are no commits in the root of the folder itself?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "07aae624-eb32-4257-858c-04c9bdb4c5dd",
+        "type": "message",
+        "text": "yes. But you wouldn't be able to do `git any_command ...` in the root folder anyway, since there's shouldn't be any `.git` file.",
+        "user": "U021WEXHN4E",
+        "ts": "1622530670.012400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1622530732.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PIZfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes. But you wouldn't be able to do "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git any_command ...",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the root folder anyway, since there's shouldn't be any "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".git",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475999.010700",
+        "parent_user_id": "U021ZC6L676"
+    }
+]

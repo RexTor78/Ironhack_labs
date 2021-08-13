@@ -1,0 +1,257 @@
+[
+    {
+        "type": "message",
+        "text": "completed notebook from class, today and yesterday",
+        "files": [
+            {
+                "id": "F027MBEBQLC",
+                "created": 1625738252,
+                "timestamp": 1625738252,
+                "name": "feature_selection_complete.ipynb",
+                "title": "feature_selection_complete.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 1085835,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027MBEBQLC\/feature_selection_complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027MBEBQLC\/download\/feature_selection_complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027MBEBQLC\/feature_selection_complete.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027MBEBQLC-a0e46ca16f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "completed notebook from class, today and yesterday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625738264.060700"
+    },
+    {
+        "client_msg_id": "03013db0-edf9-40c5-8382-bdc6dbe98731",
+        "type": "message",
+        "text": "completed workbook from todays class in tableau public. enjoy your storytelling ! <https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/movementdata\/Story1>",
+        "user": "U021UNQGZC4",
+        "ts": "1625752099.061300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tableau Public",
+                "title": "movement data",
+                "title_link": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/movementdata\/Story1",
+                "text": "movement data",
+                "fallback": "Tableau Public: movement data",
+                "image_url": "https:\/\/public.tableau.com\/static\/images\/mo\/movementdata\/Story1\/4_3_hd.png",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/movementdata\/Story1",
+                "image_bytes": 136283,
+                "service_icon": "https:\/\/public.tableau.com\/app\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/movementdata\/Story1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFeB7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "completed workbook from todays class in tableau public. enjoy your storytelling ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/movementdata\/Story1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcee642b-5f60-40ae-8e04-6c1f8c7edd05",
+        "type": "message",
+        "text": "<!channel> yoga time for those who want to join :woman_in_lotus_position:",
+        "user": "U021NHS652N",
+        "ts": "1625752846.061900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ONT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yoga time for those who want to join "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman_in_lotus_position"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94ed0f5f-db05-443f-97d7-a0ba577c7958",
+        "type": "message",
+        "text": "plan for this morning <!channel> - please arrive promptly for class :pray:\n9am - Lucas will give us his presentation of last weeks project\n• after this we have the Retro \n• break \n• Q&amp;A from you - anything from yesterday you want to go over ?\n• lecture",
+        "user": "U021UNQGZC4",
+        "ts": "1625813067.065300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plan for this morning "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - please arrive promptly for class "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9am - Lucas will give us his presentation of last weeks project\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "after this we have the Retro "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "break "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Q&A from you - anything from yesterday you want to go over ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lecture"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

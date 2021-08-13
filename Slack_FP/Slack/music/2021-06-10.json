@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "93950cd3-6c48-4a4c-866d-7b4f49d51053",
+        "type": "message",
+        "text": "Happy Friday people!! :tada:\n<https:\/\/open.spotify.com\/track\/4FT39hcPLSrP02YDBqOGLe?si=c8f0db5c9474406f>",
+        "user": "U021NHS652N",
+        "ts": "1623393862.003900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "The Bright Side",
+                "title_link": "https:\/\/open.spotify.com\/track\/4FT39hcPLSrP02YDBqOGLe?si=c8f0db5c9474406f",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023343528aca388a9b661d065f",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: The Bright Side",
+                "audio_html": "<iframe width=\"100%\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: The Bright Side\" src=\"https:\/\/open.spotify.com\/embed\/track\/4FT39hcPLSrP02YDBqOGLe?si=c8f0db5c9474406f\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/track\/4FT39hcPLSrP02YDBqOGLe?si=c8f0db5c9474406f",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/track\/4FT39hcPLSrP02YDBqOGLe?si=c8f0db5c9474406f"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Friday people!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/track\/4FT39hcPLSrP02YDBqOGLe?si=c8f0db5c9474406f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "dancer",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "3b1a272a-b580-4bab-830b-fa0f676d76e3",
+        "type": "message",
+        "text": "any music playlist suggestions for today <!channel>?",
+        "user": "U021UNQGZC4",
+        "ts": "1624609671.000700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vOJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any music playlist suggestions for today "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "333826c9-bb4f-492d-abaa-05f6a6504ffc",
+        "type": "message",
+        "text": "im listening to : <https:\/\/open.spotify.com\/album\/11yHtE6IzOk6elh9cJzldJ?si=trMjGXXUSEWtOu4HC2mlSw&amp;dl_branch=1>",
+        "user": "U021UNQGZC4",
+        "ts": "1624609826.001700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Everything Else Has Gone Wrong",
+                "title_link": "https:\/\/open.spotify.com\/album\/11yHtE6IzOk6elh9cJzldJ?si=trMjGXXUSEWtOu4HC2mlSw&amp;dl_branch=1",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e025bc7404d0cac37b3f5231170",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Everything Else Has Gone Wrong",
+                "audio_html": "<iframe width=\"100%\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Everything Else Has Gone Wrong\" src=\"https:\/\/open.spotify.com\/embed\/album\/11yHtE6IzOk6elh9cJzldJ?si=trMjGXXUSEWtOu4HC2mlSw&amp%3Bdl_branch=1\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/album\/11yHtE6IzOk6elh9cJzldJ?si=trMjGXXUSEWtOu4HC2mlSw&amp;dl_branch=1",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/album\/11yHtE6IzOk6elh9cJzldJ?si=trMjGXXUSEWtOu4HC2mlSw&amp;dl_branch=1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im listening to : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/album\/11yHtE6IzOk6elh9cJzldJ?si=trMjGXXUSEWtOu4HC2mlSw&dl_branch=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47052c19-c21d-4ad2-98e1-5902f38ccb18",
+        "type": "message",
+        "text": "This week I'm working with the company of Sebastien Tellier\n\n<https:\/\/open.spotify.com\/artist\/23ymPLjbtAMzTJS2qRtQ8Z?si=8EOE14g1QxmLQpwCgtGRIw&amp;dl_branch=1>\n\nParticular suggestions La Ritournelle and L'amour et la violence\n\nI find it uplifting and easy to work with",
+        "user": "U021Q54K3B7",
+        "ts": "1624609878.002200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Sébastien Tellier",
+                "title_link": "https:\/\/open.spotify.com\/artist\/23ymPLjbtAMzTJS2qRtQ8Z?si=8EOE14g1QxmLQpwCgtGRIw&amp;dl_branch=1",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/214e228f72fd9843a431b4b7ad44d2b71582c0d8",
+                "thumb_width": 640,
+                "thumb_height": 640,
+                "fallback": "Spotify Audio: Sébastien Tellier",
+                "audio_html": "<iframe width=\"100%\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Sébastien Tellier\" src=\"https:\/\/open.spotify.com\/embed\/artist\/23ymPLjbtAMzTJS2qRtQ8Z?si=8EOE14g1QxmLQpwCgtGRIw&amp%3Bdl_branch=1\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/artist\/23ymPLjbtAMzTJS2qRtQ8Z?si=8EOE14g1QxmLQpwCgtGRIw&amp;dl_branch=1",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/artist\/23ymPLjbtAMzTJS2qRtQ8Z?si=8EOE14g1QxmLQpwCgtGRIw&amp;dl_branch=1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L4Kq1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This week I'm working with the company of Sebastien Tellier\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/artist\/23ymPLjbtAMzTJS2qRtQ8Z?si=8EOE14g1QxmLQpwCgtGRIw&dl_branch=1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nParticular suggestions La Ritournelle and L'amour et la violence\n\nI find it uplifting and easy to work with"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

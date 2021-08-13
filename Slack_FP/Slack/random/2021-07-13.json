@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "ed6166e7-36a4-4ea9-82a2-f19e749e8145",
+        "type": "message",
+        "text": "one for <@U021WEXHN4E> <https:\/\/www.techexplorist.com\/detecting-gravitational-waves-using-ai\/40020\/>",
+        "user": "U021UNQGZC4",
+        "ts": "1626175063.000300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tech Explorist",
+                "title": "Detecting gravitational waves using AI",
+                "title_link": "https:\/\/www.techexplorist.com\/detecting-gravitational-waves-using-ai\/40020\/",
+                "text": "This work highlights the significant value of data infrastructure to the scientific community.",
+                "fallback": "Tech Explorist: Detecting gravitational waves using AI",
+                "image_url": "https:\/\/cdn.techexplorist.com\/wp-content\/uploads\/2021\/07\/collision-of-two-black-holes.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Amit Malewar",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "3 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1626080002,
+                "from_url": "https:\/\/www.techexplorist.com\/detecting-gravitational-waves-using-ai\/40020\/",
+                "image_bytes": 28019,
+                "service_icon": "https:\/\/cdn.techexplorist.com\/wp-content\/uploads\/2019\/05\/iOS-76X76.png",
+                "id": 1,
+                "original_url": "https:\/\/www.techexplorist.com\/detecting-gravitational-waves-using-ai\/40020\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/E8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "one for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.techexplorist.com\/detecting-gravitational-waves-using-ai\/40020\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

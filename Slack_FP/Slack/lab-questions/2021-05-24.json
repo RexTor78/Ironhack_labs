@@ -1,0 +1,280 @@
+[
+    {
+        "client_msg_id": "00e53194-79fb-4d77-9984-137e4b5a4f1d",
+        "type": "message",
+        "text": "uninstall and install again - you can take the opportunity to set your password as something really simple, like password :)",
+        "user": "U021UNQGZC4",
+        "ts": "1621842671.000100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1621842688.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qpg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "uninstall and install again - you can take the opportunity to set your password as something really simple, like password :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621698072.011900",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "0bb3c15d-6593-4146-b74e-65c9e77ec436",
+        "type": "message",
+        "text": "dont worry, i feel everything will become much clearer in the first few weeks of the course! at least by being exposed to the concepts you know whats coming, and what kind of questions to ask…. plus we can ask <@U021NHS652N> or <@U021WEXHN4E> our TAs on the class to go through in detail any of the labs you struggled with in an afternoon of week one. just pick 1 or 2 to look at collectively",
+        "user": "U021UNQGZC4",
+        "ts": "1621842842.000400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pwd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dont worry, i feel everything will become much clearer in the first few weeks of the course! at least by being exposed to the concepts you know whats coming, and what kind of questions to ask…. plus we can ask "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " our TAs on the class to go through in detail any of the labs you struggled with in an afternoon of week one. just pick 1 or 2 to look at collectively"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621697909.010100",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "type": "message",
+        "text": "hi hector, there is a quick automated way to do this, which you will get used to during the course, but then theres also a nice easy way to push things to git hub in the browser which you can use for now and should be more familiar.\n• create a github repo (make sure its public, so we can view it) \n• navigate to the repo in github, making sure you have logged in with your github user name and password\n• wherever you are in your github repo you can see this option on the top right  ‘add file’- you will want to upload files so select that option\n• drag the files into the window from your local machine, and head for the green button ‘commit changes’ - and youre golden :) \n• then you can simple navigate in the browser to the file you want to submit the pre work url for ",
+        "files": [
+            {
+                "id": "F022QEN4G5B",
+                "created": 1621843048,
+                "timestamp": 1621843048,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 91497,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F022QEN4G5B\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F022QEN4G5B\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 253,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 337,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 506,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 562,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 675,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022QEN4G5B-11f545f5e5\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 720,
+                "original_w": 1480,
+                "original_h": 1040,
+                "thumb_tiny": "AwAhADB5mve0X\/jv\/wBejz77\/nl\/47V\/n2o5z2xQBQ8++\/55f+O0efff88v\/AB2r\/PtRgDtQBQ86+\/55f+O0ede4P7v6fJ\/9er3HXFLgelAC80c0gpaADmkIz2paKAGYPoM04dOaDmlHSgAooooAKKKKAEPSlHSkPSlHSgD\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F022QEN4G5B\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F022QEN4G5B-425b9dc56d",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F022ZMWMHRA",
+                "created": 1621843142,
+                "timestamp": 1621843142,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 62521,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F022ZMWMHRA\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F022ZMWMHRA\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022ZMWMHRA-6caef59cb6\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022ZMWMHRA-6caef59cb6\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022ZMWMHRA-6caef59cb6\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 274,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022ZMWMHRA-6caef59cb6\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 365,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022ZMWMHRA-6caef59cb6\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022ZMWMHRA-6caef59cb6\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 548,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022ZMWMHRA-6caef59cb6\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 609,
+                "original_w": 870,
+                "original_h": 662,
+                "thumb_tiny": "AwAkADDR25fdnt0pGHP3mH0p9Ic9qAGbf9p6cgwOpP1pefUflRz6j8qAFopOfUUtABSZGcUtRGaPP3j+ANAD9y+tG4etR+amPvt+VP4\/vn86AF3D1pRyOKNv+0aNv+0aAFpnlR\/3BT6KAGeTH\/cFPwPSiigAooooA\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F022ZMWMHRA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F022ZMWMHRA-3c16515feb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iCWCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi hector, there is a quick automated way to do this, which you will get used to during the course, but then theres also a nice easy way to push things to git hub in the browser which you can use for now and should be more familiar.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "create a github repo (make sure its public, so we can view it) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "navigate to the repo in github, making sure you have logged in with your github user name and password"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "wherever you are in your github repo you can see this option on the top right  ‘add file’- you will want to upload files so select that option"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "drag the files into the window from your local machine, and head for the green button ‘commit changes’ - and youre golden :) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "then you can simple navigate in the browser to the file you want to submit the pre work url for "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "ts": "1621843147.000600",
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1621843357.000000"
+        },
+        "thread_ts": "1621701569.012300",
+        "parent_user_id": "U021CE3UWPR"
+    }
+]

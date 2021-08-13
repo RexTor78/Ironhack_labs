@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "6098d82f-aa29-42e9-97a1-c474e1ac43ab",
+        "type": "message",
+        "text": "found this <https:\/\/jakevdp.github.io\/PythonDataScienceHandbook\/04.14-visualization-with-seaborn.html|reference> useful for seaborn data viz thought I'd share",
+        "user": "U0225RJ9GQZ",
+        "ts": "1624614162.024700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lcHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "found this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jakevdp.github.io\/PythonDataScienceHandbook\/04.14-visualization-with-seaborn.html",
+                                "text": "reference"
+                            },
+                            {
+                                "type": "text",
+                                "text": " useful for seaborn data viz thought I'd share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624614162.024700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624614323.024800",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624614323.024800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "cupcake",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7569d9e3-6a96-420d-8293-00c1b5505e9e",
+        "type": "message",
+        "text": "great resource, well found!",
+        "user": "U021UNQGZC4",
+        "ts": "1624614323.024800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NODh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great resource, well found!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624614162.024700",
+        "parent_user_id": "U0225RJ9GQZ"
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "client_msg_id": "36e66309-8142-4327-bfff-faf85677cede",
+        "type": "message",
+        "text": "<@U021UNQGZC4> <@U021WEXHN4E> <@U021NHS652N> :slightly_smiling_face: sorry will you have a minut this afternoon to answer an important question for my final project(book recommendator)? I'm about to launch a survey in order to collect data from people (i'm building my own dataset because there are not good ones online), and i just want to be sure i'm in the good way. After the survey I will have some categorical columns, some are easy to convert to float i guess, but i have doubts with some others because they are keywords about topics and feelings. Are there ways to do it? Or to do some \"text analysis\" maybe with those columns? I would'nt like to obtain data that after all there's no way to read it or to analyze it so the recommendator loose sense or quality(?), i just want to be sure before the survey, if you know what i mean:grin::v:",
+        "user": "U0225RHK6Q1",
+        "ts": "1626349505.000600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry will you have a minut this afternoon to answer an important question for my final project(book recommendator)? I'm about to launch a survey in order to collect data from people (i'm building my own dataset because there are not good ones online), and i just want to be sure i'm in the good way. After the survey I will have some categorical columns, some are easy to convert to float i guess, but i have doubts with some others because they are keywords about topics and feelings. Are there ways to do it? Or to do some \"text analysis\" maybe with those columns? I would'nt like to obtain data that after all there's no way to read it or to analyze it so the recommendator loose sense or quality(?), i just want to be sure before the survey, if you know what i mean"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1626352869.002500",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U0225RHK6Q1",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626349776.000700"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626349896.000900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626349910.001100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626350074.001300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626350106.001600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626350195.001900"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626350373.002300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626352869.002500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "720aaaa8-19d9-4e91-9fdb-cfea0d980b83",
+        "type": "message",
+        "text": "own data collection, I like it :slightly_smiling_face:\nso, you want to make an individual answer to that survey one observation? for a proper recommender then, calculate that you need to have at least around a 100 answers. depending on the variance of your features together with what exactly you want to recommend, you would need even more I guess",
+        "user": "U021WEXHN4E",
+        "ts": "1626349776.000700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oWgiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "own data collection, I like it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nso, you want to make an individual answer to that survey one observation? for a proper recommender then, calculate that you need to have at least around a 100 answers. depending on the variance of your features together with what exactly you want to recommend, you would need even more I guess"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "27cebed3-3921-4a23-b800-e7ea7968d9d1",
+        "type": "message",
+        "text": "yes! i would like to reach 500:crossed_fingers:hahaha if that is possible! I have already 270 from my own, so yes one survey one observation",
+        "user": "U0225RHK6Q1",
+        "ts": "1626349896.000900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y4QEP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes! i would like to reach 500"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers"
+                            },
+                            {
+                                "type": "text",
+                                "text": "hahaha if that is possible! I have already 270 from my own, so yes one survey one observation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "parent_user_id": "U0225RHK6Q1",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91d60612-e156-49b3-bdd0-fde1f953cc71",
+        "type": "message",
+        "text": "happy to talk it through with you in more detail this afternoon. i love the idea",
+        "user": "U021UNQGZC4",
+        "ts": "1626349910.001100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "happy to talk it through with you in more detail this afternoon. i love the idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "parent_user_id": "U0225RHK6Q1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "effcb670-6b96-44e9-9831-50d621fd8623",
+        "type": "message",
+        "text": "also to add more depth to your data you could think of introducing some text heavy questions which could be used with natural language processing techniques (we will talk about this in class monday) like # whats your favourite quote from this book ? or #keep your most hated character from the book in mind, why do you hate them ? then you can collect some data from inside the text about the type of quote, length, keywords etc, and key word collectors, as top 5 attributes of the character",
+        "user": "U021UNQGZC4",
+        "ts": "1626350074.001300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1626350139.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "02azI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also to add more depth to your data you could think of introducing some text heavy questions which could be used with natural language processing techniques (we will talk about this in class monday) like # whats your favourite quote from this book ? or #keep your most hated character from the book in mind, why do you hate them ? then you can collect some data from inside the text about the type of quote, length, keywords etc, and key word collectors, as top 5 attributes of the character"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "parent_user_id": "U0225RHK6Q1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "443b8a18-fcbb-4791-a927-7a5f1bb36a69",
+        "type": "message",
+        "text": "500 will be great ! i will do as many for you as i can",
+        "user": "U021UNQGZC4",
+        "ts": "1626350106.001600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NN\/L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "500 will be great ! i will do as many for you as i can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "efd2881f-9049-466f-bc48-43fa33c3f695",
+        "type": "message",
+        "text": "i am just working on grading a project - perhaps we can talk at 2.30 Damaris or 3?",
+        "user": "U021UNQGZC4",
+        "ts": "1626350195.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5fQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am just working on grading a project - perhaps we can talk at 2.30 Damaris or 3?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "f148fab7-0281-4251-b215-9593bdf99678",
+        "type": "message",
+        "text": "great!! maybe at 3? i have a 1on1 with Brett at 14.45h",
+        "user": "U0225RHK6Q1",
+        "ts": "1626350373.002300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xh5PB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great!! maybe at 3? i have a 1on1 with Brett at 14.45h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "9328556c-06e9-4f01-b66f-e2ac7db65379",
+        "type": "message",
+        "text": "3, lets do that",
+        "user": "U021UNQGZC4",
+        "ts": "1626352869.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hk7T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3, lets do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626349505.000600",
+        "parent_user_id": "U0225RHK6Q1"
+    }
+]

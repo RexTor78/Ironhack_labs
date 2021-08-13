@@ -1,0 +1,246 @@
+[
+    {
+        "type": "message",
+        "text": "90s dance classics incoming….",
+        "files": [
+            {
+                "id": "F026T9EMA91",
+                "created": 1625139046,
+                "timestamp": 1625139046,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 315072,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026T9EMA91\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026T9EMA91\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026T9EMA91-9ead17f7cf\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026T9EMA91-9ead17f7cf\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026T9EMA91-9ead17f7cf\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 248,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026T9EMA91-9ead17f7cf\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 331,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026T9EMA91-9ead17f7cf\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026T9EMA91-9ead17f7cf\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 497,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026T9EMA91-9ead17f7cf\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 552,
+                "original_w": 877,
+                "original_h": 605,
+                "thumb_tiny": "AwAhADCi0rlw2DkU+Fi0pL56UrspPyqQMetN3VRJazH\/ALX6UZj9X\/SquaN1O4rFkNHnncRTN1Q5o3cUXCwoZfKA2ruz97PNRk\/5zSjO3OeM+tIf881BYZoB5pBR0IxQApP0pM8UGjtQAlFFFABRRRQAUUUUAf\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F026T9EMA91\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026T9EMA91-f7829db77a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "znNXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "90s dance classics incoming…."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625139066.007900",
+        "thread_ts": "1625074474.007000",
+        "parent_user_id": "U0225RJ9GQZ",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U0225RJ9GQZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "totally random but can anyone else see a light saber on spotify when you play a star wars song ?\n(I jumped into playlist for my nephew by mistake)",
+        "files": [
+            {
+                "id": "F0275P6BAKT",
+                "created": 1625139325,
+                "timestamp": 1625139325,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 40567,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0275P6BAKT\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0275P6BAKT\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 51,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 68,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 101,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 113,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 135,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275P6BAKT-66435d7ce7\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 144,
+                "original_w": 1093,
+                "original_h": 154,
+                "thumb_tiny": "AwAGADCmUGegqa3tGnDFSo2+uajPWr+m\/dk+opiIRpb95Fpw00gg7lPsa0aKQzNOmN2daadMk\/56L+ValB6UAf\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0275P6BAKT\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0275P6BAKT-b179c8622d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRo0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "totally random but can anyone else see a light saber on spotify when you play a star wars song ?\n(I jumped into playlist for my nephew by mistake)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625139330.009100",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "682B27D8-7CCD-4BD1-8AA1-699580758A83",
+        "type": "message",
+        "text": "Jajajaa yes! It’s great! Jajaja I also saw it some time ago ",
+        "user": "U021NHS652N",
+        "ts": "1625139366.009800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jajajaa yes! It’s great! Jajaja I also saw it some time ago "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4119301c-be6f-4ef4-a284-7b2f29b1a6cc",
+        "type": "message",
+        "text": "haha i did not realise it! Thought i was imagining it - its on everything star wars related even podcasts! Proof the spotify developers are star wars geeks :)\nwonder if they have done any other surprises like that",
+        "user": "U021UNQGZC4",
+        "ts": "1625139441.010800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T+v7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha i did not realise it! Thought i was imagining it - its on everything star wars related even podcasts! Proof the spotify developers are star wars geeks :)\nwonder if they have done any other surprises like that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

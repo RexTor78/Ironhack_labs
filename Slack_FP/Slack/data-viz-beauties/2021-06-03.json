@@ -1,0 +1,236 @@
+[
+    {
+        "client_msg_id": "5b809d4a-1b65-4c02-a768-630784472f87",
+        "type": "message",
+        "text": "Great 15 minutes stretching routine to start the day <https:\/\/www.youtube.com\/watch?v=g_tea8ZNk5A>",
+        "user": "U021Q54K3B7",
+        "ts": "1622789458.000500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "15 Min. Full Body Stretch | Daily Routine for Flexibility, Mobility &amp; Relaxation | DAY 7",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=g_tea8ZNk5A",
+                "author_name": "Mady Morrison",
+                "author_link": "https:\/\/www.youtube.com\/c\/MadyMorrison",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/g_tea8ZNk5A\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 15 Min. Full Body Stretch | Daily Routine for Flexibility, Mobility & Relaxation | DAY 7",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/g_tea8ZNk5A?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=g_tea8ZNk5A",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=g_tea8ZNk5A"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYJTA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great 15 minutes stretching routine to start the day "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=g_tea8ZNk5A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622789458.000500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1622789631.002000",
+        "reply_users": [
+            "U021NHS652N",
+            "U021Q54K3B7",
+            "U021T7DU0BC"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1622789559.000800"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1622789617.001800"
+            },
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1622789631.002000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U021T7DU0BC",
+                    "U021UNQGZC4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2b42705-2ceb-4739-8f41-d7496d028f73",
+        "type": "message",
+        "text": "I really needed this!",
+        "user": "U021NHS652N",
+        "ts": "1622789559.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ri1b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really needed this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622789458.000500",
+        "parent_user_id": "U021Q54K3B7"
+    },
+    {
+        "client_msg_id": "0f276a1e-0123-45e7-b7cd-f86c7d7424d9",
+        "type": "message",
+        "text": "it's really good! It's been part of my corona survival kit haha",
+        "user": "U021Q54K3B7",
+        "ts": "1622789617.001800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's really good! It's been part of my corona survival kit haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622789458.000500",
+        "parent_user_id": "U021Q54K3B7"
+    },
+    {
+        "client_msg_id": "78E31C32-0B7C-4261-8B15-86EECA202695",
+        "type": "message",
+        "text": "Mady is great! I also do the stretching routine with her every morning :)",
+        "user": "U021T7DU0BC",
+        "ts": "1622789631.002000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Y27k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mady is great! I also do the stretching routine with her every morning :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622789458.000500",
+        "parent_user_id": "U021Q54K3B7",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

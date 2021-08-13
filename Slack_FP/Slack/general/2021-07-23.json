@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "adfa7cfc-36f3-418a-be2d-98e25e86011f",
+        "type": "message",
+        "text": "<!channel> lecture on the classroom in 2 mins\nbefore 4pm today please ensure you have submitted your google form to tell us about your project. It’s in Notion and on the student portal, but also <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScJtnfU8tpScvRKkQRQIeO-tHtnzpxQZEfd3p3itDq0c-ZYLA\/viewform|here>  - its a short form, we need one from each student - this is so we can organise as a teaching team to support you next week",
+        "user": "U021UNQGZC4",
+        "ts": "1627028859.011100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13BFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lecture on the classroom in 2 mins\nbefore 4pm today please ensure you have submitted your google form to tell us about your project. It’s in Notion and on the student portal, but also "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScJtnfU8tpScvRKkQRQIeO-tHtnzpxQZEfd3p3itDq0c-ZYLA\/viewform",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  - its a short form, we need one from each student - this is so we can organise as a teaching team to support you next week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

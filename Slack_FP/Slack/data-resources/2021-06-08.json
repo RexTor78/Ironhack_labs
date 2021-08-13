@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "3821004d-b8b5-470a-8e04-aff58546569a",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8>",
+        "user": "U021UNQGZC4",
+        "ts": "1623142218.000300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Rethinking Data Visualization",
+                "title_link": "https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8",
+                "text": "Lessons learned from product development",
+                "fallback": "Medium: Rethinking Data Visualization",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*-1VD0SANNsqpwH6r2xOafg.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "12 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1616081011,
+                "from_url": "https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 113187,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

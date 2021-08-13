@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "97b2e8f7-b8ea-4544-ad06-250d09fa16b8",
+        "type": "message",
+        "text": "Hey guys, I have a question, in MySQL basics prework, they have explained only about Sequel Pro Database management software. If i am not wrong, this works only for Mac users. Then what about Windows users?",
+        "user": "U0225RGM941",
+        "ts": "1621278102.002400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys, I have a question, in MySQL basics prework, they have explained only about Sequel Pro Database management software. If i am not wrong, this works only for Mac users. Then what about Windows users?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df50a83a-b388-48b8-b1cd-2ebe06717ebf",
+        "type": "message",
+        "text": "Hi Sathiya, i believe for Windows users you will be using MySQL Workbench instead? you should already have it if you installed MySQL Community Server",
+        "user": "U021Q53LBPX",
+        "ts": "1621284161.003900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Kh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sathiya, i believe for Windows users you will be using MySQL Workbench instead? you should already have it if you installed MySQL Community Server"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "946aa32a-7e1d-4af3-8702-1ec0c0123a60",
+        "type": "message",
+        "text": "Can anyone recommend me good Python practice exercises?",
+        "user": "U021Q53LBPX",
+        "ts": "1621284272.005800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anyone recommend me good Python practice exercises?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621284272.005800",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1621353265.003600",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021Q53LBPX",
+            "U021ZC6L676"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621324494.001600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621324679.001900"
+            },
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1621334224.003200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621345986.003400"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1621353265.003600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ed8278f-92fa-48bb-83c3-964fceb88106",
+        "type": "message",
+        "text": "You can also try heidi for sql",
+        "user": "U0225RJ6SNM",
+        "ts": "1621291627.005900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can also try heidi for sql"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

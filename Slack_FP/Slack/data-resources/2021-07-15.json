@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "a61c5193-eadf-43e8-98a9-8646c3a39612",
+        "type": "message",
+        "text": "<https:\/\/towardsdatascience.com\/kmeans-hyper-parameters-explained-with-examples-c93505820cd3>",
+        "user": "U021UNQGZC4",
+        "ts": "1626339948.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "KMeans Hyper-parameters Explained with Examples",
+                "title_link": "https:\/\/towardsdatascience.com\/kmeans-hyper-parameters-explained-with-examples-c93505820cd3",
+                "text": "These days anyone with a high school degree can implement a Machine Learning algorithm and that’s a good thing. It is always a good thing…",
+                "fallback": "Medium: KMeans Hyper-parameters Explained with Examples",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*7bKAMy_5L0PUJVT_DLePsw.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "8 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1589211659,
+                "from_url": "https:\/\/towardsdatascience.com\/kmeans-hyper-parameters-explained-with-examples-c93505820cd3",
+                "image_width": 429,
+                "image_height": 250,
+                "image_bytes": 231234,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/kmeans-hyper-parameters-explained-with-examples-c93505820cd3"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/kmeans-hyper-parameters-explained-with-examples-c93505820cd3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

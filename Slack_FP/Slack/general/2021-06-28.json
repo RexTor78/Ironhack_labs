@@ -1,0 +1,966 @@
+[
+    {
+        "client_msg_id": "3e2ec391-ec81-4862-90a0-fb658e714fee",
+        "type": "message",
+        "text": "*anyone is still looking for a data source?* :telescope:\nthere is a relational dataset repository <https:\/\/relational.fit.cvut.cz\/|here>  which are built with MariaDB, the really open source version of MySQL. it works very similarly and you can use your mysql client to query the databases. All of them have a simple ERD and documentation - eg <https:\/\/relational.fit.cvut.cz\/dataset\/Accidents> “Traffic accident database consists of all accidents that happened in Slovenia’s capital city Ljubljana between the years 1995 and 2005.”\nas a project, you can apply your SQL skills and either read the data into Python using those sqlpy query methods we saw, or extract to a csv and query with Tableau to visualise. Lots of scientific data in there but you can just search the data sets for something that interests you\n• feel free to ask me for help to get connected first time ",
+        "user": "U021UNQGZC4",
+        "ts": "1624863702.003600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624863758.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anyone is still looking for a data source? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "telescope",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthere is a relational dataset repository "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/relational.fit.cvut.cz\/",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  which are built with MariaDB, the really open source version of MySQL. it works very similarly and you can use your mysql client to query the databases. All of them have a simple ERD and documentation - eg "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/relational.fit.cvut.cz\/dataset\/Accidents"
+                            },
+                            {
+                                "type": "text",
+                                "text": " “Traffic accident database consists of all accidents that happened in Slovenia’s capital city Ljubljana between the years 1995 and 2005.”\nas a project, you can apply your SQL skills and either read the data into Python using those sqlpy query methods we saw, or extract to a csv and query with Tableau to visualise. Lots of scientific data in there but you can just search the data sets for something that interests you\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "feel free to ask me for help to get connected first time "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20427b1e-1d1a-42f1-8fbf-585936a28ac6",
+        "type": "message",
+        "text": "Hello hello <!channel>!\n\nThis is the assigned groups with each tutor:\n\nFLO: Team Happiness, Arya, Fernando, Julia and Majed\n\nMIGUEL: Héctor, Nayib, Pedro&amp;Sathiya, Walter and Lucas\n\nSIAN: Andrea, Anna, Ángela, Gellert and Marta&amp;Damaris",
+        "user": "U021NHS652N",
+        "ts": "1624866491.005200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETPKT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nThis is the assigned groups with each tutor:\n\nFLO: Team Happiness, Arya, Fernando, Julia and Majed\n\nMIGUEL: Héctor, Nayib, Pedro&Sathiya, Walter and Lucas\n\nSIAN: Andrea, Anna, Ángela, Gellert and Marta&Damaris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX",
+                    "U021CE3UWPR",
+                    "U021TDMEH27"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68a26f21-166d-43c2-a109-4a247a29988e",
+        "type": "message",
+        "text": "Great stuff. we will have standup calls with our respective groups at 10:30 this morning. I am going to be in Break out room 10 :\n•  <@U021TDN4RAP> <@U021TDMLNTD> <@U021TDMEH27> <@U021TDMBPRR> <@U021ZC6H9GC> <@U0225RHK6Q1> please meet me in room 10 at 10:30 ready to describe your project progress so far and show us your planning on a Trello board (or other agile planning tool) as we saw on Friday. \n• Remember the kanban board columns to start with are To Do\/backlog, Doing, Done (with a possible extra column ‘wishlist’ ) ",
+        "user": "U021UNQGZC4",
+        "ts": "1624867221.009500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/LD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great stuff. we will have standup calls with our respective groups at 10:30 this morning. I am going to be in Break out room 10 :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U021TDN4RAP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U021TDMLNTD"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U021TDMEH27"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U021TDMBPRR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U021ZC6H9GC"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0225RHK6Q1"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " please meet me in room 10 at 10:30 ready to describe your project progress so far and show us your planning on a Trello board (or other agile planning tool) as we saw on Friday. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Remember the kanban board columns to start with are To Do\/backlog, Doing, Done (with a possible extra column ‘wishlist’ ) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMEH27"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e195235c-c410-44c1-936a-2dea33e4bcdb",
+        "type": "message",
+        "text": "Same for my group! 10:30 - but in *breakoutroom 5*\n<@U021ZC6JR28> <@U021T7DU0BC> <@U0225RJ3Z4H> <@U021ZC6L676> <@U021TDMHF5H> <@U0225RJ5989> <@U0225RJ6SNM> <@U022VC1JD29>",
+        "user": "U021WEXHN4E",
+        "ts": "1624867952.010700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EpV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same for my group! 10:30 - but in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "breakoutroom 5",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6JR28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021T7DU0BC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ3Z4H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6L676"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMHF5H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ5989"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ6SNM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022VC1JD29"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "400ca2b0-010b-4cbe-8fd6-4ed5117b5312",
+        "type": "message",
+        "text": "*quick healthcare announcement!* \nwe are hearing of students having positive covid tests, as well as Miguel. Please be extra cautious if you are on campus in Barcelona, about washing your :open_hands::skin-tone-3: , wearing your :mask:, and be more vigilant to the symptoms of those you meet with socially.",
+        "user": "U021UNQGZC4",
+        "ts": "1624872189.016000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2oRto",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quick healthcare announcement! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nwe are hearing of students having positive covid tests, as well as Miguel. Please be extra cautious if you are on campus in Barcelona, about washing your "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_hands",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " , wearing your "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mask"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and be more vigilant to the symptoms of those you meet with socially."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX",
+                    "U021WEXHN4E",
+                    "U021TDMLNTD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02638051-2caa-482e-bce7-5a96add0fdbe",
+        "type": "message",
+        "text": "<!channel>,\nif you want to have a break with some social bits in between your project work, let's meet in 15 min (3:45 pm) in the main zoom room for some Katas! :martial_arts_uniform:",
+        "user": "U021WEXHN4E",
+        "ts": "1624887035.017600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1624887052.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3fni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nif you want to have a break with some social bits in between your project work, let's meet in 15 min (3:45 pm) in the main zoom room for some Katas! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "martial_arts_uniform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B023LG3AHRQ",
+        "type": "message",
+        "text": "pai mei",
+        "user": "U021WEXHN4E",
+        "ts": "1624887083.018100",
+        "team": "T021KE79B9B",
+        "bot_profile": {
+            "id": "B023LG3AHRQ",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1622531502,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T021KE79B9B"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "APrMA",
+                "image_url": "https:\/\/media0.giphy.com\/media\/aLTFHi2aowjJe\/giphy.gif?cid=6104955ed553e181eead4e8aabc48b39e5182614c5eb9b21&rid=giphy.gif&ct=g&cid=6104955ed553e181eead4e8aabc48b39e5182614c5eb9b21&rid=giphy.gif&ct=g",
+                "alt_text": "pai mei",
+                "title": {
+                    "type": "plain_text",
+                    "text": "pai mei",
+                    "emoji": true
+                },
+                "fallback": "500x213px image",
+                "image_width": 500,
+                "image_height": 213,
+                "image_bytes": 687580,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "=x=",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U021Q53LBPX",
+                    "U021NHS652N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e09b324-4a3f-4f5d-832c-41acf9b0d90f",
+        "type": "message",
+        "text": "<@U021NHS652N> <@U021WEXHN4E> I have been asked for some examples of past student projects at this stage of the course. As i have not run the project in exactly this format before - and last time we did a different project at this stage, could you share some examples from past courses or your own bootcamp projects? the mid bootcamp, not the final.",
+        "user": "U021UNQGZC4",
+        "ts": "1624889764.020400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/DJg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have been asked for some examples of past student projects at this stage of the course. As i have not run the project in exactly this format before - and last time we did a different project at this stage, could you share some examples from past courses or your own bootcamp projects? the mid bootcamp, not the final."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbd5e075-070d-41ad-923b-ed87198c555b",
+        "type": "message",
+        "text": "sure",
+        "user": "U021WEXHN4E",
+        "ts": "1624889822.020600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wLTRC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30c65571-9bf5-43ba-9a65-488abf746116",
+        "type": "message",
+        "text": "Here you have some mid-bootcamp projects from other cohorts, in case you need inspirations for your approach:\n\n<https:\/\/github.com\/annafonte\/forecasting-sdgs>\n\n<https:\/\/raulcastmartit.medium.com\/tourism-for-low-income-c4295f7b2c97>\n\n<https:\/\/pausanchogonzalez.medium.com\/the-ever-expanding-strikeouts-game-8a1d50ce0b95>\n\n<https:\/\/miguel-simon.medium.com\/last-night-in-razzmatazz-a-drug-story-f96d2045cfd6>\n\n<https:\/\/public.tableau.com\/app\/profile\/imanollaconcha\/viz\/Beveganmoreecofriendly\/Story1>",
+        "user": "U021NHS652N",
+        "ts": "1624893471.022000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mjhb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here you have some mid-bootcamp projects from other cohorts, in case you need inspirations for your approach:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/annafonte\/forecasting-sdgs"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/raulcastmartit.medium.com\/tourism-for-low-income-c4295f7b2c97"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pausanchogonzalez.medium.com\/the-ever-expanding-strikeouts-game-8a1d50ce0b95"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miguel-simon.medium.com\/last-night-in-razzmatazz-a-drug-story-f96d2045cfd6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/app\/profile\/imanollaconcha\/viz\/Beveganmoreecofriendly\/Story1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0251c77d-5055-4634-bcf4-f2113460b384",
+        "type": "message",
+        "text": "Some from my cohort (some contain ML, which is not mandatory in our project):\n<https:\/\/github.com\/sabrinarubert\/femaleEntrepreneurship>\n<https:\/\/github.com\/JMiguelFernandes\/Project-6---Coronavirus-in-the-US>\n<https:\/\/github.com\/Gleeful-Penguin\/Crowdfunding_analysis\/blob\/master\/README.md>\n<https:\/\/github.com\/n1oftheabove\/visualizing-real-world-data-project>\n<https:\/\/github.com\/MikkiSeidenschnur\/data_ber_dota2_winpredictor>",
+        "user": "U021WEXHN4E",
+        "ts": "1624894359.023200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1624894510.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lAWZ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some from my cohort (some contain ML, which is not mandatory in our project):\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/sabrinarubert\/femaleEntrepreneurship"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/JMiguelFernandes\/Project-6---Coronavirus-in-the-US"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Gleeful-Penguin\/Crowdfunding_analysis\/blob\/master\/README.md"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/n1oftheabove\/visualizing-real-world-data-project"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/MikkiSeidenschnur\/data_ber_dota2_winpredictor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61af9d5f-569d-456d-adcc-a8089b6ee508",
+        "type": "message",
+        "text": "Hi <!channel> I hope you are having fun wrangling your data and starting to visually analyse it too!\n\na general request - please attend the daily stand up calls on time with your mentor, or preferably arrive a few minutes early so your group can start on time.\n• In practice, these calls are typically very short.  \n• Stand up calls are to help you stay on track with your projects, so this is a good time to flag any blockers\n• I recommend you actively use your kanban boards to reassure your mentor that you are on track for the end of week deliverable. \n*Missing a stand up call will count as an absence for that day. If you cannot attend at the prescribed time, then rearrange a call with your mentor for later in the day please.* \n\nuse the <#C024EJ8H3S8|project-questions> channel for any project blockers during the day and we will help you",
+        "user": "U021UNQGZC4",
+        "ts": "1624894735.029700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gOK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I hope you are having fun wrangling your data and starting to visually analyse it too!\n\na general request - please attend the daily stand up calls on time with your mentor, or preferably arrive a few minutes early so your group can start on time.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In practice, these calls are typically very short.  "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Stand up calls are to help you stay on track with your projects, so this is a good time to flag any blockers"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I recommend you actively use your kanban boards to reassure your mentor that you are on track for the end of week deliverable. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Missing a stand up call will count as an absence for that day. If you cannot attend at the prescribed time, then rearrange a call with your mentor for later in the day please. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nuse the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C024EJ8H3S8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel for any project blockers during the day and we will help you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57593557-38bb-4d24-894b-5c4672194669",
+        "type": "message",
+        "text": "<!channel>,\nGood morning!\nto all my stand-up group, let's today meet at 10am in room 3",
+        "user": "U021WEXHN4E",
+        "ts": "1624948001.031400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0P8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nGood morning!\nto all my stand-up group, let's today meet at 10am in room 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021T7DU0BC",
+                    "U0225RJ5989",
+                    "U0225RJ6SNM"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

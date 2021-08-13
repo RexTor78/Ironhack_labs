@@ -1,0 +1,938 @@
+[
+    {
+        "client_msg_id": "f3e36ef6-6fbd-44fc-a146-8ca2d0d0d641",
+        "type": "message",
+        "text": "Sian could you please open the breakout rooms?",
+        "user": "U021Q54K3B7",
+        "ts": "1626678062.006200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "atE6S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sian could you please open the breakout rooms?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e07d4d5d-38dc-47b7-9bae-a3e0a130bf1d",
+        "type": "message",
+        "text": "absolutely",
+        "user": "U021UNQGZC4",
+        "ts": "1626678213.006400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SM7C8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "absolutely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b75b14ca-de19-4691-8c26-be18539c2035",
+        "type": "message",
+        "text": "done",
+        "user": "U021NHS652N",
+        "ts": "1626678222.006600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1VTJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23fc12f8-3746-4974-a0f6-60a695417f0f",
+        "type": "message",
+        "text": "<!here> we have 4 guests lined up this week - as I saw you liked to hear from former students, we have Karthik, Harri and Preby joining us, all IH bootcamp survivors- check out their LinkedIns to see what they are doing now.  I am really pleased to have Leo with us on thursday who has recently launched an artificial curiosity reporting platform- lets make all our guests feel welcome!",
+        "user": "U021UNQGZC4",
+        "ts": "1626682127.010700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2SZSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we have 4 guests lined up this week - as I saw you liked to hear from former students, we have Karthik, Harri and Preby joining us, all IH bootcamp survivors- check out their LinkedIns to see what they are doing now.  I am really pleased to have Leo with us on thursday who has recently launched an artificial curiosity reporting platform- lets make all our guests feel welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U021ZC6H9GC",
+                    "U021T7DU0BC",
+                    "U0225RGM941",
+                    "U021NHS652N"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92c5f738-c735-470f-954e-bee3beb20622",
+        "type": "message",
+        "text": "<!channel>,\nthe usual reminder :grin: please fill out the last week's *weekly survey* :memo: after the presentations or in the next break. We have 7 students who haven't yet filled it out. Thank youu",
+        "user": "U021WEXHN4E",
+        "ts": "1626686516.013800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "blrw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nthe usual reminder "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please fill out the last week's "
+                            },
+                            {
+                                "type": "text",
+                                "text": "weekly survey",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "memo"
+                            },
+                            {
+                                "type": "text",
+                                "text": " after the presentations or in the next break. We have 7 students who haven't yet filled it out. Thank youu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "549b44f6-04cb-41e6-b9d1-9fc103cfcb2a",
+        "type": "message",
+        "text": "<@U0234JUMPJQ> <@U021Q54K3B7> <@U021TDMBPRR> <@U021TDMLNTD> would be great if you fill in your weekly survey from last friday please",
+        "user": "U021UNQGZC4",
+        "ts": "1626688882.015100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZvz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0234JUMPJQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021Q54K3B7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMBPRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMLNTD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would be great if you fill in your weekly survey from last friday please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0272d959-6e8e-4a3d-a481-cb15b8eddc87",
+        "type": "message",
+        "text": "<!here> Again --- I am surprised i have to say this more than once . If you are not attending lectures - ie, sat down, at a computer, on zoom, ready to complete the class work, then please do not join the zoom classroom until you are ready. Please let the teaching team know by direct message if for some reason you want to be excused from class. This includes commuting <@U021ZC6H9GC>",
+        "user": "U021UNQGZC4",
+        "ts": "1626693072.020700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9lQE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Again --- I am surprised i have to say this more than once . If you are not attending lectures - ie, sat down, at a computer, on zoom, ready to complete the class work, then please do not join the zoom classroom until you are ready. Please let the teaching team know by direct message if for some reason you want to be excused from class. This includes commuting "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6H9GC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "note book from this mornings class",
+        "files": [
+            {
+                "id": "F028GFJ504T",
+                "created": 1626693108,
+                "timestamp": 1626693108,
+                "name": "NLP_in_class_taster.ipynb",
+                "title": "NLP_in_class_taster.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 12063,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028GFJ504T\/nlp_in_class_taster.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028GFJ504T\/download\/nlp_in_class_taster.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F028GFJ504T\/nlp_in_class_taster.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028GFJ504T-5aed64cb0d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aeg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "note book from this mornings class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626693119.021000"
+    },
+    {
+        "type": "message",
+        "text": "note book from todays NLP taster classes - remember that your steps will depend on your scenario and your data - think about what the data contains and what you would like to do with it, eventually, and this will prescribe your cleaning \/wrangling steps, the tools you want to use and the methods for analysis",
+        "files": [
+            {
+                "id": "F028GN2KHLJ",
+                "created": 1626700886,
+                "timestamp": 1626700886,
+                "name": "NLP_in_class_taster.ipynb",
+                "title": "NLP_in_class_taster.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 67925,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028GN2KHLJ\/nlp_in_class_taster.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028GN2KHLJ\/download\/nlp_in_class_taster.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F028GN2KHLJ\/nlp_in_class_taster.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028GN2KHLJ-f8440dd5db",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "note book from todays NLP taster classes - remember that your steps will depend on your scenario and your data - think about what the data contains and what you would like to do with it, eventually, and this will prescribe your cleaning \/wrangling steps, the tools you want to use and the methods for analysis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626700941.025000"
+    },
+    {
+        "client_msg_id": "ee8e987c-af03-47aa-95f7-fbf186eb2583",
+        "type": "message",
+        "text": "tools we used today in class were :\n• <http:\/\/docx2txt.sourceforge.net\/|docx2txt> - converts anything in MS word format into flat text - if you were web scraping you would use beautiful soup instead of a doc converter, and depending on the type of text you are accessing - you can find similar tools to convert <https:\/\/www.geeksforgeeks.org\/working-with-pdf-files-in-python\/|pdf> \n• <https:\/\/www.nltk.org\/|nltk> - widely used NLP library, contains many methods and techniques for cleaning the text data, processing, analysing and visualising the text \n• <https:\/\/textblob.readthedocs.io\/en\/dev\/install.html|textblob> - easy to use sentiment analyser - The polarity score is a float within the range [-1.0, 1.0]. combined with pandas + lambda, you can calculate a sentiment score column for every row of the data",
+        "user": "U021UNQGZC4",
+        "ts": "1626701729.030500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7\/gIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tools we used today in class were :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/docx2txt.sourceforge.net\/",
+                                        "text": "docx2txt"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - converts anything in MS word format into flat text - if you were web scraping you would use beautiful soup instead of a doc converter, and depending on the type of text you are accessing - you can find similar tools to convert "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.geeksforgeeks.org\/working-with-pdf-files-in-python\/",
+                                        "text": "pdf"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.nltk.org\/",
+                                        "text": "nltk"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - widely used NLP library, contains many methods and techniques for cleaning the text data, processing, analysing and visualising the text "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/textblob.readthedocs.io\/en\/dev\/install.html",
+                                        "text": "textblob"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - easy to use sentiment analyser - The polarity score is a float within the range [-1.0, 1.0]. combined with pandas + lambda, you can calculate a sentiment score column for every row of the data"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cb69f1a-d261-4f15-9ec8-1bbd9ada70d6",
+        "type": "message",
+        "text": "<!channel>,\nthe teaching team is away from 4-4:30pm for a sync with Madini. See you later!",
+        "user": "U021WEXHN4E",
+        "ts": "1626703033.031700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nthe teaching team is away from 4-4:30pm for a sync with Madini. See you later!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RJ3Z4H",
+                    "U021CE3UWPR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa8dc740-3b43-4273-9299-e9c0886276bf",
+        "type": "message",
+        "text": "<!channel> at 5pm we will have a guest speaker joining us in the zoom classroom. I havent seen any lab questions so i hope this means the instructions were clear!",
+        "user": "U021UNQGZC4",
+        "ts": "1626705223.033400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gjISf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " at 5pm we will have a guest speaker joining us in the zoom classroom. I havent seen any lab questions so i hope this means the instructions were clear!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "crossed_fingers",
+                "users": [
+                    "U021UNQGZC4",
+                    "U021ZC6H9GC",
+                    "U021CE3UWPR",
+                    "U021TDMLNTD"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a958180-f9a4-45b1-aff9-67170b6e7c4b",
+        "type": "message",
+        "text": "tomorrows new plan :\n• 9am career hack for those doing the careers stuff (these sessions are recorded) \n• students can finish working on todays lab\n• 11am guest lecture on the zoom classroom - Preby is a former student who has volunteered to come and talk to us about some tools we will be using for tomorrows case study, as well as share her interview experience (she is still looking for the perfect job). \n• after Preby leaves us, lets do the lecture, which will continue after lunch. \n• tomorrows CV lab is very light :feather:. \n• yoga stretching and breathing break at 4pm.\n-any remaining time you can be working on sourcing data and considering your topic for the final project",
+        "user": "U021UNQGZC4",
+        "ts": "1626710516.038900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VxKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tomorrows new plan :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "9am career hack for those doing the careers stuff (these sessions are recorded) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "students can finish working on todays lab"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11am guest lecture on the zoom classroom - Preby is a former student who has volunteered to come and talk to us about some tools we will be using for tomorrows case study, as well as share her interview experience (she is still looking for the perfect job). "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "after Preby leaves us, lets do the lecture, which will continue after lunch. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "tomorrows CV lab is very light "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "feather"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "yoga stretching and breathing break at 4pm."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-any remaining time you can be working on sourcing data and considering your topic for the final project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88f3bfe1-5c81-4976-86e7-61b5629d4b2d",
+        "type": "message",
+        "text": "thankyou to <!everyone> for giving Karthik such a warm welcome today. He was really nervous about talking to you and what he was going to say!",
+        "user": "U021UNQGZC4",
+        "ts": "1626710888.040500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TrK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thankyou to "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for giving Karthik such a warm welcome today. He was really nervous about talking to you and what he was going to say!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626710888.040500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1626714400.040900",
+        "reply_users": [
+            "U021Q53LBPX"
+        ],
+        "replies": [
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1626714400.040900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "blossom",
+                "users": [
+                    "U021T7DU0BC",
+                    "U021WEXHN4E",
+                    "U021Q53LBPX",
+                    "U0225RHK6Q1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a369245-ae0c-47f1-b9ea-3e5f9e0a0f26",
+        "type": "message",
+        "text": "Thank you Sian for bringing him in :smiling_face_with_3_hearts:. It is encouraging to see he got such a good position after graduating, even if his previous background (and how smart he is) probably played a big role in the process. Excited to meet the rest of our guests!",
+        "user": "U021Q53LBPX",
+        "ts": "1626714400.040900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0do",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Sian for bringing him in "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It is encouraging to see he got such a good position after graduating, even if his previous background (and how smart he is) probably played a big role in the process. Excited to meet the rest of our guests!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626710888.040500",
+        "parent_user_id": "U021UNQGZC4",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021TDMLNTD",
+                    "U021UNQGZC4"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,1553 @@
+[
+    {
+        "client_msg_id": "9461a46d-229c-45ff-a4cb-5822934cb8f2",
+        "type": "message",
+        "text": "hello folks! I've got a python problem with the lab from yesterday.\n\nwhen I try to create the 'sentiment' column, it says:\n```The `text` argument passed to `__init__(text)` must be a string, not &lt;class 'float'&gt;\n\n\nI checked the type of the 'review text' column with a for loop and some of them are foats. I'm trying to change them without success. could you help me?```\n",
+        "user": "U0225RJ6SNM",
+        "ts": "1626765411.005500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0225RJ6SNM",
+            "ts": "1626765447.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHu3G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello folks! I've got a python problem with the lab from yesterday.\n\nwhen I try to create the 'sentiment' column, it says:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The `text` argument passed to `__init__(text)` must be a string, not <class 'float'>\n\n\nI checked the type of the 'review text' column with a for loop and some of them are foats. I'm trying to change them without success. could you help me?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "reply_count": 17,
+        "reply_users_count": 4,
+        "latest_reply": "1626768684.009300",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U0225RJ6SNM",
+            "U021WEXHN4E",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626765463.005700"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626765635.006000"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626765794.006200"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626765822.006400"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626765897.006700"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626766978.006900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626768311.007200"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626768317.007400"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626768361.007600"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626768377.007900"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626768406.008100"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626768450.008300"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626768522.008500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626768530.008700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626768579.008900"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626768638.009100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626768684.009300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b50fc770-f6c2-4341-b06d-6f938283156e",
+        "type": "message",
+        "text": "Try to use .apply(lambda) for that. It should go through the column in this case. Had the same issue yesterday.",
+        "user": "U021ZC6JR28",
+        "ts": "1626765463.005700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021ZC6JR28",
+            "ts": "1626765482.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4Lzo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try to use .apply(lambda) for that. It should go through the column in this case. Had the same issue yesterday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "3a9d4a4c-4d90-4339-8d41-269c1e27ff22",
+        "type": "message",
+        "text": "thanks noviii!",
+        "user": "U0225RJ6SNM",
+        "ts": "1626765635.006000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ngw+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks noviii!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "4b534c26-64af-4ee0-af48-1ae1899560c4",
+        "type": "message",
+        "text": "It worked perfectly. I usually forget apply and lambda and they are incredibly useful",
+        "user": "U0225RJ6SNM",
+        "ts": "1626765794.006200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ebNs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It worked perfectly. I usually forget apply and lambda and they are incredibly useful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "c39783e9-9573-4c0b-8480-2055cd07266f",
+        "type": "message",
+        "text": "I feel you, I also forget them quite often in these situations at first :see_no_evil:",
+        "user": "U021ZC6JR28",
+        "ts": "1626765822.006400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UajX6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel you, I also forget them quite often in these situations at first "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "edc5250d-600f-49a9-a335-cf0a109bb6ed",
+        "type": "message",
+        "text": "we've put a huge amount of information in our brain these last weeks!!",
+        "user": "U0225RJ6SNM",
+        "ts": "1626765897.006700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oHPqd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we've put a huge amount of information in our brain these last weeks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "2bb84480-c4ae-47dd-a300-b33d1fc78c8c",
+        "type": "message",
+        "text": "and always remember: NaN values appear as float",
+        "user": "U021WEXHN4E",
+        "ts": "1626766978.006900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "abdQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and always remember: NaN values appear as float"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0225RJ6SNM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed06b0f0-d1a5-4f7f-9e77-633a50ae3eb8",
+        "type": "message",
+        "text": "so drop the nulls first :)",
+        "user": "U021UNQGZC4",
+        "ts": "1626768311.007200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gqps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so drop the nulls first :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0225RJ6SNM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf3dae4d-29e4-4feb-a391-9b0905dd8a06",
+        "type": "message",
+        "text": "so, if we make a dropna before we might not need the lambda function?",
+        "user": "U0225RJ6SNM",
+        "ts": "1626768317.007400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so, if we make a dropna before we might not need the lambda function?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "64ade512-a34a-4109-ab85-f504550b8f82",
+        "type": "message",
+        "text": "I think I was reading your mind when writing, Sian!",
+        "user": "U0225RJ6SNM",
+        "ts": "1626768361.007600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I was reading your mind when writing, Sian!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "924d8ba4-b229-4ed5-be5c-5ebd62c20d58",
+        "type": "message",
+        "text": "how does your lambda function look like? What do you want to achieve with it?",
+        "user": "U021WEXHN4E",
+        "ts": "1626768377.007900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how does your lambda function look like? What do you want to achieve with it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "c1487950-85ff-435d-8d87-8eb5d5fc7f57",
+        "type": "message",
+        "text": "I wrote lambda x: str(x)",
+        "user": "U0225RJ6SNM",
+        "ts": "1626768406.008100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D1XR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wrote lambda x: str(x)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "4aac9a88-8591-4ccd-8fa0-f0e1f286f214",
+        "type": "message",
+        "text": "but then you can't see null values when <http:\/\/df.info|df.info>()",
+        "user": "U0225RJ6SNM",
+        "ts": "1626768450.008300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MuV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but then you can't see null values when "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/df.info",
+                                "text": "df.info"
+                            },
+                            {
+                                "type": "text",
+                                "text": "()"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "2725849b-57ca-4538-baaa-ec7bbe83693b",
+        "type": "message",
+        "text": "I finally did that:\nclothing_df = clothing_df.dropna(subset=['review text'])\n\nand that to check if it's ok:\nnum_float = 0\nfor i in clothing_df['review text']:\n    if type(i) == float:\n        num_float += 1\n\nprint(num_float)",
+        "user": "U0225RJ6SNM",
+        "ts": "1626768522.008500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HooT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I finally did that:\nclothing_df = clothing_df.dropna(subset=['review text'])\n\nand that to check if it's ok:\nnum_float = 0\nfor i in clothing_df['review text']:\n    if type(i) == float:\n        num_float += 1\n\nprint(num_float)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "e6bc89f0-529f-4860-a779-02edf97aa56c",
+        "type": "message",
+        "text": "yesterday with the clothing data i needed to drop NAs\n*clothingdf.dropna(subset=[‘Review Text’,‘Division Name’], inplace=True)*\nbefore doing\n*clothingdf[‘sentiment’]=clothingdf[‘Review Text’].apply(lambda x: TextBlob(x).sentiment.polarity)*",
+        "user": "U021UNQGZC4",
+        "ts": "1626768530.008700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zGm1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yesterday with the clothing data i needed to drop NAs\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "clothingdf.dropna(subset=[‘Review Text’,‘Division Name’], inplace=True)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nbefore doing\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "clothingdf[‘sentiment’]=clothingdf[‘Review Text’].apply(lambda x: TextBlob(x).sentiment.polarity)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "8ac912ad-7259-4dda-8011-5c78ffec7896",
+        "type": "message",
+        "text": "i wonder if this is the stage you are at - because the textblob function falls over with a null value in there",
+        "user": "U021UNQGZC4",
+        "ts": "1626768579.008900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eBk=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i wonder if this is the stage you are at - because the textblob function falls over with a null value in there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "ccab6978-9a65-46d2-962e-796aa9907648",
+        "type": "message",
+        "text": "yes I was getting sick with that yesterday evening",
+        "user": "U0225RJ6SNM",
+        "ts": "1626768638.009100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3klN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes I was getting sick with that yesterday evening"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "828c6ef1-5831-4726-8c00-62d50d926a96",
+        "type": "message",
+        "text": "`df.isna().sum()` is always good to check all NaNs. No need to write a for-loop.\nor in your case\n`clothing_df['review text'].isna().sum()`",
+        "user": "U021WEXHN4E",
+        "ts": "1626768684.009300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zNm=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "df.isna().sum()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is always good to check all NaNs. No need to write a for-loop.\nor in your case\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "clothing_df['review text'].isna().sum()",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626765411.005500",
+        "parent_user_id": "U0225RJ6SNM",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U0225RJ6SNM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a6dee11-9ae4-4a29-b3eb-35f2aa24b2ec",
+        "type": "message",
+        "text": "Hey would there be a good way to order bars within a subgroup of a catplot? I tried to add the order statement below, but once I do that all bars disappear..\n\n```sns.set_theme(style=\"whitegrid\")\n\n\ng = sns.catplot(\n    data = avg_sentiment, kind=\"bar\",\n    x = \"sentiment\", y = \"division-name\", hue = \"department-name\",\n    ci=\"sd\", palette=\"dark\", alpha=.6, height=6, orient = \"h\",\n    order = min_sentiment.sort_values('sentiment', ascending = False)\n)\ng.despine(left=True)\ng.set_axis_labels(\"Avg Sentiment Polarity\")\ng.set(title = 'Avg Sentiment by Departments');```",
+        "user": "U021ZC6JR28",
+        "ts": "1626768935.010400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JawOC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey would there be a good way to order bars within a subgroup of a catplot? I tried to add the order statement below, but once I do that all bars disappear..\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sns.set_theme(style=\"whitegrid\")\n\n\ng = sns.catplot(\n    data = avg_sentiment, kind=\"bar\",\n    x = \"sentiment\", y = \"division-name\", hue = \"department-name\",\n    ci=\"sd\", palette=\"dark\", alpha=.6, height=6, orient = \"h\",\n    order = min_sentiment.sort_values('sentiment', ascending = False)\n)\ng.despine(left=True)\ng.set_axis_labels(\"Avg Sentiment Polarity\")\ng.set(title = 'Avg Sentiment by Departments');"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1626770173.012500",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626768962.010500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626769240.010800"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626769546.011000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626769581.011200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626769675.011400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626769677.011600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626769794.011800"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626770092.012100"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626770173.012500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "83c5a050-45cf-4b87-bda8-f905fcb77c3e",
+        "type": "message",
+        "text": "Not getting smarter from Stackoverlow either :confused:",
+        "user": "U021ZC6JR28",
+        "ts": "1626768962.010500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nby5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not getting smarter from Stackoverlow either "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "c4c54173-9911-4498-a0c2-fb7b65b914b5",
+        "type": "message",
+        "text": "(cough) tableau might be easier for your desired nested sort",
+        "user": "U021UNQGZC4",
+        "ts": "1626769240.010800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YF1Uo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(cough) tableau might be easier for your desired nested sort"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "df8c71bf-61a9-41a2-9bfb-d726c9540ff3",
+        "type": "message",
+        "text": "I already thought so :see_no_evil: Haha was still worth a try doing it with Seaborn :grimacing:",
+        "user": "U021ZC6JR28",
+        "ts": "1626769546.011000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Pp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I already thought so "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Haha was still worth a try doing it with Seaborn "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "c87841c2-a73e-45ab-9296-de7e22e3db62",
+        "type": "message",
+        "text": "I think the order might be only for one column, but to achieve the view you want, you could reindex- have you tried creating the order you want in a groupby() ? something like :\n*reviews.groupby([‘division name’]).apply(lambda x: (<http:\/\/x.gr|x.gr>oupby(‘department’).mean().sort_values(‘sentiment’,ascending=False))*",
+        "user": "U021UNQGZC4",
+        "ts": "1626769581.011200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1626769871.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the order might be only for one column, but to achieve the view you want, you could reindex- have you tried creating the order you want in a groupby() ? something like :\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "reviews.groupby([‘division name’]).apply(lambda x: (",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/x.gr",
+                                "text": "x.gr",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "oupby(‘department’).mean().sort_values(‘sentiment’,ascending=False))",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "37608626-510d-4e74-a617-6534cfdcb9dc",
+        "type": "message",
+        "text": "you can set the index on your results table if you create a grouped version of the dataframe … index can be set on multiple columns. then try plotting. but youre right, i think there should be a solution to sort nested in seaborn- i just dont know it",
+        "user": "U021UNQGZC4",
+        "ts": "1626769675.011400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PL0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can set the index on your results table if you create a grouped version of the dataframe … index can be set on multiple columns. then try plotting. but youre right, i think there should be a solution to sort nested in seaborn- i just dont know it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "dd5e4b12-b55a-4416-a617-292e92dcc785",
+        "type": "message",
+        "text": "<https:\/\/pandas.pydata.org\/docs\/reference\/api\/pandas.DataFrame.set_index.html>",
+        "user": "U021UNQGZC4",
+        "ts": "1626769677.011600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Trh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pandas.pydata.org\/docs\/reference\/api\/pandas.DataFrame.set_index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "98eaa8a6-d30c-4c9f-845b-cb5374b0dba8",
+        "type": "message",
+        "text": "or a simpler hack…. looks like you can set the barplot in a specific order - this might work\n`sns.barplot(x *=*` `'class', y *=*` `'fare', data *=*` `df,`\n            `order *=*` `[\"Third\", \"Second\", \"First\"])`",
+        "user": "U021UNQGZC4",
+        "ts": "1626769794.011800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4dNl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or a simpler hack…. looks like you can set the barplot in a specific order - this might work\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "sns.barplot(x ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "=",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "'class', y ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "=",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "'fare', data ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "=",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "df,",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "            order ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "=",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "[\"Third\", \"Second\", \"First\"])",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "type": "message",
+        "text": "Will take a look at it once more. I tried the .sort_vales approach and the bar one as well.\n\nWill try to look into a solution with reindexing. The issue might be that I went for a catplot with kind bar instead of a barplot.",
+        "files": [
+            {
+                "id": "F028DEVMG8N",
+                "created": 1626770089,
+                "timestamp": 1626770089,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6JR28",
+                "editable": false,
+                "size": 98877,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028DEVMG8N\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028DEVMG8N\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 258,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 344,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 516,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 574,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 688,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028DEVMG8N-6beceaf8c3\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 734,
+                "original_w": 1272,
+                "original_h": 912,
+                "thumb_tiny": "AwAiADDToBzRRQAhwBnn8KjaZF9c+hpzpuHLMB6CoWjjAyBIxoAlik8wE44B4qSoYdqqcKwye9TA5oAKa6krhcc+tOo6d6AK5gcnIfHsM0n2eT\/np\/OrNNKgnJJ\/A0BcYkbKMFs81IBgYoUBehP4nNLQAUlLSUANfrQvU0P1oTqaAHUUUUAf\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6JR28\/F028DEVMG8N\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028DEVMG8N-fbc63d1c4a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQMZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will take a look at it once more. I tried the .sort_vales approach and the bar one as well.\n\nWill try to look into a solution with reindexing. The issue might be that I went for a catplot with kind bar instead of a barplot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021ZC6JR28",
+        "display_as_bot": false,
+        "ts": "1626770092.012100",
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "634665f3-f171-4fd2-a1eb-b963880d8a64",
+        "type": "message",
+        "text": "Thanks for all the input <@U021UNQGZC4>. Great food for thought! :slightly_smiling_face:",
+        "user": "U021ZC6JR28",
+        "ts": "1626770173.012500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJnK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for all the input "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Great food for thought! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626768935.010400",
+        "parent_user_id": "U021ZC6JR28",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

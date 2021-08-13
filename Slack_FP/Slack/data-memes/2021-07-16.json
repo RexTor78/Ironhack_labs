@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "e4a5e7d3-a860-458e-8e83-2467214b5508",
+        "type": "message",
+        "text": "bill Murray on that picture btw looks like a  clone of my dad",
+        "user": "U021WEXHN4E",
+        "ts": "1626426928.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "03am",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bill Murray on that picture btw looks like a  clone of my dad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626385271.000100",
+        "parent_user_id": "U021WEXHN4E"
+    }
+]

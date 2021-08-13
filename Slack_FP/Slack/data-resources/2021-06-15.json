@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "e7e8e8dd-02cd-44b0-808a-48325351b450",
+        "type": "message",
+        "text": "thanks that's a pretty cool thing (the visuals on the website are also great lol)",
+        "user": "U021TDMBPRR",
+        "ts": "1623740589.002100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks that's a pretty cool thing (the visuals on the website are also great lol)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb16a210-73f3-4691-8d57-e8cc3f24cadc",
+        "type": "message",
+        "text": "Cool! great plan for ext summer if they host it too!",
+        "user": "U021ZC6H9GC",
+        "ts": "1623753097.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1RQN3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool! great plan for ext summer if they host it too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "crossed_fingers",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

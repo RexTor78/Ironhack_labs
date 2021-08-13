@@ -1,0 +1,1118 @@
+[
+    {
+        "client_msg_id": "0bad030d-d808-474f-b815-6ce52c06ecec",
+        "type": "message",
+        "text": "Hi! I need some help! If you like reading, here you have the survey i made for my final project. You can tell me about a book of your choice here. Thanks! :muscle:\n<https:\/\/forms.gle\/KVcogv5BeWycPPZP7>",
+        "user": "U0225RHK6Q1",
+        "ts": "1626850874.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0225RHK6Q1",
+            "ts": "1626864832.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Book Recommender survey",
+                "title_link": "https:\/\/forms.gle\/KVcogv5BeWycPPZP7",
+                "text": "First of all, thank you for being part of this project! The information provided here is anonymous. This survey is created to build a book recommender prototype primarily based on the books that people read in the book community I belong to, but also based on books people read in general. I need to collect data on as many books as possible. All literary genres are welcome! So choose a book you like and tell me about it! Each completed survey equals 1 book. If you can, complete more than 1 survey to tell me about more than 1 book. Thanks again!",
+                "fallback": "Google Docs: Book Recommender survey",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/PM6_luLE4S1n6civRLZN4Q23MjVC2Xitd4CDV1xNHvooh8gxmy28W65joph15j18y183eximXns",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/forms.gle\/KVcogv5BeWycPPZP7",
+                "image_bytes": 31467,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/KVcogv5BeWycPPZP7"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "azTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I need some help! If you like reading, here you have the survey i made for my final project. You can tell me about a book of your choice here. Thanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/KVcogv5BeWycPPZP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0DEDEA5F-F3C2-466E-A9AA-7A40AD384671",
+        "type": "message",
+        "text": "Sorry... system turned off. Will join soon",
+        "user": "U0225RGM941",
+        "ts": "1626852418.001400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cdaq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry... system turned off. Will join soon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "class queries from this morning, for reference",
+        "files": [
+            {
+                "id": "F028QKVRRCJ",
+                "created": 1626855130,
+                "timestamp": 1626855130,
+                "name": "class queries.sql",
+                "title": "class queries.sql",
+                "mimetype": "text\/plain",
+                "filetype": "sql",
+                "pretty_type": "SQL",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 1320,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028QKVRRCJ\/class_queries.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028QKVRRCJ\/download\/class_queries.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F028QKVRRCJ\/class_queries.sql",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028QKVRRCJ-2d15638229",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F028QKVRRCJ\/class_queries.sql\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "class queries from this morning, for reference"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626855144.001800"
+    },
+    {
+        "client_msg_id": "46f2a3f1-cd6b-4d48-9a5a-1fafdec12ddc",
+        "type": "message",
+        "text": "Seems like <!everyone> is happy to attempt the SQL review tasks on their own. TAs are around to help if you ask them to a breakout room they can give you some hints! otherwise let’s meet in the main classroom at 11:30 for a check in (optional) for anyone who is stuck.\n• if you cant see how to answer one of the tasks, move on to the next and come back to it \n• i have seen some very over complex methods to answer *task 8* - my tip - check if there are photos for each product on the product inventory by doing a comparison with count(distinct ProductID)- if the numbers dont match, the answer is no",
+        "user": "U021UNQGZC4",
+        "ts": "1626856897.005600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seems like "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is happy to attempt the SQL review tasks on their own. TAs are around to help if you ask them to a breakout room they can give you some hints! otherwise let’s meet in the main classroom at 11:30 for a check in (optional) for anyone who is stuck.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "if you cant see how to answer one of the tasks, move on to the next and come back to it "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "i have seen some very over complex methods to answer "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "task 8",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - my tip - check if there are photos for each product on the product inventory by doing a comparison with count(distinct ProductID)- if the numbers dont match, the answer is no"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f0b374a-0275-47a8-952c-13e1f4403137",
+        "type": "message",
+        "text": "<!here> My expectation is that the reminder of today will be spent working on your final project, particularly choosing a topic and gathering the data, confirming the idea is good with your classmates. I can share the solutions to the sql query lab tomorrow morning so you can check any you missed, but i hope this was a useful review of SQL joins, clauses, and functionality of MySQl for you!\n• do submit your lab this afternoon so we can see which students are really struggling with SQL and we can give you extra support following the course, before you interview. ",
+        "user": "U021UNQGZC4",
+        "ts": "1626866888.009600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qU6E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " My expectation is that the reminder of today will be spent working on your final project, particularly choosing a topic and gathering the data, confirming the idea is good with your classmates. I can share the solutions to the sql query lab tomorrow morning so you can check any you missed, but i hope this was a useful review of SQL joins, clauses, and functionality of MySQl for you!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "do submit your lab this afternoon so we can see which students are really struggling with SQL and we can give you extra support following the course, before you interview. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U021CE3UWPR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c24ba927-649a-4a2a-82fd-9dec9ed851e9",
+        "type": "message",
+        "text": "(in case its not obvious - dont feel you need to complete ALL tasks of this lab- just as many as you could do this morning)",
+        "user": "U021UNQGZC4",
+        "ts": "1626868766.010500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1626868849.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nj=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(in case its not obvious - dont feel you need to complete ALL tasks of this lab- just as many as you could do this morning)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2efe8992-a2e4-4053-8b6c-18a63a83cf7b",
+        "type": "message",
+        "text": "Hey <!channel>, let’s follow this plan:\n• Until 4.30, time to think about your project topics. We discuss it with us, we are in the call.\n• 4.30 katas time!\n• 5.00 Guest talk\nTake your time, explore the web and get some ideas this afternoon. It is a time consuming task but it is also the first step for your great final project :sparkles:",
+        "user": "U021NHS652N",
+        "ts": "1626871268.013300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WI1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", let’s follow this plan:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Until 4.30, time to think about your project topics. We discuss it with us, we are in the call."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "4.30 katas time!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5.00 Guest talk"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nTake your time, explore the web and get some ideas this afternoon. It is a time consuming task but it is also the first step for your great final project "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f58dd42f-9308-4796-b48c-0ed967e03748",
+        "type": "message",
+        "text": "• tomorrows elevator pitch - is a 2 min verbal description of your project - what you plan to do, whats the data source, are there some challenges you already know about. We will give you feedback and hints on how to manage it. \n• ON friday before 4pm, complete the google form to tell us what your project will be ",
+        "user": "U021UNQGZC4",
+        "ts": "1626871616.016200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFoEI",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "tomorrows elevator pitch - is a 2 min verbal description of your project - what you plan to do, whats the data source, are there some challenges you already know about. We will give you feedback and hints on how to manage it. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ON friday before 4pm, complete the google form to tell us what your project will be "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97a328fa-a768-460d-b62c-5d6bb4274020",
+        "type": "message",
+        "text": "<!channel>,\n\nHere's the schedule for the :elevator: pitches for tomorrow (you have roundabout 2 minutes to pitch and after that we'll discuss for 5 minutes). You also find the slots on Notion:\n1. *14:00* Andre\n2. *14:07* Andrea\n3. *14:14* Anna\n4. *14:21* Axana\n5. &lt;Sian and Flo have a :coffee: break&gt;\n6. *14:40* Dámaris-Clariana\n7. *14:47* Fernando\n8. *14:54* Gellért\n9. *15:01* Hector\n10. &lt;Sian and Flo have a :coffee: break&gt;\n11. *15:20* Jennifer\n12. *15:27* Julia-León\n13. *15:34* Lucas\n14. *15:41* Majed-Ayoub\n15. &lt;*16:00*  :woman_in_lotus_position: break with Robert :male_mage:&gt;\n16. *16:30* Marta\n17. *16:3*7 Nayib\n18. *16:44* Pedro-Pablo\n19. *16:51* Sathiya\n20. &lt;Sian and Flo have a :coffee: break&gt;\n21. *17:10* Uroš\n22. *17:17* Walter\n23. *17:21* Ángela",
+        "user": "U021WEXHN4E",
+        "ts": "1626872720.024100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1626872916.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YLFUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nHere's the schedule for the "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "elevator"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pitches for tomorrow (you have roundabout 2 minutes to pitch and after that we'll discuss for 5 minutes). You also find the slots on Notion:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Andre"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:07",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Andrea"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:14 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Anna"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:21",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Axana"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "<Sian and Flo have a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "coffee"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " break>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:40",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Dámaris-Clariana"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:47",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Fernando"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:54",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Gellért"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:01",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Hector"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "<Sian and Flo have a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "coffee"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " break>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:20",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Jennifer"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:27",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Julia-León"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:34",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Lucas"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:41",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Majed-Ayoub"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "<"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "16:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "woman_in_lotus_position"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " break with Robert "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "male_mage"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ">"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16:30",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Marta"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16:3",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "7 Nayib"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16:44",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Pedro-Pablo"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16:51",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Sathiya"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "<Sian and Flo have a "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "coffee"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " break>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17:10",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Uroš"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17:17",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Walter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17:21",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Ángela"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021ZC6H9GC",
+                    "U0225RJ9GQZ",
+                    "U021T7DU0BC",
+                    "U021TDMEH27"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa5cabab-9dfa-4877-b710-f32c98321936",
+        "type": "message",
+        "text": "PUMPED to hear your ideas!",
+        "user": "U021UNQGZC4",
+        "ts": "1626872979.024900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PUMPED to hear your ideas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38396e5e-4a97-48eb-98aa-774b2a0a4e2f",
+        "type": "message",
+        "text": "<!channel> Katas time in the main room in 2 mins :wink:",
+        "user": "U021NHS652N",
+        "ts": "1626877866.026300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iR6+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Katas time in the main room in 2 mins "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca83627d-1567-4e33-88de-da97bdb0bfe4",
+        "type": "message",
+        "text": "<!everyone> guest speaker in 4 mins on the classroom - breakout rooms will shut shortly",
+        "user": "U021UNQGZC4",
+        "ts": "1626879415.026800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PuBFu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " guest speaker in 4 mins on the classroom - breakout rooms will shut shortly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

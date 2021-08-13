@@ -1,0 +1,242 @@
+[
+    {
+        "type": "message",
+        "text": "sql lesson query from today",
+        "files": [
+            {
+                "id": "F025CFA5G4A",
+                "created": 1623929463,
+                "timestamp": 1623929463,
+                "name": "17 JUN SQL.sql",
+                "title": "17 JUN SQL.sql",
+                "mimetype": "text\/plain",
+                "filetype": "sql",
+                "pretty_type": "SQL",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 3497,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025CFA5G4A\/17_jun_sql.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025CFA5G4A\/download\/17_jun_sql.sql?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025CFA5G4A\/17_jun_sql.sql",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025CFA5G4A-baad96a49a",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025CFA5G4A\/17_jun_sql.sql\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H0E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sql lesson query from today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623929466.018500",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U021ZC6H9GC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c380d92-c8e6-4a73-a489-71d174762300",
+        "type": "message",
+        "text": "Hello hello <!channel>!\n\nRemember, tomorrow we will have the presentation to start the day and after that we will do the retro. The presentations should last 5 mins as max :clock1: (this does not mean they have to be 5 min, if they are less is completely fine). If you have any doubt check the documentation of this project (<https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Class_Materials\/unit3\/erd.md>) or ask us directly.\n\nThe order for the presentation will be this one:\n\n1. Pedro and Sathiya\n2. Anna, Julia, Lucas and Nayib\n3. Fernando\n4. Gellert\n5. Uros, Axana, Andre and Jennifer\n6. Majed\n7. Arya\n8. Walter and Andrea\n9. Marta, Héctor, Ángela and Dámaris\n\nGood luck to everyone and enjoy the rest of your day, namaste :heart:",
+        "user": "U021NHS652N",
+        "ts": "1623940658.019400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021NHS652N",
+            "ts": "1623941059.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nRemember, tomorrow we will have the presentation to start the day and after that we will do the retro. The presentations should last 5 mins as max "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clock1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (this does not mean they have to be 5 min, if they are less is completely fine). If you have any doubt check the documentation of this project ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Class_Materials\/unit3\/erd.md"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") or ask us directly.\n\nThe order for the presentation will be this one:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pedro and Sathiya"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Anna, Julia, Lucas and Nayib"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fernando"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Gellert"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Uros, Axana, Andre and Jennifer"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Majed"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Arya"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Walter and Andrea"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Marta, Héctor, Ángela and Dámaris"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nGood luck to everyone and enjoy the rest of your day, namaste "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0225RJ3Z4H",
+                    "U021TDN4RAP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

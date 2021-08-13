@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "a4554860-4fbb-46aa-bbf7-1b24a19be9c5",
+        "type": "message",
+        "text": "Hi, the input function and the fontcolor tool don't work when I click run cell, somebody knows why?",
+        "user": "U0225RHK6Q1",
+        "ts": "1622476037.000500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4wGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, the input function and the fontcolor tool don't work when I click run cell, somebody knows why?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

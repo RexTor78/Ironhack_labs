@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "7a04b19e-4bbd-48a9-b0ee-d4de1881f522",
+        "type": "message",
+        "text": "The ML book I was talking about :slightly_smiling_face:  If you decide to look a it, try to use the second edition since there are some important changes regarding some libraries. The chapter I gives you a good view of ML landscape and the II shows an end-to-end machine learning projects, including many things we have covered (and some advanced others we haven’t)\n<https:\/\/www.oreilly.com\/library\/view\/hands-on-machine-learning\/9781492032632\/>",
+        "user": "U021NHS652N",
+        "ts": "1625730749.003200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "O’Reilly Online Learning",
+                "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition",
+                "title_link": "https:\/\/www.oreilly.com\/library\/view\/hands-on-machine-learning\/9781492032632\/",
+                "text": "Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, … - Selection from Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition [Book]",
+                "fallback": "O’Reilly Online Learning: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition",
+                "thumb_url": "https:\/\/www.oreilly.com\/library\/cover\/9781492032632\/",
+                "from_url": "https:\/\/www.oreilly.com\/library\/view\/hands-on-machine-learning\/9781492032632\/",
+                "thumb_width": 140,
+                "thumb_height": 184,
+                "service_icon": "https:\/\/www.oreilly.com\/library\/view\/static\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.oreilly.com\/library\/view\/hands-on-machine-learning\/9781492032632\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hfT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The ML book I was talking about "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  If you decide to look a it, try to use the second edition since there are some important changes regarding some libraries. The chapter I gives you a good view of ML landscape and the II shows an end-to-end machine learning projects, including many things we have covered (and some advanced others we haven’t)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.oreilly.com\/library\/view\/hands-on-machine-learning\/9781492032632\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U021TDMEH27",
+                    "U021TDMLNTD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "thankyou",
+                "users": [
+                    "U021T7DU0BC",
+                    "U021CE3UWPR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RJ5989"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U0225RGM941"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

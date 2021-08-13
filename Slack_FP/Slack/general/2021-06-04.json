@@ -1,0 +1,991 @@
+[
+    {
+        "client_msg_id": "91a1920f-7272-4dcb-8b37-9a408a7a2847",
+        "type": "message",
+        "text": "<!channel>,\nWe're gathering this morning on this miro board <https:\/\/miro.com\/welcomeonboard\/TVdtNGJtMzhxM01zVXdjSEFJTkR1WUJKdjB6aEVJVzZlZ3hrVFJtZXFibmVBVVdObk5kUU9IakJzRVA2TFdDenwzMDc0NDU3MzUxMTA3NDQ5Mzkw>",
+        "user": "U021WEXHN4E",
+        "ts": "1622790257.061100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "https:\/\/miro.com\/",
+                "title": "Sign up | Miro | Online Whiteboard for Visual Collaboration",
+                "title_link": "https:\/\/miro.com\/welcomeonboard\/TVdtNGJtMzhxM01zVXdjSEFJTkR1WUJKdjB6aEVJVzZlZ3hrVFJtZXFibmVBVVdObk5kUU9IakJzRVA2TFdDenwzMDc0NDU3MzUxMTA3NDQ5Mzkw",
+                "text": "Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world",
+                "fallback": "https:\/\/miro.com\/: Sign up | Miro | Online Whiteboard for Visual Collaboration",
+                "image_url": "https:\/\/miro.com\/static\/images\/share\/miro.png?00002",
+                "from_url": "https:\/\/miro.com\/welcomeonboard\/TVdtNGJtMzhxM01zVXdjSEFJTkR1WUJKdjB6aEVJVzZlZ3hrVFJtZXFibmVBVVdObk5kUU9IakJzRVA2TFdDenwzMDc0NDU3MzUxMTA3NDQ5Mzkw",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 5801,
+                "service_icon": "https:\/\/miro.com\/static\/favicons\/apple-touch-icon.png?v=00zdoEw6N6",
+                "id": 1,
+                "original_url": "https:\/\/miro.com\/welcomeonboard\/TVdtNGJtMzhxM01zVXdjSEFJTkR1WUJKdjB6aEVJVzZlZ3hrVFJtZXFibmVBVVdObk5kUU9IakJzRVA2TFdDenwzMDc0NDU3MzUxMTA3NDQ5Mzkw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nWe're gathering this morning on this miro board "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miro.com\/welcomeonboard\/TVdtNGJtMzhxM01zVXdjSEFJTkR1WUJKdjB6aEVJVzZlZ3hrVFJtZXFibmVBVVdObk5kUU9IakJzRVA2TFdDenwzMDc0NDU3MzUxMTA3NDQ5Mzkw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e4d551b-775f-463f-b69d-fe4826f58c3e",
+        "type": "message",
+        "text": "a general reminder to all students <!channel> - class starts every day at 9am. if you are expecting to be late and have a good reason, eg doctors appointment, let myself or the TAs know in advance. If theres an emergency, let us know before 9. Otherwise we mark you as late and too many late mornings, you will find yourself dropped from the course.",
+        "user": "U021UNQGZC4",
+        "ts": "1622790825.063200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5D3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a general reminder to all students "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - class starts every day at 9am. if you are expecting to be late and have a good reason, eg doctors appointment, let myself or the TAs know in advance. If theres an emergency, let us know before 9. Otherwise we mark you as late and too many late mornings, you will find yourself dropped from the course."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16f7ac3f-44d5-4d63-a320-4040af6b396d",
+        "type": "message",
+        "text": "where is everybody??",
+        "user": "U021ZC6L676",
+        "ts": "1622795869.063500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cOQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "where is everybody??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "date time - notebook here and on Notion\nthis is the link i was searching for with the date symbols  <https:\/\/www.w3schools.com\/python\/python_datetime.asp>",
+        "files": [
+            {
+                "id": "F024DKDEEPK",
+                "created": 1622801227,
+                "timestamp": 1622801227,
+                "name": "Data_time_web_data.ipynb",
+                "title": "Data_time_web_data.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 27413,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024DKDEEPK\/data_time_web_data.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024DKDEEPK\/download\/data_time_web_data.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F024DKDEEPK\/data_time_web_data.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024DKDEEPK-307042106c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZvH=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "date time - notebook here and on Notion\nthis is the link i was searching for with the date symbols  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/python_datetime.asp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1622801241.064400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F023Y1C9YE9",
+                "created": 1622802908,
+                "timestamp": 1622802908,
+                "name": "penguins.csv",
+                "title": "penguins.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 50914,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023Y1C9YE9\/penguins.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023Y1C9YE9\/download\/penguins.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F023Y1C9YE9\/penguins.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F023Y1C9YE9-d3ef4f6522",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F023Y1C9YE9\/penguins.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1622802911.064700"
+    },
+    {
+        "type": "message",
+        "text": "Penguins notebook here and on Notion, the EDA notebook on healthcare for all is also here and on notion. If there are elements any of you want to got through just reach out!",
+        "files": [
+            {
+                "id": "F0247G226H2",
+                "created": 1622808449,
+                "timestamp": 1622808449,
+                "name": "sian_1_4_EDA_pandas.ipynb",
+                "title": "sian_1_4_EDA_pandas.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 1145558,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0247G226H2\/sian_1_4_eda_pandas.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0247G226H2\/download\/sian_1_4_eda_pandas.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0247G226H2\/sian_1_4_eda_pandas.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0247G226H2-f36837b540",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0247G2AQLC",
+                "created": 1622808454,
+                "timestamp": 1622808454,
+                "name": "Sian_Correlation_Distribution_Multicollinearity.ipynb",
+                "title": "Sian_Correlation_Distribution_Multicollinearity.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 1400196,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0247G2AQLC\/sian_correlation_distribution_multicollinearity.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0247G2AQLC\/download\/sian_correlation_distribution_multicollinearity.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0247G2AQLC\/sian_correlation_distribution_multicollinearity.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0247G2AQLC-6cef850c39",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=5Ww1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Penguins notebook here and on Notion, the EDA notebook on healthcare for all is also here and on notion. If there are elements any of you want to got through just reach out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "ts": "1622808459.065700"
+    },
+    {
+        "client_msg_id": "4d48fc38-c11c-4353-862a-872f24d47baa",
+        "type": "message",
+        "text": ":cooking:hardware \/ software PREP for next week!\n• on monday we will be working more on our case study in pandas. we will need pandas, numpy, seaborn, matplotlib, scipy (stats) and scikit-learn. you will start working on a project monday for which you may also want to use other modules\/libraries including re (regex)\n• on tuesday we will need python with pandas and regex (re)\n• on tuesday you will have a task to set up tableau public for work on wednesday , thursday, friday. a general warning, tableau takes up a lot of RAM; so limit any other running programs at the same time \n• on wednesday you will need your github repos ready for a review - so its worth making sure you have github desktop, gitkraken, or gitbash plus are confident with the terminal commands for git \n• on friday you will have a task to check the set up of MySql for the week 3",
+        "user": "U021UNQGZC4",
+        "ts": "1622809794.071200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1622815649.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fjW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "cooking"
+                            },
+                            {
+                                "type": "text",
+                                "text": "hardware \/ software PREP for next week!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on monday we will be working more on our case study in pandas. we will need pandas, numpy, seaborn, matplotlib, scipy (stats) and scikit-learn. you will start working on a project monday for which you may also want to use other modules\/libraries including re (regex)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on tuesday we will need python with pandas and regex (re)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on tuesday you will have a task to set up tableau public for work on wednesday , thursday, friday. a general warning, tableau takes up a lot of RAM; so limit any other running programs at the same time "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on wednesday you will need your github repos ready for a review - so its worth making sure you have github desktop, gitkraken, or gitbash plus are confident with the terminal commands for git "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on friday you will have a task to check the set up of MySql for the week 3"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F023UL6QAQ6",
+                "created": 1622810077,
+                "timestamp": 1622810077,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 337232,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023UL6QAQ6\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023UL6QAQ6\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023UL6QAQ6-d6078f6df8\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023UL6QAQ6-d6078f6df8\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023UL6QAQ6-d6078f6df8\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 307,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023UL6QAQ6-d6078f6df8\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 409,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F023UL6QAQ6-d6078f6df8\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 511,
+                "original_h": 600,
+                "thumb_tiny": "AwAwACjQmUMmCM8+tMJRZgxOOMYz0qG\/kZAApxVFWkkfjJoA2hzTS6hguRuPakhz5Yz1qGMFrt2Izt4yOlAFmiiigCnfQl8MuPQ1WgR4kMmO+BkVKJJVmw7ENnkGpZD5s4jydmfT0oYou4LLKiAPGWBHUCmKMRkc8HHpV1WDDKnI9qqMMbv94\/zoGPtyRIVwMd6s1DbqMF89f0qagCnfsoZAc556elQo3RijbR36VbmWRpFAzsIweOlRzRTY4IYAY98UMEJmYLtEeF+hpjBv+eZFXl+6M+lLSsO5QTzCDtLKoIBOal8t\/wDnpJ+dSQqGVgR0cmpdo9KEDP\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F023UL6QAQ6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F023UL6QAQ6-036b97b1e7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1622810080.071300"
+    },
+    {
+        "client_msg_id": "2ee61fb7-1c67-4eda-8e30-84d6dffd72f2",
+        "type": "message",
+        "text": "<!channel> as mentioned earlier we will have an end of week 1 gathering : at 5:30 all the barcelona cohorts, including our barcelona-berlin merged class, will be on this zoom <https:\/\/ironhack.zoom.us\/j\/98986128029> - Barcelona PM Hector will host and run some ice breaker activities. Attendance is of course optional but we would love to have you there ! :beers:",
+        "user": "U021UNQGZC4",
+        "ts": "1622815620.074000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dblt1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as mentioned earlier we will have an end of week 1 gathering : at 5:30 all the barcelona cohorts, including our barcelona-berlin merged class, will be on this zoom "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ironhack.zoom.us\/j\/98986128029"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Barcelona PM Hector will host and run some ice breaker activities. Attendance is of course optional but we would love to have you there ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622815620.074000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1622820486.076900",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021NHS652N"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622818779.076500"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1622820138.076700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622820486.076900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "catalonia",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "822f953f-8d3a-4981-88cf-37fe94c14063",
+        "type": "message",
+        "text": "other VERY useful bookmark for you - this notion page will contain the lab solutions  :microscope:<https:\/\/www.notion.so\/ironhack\/15bb527f271a4089a803c3803f039419?v=a2611ab032c54359a8c975df4d29b470>\nRemember we will upload the lab solutions the following Monday after that lab’s day (except for the optional ones, that we will uploaded the same day)",
+        "user": "U021NHS652N",
+        "ts": "1622815775.074600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NG8yz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "other VERY useful bookmark for you - this notion page will contain the lab solutions  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "microscope"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/15bb527f271a4089a803c3803f039419?v=a2611ab032c54359a8c975df4d29b470"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nRemember we will upload the lab solutions the following Monday after that lab’s day (except for the optional ones, that we will uploaded the same day)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e3d0b6e-0629-4c9b-b8b6-8f7ed14a54e4",
+        "type": "message",
+        "text": "reminder <!channel> <!here> to spend 5 mins doing your weekly survey ! (sorry if the TAs already did this reminder)",
+        "user": "U021UNQGZC4",
+        "ts": "1622818698.075700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "reminder "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to spend 5 mins doing your weekly survey ! (sorry if the TAs already did this reminder)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64aa4f0a-2315-4c39-a060-6970b4df57c5",
+        "type": "message",
+        "text": "(it should be visible on your student portal, when you submit lab work… like a header along the top. think it comes to you automatically every fri lunchtime)",
+        "user": "U021UNQGZC4",
+        "ts": "1622818748.076400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eu6e0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(it should be visible on your student portal, when you submit lab work… like a header along the top. think it comes to you automatically every fri lunchtime)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd47633d-7f39-4c1c-8e66-7aba6d8b330b",
+        "type": "message",
+        "text": "do i need to learn some catalan before attending <@U021NHS652N>",
+        "user": "U021UNQGZC4",
+        "ts": "1622818779.076500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do i need to learn some catalan before attending "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622815620.074000",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "012f8d53-39ca-4767-aa0c-615c32f252a3",
+        "type": "message",
+        "text": "hahaha I don’t think so! But you can always ask our Catalan speaker students to do real-time translation :smile:",
+        "user": "U021NHS652N",
+        "ts": "1622820138.076700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9S7X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahaha I don’t think so! But you can always ask our Catalan speaker students to do real-time translation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622815620.074000",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "c985310e-987f-435c-828a-7776501aad77",
+        "type": "message",
+        "text": "great idea!",
+        "user": "U021UNQGZC4",
+        "ts": "1622820486.076900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great idea!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622815620.074000",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "f879d93c-1f4b-47a7-bec7-33be11bb8f0e",
+        "type": "message",
+        "text": "is anyone coming to the zoom meetup barcelona <!here>? just the teaching team so far…",
+        "user": "U021UNQGZC4",
+        "ts": "1622820931.077600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ab0U+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is anyone coming to the zoom meetup barcelona "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? just the teaching team so far…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f322b277-1f17-4837-9508-1d89da3652a3",
+        "type": "message",
+        "text": "there's a lot of lab work apparently how long is this meeting supposed to last",
+        "user": "U021TDMBPRR",
+        "ts": "1622821038.078200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UiHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there's a lot of lab work apparently how long is this meeting supposed to last"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39abcdc3-dacd-4921-97f6-037854757752",
+        "type": "message",
+        "text": "I'm participating but there seems to be connection problems",
+        "user": "U021TDMBPRR",
+        "ts": "1622821079.078600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8n\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm participating but there seems to be connection problems"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "268b43ab-d095-4fca-a865-802bea332715",
+        "type": "message",
+        "text": "I have to admit that I would be reluctant to be the only one hah",
+        "user": "U021TDMBPRR",
+        "ts": "1622821279.079100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zB5Iu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have to admit that I would be reluctant to be the only one hah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

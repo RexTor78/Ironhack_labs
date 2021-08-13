@@ -1,0 +1,1711 @@
+[
+    {
+        "client_msg_id": "8d959cdb-3962-43df-a2c7-a612813eadc6",
+        "type": "message",
+        "text": "thread for air pollution data- add the data source(s) you have selected and answer some of the questions in this thread - be prepared to talk about your chosen data source",
+        "user": "U021UNQGZC4",
+        "ts": "1622539023.000400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1622539176.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thread for air pollution data- add the data source(s) you have selected and answer some of the questions in this thread - be prepared to talk about your chosen data source"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "reply_count": 27,
+        "reply_users_count": 17,
+        "latest_reply": "1623418565.004300",
+        "reply_users": [
+            "U021TDMHF5H",
+            "U021ZC6L676",
+            "U021UNQGZC4",
+            "U021TDN4RAP",
+            "U021ZC6H9GC",
+            "U0234JUMPJQ",
+            "U0225RJ6SNM",
+            "U021ZC6JR28",
+            "U021TDMEH27",
+            "U021Q54K3B7",
+            "U0225RHK6Q1",
+            "U021TDMLNTD",
+            "U021T7DU0BC",
+            "U0225RJ9GQZ",
+            "U021TDMBPRR",
+            "U0225RJ3Z4H",
+            "U022VC1JD29"
+        ],
+        "replies": [
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1622539424.000700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622540076.001000"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1622540113.001300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622540142.001700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622540173.002200"
+            },
+            {
+                "user": "U021TDN4RAP",
+                "ts": "1622540382.003700"
+            },
+            {
+                "user": "U021TDN4RAP",
+                "ts": "1622540409.004100"
+            },
+            {
+                "user": "U021TDN4RAP",
+                "ts": "1622540472.004600"
+            },
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1622540727.004900"
+            },
+            {
+                "user": "U0234JUMPJQ",
+                "ts": "1622541059.005900"
+            },
+            {
+                "user": "U0234JUMPJQ",
+                "ts": "1622541100.006100"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1622541112.006300"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1622541191.006500"
+            },
+            {
+                "user": "U021TDMEH27",
+                "ts": "1622541328.006900"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1622541408.007100"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1622541499.007600"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1622541662.008300"
+            },
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1622541665.008500"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1622541797.008800"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1622542094.009200"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1622542099.009400"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1622542266.010000"
+            },
+            {
+                "user": "U021TDMBPRR",
+                "ts": "1622542539.010300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623416916.003700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623417001.003900"
+            },
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1623418403.004100"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1623418565.004300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ee02660b-6938-4467-ac3f-cd90e04d9686",
+        "type": "message",
+        "text": "<https:\/\/openweathermap.org\/api\/air-pollution>\n\n\n• data format is JSON\n• data looks clean and would probably not need more than a simple parsing to turn the strings into numbers and outlier removal\n• JSON is pretty simple and could be merged with other data sources without too much effort\n• one could answer any questions about numerical state of the weather at any geographic point on the planet and categorical questions could be derived from numerical values with a bit of programming\n• one could gain concrete knowledge about pollution levels at each point and find correlations between the weather state on different points on the globe and build forecasting models\n• as an example: being able to forecast an upcoming increase in pollution levels of a certain substance beyond harmful levels may enable us to take necessary measures to mitigate the damage\n• one could easily imagine a system that is fed the weather info through the abovementioned api and dispatches \"warning events\" based on domain metrics to institutions that are qualified to take action ",
+        "user": "U021TDMHF5H",
+        "ts": "1622539424.000700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021TDMHF5H",
+            "ts": "1622540966.000000"
+        },
+        "attachments": [
+            {
+                "title": "Air Pollution - OpenWeatherMap",
+                "title_link": "https:\/\/openweathermap.org\/api\/air-pollution",
+                "text": "Air Pollution API provides current, forecast and historical air pollution data for any coordinates on the globe. Besides basic Air Quality Index, the API returns data about polluting gases, such as Carbon monoxide (CO), Nitrogen monoxide (NO), Nitrogen dioxide (NO2), Ozone (O3), Sulphur dioxide (SO2), Ammonia (NH3), and particulates (PM2.5 and PM10).",
+                "fallback": "Air Pollution - OpenWeatherMap",
+                "from_url": "https:\/\/openweathermap.org\/api\/air-pollution",
+                "service_icon": "https:\/\/openweathermap.org\/themes\/openweathermap\/assets\/vendor\/owm\/img\/icons\/favicon.ico",
+                "service_name": "openweathermap.org",
+                "id": 1,
+                "original_url": "https:\/\/openweathermap.org\/api\/air-pollution"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4lY3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openweathermap.org\/api\/air-pollution"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "data format is JSON"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "data looks clean and would probably not need more than a simple parsing to turn the strings into numbers and outlier removal"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "JSON is pretty simple and could be merged with other data sources without too much effort"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one could answer any questions about numerical state of the weather at any geographic point on the planet and categorical questions could be derived from numerical values with a bit of programming"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one could gain concrete knowledge about pollution levels at each point and find correlations between the weather state on different points on the globe and build forecasting models"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "as an example: being able to forecast an upcoming increase in pollution levels of a certain substance beyond harmful levels may enable us to take necessary measures to mitigate the damage"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one could easily imagine a system that is fed the weather info through the abovementioned api and dispatches \"warning events\" based on domain metrics to institutions that are qualified to take action "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "73306aac-4247-4dd5-8dc1-a91543c7a1ad",
+        "type": "message",
+        "text": "<https:\/\/luftdaten.berlin.de\/lqi>",
+        "user": "U021ZC6L676",
+        "ts": "1622540076.001000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Aktueller Luftqualitätsindex | Berliner Luftgüte Messnetz (BLUME) | Luftqualität und Luftgüte in Berlin",
+                "title_link": "https:\/\/luftdaten.berlin.de\/lqi",
+                "fallback": "Aktueller Luftqualitätsindex | Berliner Luftgüte Messnetz (BLUME) | Luftqualität und Luftgüte in Berlin",
+                "image_url": "http:\/\/www.berlin.de\/i9f\/images\/facebook_default_icon_land.png",
+                "from_url": "https:\/\/luftdaten.berlin.de\/lqi",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 44129,
+                "service_icon": "http:\/\/www.berlin.de\/i9f\/v4\/css\/images\/misc\/apple-touch-icon.png",
+                "service_name": "luftdaten.berlin.de",
+                "id": 1,
+                "original_url": "https:\/\/luftdaten.berlin.de\/lqi"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I1Sc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/luftdaten.berlin.de\/lqi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "f5312821-14ea-45fe-9887-f17524b6eb58",
+        "type": "message",
+        "text": "all other websites are taking data from this one, so this would be my source",
+        "user": "U021ZC6L676",
+        "ts": "1622540113.001300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "snNY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "all other websites are taking data from this one, so this would be my source"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "95dc7b19-5906-4f7b-aa39-77a473828f87",
+        "type": "message",
+        "text": "dont forget to answer the questions as well as post the link !",
+        "user": "U021UNQGZC4",
+        "ts": "1622540142.001700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZlHrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dont forget to answer the questions as well as post the link !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "d47ad8af-01e2-4213-b77c-b74cfb98a9a7",
+        "type": "message",
+        "text": "Questions you will need to answer while retrieving the data :\nWhat is the format of the data you have found?\nWill the data need cleaning?\nCan I feasibly join this data with other sources of data I have collected?\nQuestions you should be thinking about...\nHow reliable is the data source?\nWhat data questions can I really answer with this data?\nWhat recommendations or insights could I try to capture with this data?\nWhat actions can be taken off the back of my data analysis?",
+        "user": "U021UNQGZC4",
+        "ts": "1622540173.002200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VfT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Questions you will need to answer while retrieving the data :\nWhat is the format of the data you have found?\nWill the data need cleaning?\nCan I feasibly join this data with other sources of data I have collected?\nQuestions you should be thinking about...\nHow reliable is the data source?\nWhat data questions can I really answer with this data?\nWhat recommendations or insights could I try to capture with this data?\nWhat actions can be taken off the back of my data analysis?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "4679fbda-d848-4ae8-8f9b-12e3bc9c44fd",
+        "type": "message",
+        "text": "<https:\/\/github.com\/miguestepa\/barcelona-weather>",
+        "user": "U021TDN4RAP",
+        "ts": "1622540382.003700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "miguestepa\/barcelona-weather",
+                "title_link": "https:\/\/github.com\/miguestepa\/barcelona-weather",
+                "text": "A project to visualize the air quality of Barcelona using open data from the government. - miguestepa\/barcelona-weather",
+                "fallback": "GitHub: miguestepa\/barcelona-weather",
+                "image_url": "https:\/\/opengraph.githubassets.com\/844615e0c2baf5e27aafb4b3dec2473662a645e774d2820b0b5fbe4cecc48b8e\/miguestepa\/barcelona-weather",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/miguestepa\/barcelona-weather",
+                "image_bytes": 99943,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/miguestepa\/barcelona-weather"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kYV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/miguestepa\/barcelona-weather"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "362dc242-b8f9-4fd6-a2ff-4eb0944423de",
+        "type": "message",
+        "text": "<https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/qualitat-aire-detall-bcn>",
+        "user": "U021TDN4RAP",
+        "ts": "1622540409.004100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z5\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/qualitat-aire-detall-bcn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "b7754754-d794-4d4d-831f-cb155c4d4514",
+        "type": "message",
+        "text": "Format = csv, pandas, SQL",
+        "user": "U021TDN4RAP",
+        "ts": "1622540472.004600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i\/nm7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Format = csv, pandas, SQL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "7ae4562e-82f7-48c0-901a-9fcfa28e97b4",
+        "type": "message",
+        "text": "<https:\/\/aqicn.org\/city\/copenhagen\/>\n\n+ Levels of PM2.5 , PM10 and O3 per days\n\n+ The problem is that I you would need to process it first\n\n+ It looks from a official organization that provides real time &amp; historical air quality reccords\n\n+ Here data can be downloaded, so it would be much easier to process, also, it can be from any city in the world, which would make the comparission easier: <https:\/\/aqicn.org\/data-platform\/register\/>",
+        "user": "U021ZC6H9GC",
+        "ts": "1622540727.004900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "aqicn.org",
+                "title": "Copenhagen Air Pollution: Real-time Air Quality Index",
+                "title_link": "https:\/\/aqicn.org\/city\/copenhagen\/",
+                "text": "How polluted is the air today? Check out the real-time air pollution map, for more than 100 countries.",
+                "fallback": "aqicn.org: Copenhagen Air Pollution: Real-time Air Quality Index",
+                "thumb_url": "https:\/\/aqicn.org\/images\/aqicn.fbworldmap-201911.png",
+                "from_url": "https:\/\/aqicn.org\/city\/copenhagen\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/aqicn.org\/images\/iOS\/ico_114.png",
+                "id": 1,
+                "original_url": "https:\/\/aqicn.org\/city\/copenhagen\/"
+            },
+            {
+                "service_name": "aqicn.org",
+                "title": "Air Quality Historical Data Platform",
+                "title_link": "https:\/\/aqicn.org\/data-platform\/register\/",
+                "text": "How polluted is the air today? Check out the real-time air pollution map, for more than 100 countries.",
+                "fallback": "aqicn.org: Air Quality Historical Data Platform",
+                "thumb_url": "https:\/\/aqicn.org\/images\/aqicn.fbworldmap-201911.png",
+                "from_url": "https:\/\/aqicn.org\/data-platform\/register\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/aqicn.org\/images\/iOS\/ico_114.png",
+                "id": 2,
+                "original_url": "https:\/\/aqicn.org\/data-platform\/register\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aqicn.org\/city\/copenhagen\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n+ Levels of PM2.5 , PM10 and O3 per days\n\n+ The problem is that I you would need to process it first\n\n+ It looks from a official organization that provides real time & historical air quality reccords\n\n+ Here data can be downloaded, so it would be much easier to process, also, it can be from any city in the world, which would make the comparission easier: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aqicn.org\/data-platform\/register\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "238c7a3e-0bc0-42fc-aeb9-002671141daf",
+        "type": "message",
+        "text": "Format: CSV, Pansas, SQL\nWill the data need cleaning: the github does not deed cleaning while the gov database does.\nCan I feasibly join this data with other sources i have collected: yes\nHow reliable is the data source: Very (Posted by the goverment)\nWhat recommendations or insights could I try to capture with this data: How pollution reacts to temperature, what pollutants are mostly affected by zone, what is the demographics of the pollution…",
+        "user": "U0234JUMPJQ",
+        "ts": "1622541059.005900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "d72f8dcb6b13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2115688161203_d72f8dcb6b13c616d406_72.png",
+            "first_name": "",
+            "real_name": "Walter Conde",
+            "display_name": "Walter Conde",
+            "team": "T021KE79B9B",
+            "name": "wcondevidal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Format: CSV, Pansas, SQL\nWill the data need cleaning: the github does not deed cleaning while the gov database does.\nCan I feasibly join this data with other sources i have collected: yes\nHow reliable is the data source: Very (Posted by the goverment)\nWhat recommendations or insights could I try to capture with this data: How pollution reacts to temperature, what pollutants are mostly affected by zone, what is the demographics of the pollution…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "9212b5af-1014-4a9c-a6c5-2af4ea6409f8",
+        "type": "message",
+        "text": "(working with <@U021TDN4RAP>)",
+        "user": "U0234JUMPJQ",
+        "ts": "1622541100.006100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "d72f8dcb6b13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2115688161203_d72f8dcb6b13c616d406_72.png",
+            "first_name": "",
+            "real_name": "Walter Conde",
+            "display_name": "Walter Conde",
+            "team": "T021KE79B9B",
+            "name": "wcondevidal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fXET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(working with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDN4RAP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "12e0f6fb-6222-41c2-a2cf-6a750ac7d558",
+        "type": "message",
+        "text": "<https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/qualitat-aire-detall-bcn>\nhere we have several tables in csv format. I think cleaning will be needed as we can see some empty fields in the tables and as we can see there are lots of parameters, I guess we should reduce noise too. I don't really know if we can joint these tables information with others, but my intuition says yes.  We can also think it is a reliable source, because it comes from the townhall",
+        "user": "U0225RJ6SNM",
+        "ts": "1622541112.006300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o9Gs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/qualitat-aire-detall-bcn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nhere we have several tables in csv format. I think cleaning will be needed as we can see some empty fields in the tables and as we can see there are lots of parameters, I guess we should reduce noise too. I don't really know if we can joint these tables information with others, but my intuition says yes.  We can also think it is a reliable source, because it comes from the townhall"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "be2b5ce4-bbbc-4010-9bb9-1b91806fbe6a",
+        "type": "message",
+        "text": "Zeeere you go. Tried to sum everything in a few lines. Somehow the first set I found was way to big for import, so I went with the same one as <@U021ZC6L676> :slightly_smiling_face: : <https:\/\/github.com\/Novi0106\/IronAndre\/blob\/main\/Week%202\/air_pollution.txt>",
+        "user": "U021ZC6JR28",
+        "ts": "1622541191.006500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Novi0106\/IronAndre",
+                "title_link": "https:\/\/github.com\/Novi0106\/IronAndre\/blob\/main\/Week%202\/air_pollution.txt",
+                "text": "Contribute to Novi0106\/IronAndre development by creating an account on GitHub.",
+                "fallback": "GitHub: Novi0106\/IronAndre",
+                "image_url": "https:\/\/opengraph.githubassets.com\/32f4c5c2633d32a80b343762db05b6a4ef551244231c91859139f79fada62f12\/Novi0106\/IronAndre",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/Novi0106\/IronAndre\/blob\/main\/Week%202\/air_pollution.txt",
+                "image_bytes": 34589,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/Novi0106\/IronAndre\/blob\/main\/Week%202\/air_pollution.txt"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DTl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zeeere you go. Tried to sum everything in a few lines. Somehow the first set I found was way to big for import, so I went with the same one as "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6L676"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Novi0106\/IronAndre\/blob\/main\/Week%202\/air_pollution.txt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "b4c9744e-c6bd-4f6d-826a-6a79c4395a8f",
+        "type": "message",
+        "text": "Oh, I was looking at the same link Julia posted (the one of the Barcelona townhall) so I'm trying to find another one as fast as I can. Here it is <https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/contaminants-estacions-mesura-qualitat-aire> also <http:\/\/www.bsc.es\/caliope\/en?language=en>",
+        "user": "U021TDMEH27",
+        "ts": "1622541328.006900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "5e53fc88cd04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085183476640_5e53fc88cd04a1cf4cb8_72.jpg",
+            "first_name": "Ángela",
+            "real_name": "Ángela Sánchez",
+            "display_name": "Angela",
+            "team": "T021KE79B9B",
+            "name": "angela.s.ferriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021TDMEH27",
+            "ts": "1622542011.000000"
+        },
+        "attachments": [
+            {
+                "title": "Measured air pollutants by the air quality measurement stations of the city of Barcelona - Open Data Barcelona",
+                "title_link": "https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/contaminants-estacions-mesura-qualitat-aire",
+                "text": "List of measured air pollutants by the air quality measurement stations of the city of Barcelona",
+                "fallback": "Measured air pollutants by the air quality measurement stations of the city of Barcelona - Open Data Barcelona",
+                "from_url": "https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/contaminants-estacions-mesura-qualitat-aire",
+                "service_icon": "https:\/\/www.barcelona.cat\/favicon.ico",
+                "service_name": "opendata-ajuntament.barcelona.cat",
+                "id": 1,
+                "original_url": "https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/contaminants-estacions-mesura-qualitat-aire"
+            },
+            {
+                "title": "CALIOPE System | System air quality forecast",
+                "title_link": "http:\/\/www.bsc.es\/caliope\/en?language=en",
+                "text": "Sistema de prónostico de la calidad del aire en España.",
+                "fallback": "CALIOPE System | System air quality forecast",
+                "from_url": "http:\/\/www.bsc.es\/caliope\/en?language=en",
+                "service_icon": "http:\/\/www.bsc.es\/caliope\/sites\/default\/files\/bsc.ico",
+                "service_name": "bsc.es",
+                "id": 2,
+                "original_url": "http:\/\/www.bsc.es\/caliope\/en?language=en"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rnv5U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, I was looking at the same link Julia posted (the one of the Barcelona townhall) so I'm trying to find another one as fast as I can. Here it is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "https:\/\/opendata-ajuntament.barcelona.cat\/data\/en\/dataset\/contaminants-estacions-mesura-qualitat-aire also ",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.bsc.es\/caliope\/en?language=en"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "88e828c1-2b94-4d7d-80d1-3cbf366ef254",
+        "type": "message",
+        "text": "I think the data referenced in this paper could be interesting, it contains pollution emission and pollution exposure data in the period 2000-2017 and it is desegregated by cities, or I think so, as I've spent half an hour waiting for the file to open to no avail <https:\/\/enveurope.springeropen.com\/articles\/10.1186\/s12302-020-00450-2#Sec2>",
+        "user": "U021Q54K3B7",
+        "ts": "1622541408.007100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021Q54K3B7",
+            "ts": "1622541503.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Environmental Sciences Europe",
+                "title": "Urban population exposure to air pollution in Europe over the last decades",
+                "title_link": "https:\/\/enveurope.springeropen.com\/articles\/10.1186\/s12302-020-00450-2#Sec2",
+                "text": "Background The paper presents an overview of air quality in the 27 member countries of the European Union (EU) and the United Kingdom (previous EU-28), from 2000 to 2017. We reviewed the progress made towards meeting the air quality standards established by the EU Ambient Air Quality Directives (European Council Directive 2008\/50\/EC) and the World Health Organization (WHO) Air Quality Guidelines by estimating the trends (Mann-Kendal test) in national emissions of main air pollutants, urban population exposure to air pollution, and in mortality related to exposure to ambient fine particles (PM2.5) and tropospheric ozone (O3). Results Despite significant reductions of emissions (e.g., sulfur oxides: ~ 80%, nitrogen oxides: ~ 46%, non-methane volatile organic compounds: ~ 44%, particulate matters with a diameter lower than 2.5 µm and 10 µm: ~ 30%), the EU-28 urban population was exposed to PM2.5 and O3 levels widely exceeding the WHO limit values for the protection of human health. Between 2000 and 2017, the annual PM2.5-related number of deaths decreased (- 4.85 per 106 inhabitants) in line with a reduction of PM2.5 levels observed at urban air quality monitoring stations. The rising O3 levels became a major public health issue in the EU-28 cities where the annual O3-related number of premature deaths increased (+ 0.55 deaths per 106 inhabitants). Conclusions To achieve the objectives of the Ambient Air Quality Directives and mitigate air pollution impacts, actions need to be urgently taken at all governance levels. In this context, greening and re‐naturing cities and the implementation of fresh air corridors can help meet air quality standards, but also answer to social needs, as recently highlighted by the COVID-19 lockdowns.",
+                "fallback": "Environmental Sciences Europe: Urban population exposure to air pollution in Europe over the last decades",
+                "image_url": "https:\/\/media.springernature.com\/w200\/springer-static\/cover\/journal\/12302.jpg",
+                "from_url": "https:\/\/enveurope.springeropen.com\/articles\/10.1186\/s12302-020-00450-2#Sec2",
+                "image_width": 189,
+                "image_height": 250,
+                "image_bytes": 15590,
+                "id": 1,
+                "original_url": "https:\/\/enveurope.springeropen.com\/articles\/10.1186\/s12302-020-00450-2#Sec2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HAET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the data referenced in this paper could be interesting, it contains pollution emission and pollution exposure data in the period 2000-2017 and it is desegregated by cities, or I think so, as I've spent half an hour waiting for the file to open to no avail "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/enveurope.springeropen.com\/articles\/10.1186\/s12302-020-00450-2#Sec2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "8c45a2cf-d8a1-4f28-ab3e-db2921d52d94",
+        "type": "message",
+        "text": "(air pollution levels now in BCN and a prevision for the next 6 days) <https:\/\/www.iqair.com\/es\/spain\/catalunya\/barcelona>\n(max and min levels registered per day) <https:\/\/aqicn.org\/city\/barcelona\/>\n(the different substances or measures on air like PM2.5, PM10, O3, NO2) <https:\/\/aqicn.org\/scale\/>\n(the different stations in the city: University area, Sants, Eixample, Gràcia, and more) <https:\/\/ajuntament.barcelona.cat\/qualitataire\/en\/qualitat-de-laire\/com-es-lluita-contra-la-contaminacio\/atmospheric-pollution-monitoring-and>\n(the government proposals) <https:\/\/bcnroc.ajuntament.barcelona.cat\/jspui\/bitstream\/11703\/107779\/2\/Protocol_Contaminaci%C3%B3_2017.pdf>\n(a scientific article about premature mortality related to air pollution in BCN) file:\/\/\/C:\/Users\/isaac\/Downloads\/ijerph-15-02405.pdf\n\n• website and pdf formats.\nWill the data need cleaning?\nCan I feasibly join this data with other sources of data I have collected?\nQuestions you should be thinking about...\nHow reliable is the data source?\nWhat data questions can I really answer with this data?\nWhat recommendations or insights could I try to capture with this data?\nWhat actions can be taken off the back of my data analysis?",
+        "user": "U0225RHK6Q1",
+        "ts": "1622541499.007600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Índice de calidad del aire (ICA) de Barcelona y contaminación del aire de España | AirVisual",
+                "title_link": "https:\/\/www.iqair.com\/es\/spain\/catalunya\/barcelona",
+                "text": "El índice de calidad del aire (ICA) de Barcelona es ahora Moderado. Obtén datos climáticos PM2.5 en tiempo real, históricos y de pronóstico. Lee la contaminación del aire en Barcelona, España con AirVisual.",
+                "fallback": "Índice de calidad del aire (ICA) de Barcelona y contaminación del aire de España | AirVisual",
+                "thumb_url": "https:\/\/www.iqair.com\/assets\/favicons\/iq-air-air-visual-logo.png",
+                "from_url": "https:\/\/www.iqair.com\/es\/spain\/catalunya\/barcelona",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/www.iqair.com\/assets\/favicons\/apple-touch-icon.png",
+                "service_name": "iqair.com",
+                "id": 1,
+                "original_url": "https:\/\/www.iqair.com\/es\/spain\/catalunya\/barcelona"
+            },
+            {
+                "service_name": "aqicn.org",
+                "title": "Barcelona Air Pollution: Real-time Air Quality Index",
+                "title_link": "https:\/\/aqicn.org\/city\/barcelona\/",
+                "text": "How polluted is the air today? Check out the real-time air pollution map, for more than 100 countries.",
+                "fallback": "aqicn.org: Barcelona Air Pollution: Real-time Air Quality Index",
+                "thumb_url": "https:\/\/aqicn.org\/images\/aqicn.fbworldmap-201911.png",
+                "from_url": "https:\/\/aqicn.org\/city\/barcelona\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/aqicn.org\/images\/iOS\/ico_114.png",
+                "id": 2,
+                "original_url": "https:\/\/aqicn.org\/city\/barcelona\/"
+            },
+            {
+                "service_name": "aqicn.org",
+                "title": "Air Quality Index Scale and Color Legend",
+                "title_link": "https:\/\/aqicn.org\/scale\/",
+                "text": "How polluted is the air today? Check out the real-time air pollution map, for more than 100 countries.",
+                "fallback": "aqicn.org: Air Quality Index Scale and Color Legend",
+                "thumb_url": "https:\/\/aqicn.org\/images\/aqicn.fbworldmap-201911.png",
+                "from_url": "https:\/\/aqicn.org\/scale\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/aqicn.org\/images\/iOS\/ico_114.png",
+                "id": 3,
+                "original_url": "https:\/\/aqicn.org\/scale\/"
+            },
+            {
+                "service_name": "Air Quality",
+                "title": "Atmospheric pollution monitoring and forecasting network",
+                "title_link": "https:\/\/ajuntament.barcelona.cat\/qualitataire\/en\/qualitat-de-laire\/com-es-lluita-contra-la-contaminacio\/atmospheric-pollution-monitoring-and",
+                "text": "11 stations make up the Atmospheric Pollution Monitoring and Forecasting Network measuring the air concentration of the main environmental pollutants in places that represent different street categories. We explain you how the pollutants are measured and how to interpret the real-time five level classification.",
+                "fallback": "Air Quality: Atmospheric pollution monitoring and forecasting network",
+                "ts": 1554199483,
+                "from_url": "https:\/\/ajuntament.barcelona.cat\/qualitataire\/en\/qualitat-de-laire\/com-es-lluita-contra-la-contaminacio\/atmospheric-pollution-monitoring-and",
+                "service_icon": "https:\/\/www.barcelona.cat\/favicon.ico",
+                "id": 4,
+                "original_url": "https:\/\/ajuntament.barcelona.cat\/qualitataire\/en\/qualitat-de-laire\/com-es-lluita-contra-la-contaminacio\/atmospheric-pollution-monitoring-and"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wR7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(air pollution levels now in BCN and a prevision for the next 6 days) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.iqair.com\/es\/spain\/catalunya\/barcelona"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(max and min levels registered per day) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aqicn.org\/city\/barcelona\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(the different substances or measures on air like PM2.5, PM10, O3, NO2) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aqicn.org\/scale\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(the different stations in the city: University area, Sants, Eixample, Gràcia, and more) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ajuntament.barcelona.cat\/qualitataire\/en\/qualitat-de-laire\/com-es-lluita-contra-la-contaminacio\/atmospheric-pollution-monitoring-and"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(the government proposals) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bcnroc.ajuntament.barcelona.cat\/jspui\/bitstream\/11703\/107779\/2\/Protocol_Contaminaci%C3%B3_2017.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(a scientific article about premature mortality related to air pollution in BCN) file:\/\/\/C:\/Users\/isaac\/Downloads\/ijerph-15-02405.pdf\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "website and pdf formats."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will the data need cleaning?\nCan I feasibly join this data with other sources of data I have collected?\nQuestions you should be thinking about...\nHow reliable is the data source?\nWhat data questions can I really answer with this data?\nWhat recommendations or insights could I try to capture with this data?\nWhat actions can be taken off the back of my data analysis?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "16c080db-e4d2-4f05-992f-d4fa7890973a",
+        "type": "message",
+        "text": "&lt;iframe width=\"700\" height=\"400\" src=\"<https:\/\/oasishub.co\/dataset\/berlin-germany-district-level-environmental-database\/resource\/be1739c5-1c58-4199-be5a-ea6f15299cb5\/view\/9a9f3bd6-74d1-4666-ad14-0c3cfc71a3c8>\" frameBorder=\"0\"&gt;&lt;\/iframe&gt;",
+        "user": "U0225RJ5989",
+        "ts": "1622541655.008100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "19cfb86a6127",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2068448353972_19cfb86a6127901c76d3_72.png",
+            "first_name": "",
+            "real_name": "Fernando Arancibia",
+            "display_name": "Fernando Arancibia",
+            "team": "T021KE79B9B",
+            "name": "ferna.arancibia.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "OasisHUB",
+                "title_link": "https:\/\/oasishub.co\/dataset\/berlin-germany-district-level-environmental-database\/resource\/be1739c5-1c58-4199-be5a-ea6f15299cb5\/view\/9a9f3bd6-74d1-4666-ad14-0c3cfc71a3c8",
+                "text": "The Global Window to Free and Commercial Environmental and Risk Data, Tools and Services",
+                "fallback": "OasisHUB",
+                "image_url": "https:\/\/oasishub.co\/static\/img\/oasis-logo.png",
+                "from_url": "https:\/\/oasishub.co\/dataset\/berlin-germany-district-level-environmental-database\/resource\/be1739c5-1c58-4199-be5a-ea6f15299cb5\/view\/9a9f3bd6-74d1-4666-ad14-0c3cfc71a3c8",
+                "image_width": 832,
+                "image_height": 250,
+                "image_bytes": 16205,
+                "service_icon": "https:\/\/oasishub.co\/static\/img\/apple-touch-icon.png",
+                "service_name": "oasishub.co",
+                "id": 1,
+                "original_url": "https:\/\/oasishub.co\/dataset\/berlin-germany-district-level-environmental-database\/resource\/be1739c5-1c58-4199-be5a-ea6f15299cb5\/view\/9a9f3bd6-74d1-4666-ad14-0c3cfc71a3c8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTWvk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<iframe width=\"700\" height=\"400\" src=\""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/oasishub.co\/dataset\/berlin-germany-district-level-environmental-database\/resource\/be1739c5-1c58-4199-be5a-ea6f15299cb5\/view\/9a9f3bd6-74d1-4666-ad14-0c3cfc71a3c8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" frameBorder=\"0\"><\/iframe>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcf126e3-9e11-4a1c-9760-62a5fb7f08c9",
+        "type": "message",
+        "text": "<https:\/\/aqicn.org\/data-platform\/register\/>",
+        "user": "U021TDMLNTD",
+        "ts": "1622541662.008300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gyx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aqicn.org\/data-platform\/register\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "233e4176-fc88-4799-a1f6-6b378a93b457",
+        "type": "message",
+        "text": "Air quality in London: <https:\/\/www.londonair.org.uk\/LondonAir\/Default.aspx>\n\nData format: CSV\nCleaning: Some irrelevant columns could be removed\nJoining with other sources: Data is based on monitoring stations, so could potentially be joined with other sources that use the same data\nReliability of data: Site managed by an official source (maintained by Imperial College London)\nData question examples: \n• What is the average air quality in London?\n• When and where in London is the air quality the highest\/lowest?\n• What are risk areas with lower than average air quality?\n• What type of pollutants can be measured?",
+        "user": "U021T7DU0BC",
+        "ts": "1622541665.008500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "  London Air Quality Network ",
+                "title_link": "https:\/\/www.londonair.org.uk\/LondonAir\/Default.aspx",
+                "text": "London Air Quality Network",
+                "fallback": "  London Air Quality Network ",
+                "from_url": "https:\/\/www.londonair.org.uk\/LondonAir\/Default.aspx",
+                "service_icon": "https:\/\/www.londonair.org.uk\/assets\/img\/logo\/favicon.png",
+                "service_name": "londonair.org.uk",
+                "id": 1,
+                "original_url": "https:\/\/www.londonair.org.uk\/LondonAir\/Default.aspx"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3Hc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Air quality in London: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.londonair.org.uk\/LondonAir\/Default.aspx"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nData format: CSV\nCleaning: Some irrelevant columns could be removed\nJoining with other sources: Data is based on monitoring stations, so could potentially be joined with other sources that use the same data\nReliability of data: Site managed by an official source (maintained by Imperial College London)\nData question examples: \n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What is the average air quality in London?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When and where in London is the air quality the highest\/lowest?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What are risk areas with lower than average air quality?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What type of pollutants can be measured?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "ddfc13e3-0e63-4351-8c24-cfae28686664",
+        "type": "message",
+        "text": "• website and pdf formats.\n• I think they will need a lot of processment for gathering them all, but i'm not sure if they need cleaning because they are very concise and it seems rellevant.\n• all data sources are from official and public sources so yes, they seem reliable.\n",
+        "user": "U0225RHK6Q1",
+        "ts": "1622541797.008800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qH=1i",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "website and pdf formats."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I think they will need a lot of processment for gathering them all, but i'm not sure if they need cleaning because they are very concise and it seems rellevant."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "all data sources are from official and public sources so yes, they seem reliable."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "10a73860-2504-462a-9ae4-b9a380e493c7",
+        "type": "message",
+        "text": "<https:\/\/airindex.eea.europa.eu\/Map\/AQI\/Viewer\/>",
+        "user": "U021Q54K3B7",
+        "ts": "1622542094.009200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wNyHW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/airindex.eea.europa.eu\/Map\/AQI\/Viewer\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "114219b7-aad5-4e70-bc28-22fd32e75108",
+        "type": "message",
+        "text": "<https:\/\/aqicn.org\/city\/spain\/catalunya\/lhospitalet-de-llobregat>",
+        "user": "U021TDMLNTD",
+        "ts": "1622542099.009400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "aqicn.org",
+                "title": "l\\'Hospitalet de Llobregat, Catalunya, Spain Air Pollution: Real-time Air Quality Index",
+                "title_link": "https:\/\/aqicn.org\/city\/spain\/catalunya\/lhospitalet-de-llobregat",
+                "text": "How polluted is the air today? Check out the real-time air pollution map, for more than 100 countries.",
+                "fallback": "aqicn.org: l\\'Hospitalet de Llobregat, Catalunya, Spain Air Pollution: Real-time Air Quality Index",
+                "thumb_url": "https:\/\/aqicn.org\/images\/aqicn.fbworldmap-201911.png",
+                "from_url": "https:\/\/aqicn.org\/city\/spain\/catalunya\/lhospitalet-de-llobregat",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/aqicn.org\/images\/iOS\/ico_114.png",
+                "id": 1,
+                "original_url": "https:\/\/aqicn.org\/city\/spain\/catalunya\/lhospitalet-de-llobregat"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLkB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aqicn.org\/city\/spain\/catalunya\/lhospitalet-de-llobregat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "978c7e30-6299-4207-a4cc-b7e93e55c4f2",
+        "type": "message",
+        "text": "<https:\/\/databank.worldbank.org\/reports.aspx?source=2&amp;series=EN.ATM.PM25.MC.M3&amp;country=> cross country time series 1990 to present.. couldn't find similar comparable data for cities",
+        "user": "U0225RJ9GQZ",
+        "ts": "1622542266.010000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "World Development Indicators | DataBank",
+                "title_link": "https:\/\/databank.worldbank.org\/reports.aspx?source=2&series=EN.ATM.PM25.MC.M3&country=",
+                "text": "World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates. [Note: Even though Global Development Finance (GDF) is no longer listed in the WDI database name, all external debt and financial flows data continue to be included in WDI. The GDF publication has been renamed International Debt Statistics (IDS), and has its own separate database, as well.",
+                "fallback": "World Development Indicators | DataBank",
+                "from_url": "https:\/\/databank.worldbank.org\/reports.aspx?source=2&series=EN.ATM.PM25.MC.M3&country=",
+                "service_name": "databank.worldbank.org",
+                "id": 1,
+                "original_url": "https:\/\/databank.worldbank.org\/reports.aspx?source=2&amp;series=EN.ATM.PM25.MC.M3&amp;country="
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/databank.worldbank.org\/reports.aspx?source=2&series=EN.ATM.PM25.MC.M3&country="
+                            },
+                            {
+                                "type": "text",
+                                "text": " cross country time series 1990 to present.. couldn't find similar comparable data for cities"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "01a1e4df-3156-458c-8b59-a1d1b3f2fcd9",
+        "type": "message",
+        "text": "<https:\/\/aqicn.org\/map\/germany\/berlin\/de\/>\n\nI think no one mentioned street level details earlier, that seems to be helpful understanding causes and trends such as this example link",
+        "user": "U021TDMBPRR",
+        "ts": "1622542539.010300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "aqicn.org",
+                "title": "Luftverschmutzung in Berlin: Echtzeit-Karte des Luftqualitätsindex",
+                "title_link": "https:\/\/aqicn.org\/map\/germany\/berlin\/de\/",
+                "text": "Wie verschmutzt ist die Luft heute? Überprüfen Sie die Echtzeit-Karten zur Luftverschmutzung für mehr als 100 Länder.",
+                "fallback": "aqicn.org: Luftverschmutzung in Berlin: Echtzeit-Karte des Luftqualitätsindex",
+                "thumb_url": "https:\/\/aqicn.org\/images\/aqicn.fbworldmap-201911.png",
+                "from_url": "https:\/\/aqicn.org\/map\/germany\/berlin\/de\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/aqicn.org\/images\/iOS\/ico_114.png",
+                "id": 1,
+                "original_url": "https:\/\/aqicn.org\/map\/germany\/berlin\/de\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VbVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aqicn.org\/map\/germany\/berlin\/de\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI think no one mentioned street level details earlier, that seems to be helpful understanding causes and trends such as this example link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622539023.000400",
+        "parent_user_id": "U021UNQGZC4",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

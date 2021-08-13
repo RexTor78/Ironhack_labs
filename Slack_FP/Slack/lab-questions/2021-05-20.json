@@ -1,0 +1,332 @@
+[
+    {
+        "type": "message",
+        "text": "Please any know how to repair this error in MySql Workbench",
+        "files": [
+            {
+                "id": "F022P6SEVRA",
+                "created": 1621499423,
+                "timestamp": 1621499423,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021CE3UWPR",
+                "editable": false,
+                "size": 23297,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F022P6SEVRA\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F022P6SEVRA\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022P6SEVRA-a081818113\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022P6SEVRA-a081818113\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022P6SEVRA-a081818113\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 198,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022P6SEVRA-a081818113\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 440,
+                "original_h": 242,
+                "thumb_tiny": "AwAaADC\/uXeV3HNOABPDE0bFDFwPmx1pAXJ9Pw\/+vQN26D6KT5vUflR83qPyoELRSfN6j8qBnHJzQAZ4pMD3\/OiigAwPf86BgHv+dFFAClsU3zAemfSlxnrSYHoKAP\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021CE3UWPR\/F022P6SEVRA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F022P6SEVRA-ebd309952f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XBX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please any know how to repair this error in MySql Workbench"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021CE3UWPR",
+        "display_as_bot": false,
+        "ts": "1621499426.001000"
+    },
+    {
+        "client_msg_id": "9827d537-0c6f-454e-ad76-1ca5701515e3",
+        "type": "message",
+        "text": "looks like its a known bug Hector. Either stop and restart mysql from Services, or follow these steps to resolve <https:\/\/mygeekjourney.com\/programming-notes\/bug-mysql-workbench-current-profile-has-no-wmi-enabled\/>",
+        "user": "U021UNQGZC4",
+        "ts": "1621523302.001800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "My Geek Journey",
+                "title": "(Bug) MySQL Workbench: Current Profile Has no WMI enabled - My Geek Journey",
+                "title_link": "https:\/\/mygeekjourney.com\/programming-notes\/bug-mysql-workbench-current-profile-has-no-wmi-enabled\/",
+                "text": "For unknown reason, we have been encountering “Current Profile Has no WMI enabled” whenever we tried to access server instance in the “Server Administration” column for the first time (note: we only encounter this issue with our vps and dedicated server). Do the following to replicate the issue: Install MySQL Workbench for the first time. … Continue reading (Bug) MySQL Workbench: Current Profile Has no WMI enabled →",
+                "fallback": "My Geek Journey: (Bug) MySQL Workbench: Current Profile Has no WMI enabled - My Geek Journey",
+                "ts": 1359309998,
+                "from_url": "https:\/\/mygeekjourney.com\/programming-notes\/bug-mysql-workbench-current-profile-has-no-wmi-enabled\/",
+                "id": 1,
+                "original_url": "https:\/\/mygeekjourney.com\/programming-notes\/bug-mysql-workbench-current-profile-has-no-wmi-enabled\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks like its a known bug Hector. Either stop and restart mysql from Services, or follow these steps to resolve "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mygeekjourney.com\/programming-notes\/bug-mysql-workbench-current-profile-has-no-wmi-enabled\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bf0b32d-c12e-41a9-953e-c8c379da65e9",
+        "type": "message",
+        "text": "Thanks",
+        "user": "U021CE3UWPR",
+        "ts": "1621523896.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "392873e7-1887-4746-892c-71b0a95d0996",
+        "type": "message",
+        "text": "Hi there, i just finished the Data Science Math Skills course. Is it enough if i snapshot just one screen of each test where it shows the grade or should i take snapshots of all the questions from the test?",
+        "user": "U021ZC6L676",
+        "ts": "1621534772.004600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fwBbP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi there, i just finished the Data Science Math Skills course. Is it enough if i snapshot just one screen of each test where it shows the grade or should i take snapshots of all the questions from the test?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621534772.004600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621591746.004400",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021ZC6L676"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1621545842.005100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1621591746.004400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "like this?",
+        "files": [
+            {
+                "id": "F022Y6V22HF",
+                "created": 1621534828,
+                "timestamp": 1621534828,
+                "name": "01 Practice quiz on Sets.png",
+                "title": "01 Practice quiz on Sets.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6L676",
+                "editable": false,
+                "size": 375523,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F022Y6V22HF\/01_practice_quiz_on_sets.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F022Y6V22HF\/download\/01_practice_quiz_on_sets.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F022Y6V22HF-fee244fa79\/01_practice_quiz_on_sets_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "original_w": 2880,
+                "original_h": 1800,
+                "thumb_tiny": "AwAeADCx9gg9G\/Ok+wwf7f51cpuD\/eP5UAVvsEHo\/wCdH9nwf7f51aH4mloAprZ27dDJ+dL\/AGfB6N+dWicdifpS0AFJznjFUv7SGP8AVf8Aj1H9oj\/nl\/49QBdyfal5qj\/aIx\/qv\/HqT+0x\/wA8j\/31QBeJA6kClqh\/aQP\/ACy\/8eo\/tMf88j\/31QB\/\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6L676\/F022Y6V22HF\/01_practice_quiz_on_sets.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F022Y6V22HF-2c6c4903e0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2oHW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021ZC6L676",
+        "display_as_bot": false,
+        "ts": "1621534841.004800"
+    },
+    {
+        "client_msg_id": "980713f1-8b60-4124-b0e1-600303881acb",
+        "type": "message",
+        "text": "Just the result is fine. I think there's even a final summary at the end, when you finished them all. That would also be enough.",
+        "user": "U021WEXHN4E",
+        "ts": "1621545842.005100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lvVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just the result is fine. I think there's even a final summary at the end, when you finished them all. That would also be enough."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621534772.004600",
+        "parent_user_id": "U021ZC6L676"
+    }
+]

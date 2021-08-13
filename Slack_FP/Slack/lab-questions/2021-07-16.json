@@ -1,0 +1,601 @@
+[
+    {
+        "client_msg_id": "32e47ca4-c0c7-4996-bcf6-3043c32ffd8d",
+        "type": "message",
+        "text": "yesterday Fernando and I ran into an error with extracting the audio features of more than 900 track IDs. I have worked through how to manage it … theres a few steps :\n• function that extracts all song results from a long playlist (more than 100 tracks)\n• function to retrieve track ids from the above results \n• function to get audio features from a long list of ids, split into sections of n (50)\n• for loop to unwrap the nested dictionary that results from the splits into a dataframe \nas i think this may be helpful to some of you to review and take those functions to apply to your scenario- i am attaching the notebook i sent back to Fernando.",
+        "user": "U021UNQGZC4",
+        "ts": "1626423942.079300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RT6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yesterday Fernando and I ran into an error with extracting the audio features of more than 900 track IDs. I have worked through how to manage it … theres a few steps :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "function that extracts all song results from a long playlist (more than 100 tracks)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "function to retrieve track ids from the above results "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "function to get audio features from a long list of ids, split into sections of n (50)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "for loop to unwrap the nested dictionary that results from the splits into a dataframe "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as i think this may be helpful to some of you to review and take those functions to apply to your scenario- i am attaching the notebook i sent back to Fernando."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "thread here with any questions",
+        "files": [
+            {
+                "id": "F028A0H0UHZ",
+                "created": 1626423963,
+                "timestamp": 1626423963,
+                "name": "fernando_sp_help.ipynb",
+                "title": "fernando_sp_help.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 891177,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028A0H0UHZ\/fernando_sp_help.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028A0H0UHZ\/download\/fernando_sp_help.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F028A0H0UHZ\/fernando_sp_help.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028A0H0UHZ-62c4de0a29",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "32C0t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thread here with any questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626423967.079800",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021CE3UWPR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U0225RJ5989"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef70bbaf-08d0-490c-8956-ff7adfa7aad2",
+        "type": "message",
+        "text": "Thanks Sian for your help!!!",
+        "user": "U0225RJ5989",
+        "ts": "1626424103.081100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "19cfb86a6127",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2068448353972_19cfb86a6127901c76d3_72.png",
+            "first_name": "",
+            "real_name": "Fernando Arancibia",
+            "display_name": "Fernando Arancibia",
+            "team": "T021KE79B9B",
+            "name": "ferna.arancibia.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ty6L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sian for your help!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626424103.081100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1626424135.081400",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626424135.081400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03e3582f-fc85-40a3-b9a3-ca3215a776cd",
+        "type": "message",
+        "text": "happy to help !",
+        "user": "U021UNQGZC4",
+        "ts": "1626424135.081400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jprp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "happy to help !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626424103.081100",
+        "parent_user_id": "U0225RJ5989"
+    },
+    {
+        "client_msg_id": "1ec80f90-479f-49ec-9fc2-247ad3c04a8f",
+        "type": "message",
+        "text": "I am in room 15, ready to help any student who is really stuck and wants to go through it step by step. otherwise, we will have more support for you this afternoon after the project kick off session",
+        "user": "U021UNQGZC4",
+        "ts": "1626426660.082500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yr4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am in room 15, ready to help any student who is really stuck and wants to go through it step by step. otherwise, we will have more support for you this afternoon after the project kick off session"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2716b8b9-e1d7-47e7-9e4b-2bd2fe8104b2",
+        "type": "message",
+        "text": "<@U021WEXHN4E> <@U021UNQGZC4> <@U021NHS652N>\nhello teachers team!\nwe are struggling with our code.\ncould any of you come to room 6, please? :-D",
+        "user": "U0225RJ6SNM",
+        "ts": "1626430545.084000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wYDrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nhello teachers team!\nwe are struggling with our code.\ncould any of you come to room 6, please? :-D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47132fbe-b417-494e-b0ed-ee6c205e3b5c",
+        "type": "message",
+        "text": "<@U021WEXHN4E> you there?",
+        "user": "U021ZC6L676",
+        "ts": "1626431489.084200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ccae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626356817.068200",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "00c98474-d0f1-4b02-a452-a0d8f55ba0e1",
+        "type": "message",
+        "text": "now I'm back",
+        "user": "U021WEXHN4E",
+        "ts": "1626431639.084400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ugc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now I'm back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626356817.068200",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "d9d5612f-ef0c-4d2e-91dd-8af986ed42c3",
+        "type": "message",
+        "text": "<!channel>,\ntwo things:\n• when you evaluate your KMeans model (inertia, silhouette score) and you get bad results (e.g. total silhouette score near 0 - which means that a lot of your observations received cluster assignments quite near to other clusters), remember that KMeans is a distance sensitive algorithm. You need to properly scale you data that you train it with and if you want to squeeze out even more prediction power - even check the distribution of your features and log-transform them. If for example a feature such as accousticness is power law distributed (long tail... )  or a feature has outliers, you want to log transform (before standard scaling) it or use a robust scaler, so that the \"tailies\" don't mess up your mean of the feature. In any case, first plot the data to get a sense of their distribution\n• Also regarding the `StandardScaler()` . I think Miguel mentioned it to some of you already: When you scale your features, keep that scaler object (with the information about the features standard deviation and mean) for later when the user input song waltzes in and wants to be clustered. Becaus its audio features also need to be scaled with that same StandardScaler.  So what you would do:\n```# create an empty scaler\nscaler = StandardScaler()\n\n# fit the scaler (store mean and stddev of features in it)\nscaler.fit(df_audio_features)\n\n# transform your features according to stored info\naudio_features = scaler.transform(df_audio_features)\n\n# now use audio_features to train your KMeans\n# TRAIN KMEAS CODE HERE\n\n# now the input song arrives, wants a cluster. So scale its audio feats with the same Scaler from above \ninput_song_features_scaled = scaler.transform(input_song_features)\n\n# predict the cluster using that scaled array\n# ....```",
+        "user": "U021WEXHN4E",
+        "ts": "1626434455.095800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1626434678.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pFB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\ntwo things:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "when you evaluate your KMeans model (inertia, silhouette score) and you get bad results (e.g. total silhouette score near 0 - which means that a lot of your observations received cluster assignments quite near to other clusters), remember that KMeans is a distance sensitive algorithm. You need to properly scale you data that you train it with and if you want to squeeze out even more prediction power - even check the distribution of your features and log-transform them. If for example a feature such as accousticness is power law distributed (long tail... )  or a feature has outliers, you want to log transform (before standard scaling) it or use a robust scaler, so that the \"tailies\" don't mess up your mean of the feature. In any case, first plot the data to get a sense of their distribution"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Also regarding the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "StandardScaler()",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " . I think Miguel mentioned it to some of you already: When you scale your features, keep that scaler object (with the information about the features standard deviation and mean) for later when the user input song waltzes in and wants to be clustered. Becaus its audio features also need to be scaled with that same StandardScaler.  So what you would do:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# create an empty scaler\nscaler = StandardScaler()\n\n# fit the scaler (store mean and stddev of features in it)\nscaler.fit(df_audio_features)\n\n# transform your features according to stored info\naudio_features = scaler.transform(df_audio_features)\n\n# now use audio_features to train your KMeans\n# TRAIN KMEAS CODE HERE\n\n# now the input song arrives, wants a cluster. So scale its audio feats with the same Scaler from above \ninput_song_features_scaled = scaler.transform(input_song_features)\n\n# predict the cluster using that scaled array\n# ...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2b90132-dcee-4b29-80ad-7f163dc5707e",
+        "type": "message",
+        "text": "<!channel> walkthrough moment in room 1",
+        "user": "U021NHS652N",
+        "ts": "1626442551.096700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XTKYc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " walkthrough moment in room 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

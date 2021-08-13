@@ -1,0 +1,290 @@
+[
+    {
+        "client_msg_id": "54831975-cb41-48a9-b6c4-3266691296a7",
+        "type": "message",
+        "text": "when I open the laureate.csv in tableau it has null values in some columns and I don't know how to fix it",
+        "user": "U0225RJ6SNM",
+        "ts": "1623254680.010400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D9EKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when I open the laureate.csv in tableau it has null values in some columns and I don't know how to fix it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623254680.010400",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1623255082.011300",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021ZC6JR28",
+            "U021NHS652N"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1623254756.010500"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1623255014.010700"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1623255064.010900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1623255074.011100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1623255082.011300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0b72a337-e84e-488f-8b2a-264eedc5740c",
+        "type": "message",
+        "text": "even with the \"wizzard\" activated?",
+        "user": "U021WEXHN4E",
+        "ts": "1623254756.010500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "even with the \"wizzard\" activated?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623254680.010400",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "f7b843ad-d3a7-44ca-9229-e670c14d65e1",
+        "type": "message",
+        "text": "<@U021WEXHN4E> - could you give me a hint what the “wizzard” was again? :sweat_smile:",
+        "user": "U021ZC6JR28",
+        "ts": "1623255014.010700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Udix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - could you give me a hint what the “wizzard” was again? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623254680.010400",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "dc1ecdda-0480-439a-a028-22cc52874e7e",
+        "type": "message",
+        "text": "The tick box that says “Use Data Interpreter”",
+        "user": "U021NHS652N",
+        "ts": "1623255064.010900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U2Dri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The tick box that says “Use Data Interpreter”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623254680.010400",
+        "parent_user_id": "U0225RJ6SNM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021ZC6JR28"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5bb2f14-d0d8-4e84-91fd-91fa80963cc6",
+        "type": "message",
+        "text": "haha thx",
+        "user": "U021WEXHN4E",
+        "ts": "1623255074.011100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wMN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha thx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623254680.010400",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "cd805721-5c83-4656-af82-2a75791ae970",
+        "type": "message",
+        "text": "that one",
+        "user": "U021WEXHN4E",
+        "ts": "1623255082.011300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ZF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623254680.010400",
+        "parent_user_id": "U0225RJ6SNM"
+    }
+]

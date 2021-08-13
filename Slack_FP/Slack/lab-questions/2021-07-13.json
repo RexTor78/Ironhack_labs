@@ -1,0 +1,642 @@
+[
+    {
+        "client_msg_id": "5bc81952-ad66-4744-a7f7-e165e4c6f38f",
+        "type": "message",
+        "text": "<!channel> check point in 3 mins people, in the main room",
+        "user": "U021NHS652N",
+        "ts": "1626180998.008400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0YZEV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " check point in 3 mins people, in the main room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33379e73-1a6f-4ea4-bdba-79d4f1aa6969",
+        "type": "message",
+        "text": "There is no box to submit today's lab.....it's the same document of yesterday though",
+        "user": "U021Q54K3B7",
+        "ts": "1626185642.009100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is no box to submit today's lab.....it's the same document of yesterday though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d715492-41e0-40ed-a729-2044b0723fec",
+        "type": "message",
+        "text": "we submit only on friday",
+        "user": "U0225RJ6SNM",
+        "ts": "1626185665.009400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we submit only on friday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f2762d0-bc0b-4f5e-a179-7d6e9a640523",
+        "type": "message",
+        "text": "<!channel>,\nkeep in mind, if you decide to scrape other websites, you can come to a point where you *a)* choose a selector in your browser of - let's say an artist in a chart and if you then  *b)* try to find that content in your soup, you get no results. The reason for that could be, that the content you see in your browser (and the html that is generated there) is already the result of some Javascript code being executed. This content of course could be different (way more html) than the content you have put into your soup. Because the soup doesn't run Javascript.\n\nThere are ways in web scraping how to tackle this issue (Selenium, ... ). But at this point it would lead too far. So I would recommend searching for charts that don't run that much javascript where you indeed find the selectors in your soup.\n\nread e.g. <https:\/\/stackoverflow.com\/questions\/53702643\/beautiful-soup-not-finding-any-elements-under-a-class|here>",
+        "user": "U021WEXHN4E",
+        "ts": "1626186742.014500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "Beautiful soup not finding any elements under a class",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/53702643\/beautiful-soup-not-finding-any-elements-under-a-class",
+                "text": "I am trying to webscrape the prices of a website using BeautifulSoup: The container class is shown below: An example of the objects I want to retrieve from that class are shown below: But I don'...",
+                "fallback": "Stack Overflow: Beautiful soup not finding any elements under a class",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/53702643\/beautiful-soup-not-finding-any-elements-under-a-class",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/53702643\/beautiful-soup-not-finding-any-elements-under-a-class"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9DM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nkeep in mind, if you decide to scrape other websites, you can come to a point where you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "a) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "choose a selector in your browser of - let's say an artist in a chart and if you then "
+                            },
+                            {
+                                "type": "text",
+                                "text": " b) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "try to find that content in your soup, you get no results. The reason for that could be, that the content you see in your browser (and the html that is generated there) is already the result of some Javascript code being executed. This content of course could be different (way more html) than the content you have put into your soup. Because the soup doesn't run Javascript.\n\nThere are ways in web scraping how to tackle this issue (Selenium, ... ). But at this point it would lead too far. So I would recommend searching for charts that don't run that much javascript where you indeed find the selectors in your soup.\n\nread e.g. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/53702643\/beautiful-soup-not-finding-any-elements-under-a-class",
+                                "text": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "The notebook for the API weather data we just discussed in the classroom. Including some ways how to plot it. Tip again, visit <https:\/\/www.python-graph-gallery.com\/all-charts\/> to be inspired for code when it comes to plotting in python",
+        "files": [
+            {
+                "id": "F028AG6THCZ",
+                "created": 1626194427,
+                "timestamp": 1626194427,
+                "name": "Intro_APIs_get_weatherdata_and_plot.ipynb",
+                "title": "Intro_APIs_get_weatherdata_and_plot.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 756393,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028AG6THCZ\/intro_apis_get_weatherdata_and_plot.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028AG6THCZ\/download\/intro_apis_get_weatherdata_and_plot.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F028AG6THCZ\/intro_apis_get_weatherdata_and_plot.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028AG6THCZ-3dcb45e485",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Qblh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The notebook for the API weather data we just discussed in the classroom. Including some ways how to plot it. Tip again, visit "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.python-graph-gallery.com\/all-charts\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to be inspired for code when it comes to plotting in python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1626194530.016400"
+    },
+    {
+        "type": "message",
+        "text": "just 4 pollution values plotted over time - since the start of the bootcamp - over where Pedro is? :grin:",
+        "files": [
+            {
+                "id": "F028AGK44QH",
+                "created": 1626194596,
+                "timestamp": 1626194596,
+                "name": "download.png",
+                "title": "download.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 103967,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028AGK44QH\/download.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028AGK44QH\/download\/download.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028AGK44QH-d42ed42af9\/download_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028AGK44QH-d42ed42af9\/download_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028AGK44QH-d42ed42af9\/download_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 195,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028AGK44QH-d42ed42af9\/download_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 260,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028AGK44QH-d42ed42af9\/download_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028AGK44QH-d42ed42af9\/download_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 389,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028AGK44QH-d42ed42af9\/download_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 433,
+                "original_w": 934,
+                "original_h": 505,
+                "thumb_tiny": "AwAZADDRbvSUjH5jS5oAKKCcUhOKAFooo7j60wApk5pPLPrUlFICPyye9Gw9zUlA6UAR7W9aNrZ61JRQB\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F028AGK44QH\/download.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028AGK44QH-14fb6f9a96",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F027Y3APM2P",
+                "created": 1626194602,
+                "timestamp": 1626194602,
+                "name": "download (1).png",
+                "title": "download (1).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 84580,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027Y3APM2P\/download__1_.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027Y3APM2P\/download\/download__1_.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027Y3APM2P-03da87a0a8\/download__1__64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027Y3APM2P-03da87a0a8\/download__1__80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027Y3APM2P-03da87a0a8\/download__1__360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 192,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027Y3APM2P-03da87a0a8\/download__1__480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 256,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027Y3APM2P-03da87a0a8\/download__1__160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027Y3APM2P-03da87a0a8\/download__1__720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 384,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027Y3APM2P-03da87a0a8\/download__1__800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 427,
+                "original_w": 946,
+                "original_h": 505,
+                "thumb_tiny": "AwAZADDQY80Uj9aQtxQOw6ik3UueKBBRSHqKM\/zoAcRzSbfan0UAM2UbDT6B0oAZsNGw5p9FAXP\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F027Y3APM2P\/download__1_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027Y3APM2P-a71c0994f2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SMfj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just 4 pollution values plotted over time - since the start of the bootcamp - over where Pedro is? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "ts": "1626194616.016900",
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1626194655.000000"
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021CE3UWPR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9705bce4-2306-4967-99d4-649a57f810f2",
+        "type": "message",
+        "text": "Thanks Flo",
+        "user": "U021CE3UWPR",
+        "ts": "1626195181.017600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h4cD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Flo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "my own effort with the pollution data set - reshaping the json, then out to csv and pop it into tableau to visualise",
+        "files": [
+            {
+                "id": "F027R5BRW14",
+                "created": 1626194899,
+                "timestamp": 1626194899,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 114697,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027R5BRW14\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027R5BRW14\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 126,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 168,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 251,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 279,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 335,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R5BRW14-c107bad86d\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 358,
+                "original_w": 1612,
+                "original_h": 563,
+                "thumb_tiny": "AwAQADDQZgGxijeOwqKUkTfdJAHYUgY\/3W\/KgdifzBRvFQKxzypx9KUsQfuk\/hQKxNvFAYdM5qDcd33Wx9KVWPmD5TjPpQFj\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027R5BRW14\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027R5BRW14-b3ccf2c96b",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F027UTS9WR3",
+                "created": 1626195395,
+                "timestamp": 1626195395,
+                "name": "API_pollution.ipynb",
+                "title": "API_pollution.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 331850,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027UTS9WR3\/api_pollution.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027UTS9WR3\/download\/api_pollution.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027UTS9WR3\/api_pollution.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027UTS9WR3-bb8209083f",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F027R6HPNUE",
+                "created": 1626195436,
+                "timestamp": 1626195436,
+                "name": "bedford_pollution.csv",
+                "title": "bedford_pollution.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U021UNQGZC4",
+                "editable": true,
+                "size": 64359,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027R6HPNUE\/bedford_pollution.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027R6HPNUE\/download\/bedford_pollution.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027R6HPNUE\/bedford_pollution.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027R6HPNUE-bb70a6bafa",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027R6HPNUE\/bedford_pollution.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my own effort with the pollution data set - reshaping the json, then out to csv and pop it into tableau to visualise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "ts": "1626195444.018500",
+        "reactions": [
+            {
+                "name": "surprised_owl",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U021CE3UWPR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "i am happy to say there are some advantages to living in a smaller town - No2 once climbs above 35, a bit lower than berlin!",
+        "files": [
+            {
+                "id": "F027R7712QN",
+                "created": 1626195652,
+                "timestamp": 1626195652,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 28496,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027R7712QN\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027R7712QN\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R7712QN-a4ef51b1d7\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R7712QN-a4ef51b1d7\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R7712QN-a4ef51b1d7\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 355,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027R7712QN-a4ef51b1d7\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 413,
+                "original_h": 419,
+                "thumb_tiny": "AwAwAC\/S2+5o2+5paKAEx7mjHuaafv8A4D+dPwBQAmPc0bfc0tFABRRSN0oAYT81PzUZ606gB9ITgim5zRQA+kbpQOp+tDdKAIief8+tPqJjz\/n1qWgA70Ud6KAP\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027R7712QN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027R7712QN-3c286da549",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q=y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am happy to say there are some advantages to living in a smaller town - No2 once climbs above 35, a bit lower than berlin!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626195721.020300"
+    }
+]

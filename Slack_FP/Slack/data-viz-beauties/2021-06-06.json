@@ -1,0 +1,151 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0242321R8D",
+                "created": 1622971912,
+                "timestamp": 1622971912,
+                "name": "20210606_113140.jpg",
+                "title": "20210606_113140.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 404622,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0242321R8D\/20210606_113140.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0242321R8D\/download\/20210606_113140.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 328,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 438,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_720.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 656,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_800.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 878,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_960.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 875,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0242321R8D-4f2a611499\/20210606_113140_1024.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 934,
+                "thumb_1024_h": 1024,
+                "original_w": 1867,
+                "original_h": 2048,
+                "thumb_tiny": "AwAwACvSz14ppHXk\/nQSMH60H+KgAI68t+dGPdvzoPf6UZGep6UAKDj1pQcjOKaCOOT0pV+6OaAGluGy46\/lQzAbyWAx+lIScN8yfeFDk4fDL269qAFZh8\/zgYH5UZ5++Pu0MT8\/Kj5aQk7j8y\/doAUH5l+cfdp0ZBQEHPvTQWyvKfdp0f8Aq15HTt0oAjYHD\/In3h360MD+8widup6\/WmsvEn7nOWHfr70OmfN\/dE5x3+9TEOYHMnyIfl9etLg7j8i\/c9f0pjJ80n7nOVHfr7UpXk\/uf+WeOv6UAOAO5fkT7nrTogRGuVA46CogvzIfJ\/g9entUkIxEo2beOnpQB\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0242321R8D\/20210606_113140.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0242321R8D-93e67918a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TP8W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1622971916.000100",
+        "client_msg_id": "6d82f666-06dc-4eca-8f26-9a2ee14c6fd8",
+        "thread_ts": "1622971916.000100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1622972124.000400",
+        "reply_users": [
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622972124.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "31cbe3ec-df28-4c68-998c-43d8b8aabc6c",
+        "type": "message",
+        "text": "Source: <https:\/\/appliednetsci.springeropen.com\/articles\/10.1007\/s41109-019-0189-1|https:\/\/appliednetsci.springeropen.com\/articles\/10.1007\/s41109-019-0189-1>",
+        "user": "U021WEXHN4E",
+        "ts": "1622972124.000400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Applied Network Science",
+                "title": "Urban spatial order: street network orientation, configuration, and entropy",
+                "title_link": "https:\/\/appliednetsci.springeropen.com\/articles\/10.1007\/s41109-019-0189-1",
+                "text": "Street networks may be planned according to clear organizing principles or they may evolve organically through accretion, but their configurations and orientations help define a city’s spatial logic and order. Measures of entropy reveal a city’s streets’ order and disorder. Past studies have explored individual cases of orientation and entropy, but little is known about broader patterns and trends worldwide. This study examines street network orientation, configuration, and entropy in 100 cities around the world using OpenStreetMap data and OSMnx. It measures the entropy of street bearings in weighted and unweighted network models, along with each city’s typical street segment length, average circuity, average node degree, and the network’s proportions of four-way intersections and dead-ends. It also develops a new indicator of orientation-order that quantifies how a city’s street network follows the geometric ordering logic of a single grid. A cluster analysis is performed to explore similarities and differences among these study sites in multiple dimensions. Significant statistical relationships exist between city orientation-order and other indicators of spatial order, including street circuity and measures of connectedness. On average, US\/Canadian study sites are far more grid-like than those elsewhere, exhibiting less entropy and circuity. These indicators, taken in concert, help reveal the extent and nuance of the grid. These methods demonstrate automatic, scalable, reproducible tools to empirically measure and visualize city spatial order, illustrating complex urban transportation system patterns and configurations around the world.",
+                "fallback": "Applied Network Science: Urban spatial order: street network orientation, configuration, and entropy",
+                "image_url": "https:\/\/media.springernature.com\/w200\/springer-static\/cover\/journal\/41109.jpg",
+                "from_url": "https:\/\/appliednetsci.springeropen.com\/articles\/10.1007\/s41109-019-0189-1",
+                "image_width": 189,
+                "image_height": 250,
+                "image_bytes": 15071,
+                "id": 1,
+                "original_url": "https:\/\/appliednetsci.springeropen.com\/articles\/10.1007\/s41109-019-0189-1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MgtD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Source: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/appliednetsci.springeropen.com\/articles\/10.1007\/s41109-019-0189-1",
+                                "text": "https:\/\/appliednetsci.springeropen.com\/articles\/10.1007\/s41109-019-0189-1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622971916.000100",
+        "parent_user_id": "U021WEXHN4E"
+    }
+]

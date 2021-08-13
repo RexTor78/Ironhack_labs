@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0273CLSDLJ",
+                "created": 1625489564,
+                "timestamp": 1625489564,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 239725,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0273CLSDLJ\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0273CLSDLJ\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273CLSDLJ-3ec83852b9\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273CLSDLJ-3ec83852b9\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273CLSDLJ-3ec83852b9\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 287,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273CLSDLJ-3ec83852b9\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 383,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273CLSDLJ-3ec83852b9\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273CLSDLJ-3ec83852b9\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 575,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273CLSDLJ-3ec83852b9\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 639,
+                "thumb_800_h": 800,
+                "original_w": 752,
+                "original_h": 942,
+                "thumb_tiny": "AwAwACbQ29Dk9OmaZkY+83\/fVSZPGAPzphX\/AGf\/AB6gBpYY+83\/AH1S7uf4vX71L+A\/77pVVeM8f8CzQAM25enemVJJ90fWo6AJv4RQRkYpP4QPalJAOM8mgBuxR3P0oEYI6mhsg08dBQAyT7oqOpJPuj61HQBIv3vwFDcMMdTS7T7UHigBCM9Tj3o34HzUuT\/nNABIoAa7BlyPWmVIU4wMCk8s+tAH\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0273CLSDLJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0273CLSDLJ-deade995db",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625489567.000100",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U0225RJ3Z4H"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

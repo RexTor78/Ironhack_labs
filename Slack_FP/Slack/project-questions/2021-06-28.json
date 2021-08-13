@@ -1,0 +1,349 @@
+[
+    {
+        "client_msg_id": "64816299-e9c9-4c38-a9b3-2c5c69b80d15",
+        "type": "message",
+        "text": "i'm a bit stuck..",
+        "user": "U021ZC6L676",
+        "ts": "1624876147.001600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q4hGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm a bit stuck.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88f0096f-751f-472d-9350-f3c649ad8c48",
+        "type": "message",
+        "text": "<@U021WEXHN4E> hilfe!",
+        "user": "U021ZC6L676",
+        "ts": "1624876190.002000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h99L8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hilfe!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624876190.002000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624876213.002100",
+        "reply_users": [
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624876213.002100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tick_checkmark",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "beb6e061-8e9e-4782-95a7-8b8b89ef672d",
+        "type": "message",
+        "text": "room 4",
+        "user": "U021WEXHN4E",
+        "ts": "1624876213.002100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "room 4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624876190.002000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "type": "message",
+        "text": "if anyone sees a message from Medium, saying",
+        "files": [
+            {
+                "id": "F026RV8RH09",
+                "created": 1624886379,
+                "timestamp": 1624886379,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 59055,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026RV8RH09\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026RV8RH09\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 80,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 106,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 159,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 177,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 213,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026RV8RH09-16c41dbd75\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 227,
+                "original_w": 1562,
+                "original_h": 346,
+                "thumb_tiny": "AwAKADDRYkYxQCT3AobqKSgBcn1WjJ\/vLSU+gBoJ7ladkHvRRQB\/\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F026RV8RH09\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026RV8RH09-462a4e90e8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OdEd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if anyone sees a message from Medium, saying"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624886390.002900"
+    },
+    {
+        "client_msg_id": "527d6b48-bfd5-4a90-a011-be67e4a842b5",
+        "type": "message",
+        "text": "my hint - go into incognito mode on your browser. bit of a hack, but whatever, we are learning",
+        "user": "U021UNQGZC4",
+        "ts": "1624886413.003700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xp8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my hint - go into incognito mode on your browser. bit of a hack, but whatever, we are learning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0225RGM941> think you meant to be here ?",
+        "user": "U021UNQGZC4",
+        "ts": "1624894759.004200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[June 28th, 2021 5:36 PM] rsathya2605: <@U021NHS652N> Do you have time? we need your help",
+                "ts": "1624894594.003500",
+                "author_id": "U0225RGM941",
+                "author_subname": "Sathiya Raju",
+                "channel_id": "C022CAY8YJC",
+                "channel_name": "lab-questions",
+                "is_msg_unfurl": true,
+                "text": "<@U021NHS652N> Do you have time? we need your help",
+                "author_name": "Sathiya Raju",
+                "author_link": "https:\/\/da-ft-ber-05-21.slack.com\/team\/U0225RGM941",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C022CAY8YJC\/p1624894594003500",
+                "is_share": true,
+                "footer": "Posted in #lab-questions"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2mG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0225RGM941"
+                            },
+                            {
+                                "type": "text",
+                                "text": " think you meant to be here ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U0225RGM941"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

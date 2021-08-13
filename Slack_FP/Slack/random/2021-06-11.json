@@ -1,0 +1,255 @@
+[
+    {
+        "client_msg_id": "06ac67cb-12a1-4de1-bc8f-7c46f92a0adf",
+        "type": "message",
+        "text": "If anyone lives in Kreuzberg, until Sunday you can get a J&amp;J or Moderna vaccination without Termin! <https:\/\/taz.de\/Impfen-in-Berlin\/!5778405\/>",
+        "user": "U021Q54K3B7",
+        "ts": "1623421477.005700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Impfen in Berlin: Ganz Kreuzberg eingeladen",
+                "title_link": "https:\/\/taz.de\/Impfen-in-Berlin\/!5778405\/",
+                "text": "Schwerpunktimpfung in Kreuzberg: Bis Sonntag haben Anwohner die Wahl zwischen Moderna und Johnson &amp; Johnson. Die Schlange schrumpfte schnell.",
+                "fallback": "Impfen in Berlin: Ganz Kreuzberg eingeladen",
+                "image_url": "https:\/\/taz.de\/picture\/4910544\/948\/impfen-1.jpeg",
+                "ts": 1623416640,
+                "from_url": "https:\/\/taz.de\/Impfen-in-Berlin\/!5778405\/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 260003,
+                "service_icon": "https:\/\/taz.de\/favicon.ico",
+                "service_name": "taz.de",
+                "id": 1,
+                "original_url": "https:\/\/taz.de\/Impfen-in-Berlin\/!5778405\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8nc+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If anyone lives in Kreuzberg, until Sunday you can get a J&J or Moderna vaccination without Termin! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/taz.de\/Impfen-in-Berlin\/!5778405\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "alert",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "cc <@U0225RHK6Q1>",
+        "files": [
+            {
+                "id": "F024CUX94TZ",
+                "created": 1623431284,
+                "timestamp": 1623431284,
+                "name": "20210611_190734.jpg",
+                "title": "20210611_190734.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 69846,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024CUX94TZ\/20210611_190734.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024CUX94TZ\/download\/20210611_190734.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024CUX94TZ-0255d23cfe\/20210611_190734_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024CUX94TZ-0255d23cfe\/20210611_190734_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024CUX94TZ-0255d23cfe\/20210611_190734_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024CUX94TZ-0255d23cfe\/20210611_190734_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024CUX94TZ-0255d23cfe\/20210611_190734_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024CUX94TZ-0255d23cfe\/20210611_190734_720.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024CUX94TZ-0255d23cfe\/20210611_190734_800.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "original_w": 900,
+                "original_h": 900,
+                "thumb_tiny": "AwAwADCJsYJzTC2B1\/UVBHmSZFYkgsARW0lvDH92NR74zU2G2ZhY9gf0pCW9f5VLOSWOMYFRN90CiwClc8sR9MCq7OTkHH5VoxN+7GBWY33j9aEBJD\/x8x\/74\/nW6SBWCvzSjHHPBq27uqqA7496dwtcZccNjNRFwFUd6fPlypxxjmo9is+Axxj0oQFmCQYxmqT\/AH2+tWSgik4zg+tQMnU56nikgHBDtDKfu07e87BQvTniiNvkpsP+sK8j6dqBkm4g4K4x+dM3AovqDikd8yHaT6ZzUhQEApzjtQMC5c4xz0pjjk57UgfEpLcUshG71oEf\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024CUX94TZ\/20210611_190734.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024CUX94TZ-5de9c89a53",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbIg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1623431294.006200",
+        "client_msg_id": "295a4644-696f-4051-87e5-306c56972525",
+        "thread_ts": "1623431294.006200",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1623438139.006800",
+        "reply_users": [
+            "U0225RHK6Q1"
+        ],
+        "replies": [
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1623438087.006600"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1623438139.006800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38b438a6-993e-443f-a3a4-c185ef3ac38b",
+        "type": "message",
+        "text": "Good one!!!",
+        "user": "U0225RHK6Q1",
+        "ts": "1623438087.006600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFCFT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good one!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623431294.006200",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "b81e1a1d-6a50-481e-9f82-32014efa288c",
+        "type": "message",
+        "text": "poor daddy :(",
+        "user": "U0225RHK6Q1",
+        "ts": "1623438139.006800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQhr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "poor daddy :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623431294.006200",
+        "parent_user_id": "U021WEXHN4E"
+    }
+]

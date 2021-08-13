@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "e4c2c4fa-886f-4762-9c7c-298c67167757",
+        "type": "message",
+        "text": "did you guys have to do data clean up python before uploading to tableau? tableau doesn't want to read the data I got from the internet. found nice data but it reads as strings :face_with_symbols_on_mouth:",
+        "user": "U0225RJ9GQZ",
+        "ts": "1623652648.003100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QZEMH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you guys have to do data clean up python before uploading to tableau? tableau doesn't want to read the data I got from the internet. found nice data but it reads as strings "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_symbols_on_mouth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652648.003100",
+        "reply_count": 13,
+        "reply_users_count": 2,
+        "latest_reply": "1623677549.007500",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RJ9GQZ"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623653533.003200"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1623654154.003400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623669933.003800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623670160.004400"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1623672848.004800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623673637.005000"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1623676286.005200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623677166.005600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623677185.006000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623677295.006200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623677442.006600"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1623677512.007300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623677549.007500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "641a8b5b-9182-43c9-9f16-fe0b9d14ef22",
+        "type": "message",
+        "text": "sometimes happens! whats the data look like ? ill check it out",
+        "user": "U021UNQGZC4",
+        "ts": "1623653533.003200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tihs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sometimes happens! whats the data look like ? ill check it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    }
+]

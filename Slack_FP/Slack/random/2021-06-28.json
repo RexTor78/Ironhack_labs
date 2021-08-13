@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "6ce274a7-ccd8-4162-8723-fe59c6a8d977",
+        "type": "message",
+        "text": "Most covid related deaths right now in the UK are among (once) vaccinated people. Sounds paradox, but easy to explain and is not an argument against vaccination :point_up:\ngood example for correlation ≠ causality <https:\/\/t.co\/jKs1J2gnkm>",
+        "user": "U021WEXHN4E",
+        "ts": "1624875764.001500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1624876287.000000"
+        },
+        "attachments": [
+            {
+                "title": "Why most people who now die with Covid in England have been vaccinated | Coronavirus | The Guardian",
+                "title_link": "https:\/\/amp.theguardian.com\/theobserver\/commentisfree\/2021\/jun\/27\/why-most-people-who-now-die-with-covid-have-been-vaccinated?CMP=Share_iOSApp_Other&__twitter_impression=true",
+                "text": "Don’t think of this as a bad sign, it’s exactly what’s expected from an effective but imperfect jab",
+                "fallback": "Why most people who now die with Covid in England have been vaccinated | Coronavirus | The Guardian",
+                "from_url": "https:\/\/amp.theguardian.com\/theobserver\/commentisfree\/2021\/jun\/27\/why-most-people-who-now-die-with-covid-have-been-vaccinated?CMP=Share_iOSApp_Other&__twitter_impression=true",
+                "service_icon": "https:\/\/static.guim.co.uk\/images\/favicon-32x32.ico",
+                "service_name": "amp.theguardian.com",
+                "id": 1,
+                "original_url": "https:\/\/amp.theguardian.com\/theobserver\/commentisfree\/2021\/jun\/27\/why-most-people-who-now-die-with-covid-have-been-vaccinated?CMP=Share_iOSApp_Other&__twitter_impression=true"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pSU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Most covid related deaths right now in the UK are among (once) vaccinated people. Sounds paradox, but easy to explain and is not an argument against vaccination "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ngood example for correlation ≠ causality "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/jKs1J2gnkm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624875764.001500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624876248.001900",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624876248.001900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "63f251f2-9bb9-45a0-81d1-161a9204b5ee",
+        "type": "message",
+        "text": "solid spiegelhalter attitude :\n“Coverage and effectiveness are important numbers for assessing vaccination programmes. It is better to look at cool analysis by analysts, rather than hot takes on social and other media.”",
+        "user": "U021UNQGZC4",
+        "ts": "1624876248.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "solid spiegelhalter attitude :\n“Coverage and effectiveness are important numbers for assessing vaccination programmes. It is better to look at cool analysis by analysts, rather than hot takes on social and other media.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624875764.001500",
+        "parent_user_id": "U021WEXHN4E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

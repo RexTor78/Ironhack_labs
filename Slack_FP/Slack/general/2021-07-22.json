@@ -1,0 +1,585 @@
+[
+    {
+        "client_msg_id": "fd3e043e-43e6-4c8e-90be-62fb3178f733",
+        "type": "message",
+        "text": "tableau review workbook : <https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/tableaureviewsesh\/scatterintobox?publish=yes>",
+        "user": "U021UNQGZC4",
+        "ts": "1626948402.000300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tableau Public",
+                "title": "tableau review sesh",
+                "title_link": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/tableaureviewsesh\/scatterintobox?publish=yes",
+                "text": "tableau review sesh",
+                "fallback": "Tableau Public: tableau review sesh",
+                "image_url": "https:\/\/public.tableau.com\/static\/images\/ta\/tableaureviewsesh\/scatterintobox\/4_3_hd.png",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/tableaureviewsesh\/scatterintobox?publish=yes",
+                "image_bytes": 2507,
+                "service_icon": "https:\/\/public.tableau.com\/app\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/tableaureviewsesh\/scatterintobox?publish=yes"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FSfM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tableau review workbook : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/tableaureviewsesh\/scatterintobox?publish=yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdc5c632-d6d6-4577-b88f-f24da18e9899",
+        "type": "message",
+        "text": "just casual robots dancing for your lunchtime <https:\/\/www.youtube.com\/watch?v=fn3KWM1kuAw>",
+        "user": "U021UNQGZC4",
+        "ts": "1626952515.000700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Do You Love Me?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=fn3KWM1kuAw",
+                "author_name": "Boston Dynamics",
+                "author_link": "https:\/\/www.youtube.com\/user\/BostonDynamics",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/fn3KWM1kuAw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Do You Love Me?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/fn3KWM1kuAw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=fn3KWM1kuAw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=fn3KWM1kuAw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kwy0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just casual robots dancing for your lunchtime "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=fn3KWM1kuAw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626952515.000700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1626967035.003400",
+        "reply_users": [
+            "U021CE3UWPR"
+        ],
+        "replies": [
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1626967035.003400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U021T7DU0BC",
+                    "U0225RJ9GQZ",
+                    "U0225RHK6Q1",
+                    "U021CE3UWPR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f08a2bf-b3ec-402f-a8a3-1b20925f310d",
+        "type": "message",
+        "text": "we are running behind - sorry to <@U021ZC6L676> <@U0234JUMPJQ> and <@U021TDMEH27>, we will skip the next break and come to you as soon as possible",
+        "user": "U021UNQGZC4",
+        "ts": "1626966802.003200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e\/sW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are running behind - sorry to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6L676"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0234JUMPJQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMEH27"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", we will skip the next break and come to you as soon as possible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4870a8a-e43d-4ede-a2c3-e1ce902bd129",
+        "type": "message",
+        "text": "I need one of this in my life, I won't stop until I get it",
+        "user": "U021CE3UWPR",
+        "ts": "1626967035.003400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksOD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need one of this in my life, I won't stop until I get it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626952515.000700",
+        "parent_user_id": "U021UNQGZC4",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bca19776-87a5-437c-b379-64fde0d1db96",
+        "type": "message",
+        "text": "ok",
+        "user": "U021ZC6L676",
+        "ts": "1626968041.003700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CwQnP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e60cf069-7cd3-4961-8c40-a6d3c0de819f",
+        "type": "message",
+        "text": "Hi! I need some help! If you like reading, here you have the survey i made for my final project. You can tell me about a book of your choice here. Thanks! :muscle:\n<https:\/\/forms.gle\/KVcogv5BeWycPPZP7>",
+        "user": "U0225RHK6Q1",
+        "ts": "1626968422.004200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Book Recommender survey",
+                "title_link": "https:\/\/forms.gle\/KVcogv5BeWycPPZP7",
+                "text": "First of all, thank you for being part of this project! The information provided here is anonymous. This survey is created to build a book recommender prototype primarily based on the books that people read in the book community I belong to, but also based on books people read in general. I need to collect data on as many books as possible. All literary genres are welcome! So choose a book you like and tell me about it! Each completed survey equals 1 book. If you can, complete more than 1 survey to tell me about more than 1 book. Thanks again!",
+                "fallback": "Google Docs: Book Recommender survey",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/PM6_luLE4S1n6civRLZN4Q23MjVC2Xitd4CDV1xNHvooh8gxmy28W65joph15j18y183eximXns",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/forms.gle\/KVcogv5BeWycPPZP7",
+                "image_bytes": 31467,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/KVcogv5BeWycPPZP7"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IRS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I need some help! If you like reading, here you have the survey i made for my final project. You can tell me about a book of your choice here. Thanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/KVcogv5BeWycPPZP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626968422.004200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1626969274.004900",
+        "reply_users": [
+            "U021CE3UWPR",
+            "U0225RHK6Q1"
+        ],
+        "replies": [
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1626968493.004400"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626968721.004700"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1626969274.004900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5a7a6f13-b084-4bfe-8ca6-b8ee47caa5fe",
+        "type": "message",
+        "text": "<@U0225RHK6Q1> lo reenvio por varios grupos que tengo, te parece??",
+        "user": "U021CE3UWPR",
+        "ts": "1626968493.004400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021CE3UWPR",
+            "ts": "1626968587.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lo reenvio por varios grupos que tengo, te parece??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626968422.004200",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "40a9fdd1-2174-4207-9b4b-6b5c16065b7b",
+        "type": "message",
+        "text": "ay mil gracias!!! me ayuda muchooooo",
+        "user": "U0225RHK6Q1",
+        "ts": "1626968721.004700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/lm4T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ay mil gracias!!! me ayuda muchooooo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626968422.004200",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "042ac000-9b0a-4804-9692-0ac2187dde89",
+        "type": "message",
+        "text": "ok",
+        "user": "U021CE3UWPR",
+        "ts": "1626969274.004900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=zm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626968422.004200",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "d9aa9203-558b-43cd-b5f1-f408b2128a9d",
+        "type": "message",
+        "text": "A quick announcement to <!everyone> about tomorrow morning. No morning sunshine or Retro, but please arrive to the zoom meeting for 10:30 to attend a guest lecture with a new IH lecturer Karina, she will be teaching us about a very useful concept in Machine Learning, Principle Component Analysis. The jupyter notebook for the class is on Notion if you want to follow along - please ask questions to her as you would to me, and I will ask you for a bit of constructive feedback for Karina after the lecture.\n(Treat this as a 1 hr break from your project day - there is no lab work)",
+        "user": "U021UNQGZC4",
+        "ts": "1626969875.008800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A quick announcement to "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about tomorrow morning. No morning sunshine or Retro, but please arrive to the zoom meeting for 10:30 to attend a guest lecture with a new IH lecturer Karina, she will be teaching us about a very useful concept in Machine Learning, Principle Component Analysis. The jupyter notebook for the class is on Notion if you want to follow along - please ask questions to her as you would to me, and I will ask you for a bit of constructive feedback for Karina after the lecture.\n(Treat this as a 1 hr break from your project day - there is no lab work)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021T7DU0BC",
+                    "U0225RHK6Q1",
+                    "U021CE3UWPR",
+                    "U021TDMLNTD",
+                    "U021ZC6H9GC"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

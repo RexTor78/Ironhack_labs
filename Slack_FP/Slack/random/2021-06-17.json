@@ -1,0 +1,254 @@
+[
+    {
+        "client_msg_id": "0a3ab366-209b-45aa-a559-ebd3c41950ee",
+        "type": "message",
+        "text": "berliners feel free to join this channel <https:\/\/da-ft-ber-05-21.slack.com\/archives\/C025ERGC728> if you're up to hang around!",
+        "user": "U021ZC6L676",
+        "ts": "1623913564.001100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6wGra",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "berliners feel free to join this channel "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C025ERGC728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you're up to hang around!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3890105e-ef8d-41a6-bbf4-514ed398eccf",
+        "type": "message",
+        "text": "<https:\/\/www.theguardian.com\/environment\/2021\/jun\/16\/europe-cities-still-plagued-dirty-air-report-finds>",
+        "user": "U021UNQGZC4",
+        "ts": "1623918000.001300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "the Guardian",
+                "title": "More than half of Europe’s cities still plagued by dirty air, report finds",
+                "title_link": "https:\/\/www.theguardian.com\/environment\/2021\/jun\/16\/europe-cities-still-plagued-dirty-air-report-finds",
+                "text": "Data shows only 127 of 323 cities had acceptable PM 2.5 levels despite drop in emissions during lockdowns",
+                "fallback": "the Guardian: More than half of Europe’s cities still plagued by dirty air, report finds",
+                "image_url": "https:\/\/i.guim.co.uk\/img\/media\/dcc2c02f79b95a8e9da38b03b9750240d9c967e2\/0_371_5568_3341\/master\/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8fa48a3cf7ff4c8360952f9a2eb7caf",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1623880817,
+                "from_url": "https:\/\/www.theguardian.com\/environment\/2021\/jun\/16\/europe-cities-still-plagued-dirty-air-report-finds",
+                "image_bytes": 175392,
+                "service_icon": "https:\/\/static.guim.co.uk\/images\/favicon-32x32.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.theguardian.com\/environment\/2021\/jun\/16\/europe-cities-still-plagued-dirty-air-report-finds"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tIx=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theguardian.com\/environment\/2021\/jun\/16\/europe-cities-still-plagued-dirty-air-report-finds"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025ELSQYTD",
+                "created": 1623954182,
+                "timestamp": 1623954182,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021NHS652N",
+                "editable": false,
+                "size": 18892,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025ELSQYTD\/image_from_ios.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025ELSQYTD\/download\/image_from_ios.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025ELSQYTD-6ca476565d\/image_from_ios_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025ELSQYTD-6ca476565d\/image_from_ios_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025ELSQYTD-6ca476565d\/image_from_ios_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 357,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025ELSQYTD-6ca476565d\/image_from_ios_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 394,
+                "original_h": 397,
+                "thumb_tiny": "AwAwAC+tbD5m+eMdPvfXtVndgj5ouR6VR\/iwBV6G3Vk+c4J9ulK40hN3IO5PTp\/n0pc\/MRvj5HXHFNyYmKgKcHrimMckmgRJuw33oif8\/wCFQ3BwchlOf7vSoFbMufWlLDaB1pgLghvxrTh+eALu\/HuKowRq7jPT09aveRtG6JiD6UrDTK05HnsBzjqfeoWbjilYnJz1zzUTGgRHRzSk80lMC1bkq2RWhE+Rkpj3XkVUhZdmGxnI\/h7VMssfJUEHPPGPwoER3duQTIgLKeTjtVI1q\/eGR6dajeJSocJ0bJ+XqPSgZlGlGAfm6fWtBZIQF3qM85+X3qvK+QqRoOnJwOaAP\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021NHS652N\/F025ELSQYTD\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025ELSQYTD-8247e0cf68",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nvjx",
+                "elements": []
+            }
+        ],
+        "user": "U021NHS652N",
+        "display_as_bot": false,
+        "ts": "1623954186.001500",
+        "client_msg_id": "F76931DC-FB5A-4903-B621-FEF8D7ABB105",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U0225RHK6Q1",
+                    "U0225RGM941",
+                    "U021CE3UWPR",
+                    "U021WEXHN4E",
+                    "U021Q53LBPX"
+                ],
+                "count": 5
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025UQF14P3",
+                "created": 1623996166,
+                "timestamp": 1623996166,
+                "name": "20210618_080221.jpg",
+                "title": "20210618_080221.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 33538,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025UQF14P3\/20210618_080221.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025UQF14P3\/download\/20210618_080221.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025UQF14P3-3150165026\/20210618_080221_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025UQF14P3-3150165026\/20210618_080221_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025UQF14P3-3150165026\/20210618_080221_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025UQF14P3-3150165026\/20210618_080221_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025UQF14P3-3150165026\/20210618_080221_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 500,
+                "original_h": 500,
+                "thumb_tiny": "AwAwADBkjlQMdaSORy\/zdKVxkVGmA4P6moQ0T5ps2GwEJ6c0tQJ8wfJxQgQ7G3+E\/WmFirdePen4ITAbmo5QeM9aYycbtxGwkY67c0mzplOcdDH\/APXqFFyeRTiq0xWHyNKg+WM7QP7uBT\/KUAja3rkEYpIgMZBHFLLskYYAGBzmi4WE8sej89ORTXi3DjdkdzjFBBx\/DioG+VqBku3HXoaaFUE1IxxGuetRH60gRLF8qsAOvemxgNvBpIpRkrnj1qwQqjkKCeeTg0dQIiilQuailGOKn+X\/AGef9s8UhRH4zjB\/vZoC5\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F025UQF14P3\/20210618_080221.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025UQF14P3-d194c68d57",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1623996168.002500",
+        "client_msg_id": "9dbbb2ab-d9bd-4eb8-b4ff-8b66d6bede2c",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

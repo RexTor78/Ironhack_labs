@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "9788a055-d55b-4ebb-a206-0235236c58c0",
+        "type": "message",
+        "text": "interesting and fun to read <https:\/\/www.newyorker.com\/magazine\/2021\/06\/21\/when-graphs-are-a-matter-of-life-and-death?utm_social-type=owned&amp;mbid=social_twitter&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_brand=tny|https:\/\/www.newyorker.com\/magazine\/2021\/06\/21\/when-graphs-are-a-matter-of-life-and-de[…]l_twitter&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_brand=tny>",
+        "user": "U021Q54K3B7",
+        "ts": "1623830885.003600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The New Yorker",
+                "title": "When Graphs Are a Matter of Life and Death",
+                "title_link": "https:\/\/www.newyorker.com\/magazine\/2021\/06\/21\/when-graphs-are-a-matter-of-life-and-death?utm_social-type=owned&mbid=social_twitter&utm_source=twitter&utm_medium=social&utm_brand=tny",
+                "text": "Pie charts and scatter plots seem like ordinary tools, but they revolutionized the way we solve problems.",
+                "fallback": "The New Yorker: When Graphs Are a Matter of Life and Death",
+                "image_url": "https:\/\/media.newyorker.com\/photos\/60c2bc03ebee9607e712a19e\/16:9\/w_1280,c_limit\/210621_r38532.jpg?mbid=social_retweet",
+                "from_url": "https:\/\/www.newyorker.com\/magazine\/2021\/06\/21\/when-graphs-are-a-matter-of-life-and-death?utm_social-type=owned&mbid=social_twitter&utm_source=twitter&utm_medium=social&utm_brand=tny",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 276076,
+                "service_icon": "https:\/\/www.newyorker.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.newyorker.com\/magazine\/2021\/06\/21\/when-graphs-are-a-matter-of-life-and-death?utm_social-type=owned&amp;mbid=social_twitter&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_brand=tny"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Sty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "interesting and fun to read "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.newyorker.com\/magazine\/2021\/06\/21\/when-graphs-are-a-matter-of-life-and-death?utm_social-type=owned&mbid=social_twitter&utm_source=twitter&utm_medium=social&utm_brand=tny",
+                                "text": "https:\/\/www.newyorker.com\/magazine\/2021\/06\/21\/when-graphs-are-a-matter-of-life-and-de[…]l_twitter&utm_source=twitter&utm_medium=social&utm_brand=tny"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U021TDMLNTD",
+                    "U021NHS652N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire_extinguisher",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "text": "Talking the other day about good visualisations, I really liked this one (which global warming you'll experience according to your current cohort):",
+        "files": [
+            {
+                "id": "F028LSDFLFM",
+                "created": 1626778824,
+                "timestamp": 1626778824,
+                "name": "E6p4vVvX0Ag6mx0.jpeg",
+                "title": "E6p4vVvX0Ag6mx0.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021Q54K3B7",
+                "editable": false,
+                "size": 53905,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028LSDFLFM\/e6p4vvvx0ag6mx0.jpeg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028LSDFLFM\/download\/e6p4vvvx0ag6mx0.jpeg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028LSDFLFM-9b07657536\/e6p4vvvx0ag6mx0_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028LSDFLFM-9b07657536\/e6p4vvvx0ag6mx0_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028LSDFLFM-9b07657536\/e6p4vvvx0ag6mx0_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 358,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028LSDFLFM-9b07657536\/e6p4vvvx0ag6mx0_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 478,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028LSDFLFM-9b07657536\/e6p4vvvx0ag6mx0_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 640,
+                "original_h": 643,
+                "thumb_tiny": "AwAwAC+0FURIdikkc5o+TnCJ0z3\/AMKcCRFHgnpSbj6n86luxWrYmVxnYn6\/4Uq4Y4EaH8\/8KYztu+8fzqu8jhz87fmaE0ylFvqX1jBHzRqD7c1G8OxCc5qg0sgb77f99GrNszNbPuYn5u5odrD5Wib\/AJZR\/SkIxSj\/AFUf0o49qmRK3ZE33qgcZc1Yfr1FV3PzH60R3NEQv96rdp\/x7Sf71VG+9Vu0\/wCPaT\/eqnsEicf6qL6UvPvTQymNBvAIHOaUFcfeSkzNLVjWzn+Kq0inecA9askKT95KiaLcxO6L8c0RLi7FR+Gq1a8Wsn+9TWti38UQ\/OpY4\/Kt3UsrEnPFNhJ3P\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021Q54K3B7\/F028LSDFLFM\/e6p4vvvx0ag6mx0.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028LSDFLFM-8683450242",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CkG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Talking the other day about good visualisations, I really liked this one (which global warming you'll experience according to your current cohort):"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021Q54K3B7",
+        "display_as_bot": false,
+        "ts": "1626778827.001000",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021CE3UWPR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fearful",
+                "users": [
+                    "U021T7DU0BC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

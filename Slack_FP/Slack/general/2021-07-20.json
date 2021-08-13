@@ -1,0 +1,1199 @@
+[
+    {
+        "client_msg_id": "2f051981-3dcd-42f4-bf95-388af3501e53",
+        "type": "message",
+        "text": "<!here> after lunch at 2pm, be ready to go with EITHER : keras and tensor flow installed on your conda environment (pls check they are working), or set up and ready on <https:\/\/colab.research.google.com\/notebooks\/intro.ipynb?utm_source=scs-index|google colab> (straightforward with a google account)",
+        "user": "U021UNQGZC4",
+        "ts": "1626778947.043000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Google Colaboratory",
+                "title_link": "https:\/\/colab.research.google.com\/notebooks\/intro.ipynb?utm_source=scs-index",
+                "fallback": "Google Colaboratory",
+                "image_url": "https:\/\/colab.research.google.com\/img\/colab_favicon_256px.png",
+                "from_url": "https:\/\/colab.research.google.com\/notebooks\/intro.ipynb?utm_source=scs-index",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 4534,
+                "service_icon": "https:\/\/colab.research.google.com\/img\/favicon.ico?vrz=colab-20210716-060119-RC00_385112924",
+                "service_name": "colab.research.google.com",
+                "id": 1,
+                "original_url": "https:\/\/colab.research.google.com\/notebooks\/intro.ipynb?utm_source=scs-index"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TF95W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " after lunch at 2pm, be ready to go with EITHER : keras and tensor flow installed on your conda environment (pls check they are working), or set up and ready on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/colab.research.google.com\/notebooks\/intro.ipynb?utm_source=scs-index",
+                                "text": "google colab"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (straightforward with a google account)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021CE3UWPR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "214f8ad1-2caa-4dcc-b8de-10ca06d056da",
+        "type": "message",
+        "text": "two videos we didnt have a chance to dive into in this mornings lecture but really nice ones for learning about computer vision :\n<https:\/\/www.youtube.com\/watch?v=40riCqvRoMs> - CV ted talk - why are children so much better than computers at image recognition\n<https:\/\/www.youtube.com\/watch?v=iwcYp-XT7UI> - CV and self driving cars",
+        "user": "U021UNQGZC4",
+        "ts": "1626779113.044300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How we teach computers to understand pictures | Fei Fei Li",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=40riCqvRoMs",
+                "author_name": "TED",
+                "author_link": "https:\/\/www.youtube.com\/c\/TED",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/40riCqvRoMs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How we teach computers to understand pictures | Fei Fei Li",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/40riCqvRoMs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=40riCqvRoMs",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=40riCqvRoMs"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles | Lex Fridman Podcast #31",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=iwcYp-XT7UI",
+                "author_name": "Lex Fridman",
+                "author_link": "https:\/\/www.youtube.com\/c\/lexfridman",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/iwcYp-XT7UI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles | Lex Fridman Podcast #31",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/iwcYp-XT7UI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=iwcYp-XT7UI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=iwcYp-XT7UI"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qYE3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "two videos we didnt have a chance to dive into in this mornings lecture but really nice ones for learning about computer vision :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=40riCqvRoMs"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - CV ted talk - why are children so much better than computers at image recognition\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=iwcYp-XT7UI"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - CV and self driving cars"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "161f1a6c-8428-4aa2-8d82-0c58eb75d5df",
+        "type": "message",
+        "text": "we are missing a lot of the NLP lab submissions <!here> i only have 7 submitted - have you forgotten to submit or will you finish it this afternoon ?",
+        "user": "U021UNQGZC4",
+        "ts": "1626780569.045300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8H+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are missing a lot of the NLP lab submissions "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i only have 7 submitted - have you forgotten to submit or will you finish it this afternoon ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780569.045300",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1626797110.053000",
+        "reply_users": [
+            "U0225RGM941",
+            "U021Q54K3B7",
+            "U021TDMLNTD",
+            "U0225RHK6Q1",
+            "U021Q53LBPX"
+        ],
+        "replies": [
+            {
+                "user": "U0225RGM941",
+                "ts": "1626780618.046000"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1626780818.046800"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1626782003.047000"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626782162.047600"
+            },
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1626787651.048100"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1626797110.053000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f0326457-7cbf-447f-909c-6d44b7032109",
+        "type": "message",
+        "text": "I will submit this afternoon.",
+        "user": "U0225RGM941",
+        "ts": "1626780618.046000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d4P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will submit this afternoon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780569.045300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "73f81829-20ee-4ed5-8b50-b8c6234331b6",
+        "type": "message",
+        "text": "maybe <@U021NHS652N> <@U021WEXHN4E> one of you could organise a run through for those students who are struggling with this lab, this afternoon ? perhaps while the other of you hosts a kata ?",
+        "user": "U021UNQGZC4",
+        "ts": "1626780655.046700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kQA+c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " one of you could organise a run through for those students who are struggling with this lab, this afternoon ? perhaps while the other of you hosts a kata ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780655.046700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1626782849.047900",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021NHS652N"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626782036.047300"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1626782849.047900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6ce0a8c3-5329-4f11-9241-da11ab86e5dd",
+        "type": "message",
+        "text": "I'm half way through it, working on it right now",
+        "user": "U021Q54K3B7",
+        "ts": "1626780818.046800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pgMC\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm half way through it, working on it right now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780569.045300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "aec1695c-a30b-4ca7-b7c3-899ea26c5b17",
+        "type": "message",
+        "text": "me too, will submit it this afteroon, still working on it",
+        "user": "U021TDMLNTD",
+        "ts": "1626782003.047000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021TDMLNTD",
+            "ts": "1626782022.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pc\/F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me too, will submit it this afteroon, still working on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780569.045300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "077c3560-335c-4285-9e03-35bf07d3ba3c",
+        "type": "message",
+        "text": "I could do a run through",
+        "user": "U021WEXHN4E",
+        "ts": "1626782036.047300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Bh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could do a run through"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780655.046700",
+        "parent_user_id": "U021UNQGZC4",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8368b02a-6d24-4a9a-aed9-616649872994",
+        "type": "message",
+        "text": "still working on it",
+        "user": "U0225RHK6Q1",
+        "ts": "1626782162.047600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epk7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "still working on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780569.045300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "296d4c4c-e45d-49be-9db8-939052f8cde2",
+        "type": "message",
+        "text": "Great!",
+        "user": "U021NHS652N",
+        "ts": "1626782849.047900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "45xTR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780655.046700",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "d4a6e206-091a-4777-92f1-306e7b8116bf",
+        "type": "message",
+        "text": "same here, will submit at some point today :slightly_smiling_face:",
+        "user": "U021Q53LBPX",
+        "ts": "1626787651.048100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cc9r5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "same here, will submit at some point today "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780569.045300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "2bf244fb-1507-4093-bcde-1beb1cffe9af",
+        "type": "message",
+        "text": "notebook from this afternoon - in <https:\/\/colab.research.google.com\/drive\/1DoC41aVPwII1cmIAyYPH-3w1XPzur-gU#scrollTo=ekJA3bgj7vLM|google colab> and jupyter notebook is coming",
+        "user": "U021UNQGZC4",
+        "ts": "1626787858.049000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "adYcU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "notebook from this afternoon - in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/colab.research.google.com\/drive\/1DoC41aVPwII1cmIAyYPH-3w1XPzur-gU#scrollTo=ekJA3bgj7vLM",
+                                "text": "google colab"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and jupyter notebook is coming"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "notebook (now complete) here",
+        "files": [
+            {
+                "id": "F028M7NQNSE",
+                "created": 1626788708,
+                "timestamp": 1626788708,
+                "name": "Image_classification_keras-complete.ipynb",
+                "title": "Image_classification_keras-complete.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 58366,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028M7NQNSE\/image_classification_keras-complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028M7NQNSE\/download\/image_classification_keras-complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F028M7NQNSE\/image_classification_keras-complete.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028M7NQNSE-76ac688546",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "notebook (now complete) here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626788717.049500"
+    },
+    {
+        "client_msg_id": "582ff752-c9b3-4aa2-9f6d-1fc3293d1e2c",
+        "type": "message",
+        "text": "yoga in the classroom now <!channel>",
+        "user": "U021UNQGZC4",
+        "ts": "1626789590.050100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oxsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yoga in the classroom now "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15bc9997-74f5-4566-826e-e4cbf1cc5d28",
+        "type": "message",
+        "text": "just in case you forgot <@U021WEXHN4E>?",
+        "user": "U021UNQGZC4",
+        "ts": "1626789618.050400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just in case you forgot "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89b1d87f-2a14-4717-a5e2-50c0a7b7830e",
+        "type": "message",
+        "text": "can you reopen breakouts please?",
+        "user": "U021ZC6H9GC",
+        "ts": "1626789993.050700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mwFYk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can you reopen breakouts please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be84f2c9-abc1-4d32-881b-4eaa6902e91a",
+        "type": "message",
+        "text": ":pray:",
+        "user": "U021ZC6H9GC",
+        "ts": "1626790013.050900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9F0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b89dd995-800f-437f-b695-305d7ccf5eed",
+        "type": "message",
+        "text": "<!channel>,\nlab walkthrough for that NLP lab from yesterday starts in 5 minutes in the main room",
+        "user": "U021WEXHN4E",
+        "ts": "1626791818.051500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1626791826.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Bc+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nlab walkthrough for that NLP lab from yesterday starts in 5 minutes in the main room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD",
+                    "U021CE3UWPR",
+                    "U0225RHK6Q1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel>,\nthe NLP walkthrough",
+        "files": [
+            {
+                "id": "F028N0T3G0K",
+                "created": 1626795356,
+                "timestamp": 1626795356,
+                "name": "nlp_lab_walkthrough.ipynb",
+                "title": "nlp_lab_walkthrough.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 216265,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028N0T3G0K\/nlp_lab_walkthrough.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028N0T3G0K\/download\/nlp_lab_walkthrough.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F028N0T3G0K\/nlp_lab_walkthrough.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028N0T3G0K-9f717770f0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nthe NLP walkthrough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1626795362.052400",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U021Q54K3B7",
+                    "U0225RHK6Q1",
+                    "U021ZC6H9GC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac49b583-5b0e-4826-a493-27acbbb68f2f",
+        "type": "message",
+        "text": "Hey, I'm sorry I've been so slow this week, but I haven't managed to  go faster. I won't finish today's lab today, and I haven't started sourcing data for my final project.",
+        "user": "U021Q54K3B7",
+        "ts": "1626797110.053000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zFI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, I'm sorry I've been so slow this week, but I haven't managed to  go faster. I won't finish today's lab today, and I haven't started sourcing data for my final project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626780569.045300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "4838bb06-dc2e-4110-bb23-c911a8dd48b3",
+        "type": "message",
+        "text": "Looking ahead to tomorrow : lets meet in the classroom at 9am for our morning sunshine, this time its <@U0225RGM941> :sunny:\n• the SQL review lecture is optional, might be useful for those of you feeling a little rusty. If you don’t think you need it, feel free to chill in a breakout room and work through the SQL lab- this is your *FINAL lab of the bootcamp!* \n• Thursday morning it will be the same story with the Tableau optional lecture - useful if you want to revise the core concepts and get some practice or ask questions ahead of your final project week. \n• Thursday afternoon the teaching team will be taking elevator pitches from all students on their final project ideas. We will advise the order of pitches tomorrow. ",
+        "user": "U021UNQGZC4",
+        "ts": "1626811742.058800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GVoXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking ahead to tomorrow : lets meet in the classroom at 9am for our morning sunshine, this time its "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RGM941"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the SQL review lecture is optional, might be useful for those of you feeling a little rusty. If you don’t think you need it, feel free to chill in a breakout room and work through the SQL lab- this is your "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "FINAL lab of the bootcamp! ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Thursday morning it will be the same story with the Tableau optional lecture - useful if you want to revise the core concepts and get some practice or ask questions ahead of your final project week. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Thursday afternoon the teaching team will be taking elevator pitches from all students on their final project ideas. We will advise the order of pitches tomorrow. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15bae9cb-e9ff-49d8-8b5a-af22c1b072ec",
+        "type": "message",
+        "text": "I know many of you are looking this week for final project ideas - we actually have two new project briefs from within ironhack to choose from - see <https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/edit\/main\/Projects\/Final_Project\/project_proposals.md|this page> - and go to the bottom two projects. One is web scraping, the other will be on existing data files which need to be joined together. If you want to adopt either of these projects, or any other project you see on this page, please get in touch for details, I can connect you with the stakeholder and set up a kick off call to ask questions.",
+        "user": "U021UNQGZC4",
+        "ts": "1626817844.061800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know many of you are looking this week for final project ideas - we actually have two new project briefs from within ironhack to choose from - see "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/edit\/main\/Projects\/Final_Project\/project_proposals.md",
+                                "text": "this page"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - and go to the bottom two projects. One is web scraping, the other will be on existing data files which need to be joined together. If you want to adopt either of these projects, or any other project you see on this page, please get in touch for details, I can connect you with the stakeholder and set up a kick off call to ask questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

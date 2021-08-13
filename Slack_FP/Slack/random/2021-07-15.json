@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "d5a7739c-c53d-4ac9-82bb-d8aac1a0b788",
+        "type": "message",
+        "text": "just found out a good friend of mine is working on an augmented Transformers computer game !\n<https:\/\/nianticlabs.com\/blog\/transformers-heavy-metal\/?hl=en>",
+        "user": "U021UNQGZC4",
+        "ts": "1626345373.001600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Niantic",
+                "title": "Niantic, Hasbro and TOMY Partner on Real-World AR Mobile Game “TRANSFORMERS: Heavy Metal” - Niantic",
+                "title_link": "https:\/\/nianticlabs.com\/blog\/transformers-heavy-metal\/?hl=en",
+                "fallback": "Niantic: Niantic, Hasbro and TOMY Partner on Real-World AR Mobile Game “TRANSFORMERS: Heavy Metal” - Niantic",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/tu4GxCypQC9rdAms2Su6f3LSYjSASocH6JEYWNLQ-P9SAmIz8eM-61SvFTxXmwYgpNrkVI-BfujblwOWucJ0X1naN8w0jgM23LdA85axo-i5f_iG",
+                "from_url": "https:\/\/nianticlabs.com\/blog\/transformers-heavy-metal\/?hl=en",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 45520,
+                "id": 1,
+                "original_url": "https:\/\/nianticlabs.com\/blog\/transformers-heavy-metal\/?hl=en"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vtz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just found out a good friend of mine is working on an augmented Transformers computer game !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nianticlabs.com\/blog\/transformers-heavy-metal\/?hl=en"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

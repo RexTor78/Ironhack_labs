@@ -1,0 +1,2030 @@
+[
+    {
+        "type": "message",
+        "text": "my notebook from today",
+        "files": [
+            {
+                "id": "F027SMP5AJU",
+                "created": 1625481568,
+                "timestamp": 1625481568,
+                "name": "Real_estate_prices_prediction_wip.ipynb",
+                "title": "Real_estate_prices_prediction_wip.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 21944271,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027SMP5AJU\/real_estate_prices_prediction_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027SMP5AJU\/download\/real_estate_prices_prediction_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027SMP5AJU\/real_estate_prices_prediction_wip.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027SMP5AJU-3f6ad51e86",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my notebook from today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625481584.000200"
+    },
+    {
+        "client_msg_id": "85d575da-a261-450a-8502-063845fad32e",
+        "type": "message",
+        "text": "example of a kaggle notebook with the same data set <https:\/\/www.kaggle.com\/threnjen\/king-county-housing-in-depth-study-w-r-2-89-4>\nfor ideas, inspiration and advanced techniques",
+        "user": "U021UNQGZC4",
+        "ts": "1625481621.000900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "King County Housing - In depth study w\/R^2 89.4",
+                "title_link": "https:\/\/www.kaggle.com\/threnjen\/king-county-housing-in-depth-study-w-r-2-89-4",
+                "text": "Explore and run machine learning code with Kaggle Notebooks | Using data from House Sales in King County, USA",
+                "fallback": "King County Housing - In depth study w\/R^2 89.4",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-avatars\/thumbnails\/5900775-kg.jpg",
+                "from_url": "https:\/\/www.kaggle.com\/threnjen\/king-county-housing-in-depth-study-w-r-2-89-4",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/threnjen\/king-county-housing-in-depth-study-w-r-2-89-4"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xk3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "example of a kaggle notebook with the same data set "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/threnjen\/king-county-housing-in-depth-study-w-r-2-89-4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nfor ideas, inspiration and advanced techniques"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625481621.000900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625667818.022900",
+        "reply_users": [
+            "U021Q53LBPX"
+        ],
+        "replies": [
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1625667818.022900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "eeb06e6a-920c-4924-953d-3ce4a6dbabfd",
+        "type": "message",
+        "text": "and a nice one that uses a pretty simple approach to feature importance- although for this to make sense we should cover a couple of new concepts on wednesday, i think <https:\/\/www.kaggle.com\/killmenow\/data-exploration-and-feature-selection>",
+        "user": "U021UNQGZC4",
+        "ts": "1625481797.001800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Data Exploration and Feature Selection",
+                "title_link": "https:\/\/www.kaggle.com\/killmenow\/data-exploration-and-feature-selection",
+                "text": "Explore and run machine learning code with Kaggle Notebooks | Using data from House Sales in King County, USA",
+                "fallback": "Data Exploration and Feature Selection",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-avatars\/thumbnails\/859745-kg.jpg",
+                "from_url": "https:\/\/www.kaggle.com\/killmenow\/data-exploration-and-feature-selection",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/killmenow\/data-exploration-and-feature-selection"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9f6in",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and a nice one that uses a pretty simple approach to feature importance- although for this to make sense we should cover a couple of new concepts on wednesday, i think "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/killmenow\/data-exploration-and-feature-selection"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625481797.001800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625667806.022700",
+        "reply_users": [
+            "U021Q53LBPX"
+        ],
+        "replies": [
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1625667806.022700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcf67712-b0c4-4e73-84a9-e6ecfe6a3213",
+        "type": "message",
+        "text": "but one for <@U0225RJ9GQZ> and <@U021Q54K3B7> to take a look at :point_up_2:",
+        "user": "U021UNQGZC4",
+        "ts": "1625481826.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HIk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but one for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ9GQZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021Q54K3B7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to take a look at "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B038C21C-9B39-4A11-8085-94ADB2B8875E",
+        "type": "message",
+        "text": ":+1::skin-tone-3::+1::skin-tone-3::+1::skin-tone-3:",
+        "user": "U0225RJ9GQZ",
+        "ts": "1625481848.002700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5zZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3eaee7a5-fbe9-4d46-817c-119c6153ff8f",
+        "type": "message",
+        "text": "are there any good references\/resources for modeling and create new variables using python? or is there a lecture we did a lot of modeling I can re-visit?",
+        "user": "U0225RJ9GQZ",
+        "ts": "1625487487.004900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wB1J1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are there any good references\/resources for modeling and create new variables using python? or is there a lecture we did a lot of modeling I can re-visit?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1625491047.008700",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021UNQGZC4",
+            "U0225RJ9GQZ"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625489386.006100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625489388.006300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625489491.006600"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1625489861.007200"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1625490083.007400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625490556.007600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625490687.007900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625490745.008200"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1625491034.008500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625491047.008700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6b33f276-238c-46ea-b9ae-1bf756eaad78",
+        "type": "message",
+        "text": "nevermind, the kaggle notebooks will do...",
+        "user": "U0225RJ9GQZ",
+        "ts": "1625488101.005900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7z5lm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nevermind, the kaggle notebooks will do..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13caca68-b70e-4021-91b8-dba43b09bb06",
+        "type": "message",
+        "text": "the lectures of week 4 should be helpful here. With \"creating new variables\" you mean feature engineering?",
+        "user": "U021WEXHN4E",
+        "ts": "1625489386.006100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSQ56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the lectures of week 4 should be helpful here. With \"creating new variables\" you mean feature engineering?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "f3054c81-bd2b-4533-a5e7-074322422218",
+        "type": "message",
+        "text": "we did a lot of wrangling type steps at the end of the first week of the course, also in your first project, the start of week 2 and 4- but a lot of these skills are from python (generic) lessons and techniques, like creating functions, using lambda, using map+apply, filter and reduce, str operations, or very helpfully, how to use if statements or case statements to categorise values into buckets. this is in the pre work too. at the end of week 4 you had a lot of practice with filtering, subsets and aggregations. all solutions are published.\n in general, once you have in mind what you want to do with a common, it may be about you experimenting and finding the easiest path to get to that result - whether via a function, a loop, a case statement etc\n\nexample which may be helpful for you - lets take column yr_renovated. We might conclude that the interesting thing is *whether* a renovation happened or not, not when it took place. one method might be to create a function which converts the year of renovation to a truefalse boolean\n```def truefalse(x):\n    if x == 0:\n        n = 0\n    elif x &gt; 0:\n        n = 1\n    return n\n\ndf_drop['yr_renovated']=df_drop['yr_renovated'].apply(truefalse)```\nthere are probably half a dozen ways to achieve the same thing for this column, including pandas replace, using regex, or a loc query - one reason to keep the true\/false function generic is the same function be applied to other features:\n```df['sqft_basement']=df['sqft_basement'].apply(truefalse)```\nso now we have a flag for ‘has a basement’ and a flag for ‘has been renovated’",
+        "user": "U021UNQGZC4",
+        "ts": "1625489388.006300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1625490580.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we did a lot of wrangling type steps at the end of the first week of the course, also in your first project, the start of week 2 and 4- but a lot of these skills are from python (generic) lessons and techniques, like creating functions, using lambda, using map+apply, filter and reduce, str operations, or very helpfully, how to use if statements or case statements to categorise values into buckets. this is in the pre work too. at the end of week 4 you had a lot of practice with filtering, subsets and aggregations. all solutions are published.\n in general, once you have in mind what you want to do with a common, it may be about you experimenting and finding the easiest path to get to that result - whether via a function, a loop, a case statement etc\n\nexample which may be helpful for you - lets take column yr_renovated. We might conclude that the interesting thing is"
+                            },
+                            {
+                                "type": "text",
+                                "text": " whether",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " a renovation happened or not, not when it took place. one method might be to create a function which converts the year of renovation to a truefalse boolean\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def truefalse(x):\n    if x == 0:\n        n = 0\n    elif x > 0:\n        n = 1\n    return n\n\ndf_drop['yr_renovated']=df_drop['yr_renovated'].apply(truefalse)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there are probably half a dozen ways to achieve the same thing for this column, including pandas replace, using regex, or a loc query - one reason to keep the true\/false function generic is the same function be applied to other features:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "df['sqft_basement']=df['sqft_basement'].apply(truefalse)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so now we have a flag for ‘has a basement’ and a flag for ‘has been renovated’"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "11bf6de3-d2dd-4b82-ac2c-ec20b2ee7b00",
+        "type": "message",
+        "text": "<@U0225RJ9GQZ> let us know if this helps set you off in the right direction… try to think through the method you want to use, rather than copy +pasting someones code from kaggle",
+        "user": "U021UNQGZC4",
+        "ts": "1625489491.006600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ9GQZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let us know if this helps set you off in the right direction… try to think through the method you want to use, rather than copy +pasting someones code from kaggle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "61540d54-4baa-42bc-a646-6201b74391bd",
+        "type": "message",
+        "text": "some other ideas here <https:\/\/towardsdatascience.com\/feature-engineering-for-machine-learning-3a5e293a5114#3149>",
+        "user": "U021UNQGZC4",
+        "ts": "1625489607.007000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/bb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "some other ideas here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/feature-engineering-for-machine-learning-3a5e293a5114#3149"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca316b80-39c8-4037-af40-dae2f4c0177d",
+        "type": "message",
+        "text": "Yes, this is exactly what I meant, creating a bunch of new variables using if\/then statements and maybe splitting stuff into quartiles.. then decide what to drop\/keep. very helpful, thanks Sian and Flo",
+        "user": "U0225RJ9GQZ",
+        "ts": "1625489861.007200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xyy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, this is exactly what I meant, creating a bunch of new variables using if\/then statements and maybe splitting stuff into quartiles.. then decide what to drop\/keep. very helpful, thanks Sian and Flo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "203f75f5-cb26-4f56-be09-a984b683515b",
+        "type": "message",
+        "text": "One of the kaggle file does a lot of good data cleaning but its a bit of a rabbit hole... so I'd rather focus on using your guidance above to create a couple of new features for now and take it from there, thanks",
+        "user": "U0225RJ9GQZ",
+        "ts": "1625490083.007400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "032s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of the kaggle file does a lot of good data cleaning but its a bit of a rabbit hole... so I'd rather focus on using your guidance above to create a couple of new features for now and take it from there, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "25a66d83-0835-4f80-bdc5-0a8af5a5dd10",
+        "type": "message",
+        "text": "yes thats the problem with looking at someone elses work… you end up having to follow the rabbit hole for quite a way! haha good approach, makes sense :)",
+        "user": "U021UNQGZC4",
+        "ts": "1625490556.007600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yS4UN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes thats the problem with looking at someone elses work… you end up having to follow the rabbit hole for quite a way! haha good approach, makes sense :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "a30f81ab-f563-4f65-9295-9bb08fad8bdf",
+        "type": "message",
+        "text": "and this is great for the quantiles split, its actually an out of the box function <https:\/\/pandas.pydata.org\/pandas-docs\/stable\/reference\/api\/pandas.qcut.html>",
+        "user": "U021UNQGZC4",
+        "ts": "1625490687.007900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1625490727.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and this is great for the quantiles split, its actually an out of the box function "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pandas.pydata.org\/pandas-docs\/stable\/reference\/api\/pandas.qcut.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "c25c80fb-f4df-4874-af44-8579e5c85058",
+        "type": "message",
+        "text": "a longer explanation of the same here <https:\/\/pbpython.com\/pandas-qcut-cut.html>",
+        "user": "U021UNQGZC4",
+        "ts": "1625490745.008200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Binning Data with Pandas qcut and cut",
+                "title_link": "https:\/\/pbpython.com\/pandas-qcut-cut.html",
+                "text": "Pandas qcut and cut are both used to bin continuous values into discrete buckets or bins. This article explains the differences between the two commands and how to use each.",
+                "fallback": "Binning Data with Pandas qcut and cut",
+                "image_url": "https:\/\/pbpython.com\/images\/cutting-logs-2.jpg",
+                "from_url": "https:\/\/pbpython.com\/pandas-qcut-cut.html",
+                "image_width": 560,
+                "image_height": 250,
+                "image_bytes": 127388,
+                "service_icon": "https:\/\/pbpython.com\/apple-touch-icon.png",
+                "service_name": "pbpython.com",
+                "id": 1,
+                "original_url": "https:\/\/pbpython.com\/pandas-qcut-cut.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YAA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a longer explanation of the same here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pbpython.com\/pandas-qcut-cut.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "0aad2e02-ddea-48f5-a5eb-22fc2d49cfe8",
+        "type": "message",
+        "text": "Thanks Sian!",
+        "user": "U0225RJ9GQZ",
+        "ts": "1625491034.008500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94yr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sian!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "9d995da5-e9f2-4d43-a3e5-4b7cd26dde26",
+        "type": "message",
+        "text": "no problemo!",
+        "user": "U021UNQGZC4",
+        "ts": "1625491047.008700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UfR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no problemo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625487487.004900",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "000b1921-c8b9-473b-abbf-2016aeaf079c",
+        "type": "message",
+        "text": "<!here> remember this is the channel for asking any questions as you go through the lab. myself and the TAs are waiting for questions - if you want to do something and could use some hints on the right method, just ask!",
+        "user": "U021UNQGZC4",
+        "ts": "1625491175.010700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " remember this is the channel for asking any questions as you go through the lab. myself and the TAs are waiting for questions - if you want to do something and could use some hints on the right method, just ask!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f65ba9f1-1af1-4ffe-a926-0aee4a9eeaaa",
+        "type": "message",
+        "text": "So are we allowed to ask Sian or TAs? cuz I see no other rooms and no one in the main room! or is 1on1 forbidden for this one? :smile:",
+        "user": "U022VC1JD29",
+        "ts": "1625497374.011900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "roi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So are we allowed to ask Sian or TAs? cuz I see no other rooms and no one in the main room! or is 1on1 forbidden for this one? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497374.011900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625499193.016600",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625499193.016600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "07e22a6b-e075-404b-9120-b6ba8c7e1cf9",
+        "type": "message",
+        "text": "I can't seem to use Matplotlib and Im getting this warning message:",
+        "user": "U022VC1JD29",
+        "ts": "1625497461.012700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "puLml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't seem to use Matplotlib and Im getting this warning message:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F027TGH2T5W",
+                "created": 1625497500,
+                "timestamp": 1625497500,
+                "name": "Capture444.PNG",
+                "title": "Capture444.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U022VC1JD29",
+                "editable": false,
+                "size": 15263,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027TGH2T5W\/capture444.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027TGH2T5W\/download\/capture444.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 66,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 88,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 132,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 147,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 176,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027TGH2T5W-51658efbfc\/capture444_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 188,
+                "original_w": 1166,
+                "original_h": 214,
+                "thumb_tiny": "AwAIADDRP3ab+dO\/hooGJn60ufY0UUAGfY0Z9jRRQB\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U022VC1JD29\/F027TGH2T5W\/capture444.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027TGH2T5W-4e05f9d992",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U022VC1JD29",
+        "display_as_bot": false,
+        "ts": "1625497504.012800",
+        "thread_ts": "1625497504.012800",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1625498917.016400",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U022VC1JD29"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625497751.013200"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625497788.013400"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625497917.013600"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625498015.013800"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625498092.014000"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625498410.014300"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625498428.014500"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625498458.014900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625498498.015100"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625498645.015300"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625498710.015500"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625498716.015700"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625498795.016000"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625498831.016200"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625498917.016400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2d5f4947-4b76-4a68-84f9-deb1239d4f77",
+        "type": "message",
+        "text": "would\n`sns.heatmap(.... ax=ax)` work?",
+        "user": "U021WEXHN4E",
+        "ts": "1625497751.013200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WHoo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "sns.heatmap(.... ax=ax)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "abf6a072-cbae-44d5-9b4f-9b4aa89f3880",
+        "type": "message",
+        "text": "and then I don't think you even need the plt.show",
+        "user": "U021WEXHN4E",
+        "ts": "1625497788.013400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtbX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and then I don't think you even need the plt.show"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "fdf5c735-558f-4e2a-bd18-6fa08cc036a3",
+        "type": "message",
+        "text": "I don't get you",
+        "user": "U022VC1JD29",
+        "ts": "1625497917.013600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5yoS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't get you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "cba7f0b8-1518-40fb-a9fa-a02ef7c3b1cc",
+        "type": "message",
+        "text": "I mean you have\n`ax = sns.heatmap(...)`\n\nus the ax as an argument in sns.heatmap\n`sns.heatmap(corr_matrix, mask=mask, annot=True, ax=ax)`",
+        "user": "U021WEXHN4E",
+        "ts": "1625498015.013800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d1M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean you have\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ax = sns.heatmap(...)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nus the ax as an argument in sns.heatmap\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "sns.heatmap(corr_matrix, mask=mask, annot=True, ax=ax)",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "2c01a6ff-a041-463f-a9fb-83b880427d50",
+        "type": "message",
+        "text": "If that shouldn't work, I googled the Error:\n<https:\/\/www.programmersought.com\/article\/93623941795\/>",
+        "user": "U021WEXHN4E",
+        "ts": "1625498092.014000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Solve Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure - Programmer Sought",
+                "title_link": "https:\/\/www.programmersought.com\/article\/93623941795\/",
+                "text": "Solve Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure, Programmer Sought, the best programmer technical posts sharing site.",
+                "fallback": "Solve Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure - Programmer Sought",
+                "from_url": "https:\/\/www.programmersought.com\/article\/93623941795\/",
+                "service_icon": "https:\/\/www.programmersought.com\/favicon.ico",
+                "service_name": "programmersought.com",
+                "id": 1,
+                "original_url": "https:\/\/www.programmersought.com\/article\/93623941795\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNau",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If that shouldn't work, I googled the Error:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.programmersought.com\/article\/93623941795\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "c42754a7-ffff-4b45-8836-e21e11384ecc",
+        "type": "message",
+        "text": "I saw and tried that but still not working..all it's gives me is another popup window which gives me the creeps:",
+        "user": "U022VC1JD29",
+        "ts": "1625498410.014300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tv6WK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw and tried that but still not working..all it's gives me is another popup window which gives me the creeps:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F026X4XU4NS",
+                "created": 1625498425,
+                "timestamp": 1625498425,
+                "name": "Capture555.PNG",
+                "title": "Capture555.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U022VC1JD29",
+                "editable": false,
+                "size": 16103,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026X4XU4NS\/capture555.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026X4XU4NS\/download\/capture555.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026X4XU4NS-037656ef52\/capture555_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026X4XU4NS-037656ef52\/capture555_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026X4XU4NS-037656ef52\/capture555_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 99,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026X4XU4NS-037656ef52\/capture555_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 132,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026X4XU4NS-037656ef52\/capture555_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026X4XU4NS-037656ef52\/capture555_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 198,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026X4XU4NS-037656ef52\/capture555_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 220,
+                "original_w": 897,
+                "original_h": 247,
+                "thumb_tiny": "AwANADDSPTim\/N607HFN3H2oABu9adk96ReRzTsUAIAMU1VCE4zzzyacDxQOTQB\/\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U022VC1JD29\/F026X4XU4NS\/capture555.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026X4XU4NS-6baf2f2526",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U022VC1JD29",
+        "display_as_bot": false,
+        "ts": "1625498428.014500",
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "9d724c5d-8e20-4c3f-8fde-74cb6a69aa37",
+        "type": "message",
+        "text": "can you run a\n`%matplotlib inline` for me?",
+        "user": "U021WEXHN4E",
+        "ts": "1625498458.014900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sykBK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can you run a\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "%matplotlib inline",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "3c3228c2-dd9c-483d-aa32-c44b0dde2515",
+        "type": "message",
+        "text": "and then run that cell again, that plots?",
+        "user": "U021WEXHN4E",
+        "ts": "1625498498.015100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fv=N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and then run that cell again, that plots?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "c92d13ef-59ea-419c-9cfd-ef0ffae564b6",
+        "type": "message",
+        "text": "This one worked!",
+        "user": "U022VC1JD29",
+        "ts": "1625498645.015300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTID",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This one worked!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "94b75739-197f-4238-bed2-2460c6626990",
+        "type": "message",
+        "text": "Thanks a lot! So %matplotlib inline... Could briefly explain what happened here?.. if it's not too complicated :slightly_smiling_face:",
+        "user": "U022VC1JD29",
+        "ts": "1625498710.015500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qyEYo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks a lot! So %matplotlib inline... Could briefly explain what happened here?.. if it's not too complicated "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "240e8dca-3e3e-49ca-927a-86969fe81646",
+        "type": "message",
+        "text": "great!\nand maybe a\n`conda update --all`\nfor your environment sometime.\n\nbecause that GUI error sounds like seaborn or matplotlib could use an older version",
+        "user": "U021WEXHN4E",
+        "ts": "1625498716.015700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1625498732.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mweG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great!\nand maybe a\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "conda update --all",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nfor your environment sometime.\n\nbecause that GUI error sounds like seaborn or matplotlib could use an older version"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "22a89250-b59d-4918-bca6-4e46fea77132",
+        "type": "message",
+        "text": ":+1: Thank you very much indeed!",
+        "user": "U022VC1JD29",
+        "ts": "1625498795.016000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVl5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you very much indeed!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "76197a70-b3e7-45c1-8f2b-c2dbad29939d",
+        "type": "message",
+        "text": "`%matplotlib inline`\n\ntells jupyter notebook to display the plots directly in its frontend, and not for example open an extra pop up window like it happened in your case",
+        "user": "U021WEXHN4E",
+        "ts": "1625498831.016200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZi6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "%matplotlib inline",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ntells jupyter notebook to display the plots directly in its frontend, and not for example open an extra pop up window like it happened in your case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "47505460-743f-496b-8fe8-0fe25434c513",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U022VC1JD29",
+        "ts": "1625498917.016400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y6Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497504.012800",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "16b27c16-a325-42b1-9518-ecd85a99e82f",
+        "type": "message",
+        "text": "TAs must be in break out rooms i would guess. I am not on the zoom but am carefully watching this channel for questions\n of course you are allowed to ask questions :rolling_on_the_floor_laughing:",
+        "user": "U021UNQGZC4",
+        "ts": "1625499193.016600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HRi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TAs must be in break out rooms i would guess. I am not on the zoom but am carefully watching this channel for questions\n of course you are allowed to ask questions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625497374.011900",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "47cd2608-864b-4ccf-ac65-fb5db7b1d7c9",
+        "type": "message",
+        "text": "hi, i just submit my lab. it was very frustrating, i didn't know where to start because i still don't understand many things in this topic. my model went worst every time i tried. working together with someone else and see every step and decision would had help me. hoping to get a better understanding in the next days",
+        "user": "U0225RHK6Q1",
+        "ts": "1625511506.021800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MS0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi, i just submit my lab. it was very frustrating, i didn't know where to start because i still don't understand many things in this topic. my model went worst every time i tried. working together with someone else and see every step and decision would had help me. hoping to get a better understanding in the next days"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

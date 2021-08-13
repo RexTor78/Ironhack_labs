@@ -1,0 +1,815 @@
+[
+    {
+        "type": "message",
+        "text": "ah great - this is the main dataset as downloaded",
+        "files": [
+            {
+                "id": "F024U9JAKNH",
+                "created": 1623654137,
+                "timestamp": 1623654137,
+                "name": "Data Extract WDI.xlsx",
+                "title": "Data Extract WDI.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U0225RJ9GQZ",
+                "editable": false,
+                "size": 62677,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024U9JAKNH\/data_extract_wdi.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024U9JAKNH\/download\/data_extract_wdi.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024U9JAKNH-dd6cb7d232\/data_extract_wdi_converted.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024U9JAKNH-dd6cb7d232\/data_extract_wdi_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RJ9GQZ\/F024U9JAKNH\/data_extract_wdi.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024U9JAKNH-56bc339ea7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezQU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah great - this is the main dataset as downloaded"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0225RJ9GQZ",
+        "display_as_bot": false,
+        "ts": "1623654154.003400",
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "type": "message",
+        "text": "when i connected to this xls with tableau it read it fine - i guess you mean the PM2 targets were coming through as Abc types ? i think there are some funny characters or total lines in there. try using the data interpreter under the data connection and let that clean it up, i found the PM2,3, etc fields converted to # but they remained blue(discrete) fields. but once in the canvas i was able to move the fields from the blue area down to the green area",
+        "files": [
+            {
+                "id": "F025N0Y1YAU",
+                "created": 1623669819,
+                "timestamp": 1623669819,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 38428,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025N0Y1YAU\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025N0Y1YAU\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025N0Y1YAU-27377415a6\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025N0Y1YAU-27377415a6\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025N0Y1YAU-27377415a6\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 290,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025N0Y1YAU-27377415a6\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 386,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025N0Y1YAU-27377415a6\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 626,
+                "original_h": 504,
+                "thumb_tiny": "AwAmADC8Tz90GgMeyinZbP3ePXNOoAaCe9GTTqKAEFOzTaHQP1xQAjYHP9cU3I9\/++qcSckfL+JoBGOSo\/GgBuRz1\/76pVIz1P8A31TgQehBooAWlpKWgBuB6UYHoKWigBAAOgFLRRQAUwyYLcfdp9QN1loA\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025N0Y1YAU\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025N0Y1YAU-446cebb217",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0254BS8PV2",
+                "created": 1623669931,
+                "timestamp": 1623669931,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 102320,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0254BS8PV2\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0254BS8PV2\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254BS8PV2-e0f6199f5b\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254BS8PV2-e0f6199f5b\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254BS8PV2-e0f6199f5b\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 218,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254BS8PV2-e0f6199f5b\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 291,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254BS8PV2-e0f6199f5b\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254BS8PV2-e0f6199f5b\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 436,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254BS8PV2-e0f6199f5b\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 484,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254BS8PV2-e0f6199f5b\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 581,
+                "thumb_960_h": 960,
+                "original_w": 604,
+                "original_h": 998,
+                "thumb_tiny": "AwAwAB3RPB+tAYZwcZobrSYwR060AOJA60UNxSfjQAj0mPmHHf0\/+tTm6ikGSRyaAHH2pCD7UvTvRQA1qVTxj+lKVzSBB9fwoAU0UGigD\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0254BS8PV2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0254BS8PV2-150a2d5e96",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bi\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when i connected to this xls with tableau it read it fine - i guess you mean the PM2 targets were coming through as Abc types ? i think there are some funny characters or total lines in there. try using the data interpreter under the data connection and let that clean it up, i found the PM2,3, etc fields converted to # but they remained blue(discrete) fields. but once in the canvas i was able to move the fields from the blue area down to the green area"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "ts": "1623669933.003800",
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "type": "message",
+        "text": "its because there are defined total groups in the excel, aggregating the values - but the targets are not aggregated, so are left blank. by using the interpreter, these blanks are converted to zeros. its a bit misleading, be careful with the real zeros and the blanks",
+        "files": [
+            {
+                "id": "F024RDN1K8E",
+                "created": 1623670086,
+                "timestamp": 1623670086,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 32724,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024RDN1K8E\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024RDN1K8E\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024RDN1K8E-5dda179de3\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024RDN1K8E-5dda179de3\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024RDN1K8E-5dda179de3\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 84,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024RDN1K8E-5dda179de3\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 113,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024RDN1K8E-5dda179de3\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024RDN1K8E-5dda179de3\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 169,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024RDN1K8E-5dda179de3\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 188,
+                "original_w": 946,
+                "original_h": 222,
+                "thumb_tiny": "AwALADC+3XrQDz1xTiOaXaKAEDDuwP4UoOeho2j\/ACaOlAB+NH8VGaO9AH\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F024RDN1K8E\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024RDN1K8E-8bbe33adb9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KGD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its because there are defined total groups in the excel, aggregating the values - but the targets are not aggregated, so are left blank. by using the interpreter, these blanks are converted to zeros. its a bit misleading, be careful with the real zeros and the blanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623670160.004400",
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "3ae5ee28-c88b-4d4c-bac4-1b8496e05672",
+        "type": "message",
+        "text": "Ah, I see... thanks a lot Sian this is super helpful",
+        "user": "U0225RJ9GQZ",
+        "ts": "1623672848.004800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rj6R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, I see... thanks a lot Sian this is super helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "e089c08a-e8e8-4904-a53f-a3edf01c7cfc",
+        "type": "message",
+        "text": "no prob!",
+        "user": "U021UNQGZC4",
+        "ts": "1623673637.005000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no prob!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "type": "message",
+        "text": "Sian - I want to create a value for colors (and the legend) based on the definition in the caption for target 3 - i.e., 15 micrograms per cubic meter blue, else green (just for the color). Can I do that in the same color field or do I have to create a new variable? (I mean the relation seems a bit obvious but looks cool :grimacing:)",
+        "files": [
+            {
+                "id": "F024YHH9D0A",
+                "created": 1623676229,
+                "timestamp": 1623676229,
+                "name": "Screen Shot 2021-06-14 at 3.07.27 PM.png",
+                "title": "Screen Shot 2021-06-14 at 3.07.27 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RJ9GQZ",
+                "editable": false,
+                "size": 1292504,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024YHH9D0A\/screen_shot_2021-06-14_at_3.07.27_pm.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024YHH9D0A\/download\/screen_shot_2021-06-14_at_3.07.27_pm.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 273,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 409,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 455,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 545,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YHH9D0A-ba3d2d6c9c\/screen_shot_2021-06-14_at_3.07.27_pm_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 582,
+                "original_w": 2362,
+                "original_h": 1342,
+                "thumb_tiny": "AwAbADC+C54KAD1zStGGxkUBgW24P5U40CEUYGB2pcGgEEnFLQMTmgdKU9DSDoKACoiZGlOF+XGMnvUtFADUUjrx7U+m0ooAU9DSL90UHoaB0FAH\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RJ9GQZ\/F024YHH9D0A\/screen_shot_2021-06-14_at_3.07.27_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024YHH9D0A-5b437edff1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sian - I want to create a value for colors (and the legend) based on the definition in the caption for target 3 - i.e., 15 micrograms per cubic meter blue, else green (just for the color). Can I do that in the same color field or do I have to create a new variable? (I mean the relation seems a bit obvious but looks cool "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0225RJ9GQZ",
+        "display_as_bot": false,
+        "ts": "1623676286.005200",
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "type": "message",
+        "text": "of course - oif i have understood correctly, you want to do a calculation of over or under 15, ie a boolean - like this",
+        "files": [
+            {
+                "id": "F024HS8QQSK",
+                "created": 1623677163,
+                "timestamp": 1623677163,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 44086,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024HS8QQSK\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024HS8QQSK\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024HS8QQSK-20dcdd538c\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024HS8QQSK-20dcdd538c\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024HS8QQSK-20dcdd538c\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 143,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024HS8QQSK-20dcdd538c\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 191,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024HS8QQSK-20dcdd538c\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024HS8QQSK-20dcdd538c\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 286,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024HS8QQSK-20dcdd538c\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 318,
+                "original_w": 942,
+                "original_h": 374,
+                "thumb_tiny": "AwATADDSzSY70vPOKOfagAIyCPWo\/IH95vzqTn2o59qBNJjFhCNkFvxNPwfahc4+bH4UtAJWEHU0tIOppaBhRRRQAUUUUAf\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F024HS8QQSK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024HS8QQSK-6f70f5f1b7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1N5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "of course - oif i have understood correctly, you want to do a calculation of over or under 15, ie a boolean - like this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623677166.005600",
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "34d2e3aa-0f23-4374-afa2-5bd97285285a",
+        "type": "message",
+        "text": "the add thst to colour and set the colours as green or blue",
+        "user": "U021UNQGZC4",
+        "ts": "1623677185.006000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fn3n6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the add thst to colour and set the colours as green or blue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "type": "message",
+        "text": "running that off the pm2.5 target 3 field looks like:",
+        "files": [
+            {
+                "id": "F0254QLEZNY",
+                "created": 1623677282,
+                "timestamp": 1623677282,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 264876,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0254QLEZNY\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0254QLEZNY\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 269,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 404,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 449,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 539,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0254QLEZNY-256c38682d\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 574,
+                "original_w": 2428,
+                "original_h": 1362,
+                "thumb_tiny": "AwAaADDSpGQMACaTJ3Y28euacaAEVQoAFOxTQwJAp1ABik70tIetABUbl2kwF+UdTUlLQAxV9Rin03+KnUAFIetLSHrQB\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0254QLEZNY\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0254QLEZNY-9bf8586fcc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qUF5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "running that off the pm2.5 target 3 field looks like:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623677295.006200",
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "type": "message",
+        "text": "OR--- you could change the colour scheme to be stepped colour for green blue scale, with two steps, centre point at 15 - this would avoid creating a new variable, but you should change the data type for your pm target 3 field to be continuous, on the marks card. notice my field is green",
+        "files": [
+            {
+                "id": "F024YSE3G9H",
+                "created": 1623677424,
+                "timestamp": 1623677424,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 94602,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024YSE3G9H\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024YSE3G9H\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YSE3G9H-c4d3ed242a\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YSE3G9H-c4d3ed242a\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YSE3G9H-c4d3ed242a\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 313,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YSE3G9H-c4d3ed242a\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 417,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YSE3G9H-c4d3ed242a\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YSE3G9H-c4d3ed242a\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 625,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YSE3G9H-c4d3ed242a\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 921,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024YSE3G9H-c4d3ed242a\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 834,
+                "thumb_960_h": 960,
+                "original_w": 872,
+                "original_h": 1004,
+                "thumb_tiny": "AwAwACm6Cu7Hp70pC+v60wrLuchwAR8vGcUmyc\/8tl\/74oAl2A+v50BMev51FsuP+ey\/980bLj\/nsv8A3zQBKQB1OKXb9ah2ykJ+8Bwfm4xmp6AGHIPU\/mKUEf3v1pTjPvRgUAB574ooooAKKPxooAMnP3c+9L+FN3AHqPzpdw\/vD86AFz7UZpu4eoo3DPUfnQAtFJuHqKXI9aAP\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F024YSE3G9H\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024YSE3G9H-daaf62144c",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F025NEC9VFA",
+                "created": 1623677439,
+                "timestamp": 1623677439,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 196162,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025NEC9VFA\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025NEC9VFA\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 262,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 349,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 523,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 581,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 698,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025NEC9VFA-6826525c6c\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 744,
+                "original_w": 1640,
+                "original_h": 1192,
+                "thumb_tiny": "AwAiADDS70YzTJHCHnPPpTkYMuRnHvQA7NJnjNBOOvSkLDAz09xQA7PTPWikByuQc0ooASgUUdjigCOR8PjI6ZGR3pmMjBYLzk9qZFasCJHYb85I6gVMIsdwBjjFAhyN8oBGMcU+ij3oGJQKKBQAtMbrT6Y\/WgBy9BS0i9BS0Af\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025NEC9VFA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025NEC9VFA-3b75e3b2cd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhKTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OR--- you could change the colour scheme to be stepped colour for green blue scale, with two steps, centre point at 15 - this would avoid creating a new variable, but you should change the data type for your pm target 3 field to be continuous, on the marks card. notice my field is green"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "ts": "1623677442.006600",
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1623677470.000000"
+        },
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "98e7fb56-59f3-458f-b6d2-80dfefce89b3",
+        "type": "message",
+        "text": "oh that's beautiful, yes exactly a boolean funcion. thanks Sian!",
+        "user": "U0225RJ9GQZ",
+        "ts": "1623677512.007300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/q0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh that's beautiful, yes exactly a boolean funcion. thanks Sian!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    },
+    {
+        "client_msg_id": "c903bd19-c457-48d3-8e60-b804a77f29ca",
+        "type": "message",
+        "text": "perfect :)",
+        "user": "U021UNQGZC4",
+        "ts": "1623677549.007500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perfect :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623652648.003100",
+        "parent_user_id": "U0225RJ9GQZ"
+    }
+]

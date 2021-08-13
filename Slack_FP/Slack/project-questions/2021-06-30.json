@@ -1,0 +1,670 @@
+[
+    {
+        "client_msg_id": "8cb76685-7ca3-412b-938a-5e4d27da329a",
+        "type": "message",
+        "text": "<@U021WEXHN4E> I need your wisdom",
+        "user": "U0225RJ6SNM",
+        "ts": "1625042296.021800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXcZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I need your wisdom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625042296.021800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625042346.021900",
+        "reply_users": [
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625042346.021900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "03f4767e-16fc-440f-babe-2fda66f2b951",
+        "type": "message",
+        "text": "room 7",
+        "user": "U021WEXHN4E",
+        "ts": "1625042346.021900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NjQJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "room 7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625042296.021800",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "14968097-1d84-4be5-bfda-2eb20bae6243",
+        "type": "message",
+        "text": "<@U021UNQGZC4> i have this message, not an error, but i'd like to know what i'm doing wrong",
+        "user": "U021ZC6L676",
+        "ts": "1625055716.023000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SXRpt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i have this message, not an error, but i'd like to know what i'm doing wrong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7230e6c-71f4-4ddf-9108-6caaf2d440a5",
+        "type": "message",
+        "text": "A value is trying to be set on a copy of a slice from a DataFrame\n\nSee the caveats in the documentation: <https:\/\/pandas.pydata.org\/pandas-docs\/stable\/user_guide\/indexing.html#returning-a-view-versus-a-copy>\n  return super().drop(",
+        "user": "U021ZC6L676",
+        "ts": "1625055718.023200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kzn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A value is trying to be set on a copy of a slice from a DataFrame\n\nSee the caveats in the documentation: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pandas.pydata.org\/pandas-docs\/stable\/user_guide\/indexing.html#returning-a-view-versus-a-copy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n  return super().drop("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625055718.023200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625056267.024400",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625056267.024400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6a778fb0-07ac-4768-9533-fddeb77894ae",
+        "type": "message",
+        "text": "tehre is a substantial explanation on the second post in this thread <https:\/\/stackoverflow.com\/questions\/20625582\/how-to-deal-with-settingwithcopywarning-in-pandas> which you can work through… however in general they suggest to use loc for selecting a subset of columns or row",
+        "user": "U021UNQGZC4",
+        "ts": "1625056267.024400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LM5Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tehre is a substantial explanation on the second post in this thread "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/20625582\/how-to-deal-with-settingwithcopywarning-in-pandas"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which you can work through… however in general they suggest to use loc for selecting a subset of columns or row"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625055718.023200",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "5fd2542a-c0c9-4d1f-8e7c-9ad3482eca5a",
+        "type": "message",
+        "text": "hello <@U021UNQGZC4>! I need your wisdom in tableau, I have a table and more or less an idea of the visualizations I'd like to make, but I'd like you to give me your advice and also some hints to do them, I feel a little bit lost with tableau right now",
+        "user": "U0225RJ6SNM",
+        "ts": "1625056928.027200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "scaa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I need your wisdom in tableau, I have a table and more or less an idea of the visualizations I'd like to make, but I'd like you to give me your advice and also some hints to do them, I feel a little bit lost with tableau right now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625056928.027200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1625057430.027600",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625057376.027400"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1625057430.027600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aef9ace9-9aff-4b65-9daa-cf1f90c057ea",
+        "type": "message",
+        "text": "sure, can you give me maybe 30 mins to finish the current problems im working on ? then i will be with you",
+        "user": "U021UNQGZC4",
+        "ts": "1625057376.027400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure, can you give me maybe 30 mins to finish the current problems im working on ? then i will be with you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625056928.027200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "fab77aac-8855-4e99-bc00-de7e77055f70",
+        "type": "message",
+        "text": "perfect!",
+        "user": "U0225RJ6SNM",
+        "ts": "1625057430.027600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJYwK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perfect!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625056928.027200",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "d4ee628f-4a74-44e4-a966-3bbcceed5b83",
+        "type": "message",
+        "text": "<@U021UNQGZC4> I'm stuck with what we talked about this morning's stand up call, when you are free it would be helpful to meet, please! :)",
+        "user": "U021TDMEH27",
+        "ts": "1625058625.029500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "5e53fc88cd04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085183476640_5e53fc88cd04a1cf4cb8_72.jpg",
+            "first_name": "Ángela",
+            "real_name": "Ángela Sánchez",
+            "display_name": "Angela",
+            "team": "T021KE79B9B",
+            "name": "angela.s.ferriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ow=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm stuck with what we talked about this morning's stand up call, when you are free it would be helpful to meet, please! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625058625.029500",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1625062194.030500",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021TDMEH27"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625059809.029700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625059818.029900"
+            },
+            {
+                "user": "U021TDMEH27",
+                "ts": "1625060055.030100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625062189.030300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625062194.030500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e21b71b5-58dc-4044-88e5-2121e4af8ab0",
+        "type": "message",
+        "text": "absolutely, let me finish with julia!",
+        "user": "U021UNQGZC4",
+        "ts": "1625059809.029700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "absolutely, let me finish with julia!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625058625.029500",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "client_msg_id": "d85bd0c7-a7b6-4fc7-a383-a7037ff822a0",
+        "type": "message",
+        "text": "i will tell you when im free",
+        "user": "U021UNQGZC4",
+        "ts": "1625059818.029900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ca3V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i will tell you when im free"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625058625.029500",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "client_msg_id": "ba0b8c7c-4bee-4773-b0fb-7a3b38313bca",
+        "type": "message",
+        "text": "Of course, no problem!",
+        "user": "U021TDMEH27",
+        "ts": "1625060055.030100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "5e53fc88cd04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085183476640_5e53fc88cd04a1cf4cb8_72.jpg",
+            "first_name": "Ángela",
+            "real_name": "Ángela Sánchez",
+            "display_name": "Angela",
+            "team": "T021KE79B9B",
+            "name": "angela.s.ferriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vdZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Of course, no problem!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625058625.029500",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "client_msg_id": "28666e07-8a00-4f19-a701-b7da4416332c",
+        "type": "message",
+        "text": "free now but struggling to understand the milan data - can you help!",
+        "user": "U021UNQGZC4",
+        "ts": "1625062189.030300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "free now but struggling to understand the milan data - can you help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625058625.029500",
+        "parent_user_id": "U021TDMEH27"
+    },
+    {
+        "client_msg_id": "7a913dca-feb8-4251-b433-83aaa0423747",
+        "type": "message",
+        "text": "in room 10",
+        "user": "U021UNQGZC4",
+        "ts": "1625062194.030500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wfc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in room 10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625058625.029500",
+        "parent_user_id": "U021TDMEH27"
+    }
+]

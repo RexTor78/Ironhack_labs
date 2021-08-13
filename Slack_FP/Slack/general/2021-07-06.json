@@ -1,0 +1,2668 @@
+[
+    {
+        "client_msg_id": "3fd14985-7e47-4a7d-bd19-e11e621c0178",
+        "type": "message",
+        "text": "did the career hack overrun <!channel> - as we are waiting for you on the classroom",
+        "user": "U021UNQGZC4",
+        "ts": "1625558529.021300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C1kB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did the career hack overrun "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - as we are waiting for you on the classroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "667337e2-ad17-4132-9d07-b1f17ca750a4",
+        "type": "message",
+        "text": "We are still in the class",
+        "user": "U0225RGM941",
+        "ts": "1625558571.021600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MpX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are still in the class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30661815-ceaf-4d0e-b222-43460e1f5696",
+        "type": "message",
+        "text": "May take more 5 minutes",
+        "user": "U0225RGM941",
+        "ts": "1625558586.021900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lt2Ki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "May take more 5 minutes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a994cbd4-9918-4007-b5d3-9b2a3ee9c8ce",
+        "type": "message",
+        "text": "lets delay the start of class until 10:15 <!channel> - i wasnt aware it was overrunning, thanks for your patience",
+        "user": "U021UNQGZC4",
+        "ts": "1625558768.022600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fF9s4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lets delay the start of class until 10:15 "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - i wasnt aware it was overrunning, thanks for your patience"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "notebook so far - we imported the data, dropped nulls, converted categories to numbers, and ran the model\n• next step - accuracy, how to pick K \n• and lets also run a decision tree  ",
+        "files": [
+            {
+                "id": "F02767YGH8S",
+                "created": 1625569275,
+                "timestamp": 1625569275,
+                "name": "credit_card_prediction_wip.ipynb",
+                "title": "credit_card_prediction_wip.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 64898,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02767YGH8S\/credit_card_prediction_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02767YGH8S\/download\/credit_card_prediction_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F02767YGH8S\/credit_card_prediction_wip.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02767YGH8S-94dc1da698",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tp8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "notebook so far - we imported the data, dropped nulls, converted categories to numbers, and ran the model\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "next step - accuracy, how to pick K "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "and lets also run a decision tree  "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625569322.023500"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F027CPWN47N",
+                "created": 1625575592,
+                "timestamp": 1625575592,
+                "name": "credit_card_prediction_wip.ipynb",
+                "title": "credit_card_prediction_wip.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 105595,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027CPWN47N\/credit_card_prediction_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027CPWN47N\/download\/credit_card_prediction_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027CPWN47N\/credit_card_prediction_wip.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027CPWN47N-c14ef593a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625575599.023800"
+    },
+    {
+        "type": "message",
+        "text": "last version of class workbook here and also on notion calendar",
+        "files": [
+            {
+                "id": "F0270422TT8",
+                "created": 1625579294,
+                "timestamp": 1625579294,
+                "name": "credit_card_prediction_wip.ipynb",
+                "title": "credit_card_prediction_wip.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 200074,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0270422TT8\/credit_card_prediction_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0270422TT8\/download\/credit_card_prediction_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0270422TT8\/credit_card_prediction_wip.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0270422TT8-c43ba95db6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "last version of class workbook here and also on notion calendar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625579298.024500"
+    },
+    {
+        "type": "message",
+        "text": "another nice KNN data set is the penguins - its also kind of cute :penguin:\n<https:\/\/www.kaggle.com\/parulpandey\/penguin-dataset-the-new-iris>",
+        "files": [
+            {
+                "id": "F0273SG9XCM",
+                "created": 1625579780,
+                "timestamp": 1625579780,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 232362,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0273SG9XCM\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0273SG9XCM\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273SG9XCM-2976becb37\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273SG9XCM-2976becb37\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273SG9XCM-2976becb37\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 206,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273SG9XCM-2976becb37\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 275,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273SG9XCM-2976becb37\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273SG9XCM-2976becb37\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 412,
+                "original_w": 721,
+                "original_h": 413,
+                "thumb_tiny": "AwAbADDRckDIIHqTUMNwryFTIPQCkv32W5IFVocfY4mBO5SQeORTQyzdTCMgdW9M44ptvdK3BBGeetNeAXM+JG7ZZehprwxW7nDY4yFOc0mStyd5FLggnryc9KnUgqCDketUktBMS7Ow\/uj096sW5blSAAvapTfU0aXQgvoWZDsBYt156U2OGQxqoQqTy31wB\/Sr9FXcm5RiP2e4bzcgEYBPNMuHEswMfzDHpV5okZtzKCfU08ADoKRNitDJsLCQ4PvT4gTKzg\/Kf1qUqrdQDS1Ni2z\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0273SG9XCM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0273SG9XCM-7decff35a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WjOI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "another nice KNN data set is the penguins - its also kind of cute "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "penguin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/parulpandey\/penguin-dataset-the-new-iris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625579783.025300",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U021ZC6H9GC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2db6028-7410-49b3-9221-34a97faa4728",
+        "type": "message",
+        "text": "ie. can you predict which of these penguins each row is based on their other characteristics\ntry KNN, decision tree, or Logistic regression (if youre not into :wine_glass:, :moneybag: or :bouquet:)",
+        "user": "U021UNQGZC4",
+        "ts": "1625579811.026000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1625579916.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9DAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ie. can you predict which of these penguins each row is based on their other characteristics\ntry KNN, decision tree, or Logistic regression (if youre not into "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wine_glass"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bouquet"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1625582086.027400",
+        "user": "U021UNQGZC4",
+        "text": "<@U021UNQGZC4> set the channel topic: <https:\/\/zoom.us\/j\/877626245>\nPw: 986565",
+        "topic": "<https:\/\/zoom.us\/j\/877626245>\nPw: 986565"
+    },
+    {
+        "type": "message",
+        "text": "i have this permission error when trying to read wine and iris files, but no problem with creditcard, does anybody know what can i do?",
+        "files": [
+            {
+                "id": "F02779HG08K",
+                "created": 1625582015,
+                "timestamp": 1625582015,
+                "name": "creditcard.png",
+                "title": "creditcard.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RHK6Q1",
+                "editable": false,
+                "size": 48129,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02779HG08K\/creditcard.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02779HG08K\/download\/creditcard.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 228,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 304,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 457,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 507,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 609,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779HG08K-f8b3896d08\/creditcard_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 649,
+                "original_w": 1173,
+                "original_h": 744,
+                "thumb_tiny": "AwAeADDRPAzSDmnHpSfh+tAC0Umfb9aOfT9aAFopMkdv1peaAF7UlJmj8BQAh\/rTu1J+AooAU0UmaM0Af\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RHK6Q1\/F02779HG08K\/creditcard.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02779HG08K-d9bd228e46",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02742U0ZRT",
+                "created": 1625582018,
+                "timestamp": 1625582018,
+                "name": "wine error.png",
+                "title": "wine error.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RHK6Q1",
+                "editable": false,
+                "size": 87556,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02742U0ZRT\/wine_error.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02742U0ZRT\/download\/wine_error.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02742U0ZRT-4a38eda564\/wine_error_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02742U0ZRT-4a38eda564\/wine_error_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02742U0ZRT-4a38eda564\/wine_error_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 349,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02742U0ZRT-4a38eda564\/wine_error_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 465,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02742U0ZRT-4a38eda564\/wine_error_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02742U0ZRT-4a38eda564\/wine_error_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 698,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02742U0ZRT-4a38eda564\/wine_error_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 775,
+                "original_w": 836,
+                "original_h": 810,
+                "thumb_tiny": "AwAuADDSbpTc\/wCc05ulN2j1oAXI9aMj1oAHpS4X0oAMr60ZHrRtHpRtHpQAHpSEc9qVulNPX0oAXn0FKM+1IB\/nNLigBaKKKAEbpScE9aU8igjNACAD1NLge9HPtS0AIOPWlzRmjNAH\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RHK6Q1\/F02742U0ZRT\/wine_error.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02742U0ZRT-be25559e7f",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02779J02QK",
+                "created": 1625582020,
+                "timestamp": 1625582020,
+                "name": "iris error.png",
+                "title": "iris error.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RHK6Q1",
+                "editable": false,
+                "size": 63644,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02779J02QK\/iris_error.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02779J02QK\/download\/iris_error.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779J02QK-4a10c96109\/iris_error_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779J02QK-4a10c96109\/iris_error_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779J02QK-4a10c96109\/iris_error_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 354,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779J02QK-4a10c96109\/iris_error_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 471,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779J02QK-4a10c96109\/iris_error_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779J02QK-4a10c96109\/iris_error_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 707,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02779J02QK-4a10c96109\/iris_error_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 786,
+                "original_w": 836,
+                "original_h": 821,
+                "thumb_tiny": "AwAvADDRbpSAinN0pu33oAXI9RRkeooAFGFoAXI9aMj1o2j0o2j0oAD0ppHNObpTT19KAF59KUZpAKXFAC0UUUAI3SmnBPUU40hGaAAD3ox70uaXNACA+9LkUZozQB\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RHK6Q1\/F02779J02QK\/iris_error.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02779J02QK-117962a7b7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sl2Vc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have this permission error when trying to read wine and iris files, but no problem with creditcard, does anybody know what can i do?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0225RHK6Q1",
+        "ts": "1625582106.027500",
+        "thread_ts": "1625582106.027500",
+        "reply_count": 14,
+        "reply_users_count": 4,
+        "latest_reply": "1625583677.031100",
+        "reply_users": [
+            "U021NHS652N",
+            "U0225RHK6Q1",
+            "U0225RGM941",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1625582171.028200"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625582266.028400"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625582276.028600"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1625582282.028800"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625582287.029000"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625582306.029300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625582386.029500"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625582394.029700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625582405.029900"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1625583332.030100"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1625583353.030500"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625583522.030700"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625583539.030900"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1625583677.031100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e0f4308d-5464-4fed-afd2-6764b6f17224",
+        "type": "message",
+        "text": "Let me check if I can do it",
+        "user": "U021NHS652N",
+        "ts": "1625582171.028200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4b2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me check if I can do it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "7b20af78-123d-4ca6-8156-0366b7c7f6ed",
+        "type": "message",
+        "text": "did you download the file and uncompress them?",
+        "user": "U021NHS652N",
+        "ts": "1625582266.028400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QrQH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you download the file and uncompress them?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "f5e67f33-01ff-4469-bbde-2123f87462a0",
+        "type": "message",
+        "text": "I had no problem in reading them",
+        "user": "U021NHS652N",
+        "ts": "1625582276.028600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vzk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had no problem in reading them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "f50dbf29-9a5c-4685-845e-f86a203ce11d",
+        "type": "message",
+        "text": "Yes i did",
+        "user": "U0225RHK6Q1",
+        "ts": "1625582282.028800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6KPf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes i did"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "77a459b4-f0c3-4b36-8983-1eca5a077f04",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/14083311\/permission-denied-when-trying-to-import-a-csv-file-from-pgadmin>",
+        "user": "U0225RGM941",
+        "ts": "1625582287.029000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "Permission denied when trying to import a CSV file from PGAdmin",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/14083311\/permission-denied-when-trying-to-import-a-csv-file-from-pgadmin",
+                "text": "I'm using PGAdmin 1.14.3. When I try to execute an import command: COPY grad(country_code, postal_code, place_name, admin_name1, admin_code1, admin_name2, admin_code2, admin_name3, admin_code3,",
+                "fallback": "Stack Overflow: Permission denied when trying to import a CSV file from PGAdmin",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/14083311\/permission-denied-when-trying-to-import-a-csv-file-from-pgadmin",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/14083311\/permission-denied-when-trying-to-import-a-csv-file-from-pgadmin"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ss5S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/14083311\/permission-denied-when-trying-to-import-a-csv-file-from-pgadmin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "91309200-b38c-451c-a33b-e66e6e77ee03",
+        "type": "message",
+        "text": "this link may help. But this one is for windows machine",
+        "user": "U0225RGM941",
+        "ts": "1625582306.029300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this link may help. But this one is for windows machine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "9d1c2c57-de9f-468b-9a24-f6b134a0491b",
+        "type": "message",
+        "text": "<@U0225RHK6Q1> can you ensure the file is closed first, before trying to read it with pandas?",
+        "user": "U021UNQGZC4",
+        "ts": "1625582386.029500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9GxWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you ensure the file is closed first, before trying to read it with pandas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "9ce4e6fa-1835-4c8a-9eb3-8d534928e01f",
+        "type": "message",
+        "text": "did you open the files with other software?",
+        "user": "U021NHS652N",
+        "ts": "1625582394.029700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNtlj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you open the files with other software?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "ded1817d-b3e0-4605-b8e5-446f0fa2ad73",
+        "type": "message",
+        "text": "i also cannot replicate that error",
+        "user": "U021UNQGZC4",
+        "ts": "1625582405.029900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFjg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i also cannot replicate that error"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "type": "message",
+        "text": "thanks i could read them, they were open and i didn't notice, but wine file looks like this now (iris looks well):",
+        "files": [
+            {
+                "id": "F02776DBQEN",
+                "created": 1625583235,
+                "timestamp": 1625583235,
+                "name": "wine.png",
+                "title": "wine.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RHK6Q1",
+                "editable": false,
+                "size": 35969,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02776DBQEN\/wine.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02776DBQEN\/download\/wine.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 214,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 285,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 427,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 475,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 570,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02776DBQEN-b0a623688b\/wine_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 608,
+                "original_w": 1173,
+                "original_h": 696,
+                "thumb_tiny": "AwAcADDRPAzSA57049KTn0\/WgBaKOfT9aOfT9aACikLY7UA5oAd2opuaM0AOopuaM0AIetKvejNGaAP\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RHK6Q1\/F02776DBQEN\/wine.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02776DBQEN-5f8dfbdcd6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1p5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks i could read them, they were open and i didn't notice, but wine file looks like this now (iris looks well):"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0225RHK6Q1",
+        "display_as_bot": false,
+        "ts": "1625583332.030100",
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "d605c0d3-e5c4-4652-8645-e6700e430f31",
+        "type": "message",
+        "text": "i would like to work with the wine one",
+        "user": "U0225RHK6Q1",
+        "ts": "1625583353.030500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H63",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i would like to work with the wine one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "cc37d078-1de8-4b46-b47b-bb253cc7aebb",
+        "type": "message",
+        "text": "As you can see, in this case the columns are not separated by commas, but for ;\nSo you need to write an argument in the `read_csv` function `sep = \";\"` to specify how you want to separate the columns",
+        "user": "U021NHS652N",
+        "ts": "1625583522.030700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LrmwQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As you can see, in this case the columns are not separated by commas, but for ;\nSo you need to write an argument in the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "read_csv",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " function "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sep = \";\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to specify how you want to separate the columns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "6387783b-eaa6-4de5-91d0-a469fb266d0c",
+        "type": "message",
+        "text": "```pd.read_csv(\"winequality-red.csv\", sep=\";\")```",
+        "user": "U021NHS652N",
+        "ts": "1625583539.030900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/Fi1",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pd.read_csv(\"winequality-red.csv\", sep=\";\")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1"
+    },
+    {
+        "client_msg_id": "b61dd6eb-5d77-4db6-b15e-85d513aea587",
+        "type": "message",
+        "text": "oh thank you, wonderful now",
+        "user": "U0225RHK6Q1",
+        "ts": "1625583677.031100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1mhvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh thank you, wonderful now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625582106.027500",
+        "parent_user_id": "U0225RHK6Q1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9408404d-ec41-4b24-857a-0d850e5cb7be",
+        "type": "message",
+        "text": "i'm doing a second iteration of wine quality prediction. i made low, med and high buckets according to quality number, didn't get much of a result, 0.53. now in the second it. i used smote to synthesise the train part, but now these 3 quality buckets are not accurate anymore, right? what now?",
+        "user": "U021ZC6L676",
+        "ts": "1625583982.034300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P8y9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm doing a second iteration of wine quality prediction. i made low, med and high buckets according to quality number, didn't get much of a result, 0.53. now in the second it. i used smote to synthesise the train part, but now these 3 quality buckets are not accurate anymore, right? what now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "reply_count": 20,
+        "reply_users_count": 4,
+        "latest_reply": "1625607961.042300",
+        "reply_users": [
+            "U021NHS652N",
+            "U021ZC6L676",
+            "U021UNQGZC4",
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1625584199.034700"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625584261.034900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1625584269.035100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1625584292.035300"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625584400.035500"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625584419.035700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625584473.035900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1625584695.036100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1625585110.036300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1625585179.036500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625585213.036700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1625585486.036900"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625586312.037500"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625586327.037700"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625586347.037900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625586348.038100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625586377.038300"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625586534.038500"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1625607713.042100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1625607961.042300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1bafa1a8-a7c7-4615-b6b3-b2822fe62ba0",
+        "type": "message",
+        "text": "smote the whole df and then split?",
+        "user": "U021ZC6L676",
+        "ts": "1625584020.034600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "esw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "smote the whole df and then split?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625584020.034600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1625585617.037300",
+        "reply_users": [
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625585560.037100"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625585617.037300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "64a1e71e-8248-4353-87ac-3cefc3f9ad4b",
+        "type": "message",
+        "text": "I get that you had an imbalance dataset and you tried to balance it, is that right? In general when you oversample, it increases the accuracy on the minority class but can do it by decreasing the accuracy on the other classes. So it is always a trade-off",
+        "user": "U021NHS652N",
+        "ts": "1625584199.034700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iw5D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I get that you had an imbalance dataset and you tried to balance it, is that right? In general when you oversample, it increases the accuracy on the minority class but can do it by decreasing the accuracy on the other classes. So it is always a trade-off"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "aa532c31-d1f4-4ff0-887b-23967e0db3ab",
+        "type": "message",
+        "text": "I would try to improve the model by tuning some other parameters instead of smoting the whole df. I would consider it “fairer”",
+        "user": "U021NHS652N",
+        "ts": "1625584261.034900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would try to improve the model by tuning some other parameters instead of smoting the whole df. I would consider it “fairer”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "ecff05c3-22cc-406f-b878-5885ecd38f0c",
+        "type": "message",
+        "text": "yes, it's pretty imbalanced, most of it has a mid value",
+        "user": "U021ZC6L676",
+        "ts": "1625584269.035100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CxB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, it's pretty imbalanced, most of it has a mid value"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "143c2eef-3900-412b-aa0c-43d82371c5ac",
+        "type": "message",
+        "text": "so i'm predicting the mid value ok, but everything else 0",
+        "user": "U021ZC6L676",
+        "ts": "1625584292.035300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so i'm predicting the mid value ok, but everything else 0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "39f70dd3-d472-4b4a-afa6-02c20d24e58d",
+        "type": "message",
+        "text": "yes, that’s what happens.. if you are still getting this unbalanced prediction after the oversampling I would go to touch the k in the case of the KNN (<https:\/\/scikit-learn.org\/stable\/modules\/generated\/sklearn.neighbors.KNeighborsClassifier.html>) or some other parameters in the decision tree (<https:\/\/scikit-learn.org\/stable\/modules\/generated\/sklearn.tree.DecisionTreeClassifier.html>)",
+        "user": "U021NHS652N",
+        "ts": "1625584400.035500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, that’s what happens.. if you are still getting this unbalanced prediction after the oversampling I would go to touch the k in the case of the KNN ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scikit-learn.org\/stable\/modules\/generated\/sklearn.neighbors.KNeighborsClassifier.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") or some other parameters in the decision tree ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scikit-learn.org\/stable\/modules\/generated\/sklearn.tree.DecisionTreeClassifier.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "961ca6f1-6d8a-436a-94f3-09e7342e6d19",
+        "type": "message",
+        "text": "of course you can always oversample the whole dataset, but maybe it can be the next iteration",
+        "user": "U021NHS652N",
+        "ts": "1625584419.035700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "utLwc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "of course you can always oversample the whole dataset, but maybe it can be the next iteration"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "6ddb3cce-109f-46a9-a38f-1e2d324085ab",
+        "type": "message",
+        "text": "or try oversampling just the training dataset, and leave the test set as is",
+        "user": "U021UNQGZC4",
+        "ts": "1625584473.035900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MSPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or try oversampling just the training dataset, and leave the test set as is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "15b7c33e-990c-492a-897d-041f3e78a0bc",
+        "type": "message",
+        "text": "tried, doesn't bring much",
+        "user": "U021ZC6L676",
+        "ts": "1625584695.036100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tried, doesn't bring much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "b5a031d5-3427-46ca-a9c4-dba44ec8f661",
+        "type": "message",
+        "text": "i also get an error - Expected n_neighbors &lt;= n_samples, but n_samples = 5, n_neighbors = 14. but why is there only 5 samples?",
+        "user": "U021ZC6L676",
+        "ts": "1625585110.036300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Z4Ev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i also get an error - Expected n_neighbors <= n_samples, but n_samples = 5, n_neighbors = 14. but why is there only 5 samples?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "f8f32572-d848-4b69-8136-ef1e71cb6a15",
+        "type": "message",
+        "text": "when i make n_neighbors=4 it works, but i'm not sure how that works",
+        "user": "U021ZC6L676",
+        "ts": "1625585179.036500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FjtA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when i make n_neighbors=4 it works, but i'm not sure how that works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "269ad669-a47f-4bbb-b43f-6aa136a98f56",
+        "type": "message",
+        "text": "this looks like an error you need a 121 run through with a TA for - harder to support via slack chat. <@U021WEXHN4E> areyou available to help?",
+        "user": "U021UNQGZC4",
+        "ts": "1625585213.036700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXm28",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this looks like an error you need a 121 run through with a TA for - harder to support via slack chat. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " areyou available to help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "dadb809b-e0af-4b6d-aa1c-54c40c62f06f",
+        "type": "message",
+        "text": "one other thing: are we suppose to predict the quality label or low, mid, high?",
+        "user": "U021ZC6L676",
+        "ts": "1625585486.036900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QATL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "one other thing: are we suppose to predict the quality label or low, mid, high?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "661060b2-de0e-4586-b972-b41e3390180a",
+        "type": "message",
+        "text": "No, train-test-split first, then SMOTE on the training data, train the model with that, and validate it with the unsampled test data",
+        "user": "U021WEXHN4E",
+        "ts": "1625585560.037100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ro3q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, train-test-split first, then SMOTE on the training data, train the model with that, and validate it with the unsampled test data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625584020.034600",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "45bb8e91-a186-42c3-b38e-e38ead04c62f",
+        "type": "message",
+        "text": "you at best don't want to touch the test data before you do predictions with them :wink:",
+        "user": "U021WEXHN4E",
+        "ts": "1625585617.037300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p4\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you at best don't want to touch the test data before you do predictions with them "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625584020.034600",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "d0358f78-5b1d-43bb-b380-c89b6742f716",
+        "type": "message",
+        "text": "in the context of today’s class you can predict the class based on the quality (low, mid, high), but if you want you can also try a regression approach an predict directly the quality",
+        "user": "U021NHS652N",
+        "ts": "1625586312.037500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZIZVe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in the context of today’s class you can predict the class based on the quality (low, mid, high), but if you want you can also try a regression approach an predict directly the quality"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8772ec2-5c3e-4e76-8f41-a6ead746c575",
+        "type": "message",
+        "text": "there is not just one way to solve the problem",
+        "user": "U021NHS652N",
+        "ts": "1625586327.037700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wP=7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there is not just one way to solve the problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "2dd98cc4-47cf-473f-840e-db2d36a282ff",
+        "type": "message",
+        "text": "if you need we can look at the error in a breakout Uros, just tell me",
+        "user": "U021NHS652N",
+        "ts": "1625586347.037900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ai\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you need we can look at the error in a breakout Uros, just tell me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "7aed5f14-47f8-461f-bc25-ee976f212047",
+        "type": "message",
+        "text": "+1\nKNN works both as a Regressor and as a Classifier",
+        "user": "U021WEXHN4E",
+        "ts": "1625586348.038100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8PLnq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1\nKNN works both as a Regressor and as a Classifier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "b957718c-5d52-4127-ad7c-9b29af76dd23",
+        "type": "message",
+        "text": "... needs to imported differently though, from sklearn of course",
+        "user": "U021WEXHN4E",
+        "ts": "1625586377.038300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... needs to imported differently though, from sklearn of course"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "fda1f82d-0e5e-4819-910b-0cab122366bd",
+        "type": "message",
+        "text": "but looking at the dataset, it's more designed for a model that predicts the class (multilabel, because we have 3 classes), either in a supervised or unsupervised (clustering e.g. - maybe we do it in week8 or so, depending the schedule) fashion",
+        "user": "U021WEXHN4E",
+        "ts": "1625586534.038500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/zTE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but looking at the dataset, it's more designed for a model that predicts the class (multilabel, because we have 3 classes), either in a supervised or unsupervised (clustering e.g. - maybe we do it in week8 or so, depending the schedule) fashion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "type": "message",
+        "text": "I have got 1.0 accuracy score for the balanced Iris dataset. Followed all the steps which Sian taught, instead normalizer feature scaling used standard scalar and given 20% data for testing, the k value is 5.",
+        "files": [
+            {
+                "id": "F027LR6UYQH",
+                "created": 1625596070,
+                "timestamp": 1625596070,
+                "name": "conf.png",
+                "title": "conf.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RGM941",
+                "editable": false,
+                "size": 48751,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027LR6UYQH\/conf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027LR6UYQH\/download\/conf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027LR6UYQH-4db09eb6b2\/conf_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027LR6UYQH-4db09eb6b2\/conf_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027LR6UYQH-4db09eb6b2\/conf_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 314,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027LR6UYQH-4db09eb6b2\/conf_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 419,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027LR6UYQH-4db09eb6b2\/conf_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027LR6UYQH-4db09eb6b2\/conf_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 628,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027LR6UYQH-4db09eb6b2\/conf_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 698,
+                "original_w": 828,
+                "original_h": 722,
+                "thumb_tiny": "AwApADC+2C3I5+tGPY\/99U4jOcUuB6CgBm32P\/fRpwyBjH607AooATJozS0UANIOep\/OmFlHWQD\/AIFUhIrKdvOnaEDBLEZoDXoaHmx\/89V\/76FPX1Bz+NY1xAYGALBsjPSte3P7sewH8hRo1dDasSc+lHPpS0UCA57VjyQ3AuHdEcHcSCBWxTX+6aY07GfFE8ikzoWIPG6r0IKhhjHPH5Clj6Gn1NhBRRRTA\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RGM941\/F027LR6UYQH\/conf.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027LR6UYQH-39c4c9d741",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rjH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have got 1.0 accuracy score for the balanced Iris dataset. Followed all the steps which Sian taught, instead normalizer feature scaling used standard scalar and given 20% data for testing, the k value is 5."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0225RGM941",
+        "display_as_bot": false,
+        "ts": "1625596480.041700",
+        "thread_ts": "1625596480.041700",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1625671642.056900",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RGM941"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625641685.043100"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625645705.043400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625658762.051400"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625659097.051600"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625659138.052200"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625659161.052600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625659182.053000"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625659236.053400"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625668286.055300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625668402.055900"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625668480.056100"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625668574.056300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625671335.056500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625671586.056700"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1625671642.056900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "74e8b9ab-0b81-4bbd-b9ca-469d805b54b4",
+        "type": "message",
+        "text": "ok, that works completely different, i was trying all the time to predict the quality :slightly_smiling_face:",
+        "user": "U021ZC6L676",
+        "ts": "1625607713.042100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, that works completely different, i was trying all the time to predict the quality "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F027F33JMU4",
+                "created": 1625607955,
+                "timestamp": 1625607955,
+                "name": "Screenshot 2021-07-06 at 23.45.03.png",
+                "title": "Screenshot 2021-07-06 at 23.45.03.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6L676",
+                "editable": false,
+                "size": 419823,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027F33JMU4\/screenshot_2021-07-06_at_23.45.03.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027F33JMU4\/download\/screenshot_2021-07-06_at_23.45.03.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027F33JMU4-3c7ca3986a\/screenshot_2021-07-06_at_23.45.03_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "original_w": 2880,
+                "original_h": 1800,
+                "thumb_tiny": "AwAeADCnnk5zSZ+tOHOeRS5+lADM0Z9zT\/8ACkoAZn3NLn3NOooAUJlN3XLbcAe1TW9r55YZ2leoIoiVTGQWZSH3AgZ7VYt3SFmYs7FuuQP8adh2G\/2Yf+eg\/Kj+zD\/z0H5Va+1x+jflR9rj9G\/KiwWKn9lt\/wA9B+VNfTikbN5gO0Z6Vd+1x+jflTJrlGhdQGyVIosKx\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6L676\/F027F33JMU4\/screenshot_2021-07-06_at_23.45.03.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027F33JMU4-b9ce20c586",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021ZC6L676",
+        "display_as_bot": false,
+        "ts": "1625607961.042300",
+        "thread_ts": "1625583982.034300",
+        "parent_user_id": "U021ZC6L676"
+    }
+]

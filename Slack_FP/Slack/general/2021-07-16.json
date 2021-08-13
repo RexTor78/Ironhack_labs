@@ -1,0 +1,466 @@
+[
+    {
+        "client_msg_id": "9042f91d-6448-4ec7-99d2-5f8da52b653e",
+        "type": "message",
+        "text": "<!channel>,\nthis is the miro board for our retro in a few minutes!\n<https:\/\/miro.com\/welcomeonboard\/bXRwWTE2WEV1N0VIV3BoRzVvUm0wbkpoZlJHUUtuZWpnckk2dVBUYlJHME9vdDQ5aTYwVVhseFdWRW5hdXJJQ3wzMDc0NDU3MzUxMTA3NDQ5Mzkw>",
+        "user": "U021WEXHN4E",
+        "ts": "1626421598.067000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2YW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nthis is the miro board for our retro in a few minutes!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miro.com\/welcomeonboard\/bXRwWTE2WEV1N0VIV3BoRzVvUm0wbkpoZlJHUUtuZWpnckk2dVBUYlJHME9vdDQ5aTYwVVhseFdWRW5hdXJJQ3wzMDc0NDU3MzUxMTA3NDQ5Mzkw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1381a08d-3973-494e-8fd5-5b8728a36ad4",
+        "type": "message",
+        "text": "<@U0234JUMPJQ>\n:bookmark: a VERY useful bookmark for you - this notion page will contain the recordings of lectures, guest speakers, presentations etc :movie_camera:<https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1>\n- warning - we always upload these a day late because we have to wait for zoom to finish processing the file.",
+        "user": "U021UNQGZC4",
+        "ts": "1626424104.068100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Classroom Recordings- May2Jul",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Classroom Recordings- May2Jul",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ity",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0234JUMPJQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bookmark"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a VERY useful bookmark for you - this notion page will contain the recordings of lectures, guest speakers, presentations etc "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "movie_camera"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/c6637744f3ef4b579e576f69a0118679?v=7a85aa99630c479d8088f10d8a908ac1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- warning - we always upload these a day late because we have to wait for zoom to finish processing the file."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626424104.068100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1626424242.069600",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0234JUMPJQ"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626424169.068500"
+            },
+            {
+                "user": "U0234JUMPJQ",
+                "ts": "1626424242.069600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U0234JUMPJQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87878450-748e-4a45-94cf-6728da31eb94",
+        "type": "message",
+        "text": "always check the channel pins !",
+        "user": "U021UNQGZC4",
+        "ts": "1626424169.068500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0Qo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "always check the channel pins !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626424104.068100",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "DBF7B66D-B423-4674-B38F-3B7A65E0C0C0",
+        "type": "message",
+        "text": "Ahhahaha finding this out on week 7 is just funny!!! Very useful tool thanks!!",
+        "user": "U0234JUMPJQ",
+        "ts": "1626424242.069600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "d72f8dcb6b13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2115688161203_d72f8dcb6b13c616d406_72.png",
+            "first_name": "",
+            "real_name": "Walter Conde",
+            "display_name": "Walter Conde",
+            "team": "T021KE79B9B",
+            "name": "wcondevidal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HYXP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahhahaha finding this out on week 7 is just funny!!! Very useful tool thanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626424104.068100",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1626425849.069800",
+        "user": "U021UNQGZC4",
+        "text": "<@U021UNQGZC4> set the channel topic: <https:\/\/zoom.us\/j\/877626245>\nPw: 986565",
+        "topic": "<https:\/\/zoom.us\/j\/877626245>\nPw: 986565"
+    },
+    {
+        "client_msg_id": "ab6e2e6b-00c7-4e06-a4ac-761b9440f8e3",
+        "type": "message",
+        "text": "1. Marta, Damaris, Julia and Ángela\n2. Andre\n3.  Fernando\n4. Andrea and Walter\n5. Axana\n6. Gellert\n7. Uros\n8. Majed\n9. Sathiya and Pedro\n10. Héctor\n11. Lucas, Jennifer, Nayib and Anna",
+        "user": "U021NHS652N",
+        "ts": "1626441701.070000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021NHS652N",
+            "ts": "1626445141.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LfdEu",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Marta, Damaris, Julia and Ángela"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Andre"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " Fernando"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Andrea and Walter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Axana"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Gellert"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Uros"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Majed"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sathiya and Pedro"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Héctor"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lucas, Jennifer, Nayib and Anna"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a743e1de-f280-4e84-ab69-4330d70702ae",
+        "type": "message",
+        "text": "you are still missing  one of the teams here :point_up_2: <@U021NHS652N>",
+        "user": "U021UNQGZC4",
+        "ts": "1626442592.070600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aOLG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you are still missing  one of the teams here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b02ededc-f62c-4344-9863-fe45d0457a4c",
+        "type": "message",
+        "text": "yes yes, I was in the walkthrough, in fact they were the first ones but I lost them when I copy paste it from my notes. let me fix it hehehe",
+        "user": "U021NHS652N",
+        "ts": "1626445083.072500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SvUB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes yes, I was in the walkthrough, in fact they were the first ones but I lost them when I copy paste it from my notes. let me fix it hehehe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

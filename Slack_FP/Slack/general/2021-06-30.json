@@ -1,0 +1,1721 @@
+[
+    {
+        "client_msg_id": "6a6933cd-1f9e-4844-8a08-23b7bae8c9c4",
+        "type": "message",
+        "text": "<@U021TDN4RAP> <@U021TDMLNTD> <@U021TDMEH27> <@U021TDMBPRR> <@U021ZC6H9GC> <@U0225RHK6Q1> please can you join me in room 10 ? same as yesterday",
+        "user": "U021UNQGZC4",
+        "ts": "1625041667.053600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0u2P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDN4RAP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMLNTD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMEH27"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMBPRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6H9GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please can you join me in room 10 ? same as yesterday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da655132-70a7-4fbc-bab4-1ca3cb32cea5",
+        "type": "message",
+        "text": "<!channel>,\n:bar_chart:  regarding *your presentations on* *Friday: Please tell us in this thread the following:*\n• Your time slot, in which you want to present (first come, first serve, I will update this posting). As mentioned in the Project Kickoff in class and on Notion, you have 5 minutes to present (not a minute more), then we have 2-3 minutes time for questions. The rest is buffer time to transition to the next student\n• :musical_note: You have the option to pick a song which is played before your presentation.\nThe timeslots are:\n\n9:30 - 9:40     *Slot 1*\n9:40 - 9:50     *Slot 2*\n9:50 - 10:00   *Slot 3*\n10:00 - 10:10 *Slot 4 (Team Happiness)*\n\n--- 10 minutes break ---\n\n10:20 - 10:30  *Slot 5 (Damaris &amp; Marta)*\n10:30 - 10:40  *Slot 6 (Angela)*\n10:40 - 10:50  *Slot 7 (Hector)*\n10:50 - 11:00  *Slot 8 (Julia)*\n\n--- 10 minutes break ---\n\n11:10 - 11:20  *Slot 9 (Pedro &amp; Sathiya)*\n11:20 - 11:30  *Slot 10*\n11:30 - 11:40  *Slot 11 (Anna)*\n11:40 - 11:50  *Slot 12*\n\n--- 10 minutes break ---\n\n12:00 - 12:10  *Slot 13*\n12:10 - 12:20  *Slot 14*\n12:20 - 12:30  *Slot 15*",
+        "user": "U021WEXHN4E",
+        "ts": "1625046109.063300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1625052844.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t\/MMN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bar_chart"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  regarding "
+                            },
+                            {
+                                "type": "text",
+                                "text": "your presentations on",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Friday: Please tell us in this thread the following:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Your time slot, in which you want to present (first come, first serve, I will update this posting). As mentioned in the Project Kickoff in class and on Notion, you have 5 minutes to present (not a minute more), then we have 2-3 minutes time for questions. The rest is buffer time to transition to the next student"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "musical_note"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " You have the option to pick a song which is played before your presentation."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThe timeslots are:\n\n9:30 - 9:40     "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9:40 - 9:50     "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9:50 - 10:00   "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10:00 - 10:10 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 4 (Team Happiness)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n--- 10 minutes break ---\n\n10:20 - 10:30  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 5 (Damaris & Marta)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10:30 - 10:40  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 6 (Angela)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10:40 - 10:50  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 7 (Hector)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10:50 - 11:00  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 8 (Julia)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n--- 10 minutes break ---\n\n11:10 - 11:20  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 9 (Pedro & Sathiya)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11:20 - 11:30  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 10",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11:30 - 11:40  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 11 (Anna)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11:40 - 11:50  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 12",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n--- 10 minutes break ---\n\n12:00 - 12:10  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 13",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n12:10 - 12:20  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 14",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n12:20 - 12:30  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 15",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "reply_count": 12,
+        "reply_users_count": 11,
+        "latest_reply": "1625125056.082500",
+        "reply_users": [
+            "U021ZC6H9GC",
+            "U021Q54K3B7",
+            "U021TDN4RAP",
+            "U021TDMEH27",
+            "U021CE3UWPR",
+            "U0225RJ6SNM",
+            "U0225RJ3Z4H",
+            "U021TDMLNTD",
+            "U022VC1JD29",
+            "U021TDMBPRR",
+            "U021TDMHF5H"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1625046219.063500"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1625046269.063700"
+            },
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1625046280.063900"
+            },
+            {
+                "user": "U021TDN4RAP",
+                "ts": "1625046336.064300"
+            },
+            {
+                "user": "U021TDMEH27",
+                "ts": "1625046342.064500"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1625046374.064700"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1625046763.064900"
+            },
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1625047200.065100"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1625051629.065400"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1625052860.068600"
+            },
+            {
+                "user": "U021TDMBPRR",
+                "ts": "1625057571.071800"
+            },
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1625125056.082500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "703ee130-5a27-40d4-92dd-1070a90f72cc",
+        "type": "message",
+        "text": "<@U0225RHK6Q1> and <@U021ZC6H9GC> 10:20 - 10:30  *Slot 5* :smile:",
+        "user": "U021ZC6H9GC",
+        "ts": "1625046219.063500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6H9GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10:20 - 10:30  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 5 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "932a7c25-0bb9-4495-a4cc-5102c2af0916",
+        "type": "message",
+        "text": "me and sathiya take slot 9 =)",
+        "user": "U021Q54K3B7",
+        "ts": "1625046269.063700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7f8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me and sathiya take slot 9 =)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "18e0ca76-c2f3-4391-b3db-770db2975260",
+        "type": "message",
+        "text": "11:10-11:20",
+        "user": "U021Q54K3B7",
+        "ts": "1625046280.063900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wq1P3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11:10-11:20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "687B0FB5-44D4-47F6-ABA4-16B26647F1BF",
+        "type": "message",
+        "text": "Slot 12 please ! ",
+        "user": "U021TDN4RAP",
+        "ts": "1625046336.064300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s20",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slot 12 please ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "886107fb-20d9-45cd-8af2-1dd759969fe3",
+        "type": "message",
+        "text": "I would like to take slot 6 10:30-10:40 please!",
+        "user": "U021TDMEH27",
+        "ts": "1625046342.064500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "5e53fc88cd04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085183476640_5e53fc88cd04a1cf4cb8_72.jpg",
+            "first_name": "Ángela",
+            "real_name": "Ángela Sánchez",
+            "display_name": "Angela",
+            "team": "T021KE79B9B",
+            "name": "angela.s.ferriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e8Lc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would like to take slot 6 10:30-10:40 please!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "c2e1398c-f063-4b55-ae44-81b40c24033e",
+        "type": "message",
+        "text": "slot 7",
+        "user": "U021CE3UWPR",
+        "ts": "1625046374.064700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QG0f0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slot 7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "dc972265-ddcb-4028-83ea-28c2e61a8ebe",
+        "type": "message",
+        "text": "slot 8",
+        "user": "U0225RJ6SNM",
+        "ts": "1625046763.064900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slot 8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "8474fc98-4db2-4c39-85a8-d2c0e3a26a4e",
+        "type": "message",
+        "text": "we take slot 4 :smile:",
+        "user": "U0225RJ3Z4H",
+        "ts": "1625047200.065100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4iRG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we take slot 4 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "c836089b-d2ba-4eef-8447-cbf9ed5e360e",
+        "type": "message",
+        "text": "slot 11 please!",
+        "user": "U021TDMLNTD",
+        "ts": "1625051629.065400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYTa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slot 11 please!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "f9454398-b65c-4310-8ef4-e2499548e1e1",
+        "type": "message",
+        "text": "<!channel> Flo will be offline for the remainder of today. Please direct any questions that you would direct to Flo, to either myself or Miguel",
+        "user": "U021UNQGZC4",
+        "ts": "1625052754.067400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYdwp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Flo will be offline for the remainder of today. Please direct any questions that you would direct to Flo, to either myself or Miguel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16678bba-d14c-4ca6-9c86-d1f913a8be95",
+        "type": "message",
+        "text": "slot 3",
+        "user": "U022VC1JD29",
+        "ts": "1625052860.068600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E\/3Yp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slot 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "b5b6c74c-473c-46ea-90f6-3d610c5cfe3b",
+        "type": "message",
+        "text": "Lucas is also offline, due to covid. We have a few cases now in the class. I recommend everyone to get regularly tested and be more aware of hand washing, masks.",
+        "user": "U021UNQGZC4",
+        "ts": "1625052864.068800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lucas is also offline, due to covid. We have a few cases now in the class. I recommend everyone to get regularly tested and be more aware of hand washing, masks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18f10946-358a-4e68-91e3-219e9ee6ad21",
+        "type": "message",
+        "text": "sorry to sound melodramatic :) :mask:!!",
+        "user": "U021UNQGZC4",
+        "ts": "1625052887.069200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7lAJ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry to sound melodramatic :) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mask"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2438e867-a5ca-47c5-89bb-9d9ac6aba08b",
+        "type": "message",
+        "text": "i need to create a new thread to take this over - any new requests add in thread below\nThe timeslots are:\n\n9:30 - 9:40     *Slot 1 (Walter)*\n9:40 - 9:50     *Slot 2 (fernando)*\n9:50 - 10:00   *Slot 3 (Majed)*\n10:00 - 10:10 *Slot 4 (Team Happiness)*\n\n--- 10 minutes break ---\n\n10:20 - 10:30  *Slot 5 (Damaris &amp; Marta)*\n10:30 - 10:40  *Slot 6 (Angela)*\n10:40 - 10:50  *Slot 7 (Hector)*\n10:50 - 11:00  *Slot 8 (Julia)*\n\n--- 10 minutes break ---\n\n11:10 - 11:20  *Slot 9 (Pedro &amp; Sathiya)*\n11:20 - 11:30  *Slot 10 (Gellert)*\n11:30 - 11:40  *Slot 11 (Anna)*\n11:40 - 11:50  *Slot 12 (Arya)*\n\n--- 10 minutes break ---\n\n12:00 - 12:10  *Slot 13 (Andrea)*\n12:10 - 12:20  *Slot 14 (Nayib)*",
+        "user": "U021UNQGZC4",
+        "ts": "1625053051.070500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1625133251.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i need to create a new thread to take this over - any new requests add in thread below\nThe timeslots are:\n\n9:30 - 9:40     "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 1 (Walter)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9:40 - 9:50     "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 2 (fernando)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9:50 - 10:00   "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 3 (Majed)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10:00 - 10:10 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 4 (Team Happiness)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n--- 10 minutes break ---\n\n10:20 - 10:30  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 5 (Damaris & Marta)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10:30 - 10:40  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 6 (Angela)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10:40 - 10:50  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 7 (Hector)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10:50 - 11:00  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 8 (Julia)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n--- 10 minutes break ---\n\n11:10 - 11:20  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 9 (Pedro & Sathiya)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11:20 - 11:30  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 10 (Gellert)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11:30 - 11:40  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 11 (Anna)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11:40 - 11:50  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 12 (Arya)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n--- 10 minutes break ---\n\n12:00 - 12:10  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 13 (Andrea)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n12:10 - 12:20  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slot 14 (Nayib)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625053051.070500",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1625127586.084700",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021TDMHF5H"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625059356.072000"
+            },
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1625127524.084100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625127586.084700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4cd9c3db-ae79-4f14-89d8-073008e7d47a",
+        "type": "message",
+        "text": "no need to copy the whole list folks, just reply on the thread :)",
+        "user": "U021UNQGZC4",
+        "ts": "1625057415.071700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no need to copy the whole list folks, just reply on the thread :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10f39b57-6153-47c8-be2e-2c9e80d3444a",
+        "type": "message",
+        "text": "I would like to have the slot 10:calling:",
+        "user": "U021TDMBPRR",
+        "ts": "1625057571.071800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021TDMBPRR",
+            "ts": "1625059509.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kAkAq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would like to have the slot 10"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "calling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625046109.063300",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "0337d128-80da-4c03-835d-4e6b7d9a5842",
+        "type": "message",
+        "text": "thread for remaining requests here",
+        "user": "U021UNQGZC4",
+        "ts": "1625059356.072000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qffm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thread for remaining requests here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625053051.070500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "31aba2a8-c48a-4275-8d2b-b3fd020b30b7",
+        "type": "message",
+        "text": "<!channel> to confirm no berlin based students on this class are expecting to attend campus tomorrow or friday ? as it will not be possible. DM me if you have any questions. fyi <@U0217P72YR5>",
+        "user": "U021UNQGZC4",
+        "ts": "1625059399.073000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hmAdz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to confirm no berlin based students on this class are expecting to attend campus tomorrow or friday ? as it will not be possible. DM me if you have any questions. fyi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0217P72YR5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625059399.073000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1625069370.078600",
+        "reply_users": [
+            "U021TDMBPRR",
+            "U021T7DU0BC"
+        ],
+        "replies": [
+            {
+                "user": "U021TDMBPRR",
+                "ts": "1625059579.073300"
+            },
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1625069370.078600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625069370.078600"
+    },
+    {
+        "client_msg_id": "527b26e5-9665-4aa0-a618-85d3c3c3bd84",
+        "type": "message",
+        "text": "yes I would like to stay in home office so to say",
+        "user": "U021TDMBPRR",
+        "ts": "1625059579.073300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F4aOu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes I would like to stay in home office so to say"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625059399.073000",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "add792f9-df90-4385-804d-638826278d05",
+        "type": "message",
+        "text": "I will be covering Flo’s stand up call in the morning, so please can I have <@U021ZC6L676> <@U0225RJ3Z4H> <@U021ZC6JR28> <@U021T7DU0BC> <@U021TDMHF5H> <@U0225RJ5989>,<@U0225RJ6SNM> and <@U022VC1JD29> attend room 10 at 10:00 am for a quick stand up summary, of where you are and any blocks you have at that stage.\n\nFor my normal stand up group, can I ask you to arrive 15 mins later than normal, to give the first group time to finish - so thats <@U021TDN4RAP> <@U021TDMLNTD> <@U021TDMEH27> <@U021TDMBPRR> <@U021ZC6H9GC> <@U0225RHK6Q1> in room 10 tomorrow at 10:45 for your final stand up call.\n\n• remember to have your trello boards ready to present \n• DM me with any issues on this - thankyou ",
+        "user": "U021UNQGZC4",
+        "ts": "1625068477.077400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nQLJw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will be covering Flo’s stand up call in the morning, so please can I have "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6L676"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ3Z4H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6JR28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021T7DU0BC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMHF5H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ5989"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ6SNM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022VC1JD29"
+                            },
+                            {
+                                "type": "text",
+                                "text": " attend room 10 at 10:00 am for a quick stand up summary, of where you are and any blocks you have at that stage.\n\nFor my normal stand up group, can I ask you to arrive 15 mins later than normal, to give the first group time to finish - so thats "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDN4RAP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMLNTD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMEH27"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMBPRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6H9GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in room 10 tomorrow at 10:45 for your final stand up call.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "remember to have your trello boards ready to present "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DM me with any issues on this - thankyou "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RJ3Z4H",
+                    "U021T7DU0BC",
+                    "U021ZC6H9GC",
+                    "U0225RHK6Q1",
+                    "U021TDMEH27",
+                    "U021NHS652N",
+                    "U021TDMLNTD",
+                    "U021ZC6L676"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2050ec2-bc5a-405e-909c-62262d5cdbf1",
+        "type": "message",
+        "text": "Miguel has been in touch with his group - all sorted for the morning then !",
+        "user": "U021UNQGZC4",
+        "ts": "1625069310.078400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dnepA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Miguel has been in touch with his group - all sorted for the morning then !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd4cfcc8-1e58-462b-b017-2d092f56800a",
+        "type": "message",
+        "text": "same here",
+        "user": "U021T7DU0BC",
+        "ts": "1625069370.078600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zlmM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "same here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625059399.073000",
+        "parent_user_id": "U021UNQGZC4"
+    }
+]

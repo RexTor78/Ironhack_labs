@@ -1,0 +1,325 @@
+[
+    {
+        "type": "message",
+        "text": "notebook so far - see you after lunch",
+        "files": [
+            {
+                "id": "F027RRB9J4S",
+                "created": 1626089341,
+                "timestamp": 1626089341,
+                "name": "WebScraping_Intro_wip.ipynb",
+                "title": "WebScraping_Intro_wip.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 27863,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027RRB9J4S\/webscraping_intro_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027RRB9J4S\/download\/webscraping_intro_wip.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027RRB9J4S\/webscraping_intro_wip.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027RRB9J4S-a997f280ce",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AIq5H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "notebook so far - see you after lunch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626089348.000600"
+    },
+    {
+        "type": "message",
+        "text": "class notebook",
+        "files": [
+            {
+                "id": "F027S8WATLJ",
+                "created": 1626096631,
+                "timestamp": 1626096631,
+                "name": "WebScraping_Intro_complete.ipynb",
+                "title": "WebScraping_Intro_complete.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 1346707,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027S8WATLJ\/webscraping_intro_complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027S8WATLJ\/download\/webscraping_intro_complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027S8WATLJ\/webscraping_intro_complete.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027S8WATLJ-16478b3cbf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7RkRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "class notebook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626096635.003700"
+    },
+    {
+        "client_msg_id": "9db093ab-1c2f-4ef8-8fd4-a7e5a5405297",
+        "type": "message",
+        "text": "useful links for the class today :\n• <https:\/\/www.crummy.com\/software\/BeautifulSoup\/bs4\/doc\/#beautifulsoup>\n• <https:\/\/www.w3schools.com\/TAGS\/default.ASP>\n• <https:\/\/www.w3schools.com\/cssref\/css_selectors.asp>\n• <https:\/\/www.dataquest.io\/blog\/web-scraping-beautifulsoup\/> - example from IMDB ",
+        "user": "U021UNQGZC4",
+        "ts": "1626096776.004700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "HTML Reference",
+                "title_link": "https:\/\/www.w3schools.com\/TAGS\/default.ASP",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.",
+                "fallback": "HTML Reference",
+                "from_url": "https:\/\/www.w3schools.com\/TAGS\/default.ASP",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/TAGS\/default.ASP"
+            },
+            {
+                "title": "CSS Selectors Reference",
+                "title_link": "https:\/\/www.w3schools.com\/cssref\/css_selectors.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.",
+                "fallback": "CSS Selectors Reference",
+                "from_url": "https:\/\/www.w3schools.com\/cssref\/css_selectors.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 2,
+                "original_url": "https:\/\/www.w3schools.com\/cssref\/css_selectors.asp"
+            },
+            {
+                "service_name": "Dataquest",
+                "title": "Tutorial: Web Scraping and BeautifulSoup",
+                "title_link": "https:\/\/www.dataquest.io\/blog\/web-scraping-beautifulsoup\/",
+                "text": "This intermediate tutorial teaches you use BeautifulSoup and Python to collect data from multiple pages on IMDB using a technique called web scraping.",
+                "fallback": "Dataquest: Tutorial: Web Scraping and BeautifulSoup",
+                "image_url": "https:\/\/www.dataquest.io\/wp-content\/uploads\/2017\/06\/html-web-scraping-beautifulsoup.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Alex Olteanu",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "31 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1498719656,
+                "from_url": "https:\/\/www.dataquest.io\/blog\/web-scraping-beautifulsoup\/",
+                "image_bytes": 279905,
+                "service_icon": "https:\/\/www.dataquest.io\/wp-content\/uploads\/2021\/05\/cropped-Black-Logo-Favicon-1.png",
+                "id": 3,
+                "original_url": "https:\/\/www.dataquest.io\/blog\/web-scraping-beautifulsoup\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkTS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "useful links for the class today :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.crummy.com\/software\/BeautifulSoup\/bs4\/doc\/#beautifulsoup"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.w3schools.com\/TAGS\/default.ASP"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.w3schools.com\/cssref\/css_selectors.asp"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.dataquest.io\/blog\/web-scraping-beautifulsoup\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - example from IMDB "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb7de6ce-4716-4365-89b6-9917ba87d7f5",
+        "type": "message",
+        "text": "<!channel>,\nthe teaching team is in a meeting with madini for 30 min. See you later!",
+        "user": "U021WEXHN4E",
+        "ts": "1626098416.005800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HuZB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nthe teaching team is in a meeting with madini for 30 min. See you later!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5cfcffb7-9a2c-4735-a00c-a9cd442a0d7d",
+        "type": "message",
+        "text": "ah ok thanks!",
+        "user": "U021ZC6H9GC",
+        "ts": "1626098488.006000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VcT4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah ok thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

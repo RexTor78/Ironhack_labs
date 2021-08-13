@@ -1,0 +1,3766 @@
+[
+    {
+        "type": "message",
+        "text": "try this",
+        "files": [
+            {
+                "id": "F0282036ESH",
+                "created": 1626334571,
+                "timestamp": 1626334571,
+                "name": "snippet.py",
+                "title": "snippet.py",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U021WEXHN4E",
+                "editable": true,
+                "size": 423,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0282036ESH\/snippet.py?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0282036ESH\/download\/snippet.py?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0282036ESH\/snippet.py",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0282036ESH-1ea1bad08a",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0282036ESH\/snippet.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uRjAS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1626334572.034900",
+        "client_msg_id": "a1253094-800d-408c-a18a-90d1bb045ead",
+        "thread_ts": "1626281471.030800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "cdaecae6-edda-41da-97b1-4f352e69e151",
+        "type": "message",
+        "text": "you have to loop over all your album_ids. In every loop collect the tracks - do that extend magic in case the album has more than 50, thereby populating a temporary track list `all_tracks_album`. And when you're done, use the `all_tracks` list that collects all your songs to extend it by those in the temporary track list",
+        "user": "U021WEXHN4E",
+        "ts": "1626334708.035300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "54Sd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you have to loop over all your album_ids. In every loop collect the tracks - do that extend magic in case the album has more than 50, thereby populating a temporary track list "
+                            },
+                            {
+                                "type": "text",
+                                "text": "all_tracks_album",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". And when you're done, use the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "all_tracks",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " list that collects all your songs to extend it by those in the temporary track list"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626281471.030800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "1b6f3c20-61b3-441b-a6b7-a42f0f31d8a2",
+        "type": "message",
+        "text": "it worked :tada:  thanks <@U021WEXHN4E> !",
+        "user": "U021ZC6JR28",
+        "ts": "1626334918.035500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DPDf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it worked "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626281471.030800",
+        "parent_user_id": "U021ZC6JR28",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cupcake",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e4f2e99-3af4-4da0-b00c-93e3fde173fd",
+        "type": "message",
+        "text": "Is the notebook from the lecture already posted somewhere?",
+        "user": "U0225RJ3Z4H",
+        "ts": "1626342316.036000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "seSRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the notebook from the lecture already posted somewhere?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "676c893d-9750-404c-845d-706491050609",
+        "type": "message",
+        "text": "oops”! its coming sorry jennifer, one min",
+        "user": "U021UNQGZC4",
+        "ts": "1626342329.036300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "guYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oops”! its coming sorry jennifer, one min"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626342329.036300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1626342932.036800",
+        "reply_users": [
+            "U0225RJ3Z4H",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1626342348.036400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626342927.036600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626342932.036800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a6b75be9-0a21-4082-b77f-0218ea7ea340",
+        "type": "message",
+        "text": "no worries :blush:",
+        "user": "U0225RJ3Z4H",
+        "ts": "1626342348.036400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0MgB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no worries "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626342329.036300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "61650318-1840-4eb1-a1cc-7e2098e0bc67",
+        "type": "message",
+        "text": "its on the general chnnel and notion calendar now",
+        "user": "U021UNQGZC4",
+        "ts": "1626342927.036600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKtn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its on the general chnnel and notion calendar now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626342329.036300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "9284bb94-9556-4594-871b-34ede8c23a6e",
+        "type": "message",
+        "text": "thanks for the remidner!",
+        "user": "U021UNQGZC4",
+        "ts": "1626342932.036800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks for the remidner!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626342329.036300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "09aa2421-b334-43a6-b0bb-10165123b62d",
+        "type": "message",
+        "text": "a useful solution with Flo’s explanation above on Andre’s post from last night if anyone gets stuck in the for, while, extend, append mess later on",
+        "user": "U021UNQGZC4",
+        "ts": "1626344230.038000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a useful solution with Flo’s explanation above on Andre’s post from last night if anyone gets stuck in the for, while, extend, append mess later on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cb6b57e-e327-4ce2-aa01-bd731506e8bb",
+        "type": "message",
+        "text": "Hi! I'm having some trouble because of this:\nMy initial playlist has 151 songs and, as expected, was truncating at 100 results. So I did the for loop to get the 151 songs and stored it into a list called 'track_id'. The problem is that when I try to get the audio features of these 151 songs like this:\naudio_feat=sp.audio_features(tracks=track_id)\nit gives me error because I think this function only accepts 100 results instead of 151. Does anyone know how to get the audio features from a list of ids bigger thatn 100?\nTHXXXX :heart:",
+        "user": "U021TDMLNTD",
+        "ts": "1626345268.038500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021TDMLNTD",
+            "ts": "1626345521.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I'm having some trouble because of this:\nMy initial playlist has 151 songs and, as expected, was truncating at 100 results. So I did the for loop to get the 151 songs and stored it into a list called 'track_id'. The problem is that when I try to get the audio features of these 151 songs like this:\naudio_feat=sp.audio_features(tracks=track_id)\nit gives me error because I think this function only accepts 100 results instead of 151. Does anyone know how to get the audio features from a list of ids bigger thatn 100?\nTHXXXX "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1626346293.048000",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RGM941",
+            "U021TDMLNTD",
+            "U021ZC6JR28"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626345485.039700"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626345525.040800"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1626345620.041800"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626345720.044500"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626345727.044700"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626345794.045300"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1626345859.046900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626346107.047200"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1626346273.047800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626346293.048000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2aaa3478-c112-43f2-9649-863057b44374",
+        "type": "message",
+        "text": "what happens with the audio features ? i dont get the issue - could you maybe share your notebook or a code snippet?",
+        "user": "U021UNQGZC4",
+        "ts": "1626345485.039700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9lr4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what happens with the audio features ? i dont get the issue - could you maybe share your notebook or a code snippet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "5F7BF0C0-1E07-471F-A102-E5DF5A2FE5E1",
+        "type": "message",
+        "text": "The audio features too accept maximum 100. I had the same issue. But I did split into 2",
+        "user": "U0225RGM941",
+        "ts": "1626345525.040800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LbRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The audio features too accept maximum 100. I had the same issue. But I did split into 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "ca08e1fa-4757-4998-8fa3-056afb5cd7ca",
+        "type": "message",
+        "text": "yeah thanks Sathiya, that's what I thought but i was wonderig if the only solution is to split it into groups of 100 oer there is anyway to get all the audio features at once? Because I plan to continue adding new songs",
+        "user": "U021TDMLNTD",
+        "ts": "1626345620.041800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah thanks Sathiya, that's what I thought but i was wonderig if the only solution is to split it into groups of 100 oer there is anyway to get all the audio features at once? Because I plan to continue adding new songs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "0209D82B-1D02-4804-B899-B62ABB988F82",
+        "type": "message",
+        "text": "I have an error, could not convert string to float . Googled but didn’t help. Suggestions are welcome",
+        "user": "U0225RGM941",
+        "ts": "1626345640.042500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+kB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have an error, could not convert string to float . Googled but didn’t help. Suggestions are welcome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "reply_count": 16,
+        "reply_users_count": 4,
+        "latest_reply": "1626349330.056500",
+        "reply_users": [
+            "U021T7DU0BC",
+            "U021TDMLNTD",
+            "U0225RGM941",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1626345708.043900"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1626345773.044900"
+            },
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1626345774.045100"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626345841.046300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626346221.047400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626346268.047600"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626347476.052900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626347723.053100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626347741.053300"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626348028.053900"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626348133.054300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626349006.055700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626349144.055900"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626349237.056100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626349290.056300"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626349330.056500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ffb53fe6-42b7-4c12-8507-8cc0d06397e5",
+        "type": "message",
+        "text": "this worked for me:\n```X = X.astype({\"key\":'float', \"mode\":'float'})```",
+        "user": "U021T7DU0BC",
+        "ts": "1626345708.043900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O5zy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this worked for me:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "X = X.astype({\"key\":'float', \"mode\":'float'})"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "ABAEF059-C9ED-45A9-95A7-ABD78CA97768",
+        "type": "message",
+        "text": "Yesterday flo told one another way. It was too complicated for me so did split. I got the good data frame without any error at the end",
+        "user": "U0225RGM941",
+        "ts": "1626345720.044500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hE+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yesterday flo told one another way. It was too complicated for me so did split. I got the good data frame without any error at the end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4393135-3a1e-498d-9ba4-185724605902",
+        "type": "message",
+        "text": "So, what I am trying is to use a loop that takes each ID from the list and calls the sp.audio_features individually.",
+        "user": "U021ZC6JR28",
+        "ts": "1626345727.044700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, what I am trying is to use a loop that takes each ID from the list and calls the sp.audio_features individually."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5654602e-0ddf-488f-869a-f746e2ef9fbc",
+        "type": "message",
+        "text": "what i do is to convert it first to int, and then convert it to float. Like this: float(int('12'))",
+        "user": "U021TDMLNTD",
+        "ts": "1626345773.044900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E=Fz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what i do is to convert it first to int, and then convert it to float. Like this: float(int('12'))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "6df71cb7-ce2c-4c9e-a434-6ffb53295b12",
+        "type": "message",
+        "text": "I was converting from int to float though, so maybe this doesn’t help you :thinking_face:",
+        "user": "U021T7DU0BC",
+        "ts": "1626345774.045100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was converting from int to float though, so maybe this doesn’t help you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "type": "message",
+        "text": "like this, but so far the loop is dying after 50%, but only because my list is too long. Should work fine with 151 songs",
+        "files": [
+            {
+                "id": "F0282JHKH9T",
+                "created": 1626345764,
+                "timestamp": 1626345764,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6JR28",
+                "editable": false,
+                "size": 45784,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0282JHKH9T\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0282JHKH9T\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 83,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 111,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 166,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 185,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 222,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282JHKH9T-6e80e6caf5\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 237,
+                "original_w": 1298,
+                "original_h": 300,
+                "thumb_tiny": "AwALADDQYe+Kbx3anN1Apo4IoAcCvr+dLkeopaKACiiigD\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6JR28\/F0282JHKH9T\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0282JHKH9T-899ceb55e7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WerK9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like this, but so far the loop is dying after 50%, but only because my list is too long. Should work fine with 151 songs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021ZC6JR28",
+        "display_as_bot": false,
+        "ts": "1626345794.045300",
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26653BA9-373F-48C0-A49C-F2A57BF28FE4",
+        "type": "message",
+        "text": "Thank you :pray: <@U021TDMLNTD> <@U021T7DU0BC> ",
+        "user": "U0225RGM941",
+        "ts": "1626345841.046300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJ2C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMLNTD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021T7DU0BC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab01b0ac-cec9-4737-b812-c9faf7d230ed",
+        "type": "message",
+        "text": "thx guys :heart:",
+        "user": "U021TDMLNTD",
+        "ts": "1626345859.046900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thx guys "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "0ef8b0d3-07ea-45e8-b822-92bf4370795c",
+        "type": "message",
+        "text": "sweet - two good solutions ! thanks <@U0225RGM941> and <@U021ZC6JR28>, let us know if youre blocked again, anna!",
+        "user": "U021UNQGZC4",
+        "ts": "1626346107.047200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3PXD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sweet - two good solutions ! thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RGM941"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6JR28"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", let us know if youre blocked again, anna!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "bc7e4d4c-cbd9-4c89-8f48-ff24405a0888",
+        "type": "message",
+        "text": "normally you go from str to float to int… is there a reason you need it to be a float, not an int? If this is for the audio features, you can also try\n```df['DataFrame Column'] = pd.to_numeric(df['DataFrame Column'],errors='coerce')```",
+        "user": "U021UNQGZC4",
+        "ts": "1626346221.047400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Zf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "normally you go from str to float to int… is there a reason you need it to be a float, not an int? If this is for the audio features, you can also try\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "df['DataFrame Column'] = pd.to_numeric(df['DataFrame Column'],errors='coerce')"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "4c633f2e-96e7-4015-b128-2eaf30621596",
+        "type": "message",
+        "text": "rather than forcing the dtype, we store the string as a numeric column",
+        "user": "U021UNQGZC4",
+        "ts": "1626346268.047600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rather than forcing the dtype, we store the string as a numeric column"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RGM941"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2526e25c-21ba-4380-95ef-7c27ee305559",
+        "type": "message",
+        "text": "thx! i will use a combination of Sathiya and Andre solutions :smile:",
+        "user": "U021TDMLNTD",
+        "ts": "1626346273.047800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7TH64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thx! i will use a combination of Sathiya and Andre solutions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "e5f0061e-8fea-44c6-bb9c-bb19715f76c9",
+        "type": "message",
+        "text": "teamwork makes the dream work :)",
+        "user": "U021UNQGZC4",
+        "ts": "1626346293.048000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "teamwork makes the dream work :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345268.038500",
+        "parent_user_id": "U021TDMLNTD",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1586ea27-fa7d-4c56-a1aa-a825bffe3813",
+        "type": "message",
+        "text": "collecting songs takes really a loooong time :snail:",
+        "user": "U021ZC6L676",
+        "ts": "1626347299.049400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S+m5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "collecting songs takes really a loooong time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "snail"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U021TDN4RAP",
+                    "U021ZC6JR28",
+                    "U021CE3UWPR"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e35a6e54-e8b4-4d9b-816c-1000ac0a6136",
+        "type": "message",
+        "text": "25 min and still running just for one genre",
+        "user": "U021ZC6L676",
+        "ts": "1626347362.050000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B2KRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "25 min and still running just for one genre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626347362.050000",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1626353659.056800",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U021ZC6L676",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626347424.051100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626347977.053700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626348470.054700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626348484.054900"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626348526.055300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626348830.055500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626353659.056800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "33 minutes, i feel your pain",
+        "files": [
+            {
+                "id": "F028VCES0SC",
+                "created": 1626347415,
+                "timestamp": 1626347415,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6JR28",
+                "editable": false,
+                "size": 23375,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028VCES0SC\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028VCES0SC\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 42,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 56,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 84,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 94,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 112,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VCES0SC-507d5d9c85\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 120,
+                "original_w": 1454,
+                "original_h": 170,
+                "thumb_tiny": "AwAFADDSIzTdjf3x+VPooAaFwOTk0uPSlooATB9f0ox60tFAH\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6JR28\/F028VCES0SC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028VCES0SC-2708b01e52",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OXGR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "33 minutes, i feel your pain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021ZC6JR28",
+        "display_as_bot": false,
+        "ts": "1626347424.051100",
+        "thread_ts": "1626347362.050000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "7060C6B4-A269-427A-81BE-C3A4E45E39DB",
+        "type": "message",
+        "text": "Sian after following the above step the complete column became NaN values. Is it ok? Or will it affect the future clustering process?",
+        "user": "U0225RGM941",
+        "ts": "1626347476.052900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5CWI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sian after following the above step the complete column became NaN values. Is it ok? Or will it affect the future clustering process?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "5e9f59c3-48de-43ec-b3d6-07fe3d5e1d35",
+        "type": "message",
+        "text": "this doesnt sound right… NaNs come up when a value cannot be changed to a float, perhaps it contains unexpected characters. can you attach a code snippet showing which column you are trying to convert to float ?",
+        "user": "U021UNQGZC4",
+        "ts": "1626347723.053100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hxN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this doesnt sound right… NaNs come up when a value cannot be changed to a float, perhaps it contains unexpected characters. can you attach a code snippet showing which column you are trying to convert to float ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "b47f06ea-722a-4e9e-9681-d288fd7ae910",
+        "type": "message",
+        "text": "its not the id field by chance ?",
+        "user": "U021UNQGZC4",
+        "ts": "1626347741.053300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "feI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its not the id field by chance ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "9b90018e-83e2-402d-8e05-1ed790e20aff",
+        "type": "message",
+        "text": "i even forgot to put the tqdm so i don't know where i am  :joy:",
+        "user": "U021ZC6L676",
+        "ts": "1626347977.053700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/fh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i even forgot to put the tqdm so i don't know where i am  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626347362.050000",
+        "parent_user_id": "U021ZC6L676",
+        "reactions": [
+            {
+                "name": "face_palm",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "First I tried with type, it has given me Nan values, for the id column also the same",
+        "files": [
+            {
+                "id": "F028VD6SVC0",
+                "created": 1626347992,
+                "timestamp": 1626347992,
+                "name": "Untitled.png",
+                "title": "Untitled.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RGM941",
+                "editable": false,
+                "size": 31083,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028VD6SVC0\/untitled.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028VD6SVC0\/download\/untitled.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VD6SVC0-0d08f2ffdd\/untitled_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VD6SVC0-0d08f2ffdd\/untitled_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VD6SVC0-0d08f2ffdd\/untitled_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VD6SVC0-0d08f2ffdd\/untitled_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 358,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VD6SVC0-0d08f2ffdd\/untitled_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VD6SVC0-0d08f2ffdd\/untitled_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 537,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VD6SVC0-0d08f2ffdd\/untitled_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 597,
+                "original_w": 846,
+                "original_h": 631,
+                "thumb_tiny": "AwAjADDRJx1oyPWnGm9u9ABlfWjI9aD1FHbvQAuRjOaKb+B\/Wl7dP50AONN7df0pxpvOKAA9Rz+lHHr+lKc5FJzQAnHr+lKcYHP6Uc\/5zRz\/AJzQA6kwKWigBMCjApaKAE2j0o2j0paKAP\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RGM941\/F028VD6SVC0\/untitled.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028VD6SVC0-6734d98d7d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Yk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First I tried with type, it has given me Nan values, for the id column also the same"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0225RGM941",
+        "display_as_bot": false,
+        "ts": "1626348028.053900",
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "type": "message",
+        "text": "id was this",
+        "files": [
+            {
+                "id": "F028JCCFNQH",
+                "created": 1626348126,
+                "timestamp": 1626348126,
+                "name": "Untitled1.png",
+                "title": "Untitled1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RGM941",
+                "editable": false,
+                "size": 19395,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028JCCFNQH\/untitled1.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028JCCFNQH\/download\/untitled1.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028JCCFNQH-caae98aaa3\/untitled1_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028JCCFNQH-caae98aaa3\/untitled1_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028JCCFNQH-caae98aaa3\/untitled1_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 277,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028JCCFNQH-caae98aaa3\/untitled1_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 369,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028JCCFNQH-caae98aaa3\/untitled1_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028JCCFNQH-caae98aaa3\/untitled1_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 554,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028JCCFNQH-caae98aaa3\/untitled1_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 615,
+                "original_w": 800,
+                "original_h": 615,
+                "thumb_tiny": "AwAkADDRxnufzoGc9f1oA46mjv1NACZIHUfnS5I7j86T8T+ZoP1P60ALk+o\/OjcfUfnSevJ\/Wk\/E\/maAJKKKKACiiigAooooAKKKKACiiigAooooA\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RGM941\/F028JCCFNQH\/untitled1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028JCCFNQH-7e1ea6668b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uka1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "id was this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0225RGM941",
+        "display_as_bot": false,
+        "ts": "1626348133.054300",
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "2b946227-1797-4a5d-bb1e-de6e77242974",
+        "type": "message",
+        "text": "but it worked!",
+        "user": "U021ZC6L676",
+        "ts": "1626348470.054700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=QtLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but it worked!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626347362.050000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F028VDUGNU8",
+                "created": 1626348480,
+                "timestamp": 1626348480,
+                "name": "Screenshot 2021-07-15 at 13.27.39.png",
+                "title": "Screenshot 2021-07-15 at 13.27.39.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6L676",
+                "editable": false,
+                "size": 325038,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028VDUGNU8\/screenshot_2021-07-15_at_13.27.39.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028VDUGNU8\/download\/screenshot_2021-07-15_at_13.27.39.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 282,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 376,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 565,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1020,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 753,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028VDUGNU8-0f6343c4e9\/screenshot_2021-07-15_at_13.27.39_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 803,
+                "thumb_1024_h": 1024,
+                "original_w": 1090,
+                "original_h": 1390,
+                "thumb_tiny": "AwAwACWntPHAo2nHagE\/Wm5PrQAu33FIRin87Rz1pMc9B0oAZRSnrSUAPXv+FNOOx\/Snr3+lIynr1\/CgBw+4KQfe\/ClH3BSD7w+lADG+8aSnP9402gCQf0phznmn9O9DYI60AKPuCkH3vwo3DAGaTcAc9aAGscsaSlPJpKAP\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6L676\/F028VDUGNU8\/screenshot_2021-07-15_at_13.27.39.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028VDUGNU8-91d74a69d2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021ZC6L676",
+        "display_as_bot": false,
+        "ts": "1626348484.054900",
+        "thread_ts": "1626347362.050000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "255f03e0-1758-4c5d-925a-8f6f1f808920",
+        "type": "message",
+        "text": "Excited to see your code tomorrow. Definitely works slicker than mine, since I am still scraping :smile:",
+        "user": "U021ZC6JR28",
+        "ts": "1626348526.055300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yUixJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excited to see your code tomorrow. Definitely works slicker than mine, since I am still scraping "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626347362.050000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "e64c530f-bda5-40f6-ae8e-fa79aed4284b",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U021ZC6L676",
+        "ts": "1626348830.055500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pvM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626347362.050000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "2060aa46-5f50-4ef8-92a2-68b4f9cf1743",
+        "type": "message",
+        "text": "i thought this might be the problem. it is logical that you cannot convert the id to a number - do you see why ? it contains both numbers and letters…",
+        "user": "U021UNQGZC4",
+        "ts": "1626349006.055700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3tGz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i thought this might be the problem. it is logical that you cannot convert the id to a number - do you see why ? it contains both numbers and letters…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "9712f4d2-db34-405f-b57c-7a73092eed80",
+        "type": "message",
+        "text": "what you need to do is drop this column from your data frame before clustering, and then once you have the cluster, you can return the track identifier. an ID is never needed for machine learning, perhaps you just forgot that as we are in a different context. similarly, anything else that is a like type, track uri - none are required for your clustering process- just the audio features",
+        "user": "U021UNQGZC4",
+        "ts": "1626349144.055900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DP9e2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what you need to do is drop this column from your data frame before clustering, and then once you have the cluster, you can return the track identifier. an ID is never needed for machine learning, perhaps you just forgot that as we are in a different context. similarly, anything else that is a like type, track uri - none are required for your clustering process- just the audio features"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "6fc68920-d46b-4dd3-a482-6625203a1062",
+        "type": "message",
+        "text": "Ok..thanks Sian.. will try",
+        "user": "U0225RGM941",
+        "ts": "1626349237.056100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZoZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok..thanks Sian.. will try"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "ee0fdca5-e556-49cc-a8e3-d947187958fc",
+        "type": "message",
+        "text": "great stuff! your data frame before clustering should look very basic - just numerical columns and as many rows as you have songs.",
+        "user": "U021UNQGZC4",
+        "ts": "1626349290.056300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great stuff! your data frame before clustering should look very basic - just numerical columns and as many rows as you have songs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "520d228b-88d0-44dd-9799-4feeb99e6499",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U0225RGM941",
+        "ts": "1626349330.056500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626345640.042500",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "d150fef9-b748-4332-92fd-618302fac84d",
+        "type": "message",
+        "text": "good job good job!",
+        "user": "U021UNQGZC4",
+        "ts": "1626353659.056800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "STsYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good job good job!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626347362.050000",
+        "parent_user_id": "U021ZC6L676"
+    },
+    {
+        "client_msg_id": "2a4897a8-f3e6-42dc-a2d6-e791ae059a0e",
+        "type": "message",
+        "text": "<!channel>,\nThe question came up twice:\nif you think about merging two dataframes on an ID (a song ID for example), make sure your two dataframes ID's are unique. You can check so if `len(df1['id'].unique())`  is equal to `len(df1['id'])` . In case you have duplicates with respect to the ID column, you need to drop the duplicates (for example with `df1 = df1.drop_duplicates(subset=['id'])` otherwise you get an \"explode\" of your rows... imagine 30 duplicate rows in one df want to join 20 counterparts in another df, that makes it 600 additional columns....",
+        "user": "U021WEXHN4E",
+        "ts": "1626356436.062000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qL3E1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nThe question came up twice:\nif you think about merging two dataframes on an ID (a song ID for example), make sure your two dataframes ID's are unique. You can check so if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "len(df1['id'].unique())",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  is equal to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "len(df1['id'])",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " . In case you have duplicates with respect to the ID column, you need to drop the duplicates (for example with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "df1 = df1.drop_duplicates(subset=['id'])",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " otherwise you get an \"explode\" of your rows... imagine 30 duplicate rows in one df want to join 20 counterparts in another df, that makes it 600 additional columns...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "caf05e3e-8eed-4cb0-aa5c-2afd5f157063",
+        "type": "message",
+        "text": "<!channel>,\nanother thing:\nOne student collected the audio features (which come as dictionaries out of `sp.audiofeatures(&lt;some_track_id&gt;)` ) in a list, let's say `audio_feats_lst`. Not a bad idea, since you can directly feed that to a dataframe:\n```feature_df = pd.DataFrame(audio_feats_lst)```\nBut it threw an Error \"NoneType attribute has no attribute .keys()\". The reason was, there was one empty dictionary hiding in the list (which of course had no attribute .keys()  - because of something went wrong when querying the API - we basicall don't care for only a few songs missing....\n\nOne solution is: You can try to quickly filter your `audio_feats_lst` for empty dictionaries with:\n```audio_feats_clean = [dct for dct in audio_feats_lst if dct]```\nthat if condition at the end checks if `dct` is empty, because the bool value of empty stuff in Python is mostly False",
+        "user": "U021WEXHN4E",
+        "ts": "1626356817.068200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/DlL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nanother thing:\nOne student collected the audio features (which come as dictionaries out of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sp.audiofeatures(<some_track_id>)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) in a list, let's say "
+                            },
+                            {
+                                "type": "text",
+                                "text": "audio_feats_lst",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Not a bad idea, since you can directly feed that to a dataframe:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "feature_df = pd.DataFrame(audio_feats_lst)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But it threw an Error \"NoneType attribute has no attribute .keys()\". The reason was, there was one empty dictionary hiding in the list (which of course had no attribute .keys()  - because of something went wrong when querying the API - we basicall don't care for only a few songs missing....\n\nOne solution is: You can try to quickly filter your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "audio_feats_lst",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for empty dictionaries with:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "audio_feats_clean = [dct for dct in audio_feats_lst if dct]"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that if condition at the end checks if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "dct",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is empty, because the bool value of empty stuff in Python is mostly False"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626356817.068200",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1626431639.084400",
+        "reply_users": [
+            "U021ZC6L676",
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626356912.068300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626356957.068500"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626357638.068900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626357682.069100"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626357734.069300"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1626431489.084200"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1626431639.084400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4e25a1a9-2a70-4626-acb2-c0481ba2e515",
+        "type": "message",
+        "text": "just got the same error, lost an hour",
+        "user": "U021ZC6L676",
+        "ts": "1626356912.068300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jRRN6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just got the same error, lost an hour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626356817.068200",
+        "parent_user_id": "U021WEXHN4E",
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7cb85e1-9967-423e-9c59-c5a159b562ca",
+        "type": "message",
+        "text": "but great solution, thanks!",
+        "user": "U021ZC6L676",
+        "ts": "1626356957.068500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWZ0H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but great solution, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626356817.068200",
+        "parent_user_id": "U021WEXHN4E",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "303907fc-82dc-4019-9aa7-94e93404f915",
+        "type": "message",
+        "text": "<@U021WEXHN4E> you have a minute?",
+        "user": "U021ZC6L676",
+        "ts": "1626357638.068900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9YzcK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you have a minute?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626356817.068200",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "1f557540-3bee-4e92-943c-3da62965f8e1",
+        "type": "message",
+        "text": "I need to run :disappointed:",
+        "user": "U021WEXHN4E",
+        "ts": "1626357682.069100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Hv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need to run "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626356817.068200",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "bf8d5fce-26cf-42bc-ae0b-15faf54af268",
+        "type": "message",
+        "text": "ok, later",
+        "user": "U021ZC6L676",
+        "ts": "1626357734.069300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q0j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626356817.068200",
+        "parent_user_id": "U021WEXHN4E"
+    },
+    {
+        "client_msg_id": "574dfa5f-5ac3-44ba-b823-19692bfba954",
+        "type": "message",
+        "text": "<@U021NHS652N> - will you have 5 minutes later?",
+        "user": "U021ZC6JR28",
+        "ts": "1626360743.069700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - will you have 5 minutes later?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626360743.069700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1626363511.070700",
+        "reply_users": [
+            "U021NHS652N",
+            "U021ZC6JR28",
+            "U021Q53LBPX"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1626361503.069800"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626361516.070000"
+            },
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1626362078.070200"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626363511.070700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c09b11c2-8c80-4bee-8fdf-f740025c7df0",
+        "type": "message",
+        "text": "yes, I put you in the queue and go asap",
+        "user": "U021NHS652N",
+        "ts": "1626361503.069800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "97fu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, I put you in the queue and go asap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626360743.069700",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "374068ec-04e0-4068-b5f4-d7da3e5ed4d9",
+        "type": "message",
+        "text": "no sweat :slightly_smiling_face:",
+        "user": "U021ZC6JR28",
+        "ts": "1626361516.070000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no sweat "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626360743.069700",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "ab68d3da-0ee1-4962-b13f-8ba69f96ede7",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/search\/dont%20sweat%20the%20te>",
+        "user": "U021Q53LBPX",
+        "ts": "1626362078.070200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/search\/dont%20sweat%20the%20te"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626360743.069700",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "a85f8c8a-eb73-4f54-97e0-6b28d39de94e",
+        "type": "message",
+        "text": "im online if someone needs help - im trying to help, at least :)",
+        "user": "U021UNQGZC4",
+        "ts": "1626363473.070600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MKJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im online if someone needs help - im trying to help, at least :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626363473.070600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1626363624.071100",
+        "reply_users": [
+            "U0225RJ6SNM",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626363552.070900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626363624.071100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b7aa1484-3de4-4ef8-9940-2ec5123e5adc",
+        "type": "message",
+        "text": "<@U021NHS652N> - I already got an answer to my question from <@U021UNQGZC4> , so a bit less work on your queue :smile:",
+        "user": "U021ZC6JR28",
+        "ts": "1626363511.070700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9vCA=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I already got an answer to my question from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , so a bit less work on your queue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626360743.069700",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "71972de0-8212-4beb-a65d-0b0a8a3ea085",
+        "type": "message",
+        "text": "actually, yes it would be very helpul if you can come to room 6 :slightly_smiling_face:",
+        "user": "U0225RJ6SNM",
+        "ts": "1626363552.070900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHrH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "actually, yes it would be very helpul if you can come to room 6 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626363473.070600",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "1fd946bf-f5fd-4fdb-97d3-b0225ba2e63c",
+        "type": "message",
+        "text": "ill come in a few mins",
+        "user": "U021UNQGZC4",
+        "ts": "1626363624.071100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLnpu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ill come in a few mins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626363473.070600",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "eea8f3ba-d40a-493f-a344-053869d32e28",
+        "type": "message",
+        "text": "So, I am trying to put all the bits and pieces together in one function, but I am getting the error:\n\n```TypeError: basic_recommendation_engine() takes 0 positional arguments but 2 were given```\nI did define 2 positional arguments though, so not quite sure where it might be coming from",
+        "user": "U021ZC6JR28",
+        "ts": "1626366085.072000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, I am trying to put all the bits and pieces together in one function, but I am getting the error:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TypeError: basic_recommendation_engine() takes 0 positional arguments but 2 were given"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI did define 2 positional arguments though, so not quite sure where it might be coming from"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4221f14c-f5e8-4a0f-97ca-aedd463995b5",
+        "type": "message",
+        "text": "you defined 2 positional arguments at the time of defining basic_recommendation_engine() ?",
+        "user": "U021UNQGZC4",
+        "ts": "1626367396.072600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2YJ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you defined 2 positional arguments at the time of defining basic_recommendation_engine() ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad151433-4a86-43a8-9366-64a4ce3b7457",
+        "type": "message",
+        "text": "because it would be super easy to write your function as\ndef basic_recommendation_engine() :\nblahblah\n\ninstead of\n```basic_recommendation_engine(a,b):```\n",
+        "user": "U021UNQGZC4",
+        "ts": "1626367432.073300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1QU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "because it would be super easy to write your function as\ndef basic_recommendation_engine() :\nblahblah\n\ninstead of\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "basic_recommendation_engine(a,b):"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626367432.073300",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1626368275.075000",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U0225RJ6SNM",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626367446.073400"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626367462.073800"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626367705.074200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626367850.074500"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626368040.074800"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626368275.075000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F028KRRNBHP",
+                "created": 1626367443,
+                "timestamp": 1626367443,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6JR28",
+                "editable": false,
+                "size": 20903,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028KRRNBHP\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028KRRNBHP\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028KRRNBHP-83d184bfb6\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028KRRNBHP-83d184bfb6\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028KRRNBHP-83d184bfb6\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 35,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028KRRNBHP-83d184bfb6\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 46,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028KRRNBHP-83d184bfb6\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028KRRNBHP-83d184bfb6\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 69,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028KRRNBHP-83d184bfb6\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 77,
+                "original_w": 914,
+                "original_h": 88,
+                "thumb_tiny": "AwAEADC+3GMUEc96H7Up60AIB9aMdOtKP60ncUDDH16Uqij\/AAoWgD\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6JR28\/F028KRRNBHP\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028KRRNBHP-fd83f8ddd5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021ZC6JR28",
+        "display_as_bot": false,
+        "ts": "1626367446.073400",
+        "thread_ts": "1626367432.073300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "dc5a8a9b-26e2-4fd5-ac79-ef97207b1d10",
+        "type": "message",
+        "text": "that’s the defined function",
+        "user": "U021ZC6JR28",
+        "ts": "1626367462.073800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bmM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that’s the defined function"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626367432.073300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "5488f5d7-a908-42db-9b30-4ca243ae3905",
+        "type": "message",
+        "text": "I think that the function  should be defined as basic_recommendation_engine(), so when you call it, what will be the independent variable of your function is the input (the user's song)",
+        "user": "U0225RJ6SNM",
+        "ts": "1626367705.074200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0225RJ6SNM",
+            "ts": "1626367969.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=pAP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think that the function  should be defined as basic_recommendation_engine(), so when you call it, what will be the independent variable of your function is the input (the user's song)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626367432.073300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "8836030d-899e-4079-8331-361b3929a274",
+        "type": "message",
+        "text": "hmm, well i understand the error, dont understand why you are getting it in this case! maybe its one to share the snippet of the whole function",
+        "user": "U021UNQGZC4",
+        "ts": "1626367850.074500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Y3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm, well i understand the error, dont understand why you are getting it in this case! maybe its one to share the snippet of the whole function"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626367432.073300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "388bbc6c-559a-48fa-9e43-d0f4f3f61e13",
+        "type": "message",
+        "text": "Will do later (just shut down jupyter), but in any case it can wait until tomorrow morning. My eyes are falling out and best approach it with a fresh head.\n\nAt this point it’s just an error that occurs when I try to combine my different functions into a larger one, but could run all of them sequentially without an issue :slightly_smiling_face:\n\n<@U0225RJ6SNM> - Tried that approach at the beginning as well, but unfortunately with no luck :confused:",
+        "user": "U021ZC6JR28",
+        "ts": "1626368040.074800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GWnST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do later (just shut down jupyter), but in any case it can wait until tomorrow morning. My eyes are falling out and best approach it with a fresh head.\n\nAt this point it’s just an error that occurs when I try to combine my different functions into a larger one, but could run all of them sequentially without an issue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ6SNM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Tried that approach at the beginning as well, but unfortunately with no luck "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626367432.073300",
+        "parent_user_id": "U021UNQGZC4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2663bdbc-4341-45ea-a57b-b6ad3af54f0e",
+        "type": "message",
+        "text": "yeah, good rest is always a good help to solve problems.\nsee you tomorrow!",
+        "user": "U0225RJ6SNM",
+        "ts": "1626368275.075000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah, good rest is always a good help to solve problems.\nsee you tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626367432.073300",
+        "parent_user_id": "U021UNQGZC4"
+    }
+]

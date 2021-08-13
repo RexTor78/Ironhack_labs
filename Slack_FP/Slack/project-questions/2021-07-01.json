@@ -1,0 +1,742 @@
+[
+    {
+        "client_msg_id": "75dc8b11-3fcc-4584-b60c-0928e248988d",
+        "type": "message",
+        "text": "a few students have asked for clarification on the deliverables ….\n\n• a presentation, max 5 mins (we will cut you off) which can be delivered with the help of slides, tableau dashboard or stories, a jupyter notebook with slide option configured, any other presentation mode that you think makes sense - remember the presentation should be rehearsed and slick, with useful and easy to follow visuals, not too much code or text heavy please-  as there will be external observers in the room \n• a github repo, containing your work from this week and relevant links, that is well structured (it should be obvious what is the final version, for example, and supporting files, which has a readme which helps us to navigate. \n• as mentioned <https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Projects\/Mid_Bootcamp\/Data_Thieves.md|here> please do include your kanban board in your repo\/readme.\n• the readme *can* also be used for the short technical paper, but this could equally be created in Medium, or a pdf etc - the purpose of the paper is to describe your methods  in detail and your analytical findings, which you will not have time in the presentation to cover. \nhere are some examples :\n*this is a read me including a summary* <https:\/\/github.com\/MikkiSeidenschnur\/data_ber_dota2_winpredictor>\n*this readme includes just a description of the approach, and navigation, but no insights* <https:\/\/github.com\/annafonte\/forecasting-sdgs>\n*this is a technical summary in medium* <https:\/\/raulcastmartit.medium.com\/tourism-for-low-income-c4295f7b2c97>",
+        "user": "U021UNQGZC4",
+        "ts": "1625128632.040000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghW\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a few students have asked for clarification on the deliverables ….\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a presentation, max 5 mins (we will cut you off) which can be delivered with the help of slides, tableau dashboard or stories, a jupyter notebook with slide option configured, any other presentation mode that you think makes sense - remember the presentation should be rehearsed and slick, with useful and easy to follow visuals, not too much code or text heavy please-  as there will be external observers in the room "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a github repo, containing your work from this week and relevant links, that is well structured (it should be obvious what is the final version, for example, and supporting files, which has a readme which helps us to navigate. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "as mentioned "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BEES-DAFT-MAY21\/blob\/main\/Projects\/Mid_Bootcamp\/Data_Thieves.md",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " please do include your kanban board in your repo\/readme."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the readme"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " can",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " also be used for the short technical paper, but this could equally be created in Medium, or a pdf etc - the purpose of the paper is to describe your methods  in detail and your analytical findings, which you will not have time in the presentation to cover. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nhere are some examples :\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "this is a read me including a summary",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/MikkiSeidenschnur\/data_ber_dota2_winpredictor"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "this readme includes just a description of the approach, and navigation, but no insights",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/annafonte\/forecasting-sdgs"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "this is a technical summary in medium",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/raulcastmartit.medium.com\/tourism-for-low-income-c4295f7b2c97"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi :slightly_smiling_face: Does anybody know how to change the names of the labels that appear in these rectangles? - Instead of 'Recuento de meteorites_final.csv' I'd like to have: 'Number of meteorites'",
+        "files": [
+            {
+                "id": "F0275KM9UBT",
+                "created": 1625136976,
+                "timestamp": 1625136976,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021TDMLNTD",
+                "editable": false,
+                "size": 82277,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0275KM9UBT\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0275KM9UBT\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275KM9UBT-92ff7c1cd4\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275KM9UBT-92ff7c1cd4\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275KM9UBT-92ff7c1cd4\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 106,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275KM9UBT-92ff7c1cd4\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 141,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275KM9UBT-92ff7c1cd4\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275KM9UBT-92ff7c1cd4\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 212,
+                "original_w": 726,
+                "original_h": 214,
+                "thumb_tiny": "AwAOADC0sCmQSZIOOlSeUvqaYr7eozTvOH92q1IvEXyl\/vUvlAfxGm+cP7tHnD+7RqHuh5YJP3j+VNdAuOvPrS+bz3H401n3Y68etNXE+W2h\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021TDMLNTD\/F0275KM9UBT\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0275KM9UBT-c2a9a965c6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V+oR9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Does anybody know how to change the names of the labels that appear in these rectangles? - Instead of 'Recuento de meteorites_final.csv' I'd like to have: 'Number of meteorites'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021TDMLNTD",
+        "display_as_bot": false,
+        "ts": "1625137049.042400",
+        "thread_ts": "1625137049.042400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625138756.044100",
+        "reply_users": [
+            "U021Q54K3B7"
+        ],
+        "replies": [
+            {
+                "user": "U021Q54K3B7",
+                "ts": "1625138756.044100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bd6310e8-c0d8-4d03-9cd2-8c5de271b192",
+        "type": "message",
+        "text": "yes! click on the tooltip in the marks card to edit the content of that one",
+        "user": "U021UNQGZC4",
+        "ts": "1625137562.043000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HwE2r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes! click on the tooltip in the marks card to edit the content of that one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625137562.043000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625137902.043900",
+        "reply_users": [
+            "U021TDMLNTD"
+        ],
+        "replies": [
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1625137902.043900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0275LP99EV",
+                "created": 1625137608,
+                "timestamp": 1625137608,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 48288,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0275LP99EV\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0275LP99EV\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275LP99EV-1af55835ee\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275LP99EV-1af55835ee\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275LP99EV-1af55835ee\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 321,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275LP99EV-1af55835ee\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 428,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275LP99EV-1af55835ee\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 560,
+                "original_h": 628,
+                "thumb_tiny": "AwAwACq68m1sbWPvmk88\/wDPM1Luxxz+VLzTFqQickgeU1S4bjBAFLzSjpSAbhvUflRh\/wC8PypRjHFLQMbn3o5zyaD25xTS3PQ8e1AD6UdKaOcEHtTh0oABjHFFAOaKAI3bauTu4HaoTNycFgD7CrNFMRCkyllUBvSpT1WlpD1WkMcPpRQM96KAP\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0275LP99EV\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0275LP99EV-caa71c2838",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625137610.043100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F027GN0LDQ8",
+                "created": 1625137866,
+                "timestamp": 1625137866,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 193926,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027GN0LDQ8\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027GN0LDQ8\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 259,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 345,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 518,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 576,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 691,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GN0LDQ8-10cb2c1328\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 737,
+                "original_w": 1198,
+                "original_h": 862,
+                "thumb_tiny": "AwAiADDQ60hxjqAaUdKdigBmM9D+lBVuxx+FOMa9uPpRt9zQA3GOp\/Sk+p\/8dqRgAOOP0pu7GeR+dABkDjOKMj+8aaRnnNGDnr\/OgB2f9o0Z\/wBs0DgUUAKGHTOSKUnim0UAQgkdzQGOTyaBSDqaS2Gx2T6mk3HA5NFJ2FMQoY+p796Xcc9T0po\/xpe\/4UAf\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027GN0LDQ8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027GN0LDQ8-63140fdb4c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625137870.043400",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aefe8a4a-1eb4-434c-ba1b-0355f83d5f2e",
+        "type": "message",
+        "text": "Thanks!! &lt;3",
+        "user": "U021TDMLNTD",
+        "ts": "1625137902.043900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Shs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!! <3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625137562.043000",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "d0f8a7f6-5bf9-4ab8-a4d4-a6e1c698525f",
+        "type": "message",
+        "text": "that looks interesting!",
+        "user": "U021Q54K3B7",
+        "ts": "1625138756.044100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bf2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that looks interesting!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625137049.042400",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "85ac58de-6e0d-4941-8905-4781371ec24b",
+        "type": "message",
+        "text": "Hello I have a question is possible to not show the outliers in tableau",
+        "user": "U0225RJ5989",
+        "ts": "1625141144.045300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "19cfb86a6127",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2068448353972_19cfb86a6127901c76d3_72.png",
+            "first_name": "",
+            "real_name": "Fernando Arancibia",
+            "display_name": "Fernando Arancibia",
+            "team": "T021KE79B9B",
+            "name": "ferna.arancibia.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SV+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello I have a question is possible to not show the outliers in tableau"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F027GT0KUM6",
+                "created": 1625141149,
+                "timestamp": 1625141149,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0225RJ5989",
+                "editable": false,
+                "size": 18379,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027GT0KUM6\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027GT0KUM6\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GT0KUM6-a7c1bbb4f3\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GT0KUM6-a7c1bbb4f3\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GT0KUM6-a7c1bbb4f3\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 333,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GT0KUM6-a7c1bbb4f3\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 348,
+                "original_h": 376,
+                "thumb_tiny": "AwAwACzSBzS0gNBIKnFAC0U1TwSacDnpQAUUjHA4oXkUAIDkHjtSKOD3pwx2GKWgBAMgg0fdBoJ4JoB3CgAByKWkPAoByM0AAGM0Y4IpqZwcj9aEztPGPxpXGKB8p4xQB8vApFJ2Hjn60Anyzxz9aLisKc7OOtKudoz1puT5ecHP1py5KjNO4H\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0225RJ5989\/F027GT0KUM6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027GT0KUM6-53bf778f60",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0225RJ5989",
+        "display_as_bot": false,
+        "ts": "1625141155.045400",
+        "thread_ts": "1625141155.045400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1625143030.046300",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RJ5989"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625142555.045900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625142720.046100"
+            },
+            {
+                "user": "U0225RJ5989",
+                "ts": "1625143030.046300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dd6b9e83-11cc-49b3-bddc-b29556c66e1e",
+        "type": "message",
+        "text": "yes you would either click on the points to select them and then manually exclude them, or else perhaps easier, make them very small or white ?",
+        "user": "U021UNQGZC4",
+        "ts": "1625142555.045900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPaT+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes you would either click on the points to select them and then manually exclude them, or else perhaps easier, make them very small or white ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625141155.045400",
+        "parent_user_id": "U0225RJ5989"
+    },
+    {
+        "client_msg_id": "3325dc33-d9ca-4c81-b41d-beb76eacbcc2",
+        "type": "message",
+        "text": "the mathematical solution will take longer - you need to work out the IQR by calculating the 25th and 75th percentile, an outlier is any point over or under 1.5 * the IQR. but this will take substantially longer",
+        "user": "U021UNQGZC4",
+        "ts": "1625142720.046100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xX6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the mathematical solution will take longer - you need to work out the IQR by calculating the 25th and 75th percentile, an outlier is any point over or under 1.5 * the IQR. but this will take substantially longer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625141155.045400",
+        "parent_user_id": "U0225RJ5989"
+    },
+    {
+        "client_msg_id": "d8318609-d3f4-4c24-a4d3-b2695df483ce",
+        "type": "message",
+        "text": "Thanks Sian I going to try",
+        "user": "U0225RJ5989",
+        "ts": "1625143030.046300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "19cfb86a6127",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2068448353972_19cfb86a6127901c76d3_72.png",
+            "first_name": "",
+            "real_name": "Fernando Arancibia",
+            "display_name": "Fernando Arancibia",
+            "team": "T021KE79B9B",
+            "name": "ferna.arancibia.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+dPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sian I going to try"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625141155.045400",
+        "parent_user_id": "U0225RJ5989"
+    }
+]

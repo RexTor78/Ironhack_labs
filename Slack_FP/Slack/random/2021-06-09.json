@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "e265dc21-1fec-41de-a03f-47370d253225",
+        "type": "message",
+        "text": "<!channel>,\nmorning sunshines!\nIdea: Every morning at 9am you get 5-10 minutes to shine! :sunny: Show off with your special skills, show us magic tricks, sing an opera, play an instrument, tell us about your last holiday to the arctic, .... and let's get the most of that great diversity that all of us bring to the course!\nps: Don't overthink it! :wink:\n\n*Week 3*\t\nMonday - Lucas\nTuesday - Andre\nWednesday - Anna\nThursday - Andrea\n\t\n*Week 4*\t\nMonday - Héctor\nTuesday - Jennifer\nWednesday - Pedro\nThursday - Arya\n\t\n*Week 6*\t\nMonday - Majed\nTuesday - Walter\nWednesday - Marta\nThursday -  Gellért\n\t\n*Week 7*\t\nMonday - Axana\nTuesday - Dámaris\nWednesday - Nayib\nThursday - Fernando\n\t\n*Week 8*\t\nMonday - Ángela\nTuesday - Uroš\nWednesday - Sathiya\nThursday - Julia",
+        "user": "U021WEXHN4E",
+        "ts": "1623223729.004200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1623224206.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "usK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nmorning sunshines!\nIdea: Every morning at 9am you get 5-10 minutes to shine! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Show off with your special skills, show us magic tricks, sing an opera, play an instrument, tell us about your last holiday to the arctic, .... and let's get the most of that great diversity that all of us bring to the course!\nps: Don't overthink it! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Lucas\nTuesday - Andre\nWednesday - Anna\nThursday - Andrea\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 4",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Héctor\nTuesday - Jennifer\nWednesday - Pedro\nThursday - Arya\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 6",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Majed\nTuesday - Walter\nWednesday - Marta\nThursday -  Gellért\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 7",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Axana\nTuesday - Dámaris\nWednesday - Nayib\nThursday - Fernando\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Ángela\nTuesday - Uroš\nWednesday - Sathiya\nThursday - Julia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

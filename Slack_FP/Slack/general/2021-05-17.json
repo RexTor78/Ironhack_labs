@@ -1,0 +1,477 @@
+[
+    {
+        "client_msg_id": "a07e053b-9e24-4c65-8cda-eddc38a6cb5c",
+        "type": "message",
+        "text": "If any of you finish the pre work and want to be more prepared for the topics in this course which tend to trip students up :\n\n<https:\/\/www.khanacademy.org\/math\/statistics-probability> - lots of useful components on this course- highly recommended self paced learning to prepare anyone who is not completely confident with applying statistics\n\n<https:\/\/guides.github.com\/activities\/hello-world\/> we will be using github for collaborative projects but also day to day, to share resources and for you to store and submit your labwork. You will see examples of such steps on this <https:\/\/www.youtube.com\/watch?v=fQLK8Ib_SKk|youtube video>. Learning the basics of how to use github will make your bootcamp life easier, plus I can recommend installing a visual front end tool for github called <https:\/\/www.gitkraken.com\/git-client|gitkraken> (make sure your repository is public!)",
+        "user": "U021UNQGZC4",
+        "ts": "1621234807.005900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Khan Academy",
+                "title": "Statistics and Probability | Khan Academy",
+                "title_link": "https:\/\/www.khanacademy.org\/math\/statistics-probability",
+                "text": "Learn statistics and probability for free—everything you'd want to know about descriptive and inferential statistics. Full curriculum of exercises and videos.",
+                "fallback": "Khan Academy: Statistics and Probability | Khan Academy",
+                "image_url": "https:\/\/cdn.kastatic.org\/images\/khan-logo-dark-background-2.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.khanacademy.org\/math\/statistics-probability",
+                "image_bytes": 4675,
+                "service_icon": "https:\/\/cdn.kastatic.org\/images\/apple-touch-icon-57x57-precomposed.new.png",
+                "id": 1,
+                "original_url": "https:\/\/www.khanacademy.org\/math\/statistics-probability"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Git &amp; GitHub Tutorial for Beginners #10 - Introduction to GitHub",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=fQLK8Ib_SKk",
+                "author_name": "The Net Ninja",
+                "author_link": "https:\/\/www.youtube.com\/c\/TheNetNinja",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/fQLK8Ib_SKk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Git & GitHub Tutorial for Beginners #10 - Introduction to GitHub",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/fQLK8Ib_SKk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=fQLK8Ib_SKk",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=fQLK8Ib_SKk"
+            },
+            {
+                "service_name": "GitKraken.com",
+                "title": "Best Git Client for Windows, Mac, Linux | GitKraken",
+                "title_link": "https:\/\/www.gitkraken.com\/git-client",
+                "text": "GitKraken is the best Git client for Windows, Mac &amp; Linux! Streamline your Git workflow by connecting GitHub, GitLab, Bitbucket or Azure DevOps repos &amp; integrate with Jira, Trello, GitHub or GitLab issues.",
+                "fallback": "GitKraken.com: Best Git Client for Windows, Mac, Linux | GitKraken",
+                "image_url": "https:\/\/www.gitkraken.com\/img\/og\/og-git-client.png",
+                "from_url": "https:\/\/www.gitkraken.com\/git-client",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 122527,
+                "service_icon": "https:\/\/www.gitkraken.com\/apple-touch-icon-57x57.png",
+                "id": 3,
+                "original_url": "https:\/\/www.gitkraken.com\/git-client"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hvpxh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If any of you finish the pre work and want to be more prepared for the topics in this course which tend to trip students up :\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.khanacademy.org\/math\/statistics-probability"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - lots of useful components on this course- highly recommended self paced learning to prepare anyone who is not completely confident with applying statistics\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.github.com\/activities\/hello-world\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we will be using github for collaborative projects but also day to day, to share resources and for you to store and submit your labwork. You will see examples of such steps on this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=fQLK8Ib_SKk",
+                                "text": "youtube video"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Learning the basics of how to use github will make your bootcamp life easier, plus I can recommend installing a visual front end tool for github called "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gitkraken.com\/git-client",
+                                "text": "gitkraken"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (make sure your repository is public!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f48363f4-6250-4805-8458-2861b46f7b48",
+        "type": "message",
+        "text": "adding this one too - intro to anaconda - as you may know the course involves a lot of python, and we recommend anaconda as a package manager, to launch jupyter notebook, while using conda environments to install modules\/ libraries <https:\/\/docs.anaconda.com\/anaconda\/user-guide\/?utm_source=anaconda.com&amp;utm_medium=individual-get-started>",
+        "user": "U021UNQGZC4",
+        "ts": "1621238853.008100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t83od",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "adding this one too - intro to anaconda - as you may know the course involves a lot of python, and we recommend anaconda as a package manager, to launch jupyter notebook, while using conda environments to install modules\/ libraries "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.anaconda.com\/anaconda\/user-guide\/?utm_source=anaconda.com&utm_medium=individual-get-started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621238853.008100",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1621259895.009900",
+        "reply_users": [
+            "U021ZC6L676",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6L676",
+                "ts": "1621252080.008700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621253323.008900"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1621255371.009300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621259682.009500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1621259684.009700"
+            },
+            {
+                "user": "U021ZC6L676",
+                "ts": "1621259895.009900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1f158e08-2572-4dbb-9217-21c13c637e0b",
+        "type": "message",
+        "text": "Hi there, i'm using VSC, is that ok?",
+        "user": "U021ZC6L676",
+        "ts": "1621252080.008700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UXuS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi there, i'm using VSC, is that ok?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621238853.008100",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "type": "message",
+        "text": "no problem from my side if you use visual studio - just to be aware we will teach from anaconda and colab.\ni just looked at this site, and it sounds as though you will need to do the set up with an anaconda env, or equivalent env anyway <https:\/\/code.visualstudio.com\/docs\/python\/jupyter-support>",
+        "files": [
+            {
+                "id": "F021NTC72T1",
+                "created": 1621253262,
+                "timestamp": 1621253262,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 57357,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F021NTC72T1\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F021NTC72T1\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F021NTC72T1-0b81bd78d8\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F021NTC72T1-0b81bd78d8\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F021NTC72T1-0b81bd78d8\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 143,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F021NTC72T1-0b81bd78d8\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 190,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F021NTC72T1-0b81bd78d8\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F021NTC72T1-0b81bd78d8\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 286,
+                "original_w": 794,
+                "original_h": 315,
+                "thumb_tiny": "AwATADDRJOev6Ubj\/kUh69vyo\/L8qAF3H1\/Sl3e1N\/L8qPy\/KgB24UA5pMn1pQfegBG60mKU9aKAFAGOlLgelIOlLQAYHpR0oooA\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F021NTC72T1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F021NTC72T1-68525b7289",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no problem from my side if you use visual studio - just to be aware we will teach from anaconda and colab.\ni just looked at this site, and it sounds as though you will need to do the set up with an anaconda env, or equivalent env anyway "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/code.visualstudio.com\/docs\/python\/jupyter-support"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1621253323.008900",
+        "thread_ts": "1621238853.008100",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "4832ef57-ad59-45ea-978f-e235231132a2",
+        "type": "message",
+        "text": "i'm all setup for JupyterNotebook (did the programming prework in VSC)",
+        "user": "U021ZC6L676",
+        "ts": "1621255371.009300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4IB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm all setup for JupyterNotebook (did the programming prework in VSC)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621238853.008100",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "2e1bbd5d-8464-47ea-bc9e-0e655685e401",
+        "type": "message",
+        "text": "ok perfect. then no worries",
+        "user": "U021UNQGZC4",
+        "ts": "1621259682.009500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k7gT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok perfect. then no worries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621238853.008100",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "e1b4b22e-9001-4b7a-bd06-68a6e4a4c6f8",
+        "type": "message",
+        "text": ":)",
+        "user": "U021UNQGZC4",
+        "ts": "1621259684.009700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621238853.008100",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "1248513c-f6d5-492a-acdc-b4f6005f4355",
+        "type": "message",
+        "text": "cool, thanks!",
+        "user": "U021ZC6L676",
+        "ts": "1621259895.009900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7lcDU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621238853.008100",
+        "parent_user_id": "U021UNQGZC4"
+    }
+]

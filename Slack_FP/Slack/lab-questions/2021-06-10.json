@@ -1,0 +1,520 @@
+[
+    {
+        "client_msg_id": "ee0bb088-7bcf-4d19-9a2a-d34644e7ea0c",
+        "type": "message",
+        "text": "silly question here… for the 3rd point of todays lab, where it says “Create a map showing city and country of birth” is the City the City of Birth or just City?",
+        "user": "U021Q53LBPX",
+        "ts": "1623330294.012900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BKLT4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "silly question here… for the 3rd point of todays lab, where it says “Create a map showing city and country of birth” is the City the City of Birth or just City?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623330294.012900",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1623330965.015000",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U021Q53LBPX",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1623330355.013800"
+            },
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1623330375.014100"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1623330381.014400"
+            },
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1623330441.014600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623330944.014800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623330965.015000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "60d6d064-e9f2-4cb0-a0cc-a99c225b5de8",
+        "type": "message",
+        "text": "sorry not trying to be difficult or annoying here!  :sweat_smile:",
+        "user": "U021Q53LBPX",
+        "ts": "1623330315.013300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BWZS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry not trying to be difficult or annoying here!  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44380736-5e77-464b-be72-c521ebcc4959",
+        "type": "message",
+        "text": "city of birth should be correct…just city should be the place of residence while winning the award",
+        "user": "U021ZC6JR28",
+        "ts": "1623330355.013800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021ZC6JR28",
+            "ts": "1623330375.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDe\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "city of birth should be correct…just city should be the place of residence while winning the award"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623330294.012900",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "773f21a2-0073-425e-9494-ad69be5e0f86",
+        "type": "message",
+        "text": "thanks",
+        "user": "U021Q53LBPX",
+        "ts": "1623330375.014100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UBT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623330294.012900",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "d2756694-b7ff-4f79-8063-f096d9c94ef7",
+        "type": "message",
+        "text": "no worries",
+        "user": "U021ZC6JR28",
+        "ts": "1623330381.014400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KCvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no worries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623330294.012900",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "faf8ed86-4db5-4dbe-aa44-20edd1c9e8ba",
+        "type": "message",
+        "text": "not sure though since city of birth is not a geographical data type. we can change it i guess but its making me doubt since “City” is geographical type",
+        "user": "U021Q53LBPX",
+        "ts": "1623330441.014600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure though since city of birth is not a geographical data type. we can change it i guess but its making me doubt since “City” is geographical type"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623330294.012900",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "fd1500dd-e102-4f8c-b517-bd114ea1d62e",
+        "type": "message",
+        "text": "city of birth, definitely",
+        "user": "U021UNQGZC4",
+        "ts": "1623330944.014800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oSj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "city of birth, definitely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623330294.012900",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "b186ca20-49d6-4e6f-a794-b7917e1a95d2",
+        "type": "message",
+        "text": "ill rephrase the qu Lucas!",
+        "user": "U021UNQGZC4",
+        "ts": "1623330965.015000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WagF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ill rephrase the qu Lucas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623330294.012900",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "2aee7a69-fa89-4496-8609-0860dc854b43",
+        "type": "message",
+        "text": "I had a bit of trouble following the instruction for *question 1 on the extra lab on time series.* Other than the effective to date data points I cannot spot data that includes actual weekdays.",
+        "user": "U021ZC6JR28",
+        "ts": "1623338205.016800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LY4q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had a bit of trouble following the instruction for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "question 1 on the extra lab on time series. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Other than the effective to date data points I cannot spot data that includes actual weekdays."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623338205.016800",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1623339057.017100",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623338971.016900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623339057.017100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "26ed34e0-b66e-409a-8c85-94588208a2e5",
+        "type": "message",
+        "text": "its the only date we have - agree its not perfect, but use that effective to date :)",
+        "user": "U021UNQGZC4",
+        "ts": "1623338971.016900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1NE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its the only date we have - agree its not perfect, but use that effective to date :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623338205.016800",
+        "parent_user_id": "U021ZC6JR28",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021ZC6JR28"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "428df380-2334-43c6-8271-073ad3e57d4a",
+        "type": "message",
+        "text": "assume its a stand in for any date",
+        "user": "U021UNQGZC4",
+        "ts": "1623339057.017100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HFj8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "assume its a stand in for any date"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623338205.016800",
+        "parent_user_id": "U021ZC6JR28"
+    }
+]

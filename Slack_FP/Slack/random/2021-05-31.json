@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "083f5392-30c1-4037-a636-29f15de1f26b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=cbX0xwKORjk>",
+        "user": "U021UNQGZC4",
+        "ts": "1622460736.000200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Proper Hand Washing Technique",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=cbX0xwKORjk",
+                "author_name": "david gravelle",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCk2erCFilOTQGoUogk8LKIg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/cbX0xwKORjk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Proper Hand Washing Technique",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/cbX0xwKORjk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=cbX0xwKORjk",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=cbX0xwKORjk"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6r5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=cbX0xwKORjk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

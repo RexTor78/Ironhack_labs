@@ -1,0 +1,957 @@
+[
+    {
+        "client_msg_id": "f1cc4d91-581f-4798-ab2b-d7e8d089da7a",
+        "type": "message",
+        "text": "Retro miro here: <https:\/\/miro.com\/app\/board\/o9J_l7IJbIw=\/>",
+        "user": "U021NHS652N",
+        "ts": "1625815095.065500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gQQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Retro miro here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miro.com\/app\/board\/o9J_l7IJbIw=\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "notebook from today to accompany the slides - its also on the Notion lecture\n\ni realised afterward why I was getting confused with (0.05,n-1) thats with a different method, for comparing two samples using the t test (from scipy.stats import t) which i had not planned to cover this lesson. Sorry! I have brought it into my notebook and added an example with 2 samples, cholesterol test - so you can see how this syntax is used to compare differences in mean and standard deviation !",
+        "files": [
+            {
+                "id": "F02757T1E6B",
+                "created": 1625831040,
+                "timestamp": 1625831040,
+                "name": "statistical_tests_9_jul.ipynb.zip",
+                "title": "statistical_tests_9_jul.ipynb.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 3830,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02757T1E6B\/statistical_tests_9_jul.ipynb.zip?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02757T1E6B\/download\/statistical_tests_9_jul.ipynb.zip?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F02757T1E6B\/statistical_tests_9_jul.ipynb.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02757T1E6B-66ec3800d6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=xR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "notebook from today to accompany the slides - its also on the Notion lecture\n\ni realised afterward why I was getting confused with (0.05,n-1) thats with a different method, for comparing two samples using the t test (from scipy.stats import t) which i had not planned to cover this lesson. Sorry! I have brought it into my notebook and added an example with 2 samples, cholesterol test - so you can see how this syntax is used to compare differences in mean and standard deviation !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1625831252.067800"
+    },
+    {
+        "bot_id": "B023LG3AHRQ",
+        "type": "message",
+        "text": "sotired",
+        "user": "U021UNQGZC4",
+        "ts": "1625831269.068100",
+        "team": "T021KE79B9B",
+        "bot_profile": {
+            "id": "B023LG3AHRQ",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1622531502,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T021KE79B9B"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "BOWHV",
+                "image_url": "https:\/\/media4.giphy.com\/media\/lShKLinpI0mP0eQDz6\/giphy-downsized.gif?cid=6104955edd9d9c9efc7a8c98775292cddd5f79b709e2d97d&rid=giphy-downsized.gif&ct=g&cid=6104955edd9d9c9efc7a8c98775292cddd5f79b709e2d97d&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "sotired",
+                "title": {
+                    "type": "plain_text",
+                    "text": "sotired",
+                    "emoji": true
+                },
+                "fallback": "341x255px image",
+                "image_width": 341,
+                "image_height": 255,
+                "image_bytes": 1516578,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "XFZ",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/93824\/img\/shortcuts\/shortcuts_icon_32.png",
+                        "alt_text": "shortcuts icon"
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Shared with the *Giphy* shortcut | GIF by <https:\/\/giphy.com\/myHQ_workspaces\/|myHQ>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ee03f6f-c22f-4f62-b09d-3deb31f008f3",
+        "type": "message",
+        "text": "but feel free to DM me or thread here if this example does not make sense with the syntax :\n*statistic = t.ppf(0.005, n-1)*\nthis is a 2 tailed t test using a 0.01 standard threshold",
+        "user": "U021UNQGZC4",
+        "ts": "1625831393.069300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but feel free to DM me or thread here if this example does not make sense with the syntax :\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "statistic = t.ppf(0.005, n-1)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis is a 2 tailed t test using a 0.01 standard threshold"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "dataset for today’s lecture",
+        "files": [
+            {
+                "id": "F027L2GE30S",
+                "created": 1625833065,
+                "timestamp": 1625833065,
+                "name": "customer_segmentation.csv",
+                "title": "customer_segmentation.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U021NHS652N",
+                "editable": false,
+                "size": 45580638,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027L2GE30S\/customer_segmentation.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027L2GE30S\/download\/customer_segmentation.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021NHS652N\/F027L2GE30S\/customer_segmentation.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027L2GE30S-17a4e64121",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dataset for today’s lecture"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021NHS652N",
+        "display_as_bot": false,
+        "ts": "1625833076.069600"
+    },
+    {
+        "type": "message",
+        "text": "screenshots from the lab set up lecture for your reference- we talked through the Fixed LOD expression, then worked on the RFM - Recency\n• first - tag each customer with a date \n• then work out how many days, weeks or months since the last payment \n• finally, tag each customer with their position on the recency percentile distribution",
+        "files": [
+            {
+                "id": "F0275HAJRQX",
+                "created": 1625837056,
+                "timestamp": 1625837056,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 120239,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0275HAJRQX\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0275HAJRQX\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 186,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 248,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 372,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 413,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 496,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0275HAJRQX-8c80a4bfbf\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 529,
+                "original_w": 1468,
+                "original_h": 758,
+                "thumb_tiny": "AwAYADDRzRmj8vyo474\/KgBd3tRkUce35UAcdvyoAM\/5xS0nPtS0AN4pcCmjpRQA7A9qDim0UAO4pvmAHbg\/lQaQdaBM\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0275HAJRQX\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0275HAJRQX-2f8e1fee69",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F027H94BXRB",
+                "created": 1625837378,
+                "timestamp": 1625837378,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 35010,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027H94BXRB\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027H94BXRB\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H94BXRB-78574cbb9e\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H94BXRB-78574cbb9e\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H94BXRB-78574cbb9e\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 181,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H94BXRB-78574cbb9e\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 241,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H94BXRB-78574cbb9e\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H94BXRB-78574cbb9e\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 361,
+                "original_w": 737,
+                "original_h": 370,
+                "thumb_tiny": "AwAYADDS\/wA9aP8APWkyc9OKUZPtQAZ+n50vPpRRzQAc0Uc0dqADNFFFABRRRQAU3eM45z9KdUf8f40CZ\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027H94BXRB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027H94BXRB-ec1681f872",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F027H9AKUQM",
+                "created": 1625837446,
+                "timestamp": 1625837446,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 33843,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027H9AKUQM\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027H9AKUQM\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 77,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 102,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 153,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 170,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 204,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027H9AKUQM-aad4bac232\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 218,
+                "original_w": 1188,
+                "original_h": 253,
+                "thumb_tiny": "AwAKADDSFFA6UtACc0UtFACCloooA\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027H9AKUQM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027H9AKUQM-4e656f084c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u62l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "screenshots from the lab set up lecture for your reference- we talked through the Fixed LOD expression, then worked on the RFM - Recency\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "first - tag each customer with a date "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "then work out how many days, weeks or months since the last payment "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "finally, tag each customer with their position on the recency percentile distribution"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "ts": "1625837450.072300"
+    },
+    {
+        "client_msg_id": "402ed4fc-af51-4401-9411-4f6aecc7f41a",
+        "type": "message",
+        "text": "hey <!channel> let’s meet at 4.30 to do short fun activity and forget for a while about DA (just for a while :smile:)",
+        "user": "U021NHS652N",
+        "ts": "1625840183.085500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let’s meet at 4.30 to do short fun activity and forget for a while about DA (just for a while "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a90c0007-d499-448a-91ff-9a0bd4b4111b",
+        "type": "message",
+        "text": "** FEEDBACK on the lab - real estate data predictions **\n\noverall most of you made a good job with this lab. But what we were looking for was at least 3 iterations - and its a shame that we spent a lot of time running through this lab in other lectures, and Miguel did a run through of the lab in class on Wednesday, but I saw many jupyter notebooks that had obviously not been revisited and improved. Remember data analysis is an iterative process - next week you will be building on a notebook every day for the music recommender, so you wont have any choice in adopting this practice!\n\nThe best I saw on this lab came from <@U0225RHK6Q1> <@U021T7DU0BC> <@U021ZC6JR28> <@U0225RGM941> <@U022VC1JD29> :tada:\n\n• things to avoid : \n_It is generally better not to scale your dependent variable, ie the thing you want to predict. In this case that was the *price* column. If you scale that price, then any prediction array you create is hard to make sense of, and the metrics eg MAE become very divorced from the real problem._ \n\n_In some data problems removing the outliers can make your model perform worse with linear regression. Something to watch for!_\n\n_some of you dropped any columns that show correlation - instead, you can identify the highly correlated pairs and drop one from each pair._ \n\n• things to do more of: \n_visualise your data! Especially important to visualise the distributions of each column before and after applying any scaling or log transformation. This tells you if your method was successful because you can see how the shape of your data has changed. Visualise does not just mean do the correlation matrix!_ :face_palm:\n\n_In the EDA stage, identify the clean and wrangling steps and write down directly in the notebook what you have planned to do, to return to later_ :white_check_mark:\n\n_Annotate the cells in your notebook - this is best practice. Next week I will do more of this in class, so I hope to see you copying this--- imagine that someone (like me!) has to try to understand your notebook afterwards, and be sympathetic!_ :pencil2:\n\n_Maybe get in the habit of naming your iterations eg It1,It2,It3, and thus X_it3,y_it3… this avoids confusion when returning to one of your models later_:building_construction:\n\n_Summarise at the end of your notebook - how accurate was each iteration, and compare them. You can do that visually or just in a markdown cell. It makes it much easier for us to review, but also I gave you a placeholder in the outlier for this - don’t leave it empty!_:fire_extinguisher:",
+        "user": "U021UNQGZC4",
+        "ts": "1625841537.089500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "asem",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "** FEEDBACK on the lab - real estate data predictions **\n\noverall most of you made a good job with this lab. But what we were looking for was at least 3 iterations - and its a shame that we spent a lot of time running through this lab in other lectures, and Miguel did a run through of the lab in class on Wednesday, but I saw many jupyter notebooks that had obviously not been revisited and improved. Remember data analysis is an iterative process - next week you will be building on a notebook every day for the music recommender, so you wont have any choice in adopting this practice!\n\nThe best I saw on this lab came from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021T7DU0BC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6JR28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RGM941"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022VC1JD29"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "things to avoid : "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "It is generally better not to scale your dependent variable, ie the thing you want to predict. In this case that was the ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "price ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "column. If you scale that price, then any prediction array you create is hard to make sense of, and the metrics eg MAE become very divorced from the real problem. ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "In some data problems removing the outliers can make your model perform worse with linear regression. Something to watch for!",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "some of you dropped any columns that show correlation - instead, you can identify the highly correlated pairs and drop one from each pair. ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "things to do more of: "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "visualise your data! Especially important to visualise the distributions of each column before and after applying any scaling or log transformation. This tells you if your method was successful because you can see how the shape of your data has changed. Visualise does not just mean do the correlation matrix! ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_palm",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "In the EDA stage, identify the clean and wrangling steps and write down directly in the notebook what you have planned to do, to return to later ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Annotate the cells in your notebook - this is best practice. Next week I will do more of this in class, so I hope to see you copying this--- imagine that someone (like me!) has to try to understand your notebook afterwards, and be sympathetic! ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pencil2",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Maybe get in the habit of naming your iterations eg It1,It2,It3, and thus X_it3,y_it3… this avoids confusion when returning to one of your models later",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "building_construction",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Summarise at the end of your notebook - how accurate was each iteration, and compare them. You can do that visually or just in a markdown cell. It makes it much easier for us to review, but also I gave you a placeholder in the outlier for this - don’t leave it empty!",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire_extinguisher",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625841537.089500",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1625845367.091400",
+        "reply_users": [
+            "U0225RHK6Q1"
+        ],
+        "replies": [
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1625845251.091200"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1625845367.091400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "088b7aee-e4a8-4a18-85b7-d8b668eef864",
+        "type": "message",
+        "text": "also <@U021TDMHF5H> did an amazing job with the credit card classification challenge - so ask him to share his notebook if you are interested in this one\n<@U0225RJ3Z4H> and <@U021ZC6L676> did a good job with the storytelling lab !",
+        "user": "U021UNQGZC4",
+        "ts": "1625842463.090700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3rHi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMHF5H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did an amazing job with the credit card classification challenge - so ask him to share his notebook if you are interested in this one\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ3Z4H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6L676"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did a good job with the storytelling lab !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c0c37a6-0202-4140-a203-db37b8dc323f",
+        "type": "message",
+        "text": "I can't believe i'm in this list:pleading_face: :sob:",
+        "user": "U0225RHK6Q1",
+        "ts": "1625845251.091200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't believe i'm in this list"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625841537.089500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "2dc54d0a-326f-4396-9472-317ce78911b8",
+        "type": "message",
+        "text": "but i still know there's A LOT to improve in my lab, actually i think it's terrible",
+        "user": "U0225RHK6Q1",
+        "ts": "1625845367.091400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q2h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but i still know there's A LOT to improve in my lab, actually i think it's terrible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625841537.089500",
+        "parent_user_id": "U021UNQGZC4"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "eba671f0-75af-4499-8bbb-b7597269a6d4",
+        "type": "message",
+        "text": "tableau + coca cola - interesting data engineering challenge behind a huge operational analysis business case\n<https:\/\/www.tableau.com\/learn\/webinars\/coca-cola-making-sales-operations-come-alive#video>",
+        "user": "U021UNQGZC4",
+        "ts": "1624288773.004800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1624288793.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Tableau",
+                "title": "Coca-Cola: Making Sales &amp; Operations Come Alive",
+                "title_link": "https:\/\/www.tableau.com\/learn\/webinars\/coca-cola-making-sales-operations-come-alive#video",
+                "text": "Find out how Tableau helps refresh their data world and open happiness with the deep insights they get out from their big data.",
+                "fallback": "Tableau: Coca-Cola: Making Sales &amp; Operations Come Alive",
+                "from_url": "https:\/\/www.tableau.com\/learn\/webinars\/coca-cola-making-sales-operations-come-alive#video",
+                "service_icon": "https:\/\/www.tableau.com\/themes\/custom\/tableau_www\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.tableau.com\/learn\/webinars\/coca-cola-making-sales-operations-come-alive#video"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ByI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tableau + coca cola - interesting data engineering challenge behind a huge operational analysis business case\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tableau.com\/learn\/webinars\/coca-cola-making-sales-operations-come-alive#video"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624288773.004800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624290055.005100",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624290055.005100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8321d351-3916-4b1d-8978-8021043a531f",
+        "type": "message",
+        "text": "i cant knowingly add this to viz beauties. watch the video- can you guess why?",
+        "user": "U021UNQGZC4",
+        "ts": "1624290055.005100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ys00q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i cant knowingly add this to viz beauties. watch the video- can you guess why?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624288773.004800",
+        "parent_user_id": "U021UNQGZC4"
+    }
+]

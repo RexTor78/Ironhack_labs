@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "b9e96541-2e65-4ef2-828a-2c2c40c467f1",
+        "type": "message",
+        "text": "Hey <!channel>, in the lab1 of today, the first question can be a little bit misleading. Instead of asking `which are the actors whose last names are not repeated?`, The questions would be `which last names are not repeated?`. If you replace it, the explanation after that makes more sense.",
+        "user": "U021NHS652N",
+        "ts": "1623845370.013200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hts9m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", in the lab1 of today, the first question can be a little bit misleading. Instead of asking "
+                            },
+                            {
+                                "type": "text",
+                                "text": "which are the actors whose last names are not repeated?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", The questions would be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "which last names are not repeated?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If you replace it, the explanation after that makes more sense."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

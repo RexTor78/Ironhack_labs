@@ -1,0 +1,301 @@
+[
+    {
+        "client_msg_id": "6aa60072-a076-4453-aef2-df0fce64e857",
+        "type": "message",
+        "text": "Is there an easy workaround to apply Percentile() to an aggregate i.e. distinct count OR do I need to worked with a nested Fixed() somehow?",
+        "user": "U021ZC6JR28",
+        "ts": "1625836994.031000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KBF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there an easy workaround to apply Percentile() to an aggregate i.e. distinct count OR do I need to worked with a nested Fixed() somehow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625836994.031000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1625837349.031300",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021ZC6JR28"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625837297.031100"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1625837349.031300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c47208ce-8667-497d-9a3a-e9c8b9285e05",
+        "type": "message",
+        "text": "using the comparative percentile you will need to apply a FIXED expression to the top level",
+        "user": "U021UNQGZC4",
+        "ts": "1625837297.031100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NNr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "using the comparative percentile you will need to apply a FIXED expression to the top level"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625836994.031000",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "987474f6-d505-4a9b-928f-48e236f9b975",
+        "type": "message",
+        "text": "got it, thanks!",
+        "user": "U021ZC6JR28",
+        "ts": "1625837349.031300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "got it, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625836994.031000",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "8b2c4b85-7fc9-4a5f-bc2e-903c53ed0d48",
+        "type": "message",
+        "text": "Sian are you uploading your tableau? I think I have some mistakes with the calculations we made, thanks!",
+        "user": "U021Q54K3B7",
+        "ts": "1625837701.031900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MT0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sian are you uploading your tableau? I think I have some mistakes with the calculations we made, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625837701.031900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625838120.032500",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625838120.032500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "05f542df-ba87-4e1c-bf70-4cbf7ea880d2",
+        "type": "message",
+        "text": "can do ! or you can look at the screenshots linked to the lab, which would be more complete",
+        "user": "U021UNQGZC4",
+        "ts": "1625837853.032400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9t=2y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can do ! or you can look at the screenshots linked to the lab, which would be more complete"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a0f6637-9cd5-4937-bb90-daf1ac6d20c4",
+        "type": "message",
+        "text": "its here <https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/ecommerce-rfm-r_only\/exploredateofpurchase>",
+        "user": "U021UNQGZC4",
+        "ts": "1625838120.032500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tableau Public",
+                "title": "ecommerce-rfm-r_only",
+                "title_link": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/ecommerce-rfm-r_only\/exploredateofpurchase",
+                "text": "ecommerce-rfm-r_only",
+                "fallback": "Tableau Public: ecommerce-rfm-r_only",
+                "image_url": "https:\/\/public.tableau.com\/static\/images\/ec\/ecommerce-rfm-r_only\/exploredateofpurchase\/4_3_hd.png",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/ecommerce-rfm-r_only\/exploredateofpurchase",
+                "image_bytes": 223645,
+                "service_icon": "https:\/\/public.tableau.com\/app\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/ecommerce-rfm-r_only\/exploredateofpurchase"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+RYrc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/ecommerce-rfm-r_only\/exploredateofpurchase"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625837701.031900",
+        "parent_user_id": "U021Q54K3B7",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,253 @@
+[
+    {
+        "client_msg_id": "ce15b3bc-a4b1-410c-8bad-647c20904952",
+        "type": "message",
+        "text": "Another confusing challenge with sounds: Do you hear “yanny” or “laurel”?\n<https:\/\/www.youtube.com\/watch?v=DdvN4WqJh6g>\nI hear “yanny” super clearly!",
+        "user": "U021TDMLNTD",
+        "ts": "1626778928.001000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021TDMLNTD",
+            "ts": "1626778960.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Yanny Laurel (Original Video)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=DdvN4WqJh6g",
+                "author_name": "Vayil",
+                "author_link": "https:\/\/www.youtube.com\/c\/JwxrFat",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/DdvN4WqJh6g\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Yanny Laurel (Original Video)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/DdvN4WqJh6g?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=DdvN4WqJh6g",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=DdvN4WqJh6g"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vAaQ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another confusing challenge with sounds: Do you hear “yanny” or “laurel”?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=DdvN4WqJh6g"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI hear “yanny” super clearly!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626778928.001000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1626791780.002200",
+        "reply_users": [
+            "U0225RHK6Q1",
+            "U0225RJ9GQZ"
+        ],
+        "replies": [
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626779646.001400"
+            },
+            {
+                "user": "U0225RJ9GQZ",
+                "ts": "1626791780.002200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2692015-aa23-4787-b14e-d430048786cd",
+        "type": "message",
+        "text": "yanny!",
+        "user": "U0225RHK6Q1",
+        "ts": "1626779646.001400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oL8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yanny!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626778928.001000",
+        "parent_user_id": "U021TDMLNTD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "classic uk news article",
+        "files": [
+            {
+                "id": "F028636RBEK",
+                "created": 1626781897,
+                "timestamp": 1626781897,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 99456,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028636RBEK\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028636RBEK\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028636RBEK-1fc16e8a26\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028636RBEK-1fc16e8a26\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028636RBEK-1fc16e8a26\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 235,
+                "thumb_360_h": 273,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028636RBEK-1fc16e8a26\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 235,
+                "original_h": 273,
+                "thumb_tiny": "AwAwACm6XcuQD39KaZmD7dw+vvTHPzt9aiaSNGwxUHrVWJT7k\/mvnBOD9KWSV403Fs464qEMGGQQQelMklVMA8n0osFyYXDMMhsj6Uvnv6\/pUQIIyuMGinYm49z85+tVZQkzjcSuOOeKvlfmb90p9OetBUbseSpHrmpuXYq7ljiJGCFHaqrgXB3j5SODWk0KnkQJ+dIYE5C26H8aLhYgjAWMKMHAp2farX2WD\/nmtH2eL+4KLhYDGhY5iHPek2JjHlDHXtTimSeF59qDGT1C\/lSGJ5af88hx0oVVVgRHg+tL5Z9E\/KlCc8hcfSgBwbJ5GKWm7F\/uinUAf\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F028636RBEK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028636RBEK-378939dd11",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pft1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "classic uk news article"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626781899.001800"
+    },
+    {
+        "client_msg_id": "50320fee-d583-4561-abfe-c47979b66857",
+        "type": "message",
+        "text": "YannY!!",
+        "user": "U0225RJ9GQZ",
+        "ts": "1626791780.002200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YannY!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626778928.001000",
+        "parent_user_id": "U021TDMLNTD"
+    }
+]

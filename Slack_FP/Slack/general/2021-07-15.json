@@ -1,0 +1,576 @@
+[
+    {
+        "client_msg_id": "0b68acaf-7d01-4c3d-b19a-55ab57a61ae7",
+        "type": "message",
+        "text": "<!channel> please, use this thread to tell us if you are working on teams or individually. With that info we will arrange the presentation order for tomorrow :tada:",
+        "user": "U021NHS652N",
+        "ts": "1626333516.041800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please, use this thread to tell us if you are working on teams or individually. With that info we will arrange the presentation order for tomorrow "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1626334898.043600",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U0234JUMPJQ",
+            "U021T7DU0BC",
+            "U021TDMLNTD",
+            "U0225RGM941",
+            "U021ZC6H9GC",
+            "U021CE3UWPR",
+            "U021TDMHF5H"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1626333545.042200"
+            },
+            {
+                "user": "U0234JUMPJQ",
+                "ts": "1626333582.042400"
+            },
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1626333603.042600"
+            },
+            {
+                "user": "U021TDMLNTD",
+                "ts": "1626333611.042800"
+            },
+            {
+                "user": "U0225RGM941",
+                "ts": "1626333612.043000"
+            },
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1626334259.043200"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1626334396.043400"
+            },
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1626334898.043600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9015cc66-5fae-473f-95e1-bfb784c8a427",
+        "type": "message",
+        "text": "Individually",
+        "user": "U021ZC6JR28",
+        "ts": "1626333545.042200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Individually"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "9fcf1b8e-65eb-4372-9622-86daa5b052c0",
+        "type": "message",
+        "text": "Andrea and Myself are working together :tada:",
+        "user": "U0234JUMPJQ",
+        "ts": "1626333582.042400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "d72f8dcb6b13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2115688161203_d72f8dcb6b13c616d406_72.png",
+            "first_name": "",
+            "real_name": "Walter Conde",
+            "display_name": "Walter Conde",
+            "team": "T021KE79B9B",
+            "name": "wcondevidal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Andrea and Myself are working together "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "94844003-8fc0-4a2a-9a16-892ecae27be8",
+        "type": "message",
+        "text": "Working individually",
+        "user": "U021T7DU0BC",
+        "ts": "1626333603.042600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6FE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working individually"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "514429ef-cc80-408c-b51f-d2ca1fbc3ab4",
+        "type": "message",
+        "text": "Lucas, Jennifer, Nayib and me",
+        "user": "U021TDMLNTD",
+        "ts": "1626333611.042800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wlyOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lucas, Jennifer, Nayib and me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "78f3d4d7-043e-4a32-883b-f25ba14eea2a",
+        "type": "message",
+        "text": "Me and Pedro are working together",
+        "user": "U0225RGM941",
+        "ts": "1626333612.043000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y2Vo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me and Pedro are working together"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "66541518-74ad-49d5-be66-9ca13053f66b",
+        "type": "message",
+        "text": "we are Angela, Julia, Damaris and me",
+        "user": "U021ZC6H9GC",
+        "ts": "1626334259.043200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are Angela, Julia, Damaris and me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "c548cf2c-1218-405b-8397-08b412c082c2",
+        "type": "message",
+        "text": "Me individually",
+        "user": "U021CE3UWPR",
+        "ts": "1626334396.043400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me individually"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "9ab6a8aa-a640-487f-b998-0131411d2df8",
+        "type": "message",
+        "text": "we are working as One",
+        "user": "U021TDMHF5H",
+        "ts": "1626334898.043600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are working as One"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626333516.041800",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "type": "message",
+        "text": "<!here> notebook from class - also its on notion",
+        "files": [
+            {
+                "id": "F027YMHR69L",
+                "created": 1626342427,
+                "timestamp": 1626342427,
+                "name": "Clustering_UL_complete.ipynb",
+                "title": "Clustering_UL_complete.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 209135,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027YMHR69L\/clustering_ul_complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027YMHR69L\/download\/clustering_ul_complete.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F027YMHR69L\/clustering_ul_complete.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027YMHR69L-f078cf1b58",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " notebook from class - also its on notion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626342439.064700"
+    },
+    {
+        "client_msg_id": "f0eacb3e-15f2-4db6-ae97-839770b7813f",
+        "type": "message",
+        "text": "dont forget <!channel> to take a break in 25 mins for yoga - we will be in the main room. Its good for your mind and body to take a screen break today!",
+        "user": "U021UNQGZC4",
+        "ts": "1626356139.065800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/eGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dont forget "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to take a break in 25 mins for yoga - we will be in the main room. Its good for your mind and body to take a screen break today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b0c5542-83a5-405e-aced-686d5c22fe5c",
+        "type": "message",
+        "text": "<!here>yoga for stretching",
+        "user": "U021UNQGZC4",
+        "ts": "1626357931.066300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AAszo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "yoga for stretching"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

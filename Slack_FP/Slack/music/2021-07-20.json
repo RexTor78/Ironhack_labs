@@ -1,0 +1,237 @@
+[
+    {
+        "client_msg_id": "3361fdeb-727c-481f-ba15-39cb87c54584",
+        "type": "message",
+        "text": "<https:\/\/soundcloud.com\/crushedmusic>",
+        "user": "U021ZC6L676",
+        "ts": "1626774941.000200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "https:\/\/soundcloud.com",
+                "title": "CrusheD",
+                "title_link": "https:\/\/soundcloud.com\/crushedmusic",
+                "author_name": "CrusheD",
+                "author_link": "https:\/\/soundcloud.com\/crushedmusic",
+                "thumb_url": "https:\/\/i1.sndcdn.com\/avatars-000701533795-48sf3u-t500x500.jpg",
+                "fallback": "SoundCloud Audio: CrusheD",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F711772975&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/crushedmusic",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/soundcloud.com\/crushedmusic"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lcpi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/soundcloud.com\/crushedmusic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89045d53-8c8f-458e-a7e2-212f571cb943",
+        "type": "message",
+        "text": "<https:\/\/shazalakazoo.com\/>",
+        "user": "U021ZC6L676",
+        "ts": "1626775136.000500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ShazaLaKazoo",
+                "service_url": "http:\/\/shazalakazoo.com",
+                "title": "HOME",
+                "title_link": "https:\/\/shazalakazoo.com\/",
+                "author_name": "nekistranac",
+                "author_link": "https:\/\/shazalakazoo.com\/author\/nekistranac\/",
+                "thumb_url": "https:\/\/shazalakazoo.files.wordpress.com\/2020\/02\/instagram-logo-2-1024x993-1.png?fit=200%2C150",
+                "thumb_width": 155,
+                "thumb_height": 150,
+                "text": "&ldquo;KRASI&rdquo;, OUR NEW SINGLE IS OUT NOW!\nCHECK OUT THE VIDEO DIRECTED BY MARKO SIMIC:\n\nFIND SHAZALAKAZOO ON:\n&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;\nSPACE FOR DIGITAL GARBAGE THAT NO ONE CARES ABOUT:",
+                "fallback": "ShazaLaKazoo Link: HOME",
+                "from_url": "https:\/\/shazalakazoo.com\/",
+                "service_icon": "https:\/\/shazalakazoo.files.wordpress.com\/2020\/02\/cropped-banner2-1.jpg?w=180",
+                "id": 1,
+                "original_url": "https:\/\/shazalakazoo.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bG6Iu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shazalakazoo.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "181d39c4-14b4-430d-b67d-53b5aad0b972",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/artist\/1YumFgivFXVVg1AKBJKE5e>",
+        "user": "U021ZC6L676",
+        "ts": "1626775235.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Jazzotron",
+                "title_link": "https:\/\/open.spotify.com\/artist\/1YumFgivFXVVg1AKBJKE5e",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb8d9dc285eaa04eaa0a97fe70",
+                "thumb_width": 640,
+                "thumb_height": 640,
+                "fallback": "Spotify Audio: Jazzotron",
+                "audio_html": "<iframe width=\"100%\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Jazzotron\" src=\"https:\/\/open.spotify.com\/embed\/artist\/1YumFgivFXVVg1AKBJKE5e\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/artist\/1YumFgivFXVVg1AKBJKE5e",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/artist\/1YumFgivFXVVg1AKBJKE5e"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRVF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/artist\/1YumFgivFXVVg1AKBJKE5e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b949cb3-34b5-4294-9b5b-8b55e898d393",
+        "type": "message",
+        "text": "<https:\/\/balkanbeats.eu\/muzika\/>",
+        "user": "U021ZC6L676",
+        "ts": "1626775289.001100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BALKANBEATS",
+                "title": "MUZIKA - BALKANBEATS",
+                "title_link": "https:\/\/balkanbeats.eu\/muzika\/",
+                "text": "BalkanBeats Records releases. Robert Soko &amp; Uros Petkovic productions at one glance. Excellent dance music for people with stamina. Balkan Party for the best events.",
+                "fallback": "BALKANBEATS: MUZIKA - BALKANBEATS",
+                "image_url": "http:\/\/balkanbeats.eu\/wp-content\/uploads\/2021\/04\/BB_RECORDS_TARGET3-scaled.gif",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "6 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/balkanbeats.eu\/muzika\/",
+                "image_width": 1000,
+                "image_height": 250,
+                "image_bytes": 284504,
+                "service_icon": "https:\/\/i2.wp.com\/balkanbeats.eu\/wp-content\/uploads\/2021\/03\/LOGOYELLOW_65KB.png?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/balkanbeats.eu\/muzika\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KO0GU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/balkanbeats.eu\/muzika\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

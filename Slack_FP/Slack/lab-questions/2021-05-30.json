@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "f0b7e76f-fba3-4eec-812b-da15d4311040",
+        "type": "message",
+        "text": "Thank you! Maybe we could meet some time this week?",
+        "user": "U021TDN4RAP",
+        "ts": "1622398414.000100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "acc5699be7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2085292243312_acc5699be7d0f2335d2d_72.png",
+            "first_name": "",
+            "real_name": "Andrea Fought",
+            "display_name": "Andrea Fought",
+            "team": "T021KE79B9B",
+            "name": "andreafought",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TsUI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! Maybe we could meet some time this week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622118725.001100",
+        "parent_user_id": "U021TDN4RAP"
+    }
+]

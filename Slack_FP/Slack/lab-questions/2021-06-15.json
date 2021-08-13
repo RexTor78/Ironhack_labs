@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "c8837ca8-3377-4827-b42c-e96cda6f7297",
+        "type": "message",
+        "text": "<!channel>,\nI had a question reaching me to clarify a bit what is demanded in *question 2, lab 2.5 today*:\n&gt; *How many films (movies) are available for rent and how many films have been rented?*\nIt simply asks for 1) the total number of rentable movies in the database and 2) the total number of rent events so far in the database.",
+        "user": "U021WEXHN4E",
+        "ts": "1623751652.010200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E5P+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nI had a question reaching me to clarify a bit what is demanded in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "question 2, lab 2.5 today",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How many films (movies) are available for rent and how many films have been rented?",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIt simply asks for 1) the total number of rentable movies in the database and 2) the total number of rent events so far in the database."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c93e3dac-841d-439e-a2f1-75e240c36b31",
+        "type": "message",
+        "text": "<https:\/\/www.c-sharpcorner.com\/UploadFile\/65fc13\/ddldml-and-dcl-in-mysql\/> a nice straightforward summary of DDL and DML to have on hand for your lab",
+        "user": "U021UNQGZC4",
+        "ts": "1623755689.010400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "DDL, DML and DCL in MySQL",
+                "title_link": "https:\/\/www.c-sharpcorner.com\/UploadFile\/65fc13\/ddldml-and-dcl-in-mysql\/",
+                "text": "In this article we will discuss the working process of DDL, DML and DCL in MySQL.",
+                "fallback": "DDL, DML and DCL in MySQL",
+                "image_url": "https:\/\/www.c-sharpcorner.com\/UploadFile\/TwitterCard\/twitter_card_logo.png",
+                "from_url": "https:\/\/www.c-sharpcorner.com\/UploadFile\/65fc13\/ddldml-and-dcl-in-mysql\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 128007,
+                "service_name": "c-sharpcorner.com",
+                "id": 1,
+                "original_url": "https:\/\/www.c-sharpcorner.com\/UploadFile\/65fc13\/ddldml-and-dcl-in-mysql\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "atCx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.c-sharpcorner.com\/UploadFile\/65fc13\/ddldml-and-dcl-in-mysql\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a nice straightforward summary of DDL and DML to have on hand for your lab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

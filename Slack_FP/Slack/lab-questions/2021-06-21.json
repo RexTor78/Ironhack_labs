@@ -1,0 +1,1575 @@
+[
+    {
+        "client_msg_id": "14d255ea-3f7a-4d89-a47f-7df8cdde49ac",
+        "type": "message",
+        "text": "I can't make it work, I changed my mysql password but anyway..",
+        "user": "U0225RJ6SNM",
+        "ts": "1624274812.015900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o19",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't make it work, I changed my mysql password but anyway.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624274812.015900",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1624277586.017500",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RJ3Z4H",
+            "U021WEXHN4E",
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624276088.016000"
+            },
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1624276853.016700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624277125.016900"
+            },
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1624277530.017100"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624277542.017300"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624277586.017500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cca7fb52-0163-4fb7-ae06-f7404790e5e0",
+        "type": "message",
+        "text": "oh no! you normally need to restart mysql services after a password change. can <@U021NHS652N> or <@U021WEXHN4E> help Julia please when she is online",
+        "user": "U021UNQGZC4",
+        "ts": "1624276088.016000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVuLx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh no! you normally need to restart mysql services after a password change. can "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " help Julia please when she is online"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624274812.015900",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "1F15FD1A-6B72-470B-BBE8-BD02E711D71A",
+        "type": "message",
+        "text": "Can somebody help me as well, it’s not working for me either :(",
+        "user": "U0225RJ3Z4H",
+        "ts": "1624276853.016700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKuZT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can somebody help me as well, it’s not working for me either :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624274812.015900",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "4dbc6c4d-98c0-488c-92a1-cd4f62712b7e",
+        "type": "message",
+        "text": "once they are back from lunch they wil help you both, im sure",
+        "user": "U021UNQGZC4",
+        "ts": "1624277125.016900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "once they are back from lunch they wil help you both, im sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624274812.015900",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "c4c10e87-8038-4a8d-b3d2-f6541df6642a",
+        "type": "message",
+        "text": "hu.... someone in need of help? :ambulance:",
+        "user": "U021WEXHN4E",
+        "ts": "1624277530.017100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XGSk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hu.... someone in need of help? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ambulance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624274812.015900",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "c1068c8f-27af-4c05-8650-36002288af88",
+        "type": "message",
+        "text": "yes!",
+        "user": "U0225RJ6SNM",
+        "ts": "1624277542.017300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zfJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624274812.015900",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "b1496672-7e24-44be-8009-3cb0e856d896",
+        "type": "message",
+        "text": "coming, there's no more inetrnet in the campus",
+        "user": "U0225RJ6SNM",
+        "ts": "1624277586.017500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6CH3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "coming, there's no more inetrnet in the campus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624274812.015900",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "4a37a54b-da72-4b01-9d9f-b2275dda7544",
+        "type": "message",
+        "text": "remember to use this space to ask any lab questions… eg i want to make a scatter plot which the size of the circle depends on another column… how do i do it? and either theteaching team or your classmates will help you :)",
+        "user": "U021UNQGZC4",
+        "ts": "1624282523.018900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lh=yI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "remember to use this space to ask any lab questions… eg i want to make a scatter plot which the size of the circle depends on another column… how do i do it? and either theteaching team or your classmates will help you :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f1e4cfd-4270-4baa-bd2f-f27cf16bd051",
+        "type": "message",
+        "text": "hi can we download a copy of the ipynb file from today? thanks",
+        "user": "U021TDMBPRR",
+        "ts": "1624284908.019400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4bU9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi can we download a copy of the ipynb file from today? thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624284908.019400",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1624371557.032800",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021TDMBPRR"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624286046.022100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624286075.022500"
+            },
+            {
+                "user": "U021TDMBPRR",
+                "ts": "1624286230.022800"
+            },
+            {
+                "user": "U021TDMBPRR",
+                "ts": "1624286442.023000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624287318.025200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624287375.025400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624288675.026400"
+            },
+            {
+                "user": "U021TDMBPRR",
+                "ts": "1624371557.032800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "40a7f2c2-3d24-40a0-93a8-de425f70e52f",
+        "type": "message",
+        "text": "How would you go about increasing the display size of a seaborn boxplot in jupyter? Having trouble finding a straightforward solution on stackoverflow and figsize does not seem to work. My code below:\n\n```ax = sns.boxplot(x =\"loans_taken\", y = \"nr_of_entrepreneurs\", hue = \"customer_status\",\n                 data = dloans, palette = \"Set3\", figsize=(15, 10))```",
+        "user": "U021ZC6JR28",
+        "ts": "1624285128.020600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021ZC6JR28",
+            "ts": "1624285162.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How would you go about increasing the display size of a seaborn boxplot in jupyter? Having trouble finding a straightforward solution on stackoverflow and figsize does not seem to work. My code below:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ax = sns.boxplot(x =\"loans_taken\", y = \"nr_of_entrepreneurs\", hue = \"customer_status\",\n                 data = dloans, palette = \"Set3\", figsize=(15, 10))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285128.020600",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1624287763.026200",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021ZC6JR28"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624286458.023200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624286923.023800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624286996.024000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624287042.024400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624287272.024800"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1624287710.025600"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1624287720.026000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624287763.026200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4451c775-e2c1-4310-9bab-319db6dd51bd",
+        "type": "message",
+        "text": "i always use\n```fig, ax = plt.subplots(figsize=(10,10))  # or any other size\nsns.boxplot(data=..., x=...., ax=ax)```",
+        "user": "U021WEXHN4E",
+        "ts": "1624285252.021900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Xu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i always use\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fig, ax = plt.subplots(figsize=(10,10))  # or any other size\nsns.boxplot(data=..., x=...., ax=ax)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "for the lab -",
+        "files": [
+            {
+                "id": "F0258LZTDC7",
+                "created": 1624286045,
+                "timestamp": 1624286045,
+                "name": "sqlpy-sakila_or_bank.ipynb",
+                "title": "sqlpy-sakila_or_bank.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 8481,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0258LZTDC7\/sqlpy-sakila_or_bank.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0258LZTDC7\/download\/sqlpy-sakila_or_bank.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0258LZTDC7\/sqlpy-sakila_or_bank.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0258LZTDC7-c9e9e04dd8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for the lab -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624286046.022100",
+        "thread_ts": "1624284908.019400",
+        "parent_user_id": "U021TDMBPRR"
+    },
+    {
+        "client_msg_id": "a2a87569-5f88-4eee-9952-62a1f282288a",
+        "type": "message",
+        "text": "or from the class - you will find the files in the Notion calendar <https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&amp;p=320037db5be94c26a1bfc3ed2ece71b3>",
+        "user": "U021UNQGZC4",
+        "ts": "1624286075.022500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Python + SQL queries",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=320037db5be94c26a1bfc3ed2ece71b3",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Python + SQL queries",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=320037db5be94c26a1bfc3ed2ece71b3",
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&amp;p=320037db5be94c26a1bfc3ed2ece71b3"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or from the class - you will find the files in the Notion calendar "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=320037db5be94c26a1bfc3ed2ece71b3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624284908.019400",
+        "parent_user_id": "U021TDMBPRR"
+    },
+    {
+        "client_msg_id": "ee1711d5-00a6-45d7-9828-dd650df37693",
+        "type": "message",
+        "text": "thanks I meant the first message",
+        "user": "U021TDMBPRR",
+        "ts": "1624286230.022800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qd2T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks I meant the first message"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624284908.019400",
+        "parent_user_id": "U021TDMBPRR"
+    },
+    {
+        "client_msg_id": "8eb16ae7-1009-409f-a836-026ce1febc82",
+        "type": "message",
+        "text": "I mean the zip in the second file with the configurations etc",
+        "user": "U021TDMBPRR",
+        "ts": "1624286442.023000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "coT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean the zip in the second file with the configurations etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624284908.019400",
+        "parent_user_id": "U021TDMBPRR"
+    },
+    {
+        "client_msg_id": "4be9ce9a-32a8-422d-a58e-8c7c1ee0ddc6",
+        "type": "message",
+        "text": "suggest you include a figsize line before your plot\nfig = plt.figure(figsize=(3, 3))\nthen\nax =….\n\nthis has the added advantage of letting you check before populating the chart that it is the size you wanted",
+        "user": "U021UNQGZC4",
+        "ts": "1624286458.023200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=qO6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "suggest you include a figsize line before your plot\nfig = plt.figure(figsize=(3, 3))\nthen\nax =….\n\nthis has the added advantage of letting you check before populating the chart that it is the size you wanted"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285128.020600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "1e33f242-7fb5-41d5-9f68-c9b8686fa37f",
+        "type": "message",
+        "text": "but I am looking at your code here and wondering if it is correct - normally in a box plot theres one category (ie what separates the boxes from eachother) and one value (ie the range of numbers per box) whereas your x and y both sound like numerical data, am i right?\n• unless nr_of_entrepreneurs is a bucket, like &lt;10, 10-50, 50+ etc \nthis might explain why the boxplot is hard to see ?",
+        "user": "U021UNQGZC4",
+        "ts": "1624286923.023800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bl+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but I am looking at your code here and wondering if it is correct - normally in a box plot theres one category (ie what separates the boxes from eachother) and one value (ie the range of numbers per box) whereas your x and y both sound like numerical data, am i right?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "unless nr_of_entrepreneurs is a bucket, like <10, 10-50, 50+ etc "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this might explain why the boxplot is hard to see ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285128.020600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "type": "message",
+        "text": "heres an example with the y as region (horizontal boxplot) which is fairly clear, i have set figsize first as (8,8)",
+        "files": [
+            {
+                "id": "F02624UQZ33",
+                "created": 1624286970,
+                "timestamp": 1624286970,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 174792,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02624UQZ33\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02624UQZ33\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 280,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 373,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 559,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 622,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 746,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F02624UQZ33-e43c8fbcd2\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 796,
+                "original_w": 1462,
+                "original_h": 1136,
+                "thumb_tiny": "AwAlADDSKj0pNo9MUp\/Gj8M\/WgBNgo2inUUAJtHtQBS0CgBD+dA7cUEe2aBQAtFFFABQKjLHNSDpQAwuD2pN9NooAcZCBSCUnPFIeh+lNTvQA8kHtTt+O1MooA\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F02624UQZ33\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02624UQZ33-8e5d5f286a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Opv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "heres an example with the y as region (horizontal boxplot) which is fairly clear, i have set figsize first as (8,8)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624286996.024000",
+        "thread_ts": "1624285128.020600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "type": "message",
+        "text": "but the same space with a numerical y is hard to read - i hope this makes sense!",
+        "files": [
+            {
+                "id": "F025LECA6A1",
+                "created": 1624287031,
+                "timestamp": 1624287031,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 170166,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025LECA6A1\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025LECA6A1\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 286,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 382,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 573,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 637,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 764,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LECA6A1-55eeb02414\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 815,
+                "original_w": 1420,
+                "original_h": 1130,
+                "thumb_tiny": "AwAmADDRKjPQUbBS9+1LQA3YKCoAp1IwyKAGjB7CnYFNCkHNPoAQde1L3NJ37Up6UAFFFFAAelFBooAQ+tGTQelJQAhfb1FKGzUcnUU9fuigBcmlzSUUAf\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025LECA6A1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025LECA6A1-940e6c066b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but the same space with a numerical y is hard to read - i hope this makes sense!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624287042.024400",
+        "thread_ts": "1624285128.020600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "type": "message",
+        "text": "the other thing, incidentally, which makes the regional boxplot hard to see is because of prague being SUCH an outlier. if i remove prague…",
+        "files": [
+            {
+                "id": "F025GP2MSG6",
+                "created": 1624287263,
+                "timestamp": 1624287263,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 148409,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025GP2MSG6\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025GP2MSG6\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 327,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 436,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 654,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 727,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 872,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GP2MSG6-c1f306f053\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 930,
+                "original_w": 1270,
+                "original_h": 1154,
+                "thumb_tiny": "AwArADDQOPT+dJx7fmakPtSY9aAGgj2pcgUbR\/e\/lQAP738qADIpaMe9AoAD9M0Dp0oPHc0cY64oAO\/3aXA9KQDuGJpaACjvRR3oADn1FA6VGSaazt696AJqKh3t60b29aAHsTkjNOU5FQkk05WOOtAH\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025GP2MSG6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025GP2MSG6-ffd2c7f974",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxKtc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the other thing, incidentally, which makes the regional boxplot hard to see is because of prague being SUCH an outlier. if i remove prague…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624287272.024800",
+        "thread_ts": "1624285128.020600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "f1b8abc3-0373-4510-b5af-91e885ed5844",
+        "type": "message",
+        "text": "i dont know what you mean, sorry",
+        "user": "U021UNQGZC4",
+        "ts": "1624287318.025200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wuNtl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i dont know what you mean, sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624284908.019400",
+        "parent_user_id": "U021TDMBPRR"
+    },
+    {
+        "client_msg_id": "211af9cf-7605-468d-888f-360b3afb3b0d",
+        "type": "message",
+        "text": "come to break out room 8",
+        "user": "U021UNQGZC4",
+        "ts": "1624287375.025400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TPpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "come to break out room 8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624284908.019400",
+        "parent_user_id": "U021TDMBPRR"
+    },
+    {
+        "type": "message",
+        "text": "Ahh yes, makes sense. I chose 2 numerical variables indeed, but since there was a limited amount of buckets in terms nr_of_loans taken the visualisation was still somewhat reasonable, just seemed small. Probably makes more sense to put that into buckets beforehand.",
+        "files": [
+            {
+                "id": "F025LG71H9B",
+                "created": 1624287707,
+                "timestamp": 1624287707,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6JR28",
+                "editable": false,
+                "size": 86208,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025LG71H9B\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025LG71H9B\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 206,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 275,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 413,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 458,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 550,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025LG71H9B-0234c4ab02\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 587,
+                "original_w": 1026,
+                "original_h": 588,
+                "thumb_tiny": "AwAbADDTNMzStwSfaot5z7YoAlyaMmmBupNKCDj3oAdn3pw6VGc54NPHSgAIyKZs6cdqkooAZt9qMU5ulC9KAG4p46UYFFAH\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6JR28\/F025LG71H9B\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025LG71H9B-b8bf648e46",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CTGa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahh yes, makes sense. I chose 2 numerical variables indeed, but since there was a limited amount of buckets in terms nr_of_loans taken the visualisation was still somewhat reasonable, just seemed small. Probably makes more sense to put that into buckets beforehand."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021ZC6JR28",
+        "display_as_bot": false,
+        "ts": "1624287710.025600",
+        "thread_ts": "1624285128.020600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "716fe4ee-d205-4ce8-be89-1e8189e90ac8",
+        "type": "message",
+        "text": "Will play around with categories instead!",
+        "user": "U021ZC6JR28",
+        "ts": "1624287720.026000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9XQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will play around with categories instead!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285128.020600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "cad25eb1-7d2d-49ae-8160-1cbc36a6739b",
+        "type": "message",
+        "text": "perfect - i mean you can make a category from either of those numbers, or else just restrict to max 13 loans, and it would automatically look cleaner :)",
+        "user": "U021UNQGZC4",
+        "ts": "1624287763.026200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8Eg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perfect - i mean you can make a category from either of those numbers, or else just restrict to max 13 loans, and it would automatically look cleaner :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624285128.020600",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "485b532e-b678-4f39-8b2c-b71f9f338a1a",
+        "type": "message",
+        "text": "i am guessing you found what you are looking for <@U021TDMBPRR>!",
+        "user": "U021UNQGZC4",
+        "ts": "1624288675.026400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQro2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am guessing you found what you are looking for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMBPRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624284908.019400",
+        "parent_user_id": "U021TDMBPRR"
+    },
+    {
+        "client_msg_id": "a42b860f-9067-4e95-977f-5a100ac29efe",
+        "type": "message",
+        "text": "<!channel>,\nI was on a call with one of you. Pandas didn't like this query string in a `read_sql_query()` statement:\n```'''SELECT t.account_id as accounts, date_format(convert(t.date,date), '%Y') as year, d.A2 as district_name, d.A3 as region, round(sum(t.amount)) as total_trans FROM trans t join account a on a.account_id = t.account_id join district d on t.account_id = d.A1 group by accounts, district_name, region, year'''```\nit gives an\n```pd.read_sql - Unsupported format character error (0x27)```\nthe problem is this `'%Y'`  expression in the date_format clause. It can be solved using the `sqlalchemy.text()`  function like this:\n\n```import sqlalchmey as sa\n\n# here you define your engine\n###\n# define the sql query\n\nmy_query_string = '''SELECT t.account_id as accounts, date_format(convert(t.date,date), '%Y') as year, d.A2 as district_name, d.A3 as region, round(sum(t.amount)) as total_trans FROM trans t join account a on a.account_id = t.account_id join district d on t.account_id = d.A1 group by accounts, district_name, region, year'''\n\n# read the table from the sql query into a dataframe\n# using sa.text()\n\ndf = pd.read_sql_query(sa.text(my_query_string), engine)```\ncheck <https:\/\/stackoverflow.com\/questions\/66529964\/pd-read-sql-unsupported-format-character-error-0x27|this> stackoverflow posting\n\nsearch words for google: \"pd read_sql_query unsupported format character error (0x27) query string\"",
+        "user": "U021WEXHN4E",
+        "ts": "1624291745.031900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1624292270.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+IiO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nI was on a call with one of you. Pandas didn't like this query string in a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "read_sql_query()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " statement:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "'''SELECT t.account_id as accounts, date_format(convert(t.date,date), '%Y') as year, d.A2 as district_name, d.A3 as region, round(sum(t.amount)) as total_trans FROM trans t join account a on a.account_id = t.account_id join district d on t.account_id = d.A1 group by accounts, district_name, region, year'''"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nit gives an\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pd.read_sql - Unsupported format character error (0x27)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nthe problem is this "
+                            },
+                            {
+                                "type": "text",
+                                "text": "'%Y'",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  expression in the date_format clause. It can be solved using the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sqlalchemy.text()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  function like this:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import sqlalchmey as sa\n\n# here you define your engine\n###\n# define the sql query\n\nmy_query_string = '''SELECT t.account_id as accounts, date_format(convert(t.date,date), '%Y') as year, d.A2 as district_name, d.A3 as region, round(sum(t.amount)) as total_trans FROM trans t join account a on a.account_id = t.account_id join district d on t.account_id = d.A1 group by accounts, district_name, region, year'''\n\n# read the table from the sql query into a dataframe\n# using sa.text()\n\ndf = pd.read_sql_query(sa.text(my_query_string), engine)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/66529964\/pd-read-sql-unsupported-format-character-error-0x27",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " stackoverflow posting\n\nsearch words for google: \"pd read_sql_query unsupported format character error (0x27) query string\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U022VC1JD29",
+                    "U021UNQGZC4",
+                    "U021Q53LBPX",
+                    "U021ZC6L676"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "type": "message",
+        "text": "a violin plot of audio features ? yes please",
+        "files": [
+            {
+                "id": "F0282KR4H1T",
+                "created": 1626346665,
+                "timestamp": 1626346665,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 209587,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0282KR4H1T\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0282KR4H1T\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 224,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 298,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 448,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 497,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 597,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0282KR4H1T-7f81ee76ba\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 637,
+                "original_w": 1113,
+                "original_h": 692,
+                "thumb_tiny": "AwAdADDRDjeU7gZpagVf9MY\/7Oae0gE0a+ooYEhOMe5paa38P1pSMjmgAyMkelGecVBhjNKP9mnA4mRc\/wANADyMFmAyduKYFLGNyMYHNS0vNAFcy7ljIB+\/Uyurlgpzg4NBHHOOOaUZ9ufagBNuHY+ophX\/AEhT2xUnNLQB\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0282KR4H1T\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0282KR4H1T-a252c590da",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgef",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a violin plot of audio features ? yes please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1626346668.005000",
+        "thread_ts": "1626346668.005000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1626346686.005300",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626346686.005300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bar_chart",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a9b14a7-4792-4652-999f-d48d2a91d267",
+        "type": "message",
+        "text": "source : <https:\/\/towardsdatascience.com\/k-means-clustering-using-spotify-song-features-9eb7d53d105c>",
+        "user": "U021UNQGZC4",
+        "ts": "1626346686.005300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "K-means clustering using Spotify song features",
+                "title_link": "https:\/\/towardsdatascience.com\/k-means-clustering-using-spotify-song-features-9eb7d53d105c",
+                "text": "Automation of playlist creation using high dimensional data clustering",
+                "fallback": "Medium: K-means clustering using Spotify song features",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*TLgok3XDsYDq34aMZHkxHw.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1598536809,
+                "from_url": "https:\/\/towardsdatascience.com\/k-means-clustering-using-spotify-song-features-9eb7d53d105c",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 105190,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/k-means-clustering-using-spotify-song-features-9eb7d53d105c"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UZApN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "source : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/k-means-clustering-using-spotify-song-features-9eb7d53d105c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626346668.005000",
+        "parent_user_id": "U021UNQGZC4"
+    }
+]

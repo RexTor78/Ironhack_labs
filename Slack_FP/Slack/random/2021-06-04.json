@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "928c2a89-3bdc-457e-88cd-48e1ef3c8a7a",
+        "type": "message",
+        "text": "very interesting… never thought about it and always wanted to move from apple or google´s storage clouds and keep my data as private as possible. Thanks for sharing!",
+        "user": "U021Q53LBPX",
+        "ts": "1622793615.001300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qK+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "very interesting… never thought about it and always wanted to move from apple or google´s storage clouds and keep my data as private as possible. Thanks for sharing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622724557.000900",
+        "parent_user_id": "U021Q54K3B7",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

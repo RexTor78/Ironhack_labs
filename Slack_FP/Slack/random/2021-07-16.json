@@ -1,0 +1,257 @@
+[
+    {
+        "type": "message",
+        "text": "My face right now….",
+        "files": [
+            {
+                "id": "F028ZFR02RE",
+                "created": 1626424510,
+                "timestamp": 1626424510,
+                "name": "Imagen de iOS.jpg",
+                "title": "Imagen de iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0234JUMPJQ",
+                "editable": false,
+                "size": 385288,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028ZFR02RE\/imagen_de_ios.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F028ZFR02RE\/download\/imagen_de_ios.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_720.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_800.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_960.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F028ZFR02RE-f4a297701b\/imagen_de_ios_1024.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "original_w": 2062,
+                "original_h": 3664,
+                "thumb_tiny": "AwAwABu1KQqFz2qrFdDfh2GPX0ouZMQ49apJGznI4qSzUWRZOV5HrS1QgdoZgD0PFaGKQEM0JlXjioo43UkcYqa6n8nAXBaoEnMuc4De1MB3kcAk5OQat496pySmNAQee1QfaJf75\/Oi1wYx3LvknJNN6GpRGnku38Q6VDTJFJJ6nNS+UahFSCVgMZpgf\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U0234JUMPJQ\/F028ZFR02RE\/imagen_de_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F028ZFR02RE-ecb523fe05",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sDx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My face right now…."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0234JUMPJQ",
+        "display_as_bot": false,
+        "ts": "1626424520.002100",
+        "client_msg_id": "D2463B08-74E2-4576-A784-5E81E7BD41D0",
+        "reactions": [
+            {
+                "name": "woman-facepalming",
+                "users": [
+                    "U0225RJ6SNM",
+                    "U021TDN4RAP",
+                    "U021UNQGZC4",
+                    "U021NHS652N",
+                    "U0225RJ9GQZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U021TDN4RAP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bat",
+                "users": [
+                    "U021TDMBPRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "U021UNQGZC4",
+                    "U021TDMLNTD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5e384e0-956f-4aec-a6e6-f1a53c24fc52",
+        "type": "message",
+        "text": "love that andrea still gives you :hearts: even with this look :)",
+        "user": "U021UNQGZC4",
+        "ts": "1626426604.003400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qAWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "love that andrea still gives you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hearts"
+                            },
+                            {
+                                "type": "text",
+                                "text": " even with this look :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "“...com­pa­nies are ramp­ing up re­quire­ments to fill high-skilled jobs. The share of aero­space-en­gi­neer job post­ings re­quir­ing knowl­edge of pro­gram­ming lan­guage *Python* and ad­vanced soft­ware skills has in­creased at a rapid pace com­pared with two years ago, ac­cord­ing to Emsi Burn­ing Glass.”\n<https:\/\/www.wsj.com\/articles\/job-openings-are-at-record-highs-why-arent-unemployed-americans-filling-them-11625823021>",
+        "user": "U0225RJ9GQZ",
+        "ts": "1626431558.003900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WSJ",
+                "title": "Job Openings Are at Record Highs. Why Aren’t Unemployed Americans Filling Them?",
+                "title_link": "https:\/\/www.wsj.com\/articles\/job-openings-are-at-record-highs-why-arent-unemployed-americans-filling-them-11625823021",
+                "text": "A mismatch between available workers and job openings is plaguing the labor market as potential employees leave cities or industries where businesses need them most.",
+                "fallback": "WSJ: Job Openings Are at Record Highs. Why Aren’t Unemployed Americans Filling Them?",
+                "image_url": "https:\/\/images.wsj.net\/im-366410\/social",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/www.wsj.com\/articles\/job-openings-are-at-record-highs-why-arent-unemployed-americans-filling-them-11625823021",
+                "image_bytes": 89987,
+                "service_icon": "https:\/\/s.wsj.net\/media\/wsj_apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.wsj.com\/articles\/job-openings-are-at-record-highs-why-arent-unemployed-americans-filling-them-11625823021"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RJ3Z4H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b60a89e1-e56a-4119-92b0-4d241dcdafe6",
+        "type": "message",
+        "text": "<@U021WEXHN4E>  i need that image from the question in kahoot:joy: the kid sitting with books, too accurate",
+        "user": "U0225RHK6Q1",
+        "ts": "1626474210.006000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9oM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  i need that image from the question in kahoot"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the kid sitting with books, too accurate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

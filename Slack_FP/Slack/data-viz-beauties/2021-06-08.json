@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "67c3dcbf-ea35-4042-bf30-6bd83d9507ad",
+        "type": "message",
+        "text": "<@U021TDMHF5H> as your questions relate to implementation of data visualisation \/BI softwares, this is could be a good place to kick off a thread gathering specific experience of the class working in those scenarios",
+        "user": "U021UNQGZC4",
+        "ts": "1623140320.001000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z4V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMHF5H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as your questions relate to implementation of data visualisation \/BI softwares, this is could be a good place to kick off a thread gathering specific experience of the class working in those scenarios"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623140320.001000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1623142873.002200",
+        "reply_users": [
+            "U021TDMHF5H",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1623142353.002000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623142873.002200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c23ee1ba-e91c-4197-b251-e9e126facd3a",
+        "type": "message",
+        "text": "i just had a misconception regarding the bi exercise, it's all good",
+        "user": "U021TDMHF5H",
+        "ts": "1623142353.002000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "afH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i just had a misconception regarding the bi exercise, it's all good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623140320.001000",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "a589f725-9857-47a0-9032-d06aa1f9fcb2",
+        "type": "message",
+        "text": "ok!",
+        "user": "U021UNQGZC4",
+        "ts": "1623142873.002200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XdX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623140320.001000",
+        "parent_user_id": "U021UNQGZC4"
+    }
+]

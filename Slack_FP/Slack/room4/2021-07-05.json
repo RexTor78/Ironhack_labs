@@ -1,0 +1,378 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1625488877.000200",
+        "user": "U021ZC6H9GC",
+        "text": "<@U021ZC6H9GC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1625488899.000400",
+        "user": "U0225RJ6SNM",
+        "text": "<@U0225RJ6SNM> has joined the channel",
+        "inviter": "U021ZC6H9GC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1625488899.000600",
+        "user": "U0225RGM941",
+        "text": "<@U0225RGM941> has joined the channel",
+        "inviter": "U021ZC6H9GC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1625488899.000800",
+        "user": "U021Q53LBPX",
+        "text": "<@U021Q53LBPX> has joined the channel",
+        "inviter": "U021ZC6H9GC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1625488899.001000",
+        "user": "U021TDN4RAP",
+        "text": "<@U021TDN4RAP> has joined the channel",
+        "inviter": "U021ZC6H9GC"
+    },
+    {
+        "type": "message",
+        "text": "Sian_Correlation_Distribution_Multicollinearity.ipynb",
+        "files": [
+            {
+                "id": "F026WK2TDRC",
+                "created": 1625488903,
+                "timestamp": 1625488903,
+                "name": "Sian_Correlation_Distribution_Multicollinearity.ipynb",
+                "title": "Sian_Correlation_Distribution_Multicollinearity.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021ZC6H9GC",
+                "editable": false,
+                "size": 1381714,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026WK2TDRC\/sian_correlation_distribution_multicollinearity.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026WK2TDRC\/download\/sian_correlation_distribution_multicollinearity.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6H9GC\/F026WK2TDRC\/sian_correlation_distribution_multicollinearity.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026WK2TDRC-a68119c784",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sian_Correlation_Distribution_Multicollinearity.ipynb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021ZC6H9GC",
+        "display_as_bot": false,
+        "ts": "1625488905.001200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0273JCQG2X",
+                "created": 1625489388,
+                "timestamp": 1625489388,
+                "name": "Screenshot 2021-07-05 at 12.00.03.png",
+                "title": "Screenshot 2021-07-05 at 12.00.03.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021ZC6H9GC",
+                "editable": false,
+                "size": 1427509,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0273JCQG2X\/screenshot_2021-07-05_at_12.00.03.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0273JCQG2X\/download\/screenshot_2021-07-05_at_12.00.03.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 273,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 410,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 455,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 546,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0273JCQG2X-592efb0d63\/screenshot_2021-07-05_at_12.00.03_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 583,
+                "original_w": 2558,
+                "original_h": 1456,
+                "thumb_tiny": "AwAbADDQxRg\/5FKv9Kac570AO\/AflRj6flTQSPX8qXc3v+VADsD0pCPam7m9\/wAqdzgZoARWXH3h+dG4eo\/OufyfWjJ9aAOg3L6j86Cw9R+dYXnynq5oE8o4DnAoA3dw9R+dVVuZHYqBHkeuaydx9acJ5V+65FAH\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021ZC6H9GC\/F0273JCQG2X\/screenshot_2021-07-05_at_12.00.03.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0273JCQG2X-338379b7e3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021ZC6H9GC",
+        "display_as_bot": false,
+        "ts": "1625489394.001500"
+    },
+    {
+        "client_msg_id": "3ca25d19-cd56-4e8f-b919-4ae0732abe1c",
+        "type": "message",
+        "text": "• Id: Unique identification number for the property.\n• date: date the house was sold.\n• price: price of the house.\n• waterfront: house which has a view to a waterfront.\n• condition: How good the condition is (overall). 1 indicates worn out property and 5 excellent.\n• view: does the property have a view? and of what quality?\n• grade: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.\n• Sqft_above: square footage of house apart from basement.\n• Sqft_living15: Living room area in 2015(implies - some renovations). This might or might not have affected the lotsize area.\n• Sqft_lot15: lotSize area in 2015(implies - some renovations).\n",
+        "user": "U021ZC6H9GC",
+        "ts": "1625497301.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cm3d",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Id: Unique identification number for the property."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "date: date the house was sold."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "price: price of the house."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "waterfront: house which has a view to a waterfront."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "condition: How good the condition is (overall). 1 indicates worn out property and 5 excellent."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "view: does the property have a view? and of what quality?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "grade: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sqft_above: square footage of house apart from basement."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sqft_living15: Living room area in 2015(implies - some renovations). This might or might not have affected the lotsize area."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sqft_lot15: lotSize area in 2015(implies - some renovations)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28f5b95f-5213-496b-9340-0b6ed3bde174",
+        "type": "message",
+        "text": "```def iqr_outliers(column):\n    \"\"\"return the lower range and upper range for the data based on IQR*1.6\"\"\"\n    Q1,Q3 = np.percentile(column , [25,75])\n    iqr = Q3 - Q1\n    lower_range = Q1 - (1.6 * iqr)\n    upper_range = Q3 + (1.6 * iqr)\n    return lower_range,upper_range  \n\n# determing our IQR ranges for lot size, sq footage\nlotlower,lotupper = iqr_outliers(df.sqft_lot)\nsqftlower, sqftupper = iqr_outliers(df.sqft_living)\n\n# dropping the things outside of our lower and upper range\ndf.drop(df[ (df.sqft_lot &gt; lotupper) | (df.sqft_lot &lt; lotlower) ].index , inplace=True)\ndf.drop(df[ (df.sqft_living &gt; sqftupper) | (df.sqft_living &lt; sqftlower) ].index , inplace=True)```\n",
+        "user": "U021Q53LBPX",
+        "ts": "1625498958.002100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RGJ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def iqr_outliers(column):\n    \"\"\"return the lower range and upper range for the data based on IQR*1.6\"\"\"\n    Q1,Q3 = np.percentile(column , [25,75])\n    iqr = Q3 - Q1\n    lower_range = Q1 - (1.6 * iqr)\n    upper_range = Q3 + (1.6 * iqr)\n    return lower_range,upper_range  \n\n# determing our IQR ranges for lot size, sq footage\nlotlower,lotupper = iqr_outliers(df.sqft_lot)\nsqftlower, sqftupper = iqr_outliers(df.sqft_living)\n\n# dropping the things outside of our lower and upper range\ndf.drop(df[ (df.sqft_lot > lotupper) | (df.sqft_lot < lotlower) ].index , inplace=True)\ndf.drop(df[ (df.sqft_living > sqftupper) | (df.sqft_living < sqftlower) ].index , inplace=True)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1625499865.002300",
+        "user": "U021CE3UWPR",
+        "text": "<@U021CE3UWPR> has joined the channel",
+        "inviter": "U021ZC6H9GC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1625499871.002500",
+        "user": "U0234JUMPJQ",
+        "text": "<@U0234JUMPJQ> has joined the channel",
+        "inviter": "U021ZC6H9GC"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02745H2BU3",
+                "created": 1625499885,
+                "timestamp": 1625499885,
+                "name": "Real_estate_prices_prediction_outline.ipynb",
+                "title": "Real_estate_prices_prediction_outline.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021TDN4RAP",
+                "editable": false,
+                "size": 610459,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02745H2BU3\/real_estate_prices_prediction_outline.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02745H2BU3\/download\/real_estate_prices_prediction_outline.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021TDN4RAP\/F02745H2BU3\/real_estate_prices_prediction_outline.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02745H2BU3-d469c5d7f0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021TDN4RAP",
+        "display_as_bot": false,
+        "ts": "1625499887.002600"
+    }
+]

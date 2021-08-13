@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "a45244cb-1026-47a7-a6f7-4824275e903d",
+        "type": "message",
+        "text": "Hi everyone, looking forward to start the Data Analyst Bootcamp, have a nice weekend. :slightly_smiling_face:",
+        "user": "U0225RJ83G9",
+        "ts": "1621582064.001000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "0d287b71220f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2056147073175_0d287b71220f247be625_72.jpg",
+            "first_name": "",
+            "real_name": "Lukas Danneberg",
+            "display_name": "Lukas Danneberg",
+            "team": "T021KE79B9B",
+            "name": "paygar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Z2oq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, looking forward to start the Data Analyst Bootcamp, have a nice weekend. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5372e9bc-4449-4e3a-b8b3-4fc9bb6ca528",
+        "type": "message",
+        "text": "thanks Lukas! you too :)",
+        "user": "U021UNQGZC4",
+        "ts": "1621593022.001200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+7+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks Lukas! you too :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

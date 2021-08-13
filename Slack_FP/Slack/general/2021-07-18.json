@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "d092397b-4ab1-4b12-b7b6-8b95323b942f",
+        "type": "message",
+        "text": "<!channel> your plan for this morning :\n• until 10:30 you can be EITHER perfecting your song recommender OR source data for your final project \n• at 10:30 we have a morning sunshine with <@U021TDMEH27> in the classroom\n• immediately after this each student or group will demonstrate their song recommender as if to your manager (remember the case study), with a volunteer providing input to the recommender engine. Our expectation is that the song recommenders will be demonstrated from within the jupyter notebook but there are normally some different techniques on display, so be ready to answer questions about how you did some part of your process \/ code \/ function or solved a potential user input problem. \n• Please arrive promptly at 10:30. We look forward to receiving your GNOD:notes: recommendations!",
+        "user": "U021UNQGZC4",
+        "ts": "1626677726.005800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9iq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your plan for this morning :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "until 10:30 you can be EITHER perfecting your song recommender OR source data for your final project "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "at 10:30 we have a morning sunshine with "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U021TDMEH27"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " in the classroom"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "immediately after this each student or group will demonstrate their song recommender as if to your manager (remember the case study), with a volunteer providing input to the recommender engine. Our expectation is that the song recommenders will be demonstrated from within the jupyter notebook but there are normally some different techniques on display, so be ready to answer questions about how you did some part of your process \/ code \/ function or solved a potential user input problem. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Please arrive promptly at 10:30. We look forward to receiving your GNOD"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "notes"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " recommendations!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

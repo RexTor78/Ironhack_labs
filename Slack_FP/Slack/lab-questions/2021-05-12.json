@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620810905.000200",
+        "user": "U0217P72YR5",
+        "text": "<@U0217P72YR5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1620811234.000300",
+        "user": "U0217P72YR5",
+        "text": "<@U0217P72YR5> has renamed the channel from \"this-is-the-workspace-for-you-data-class-enjoy-the-ride\" to \"questions\"",
+        "old_name": "this-is-the-workspace-for-you-data-class-enjoy-the-ride",
+        "name": "questions"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620811643.000700",
+        "user": "U021UNQGZC4",
+        "text": "<@U021UNQGZC4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620811971.000800",
+        "user": "U021NHS652N",
+        "text": "<@U021NHS652N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1620812785.000900",
+        "user": "U021UNQGZC4",
+        "text": "<@U021UNQGZC4> has renamed the channel from \"questions\" to \"lab-questions\"",
+        "old_name": "questions",
+        "name": "lab-questions"
+    }
+]

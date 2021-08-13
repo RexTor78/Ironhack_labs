@@ -1,0 +1,204 @@
+[
+    {
+        "client_msg_id": "97949f70-7a0b-44eb-940c-4897b8df100b",
+        "type": "message",
+        "text": "posted by a student from a past cohort\n*Sam*  [15:29]\nSpeaking of SQL, this Eric Weber posts some useful stuff on Linkedin:\n\n<https:\/\/www.linkedin.com\/posts\/eric-weber-060397b7_data-datascience-sql-activity-6806531885821440000--fEZ>\n\n“SQL was valuable in 1990s and it’s arguably more valuable today. If you’re working with data it is a must know. 10 places to start your journey:\n\n1. Zachary Thomas’ SQL Questions <https:\/\/lnkd.in\/g-JJzuD>\n2. Select * SQL: <https:\/\/selectstarsql.com>\/\n3. Leetcode: <https:\/\/lnkd.in\/g3c5JGC>\n4. LinkedIn Learning: <https:\/\/lnkd.in\/gQXFc4n>\n5. Window Functions: <https:\/\/lnkd.in\/g3RtPCJ>\n6. HackerRank: <https:\/\/lnkd.in\/grv_9sB>\n7. W3 Schools: <https:\/\/lnkd.in\/gJPfrrv>\n8. CodeAcademy: <https:\/\/lnkd.in\/gT5xmpN>\n9. SQLZoo: <https:\/\/sqlzoo.net>\/\n10. SQL Bolt: <https:\/\/sqlbolt.com\/> ”",
+        "user": "U021UNQGZC4",
+        "ts": "1624629845.007300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQepz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "posted by a student from a past cohort\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sam",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [15:29]\nSpeaking of SQL, this Eric Weber posts some useful stuff on Linkedin:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/eric-weber-060397b7_data-datascience-sql-activity-6806531885821440000--fEZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n“SQL was valuable in 1990s and it’s arguably more valuable today. If you’re working with data it is a must know. 10 places to start your journey:\n\n1. Zachary Thomas’ SQL Questions "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/g-JJzuD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2. Select * SQL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/selectstarsql.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/\n3. Leetcode: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/g3c5JGC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n4. LinkedIn Learning: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/gQXFc4n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n5. Window Functions: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/g3RtPCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n6. HackerRank: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/grv_9sB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n7. W3 Schools: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/gJPfrrv"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n8. CodeAcademy: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/gT5xmpN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9. SQLZoo: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sqlzoo.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/\n10. SQL Bolt: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sqlbolt.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76f91365-a7c2-4d00-90cc-7b0e7d25841e",
+        "type": "message",
+        "text": "*Alexandre Sommerkamp*  [17:58]\nVERY AWESOME page for SQL learning guys please check it out <https:\/\/www.sqlhabit.com\/contents>",
+        "user": "U021UNQGZC4",
+        "ts": "1624629879.007600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Practical SQL course for Marketers, Product Managers and Data Analysts",
+                "title_link": "https:\/\/www.sqlhabit.com\/contents",
+                "text": "Learn how to apply SQL and data to run a modern Internet company.",
+                "fallback": "Practical SQL course for Marketers, Product Managers and Data Analysts",
+                "image_url": "https:\/\/www.sqlhabit.com\/sqlhabit.jpg",
+                "from_url": "https:\/\/www.sqlhabit.com\/contents",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 191106,
+                "service_name": "sqlhabit.com",
+                "id": 1,
+                "original_url": "https:\/\/www.sqlhabit.com\/contents"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I3G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alexandre Sommerkamp",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [17:58]\nVERY AWESOME page for SQL learning guys please check it out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sqlhabit.com\/contents"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

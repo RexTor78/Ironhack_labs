@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "458bacb2-f871-4a2f-bcd9-0bf37ae115c9",
+        "type": "message",
+        "text": "Talking about hard drives, usb sticks, and cloud services\n\n<https:\/\/www.phonearena.com\/news\/Goodbye-Google-Photos-How-I-switched-to-my-own-cloud-service_id132460?fbclid=IwAR1Uy4SXbCKLTH6NyqVbNXDtpr0uKQ3dNUbwC9LUYnbr5O-BRqVb2euioiQ|https:\/\/www.phonearena.com\/news\/Goodbye-Google-Photos-How-I-switched-to-my-own-cloud-s[…]AR1Uy4SXbCKLTH6NyqVbNXDtpr0uKQ3dNUbwC9LUYnbr5O-BRqVb2euioiQ>",
+        "user": "U021Q54K3B7",
+        "ts": "1622724557.000900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021Q54K3B7",
+            "ts": "1622724566.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Phone Arena",
+                "title": "Goodbye, Google Photos: How I switched to my own cloud service",
+                "title_link": "https:\/\/www.phonearena.com\/news\/Goodbye-Google-Photos-How-I-switched-to-my-own-cloud-service_id132460?fbclid=IwAR1Uy4SXbCKLTH6NyqVbNXDtpr0uKQ3dNUbwC9LUYnbr5O-BRqVb2euioiQ",
+                "text": "The upcoming changes to Google Photos made me explore a rather unorthodox solution to the cloud storage problem - opting for a household cloud server.",
+                "fallback": "Phone Arena: Goodbye, Google Photos: How I switched to my own cloud service",
+                "image_url": "https:\/\/m-cdn.phonearena.com\/images\/article\/132460-wide-two_1200\/Goodbye-Google-Photos-How-I-switched-to-my-own-cloud-service.jpg",
+                "from_url": "https:\/\/www.phonearena.com\/news\/Goodbye-Google-Photos-How-I-switched-to-my-own-cloud-service_id132460?fbclid=IwAR1Uy4SXbCKLTH6NyqVbNXDtpr0uKQ3dNUbwC9LUYnbr5O-BRqVb2euioiQ",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 143309,
+                "service_icon": "https:\/\/www.phonearena.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.phonearena.com\/news\/Goodbye-Google-Photos-How-I-switched-to-my-own-cloud-service_id132460?fbclid=IwAR1Uy4SXbCKLTH6NyqVbNXDtpr0uKQ3dNUbwC9LUYnbr5O-BRqVb2euioiQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Talking about hard drives, usb sticks, and cloud services\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.phonearena.com\/news\/Goodbye-Google-Photos-How-I-switched-to-my-own-cloud-service_id132460?fbclid=IwAR1Uy4SXbCKLTH6NyqVbNXDtpr0uKQ3dNUbwC9LUYnbr5O-BRqVb2euioiQ",
+                                "text": "https:\/\/www.phonearena.com\/news\/Goodbye-Google-Photos-How-I-switched-to-my-own-cloud-s[…]AR1Uy4SXbCKLTH6NyqVbNXDtpr0uKQ3dNUbwC9LUYnbr5O-BRqVb2euioiQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622724557.000900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1622793615.001300",
+        "reply_users": [
+            "U021Q53LBPX"
+        ],
+        "replies": [
+            {
+                "user": "U021Q53LBPX",
+                "ts": "1622793615.001300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

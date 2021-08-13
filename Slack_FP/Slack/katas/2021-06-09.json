@@ -1,0 +1,388 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248558.000200",
+        "user": "U021WEXHN4E",
+        "text": "<@U021WEXHN4E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248640.000400",
+        "user": "U021ZC6JR28",
+        "text": "<@U021ZC6JR28> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248641.000600",
+        "user": "U021TDN4RAP",
+        "text": "<@U021TDN4RAP> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248641.000800",
+        "user": "U021TDMEH27",
+        "text": "<@U021TDMEH27> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248641.001000",
+        "user": "U021TDMLNTD",
+        "text": "<@U021TDMLNTD> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248641.001300",
+        "user": "U0225RHK6Q1",
+        "text": "<@U0225RHK6Q1> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248642.001500",
+        "user": "U0225RJ5989",
+        "text": "<@U0225RJ5989> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248642.001700",
+        "user": "U021TDMBPRR",
+        "text": "<@U021TDMBPRR> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248642.001900",
+        "user": "U021CE3UWPR",
+        "text": "<@U021CE3UWPR> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248643.002100",
+        "user": "U0225RJ3Z4H",
+        "text": "<@U0225RJ3Z4H> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248643.002300",
+        "user": "U0225RJ6SNM",
+        "text": "<@U0225RJ6SNM> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248643.002500",
+        "user": "U022VC1JD29",
+        "text": "<@U022VC1JD29> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248643.002700",
+        "user": "U021ZC6H9GC",
+        "text": "<@U021ZC6H9GC> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248643.002900",
+        "user": "U021Q53LBPX",
+        "text": "<@U021Q53LBPX> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248644.003100",
+        "user": "U021NHS652N",
+        "text": "<@U021NHS652N> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248644.003300",
+        "user": "U021Q54K3B7",
+        "text": "<@U021Q54K3B7> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248644.003500",
+        "user": "U021T7DU0BC",
+        "text": "<@U021T7DU0BC> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248644.003700",
+        "user": "U0225RJ9GQZ",
+        "text": "<@U0225RJ9GQZ> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248645.003900",
+        "user": "U0225RGM941",
+        "text": "<@U0225RGM941> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248645.004100",
+        "user": "U021TDMHF5H",
+        "text": "<@U021TDMHF5H> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248645.004300",
+        "user": "U021UNQGZC4",
+        "text": "<@U021UNQGZC4> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248645.004500",
+        "user": "U021ZC6L676",
+        "text": "<@U021ZC6L676> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1623248646.004700",
+        "user": "U0234JUMPJQ",
+        "text": "<@U0234JUMPJQ> has joined the channel",
+        "inviter": "U021WEXHN4E"
+    },
+    {
+        "type": "message",
+        "text": "Join the Kata clan of our class! :martial_arts_uniform:",
+        "files": [
+            {
+                "id": "F024PQS6220",
+                "created": 1623249280,
+                "timestamp": 1623249280,
+                "name": "Screenshot from 2021-06-09 16-18-32.png",
+                "title": "Screenshot from 2021-06-09 16-18-32.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 122508,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024PQS6220\/screenshot_from_2021-06-09_16-18-32.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024PQS6220\/download\/screenshot_from_2021-06-09_16-18-32.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 143,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 190,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 285,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 317,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 380,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024PQS6220-a3ffc36785\/screenshot_from_2021-06-09_16-18-32_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 406,
+                "image_exif_rotation": 1,
+                "original_w": 1827,
+                "original_h": 724,
+                "thumb_tiny": "AwATADCnQTQOlJj6UAGaXB9D+VJinb29RQA3JpcnbSUvagAHSjFA6UtADW60UrfepKAClHSkpR0oA\/\/Z",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024PQS6220\/screenshot_from_2021-06-09_16-18-32.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024PQS6220-ff44419a41",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAQo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Join the Kata clan of our class! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "martial_arts_uniform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1623249300.005300"
+    },
+    {
+        "client_msg_id": "69089e1b-20af-459c-a71d-de93e331ac9f",
+        "type": "message",
+        "text": "how??",
+        "user": "U021ZC6L676",
+        "ts": "1623251989.005700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yHwDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d3aadc4-679b-40f9-8bd3-4a07814329dc",
+        "type": "message",
+        "text": "Go on your profile in the top right corner, click \"Account settings\" and then in that clan field, enter `Ironhack_DAFT2021_05`",
+        "user": "U021WEXHN4E",
+        "ts": "1623252081.006700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WC4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go on your profile in the top right corner, click \"Account settings\" and then in that clan field, enter "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ironhack_DAFT2021_05",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c82e9043-29a9-4e7c-a0c7-227b06e4abc5",
+        "type": "message",
+        "text": ":white_check_mark:",
+        "user": "U021ZC6L676",
+        "ts": "1623252550.006900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,489 @@
+[
+    {
+        "client_msg_id": "c0d17e8f-ea62-473b-9cfe-4a7e9e442a57",
+        "type": "message",
+        "text": "those columns i was missing -\n```POBC1 Percent Foreign Born\nPOBC2 Percent Born in State of Residence```\n",
+        "user": "U021UNQGZC4",
+        "ts": "1622708897.054000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQdCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "those columns i was missing -\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "POBC1 Percent Foreign Born\nPOBC2 Percent Born in State of Residence"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd05f0df-2d4e-4734-bd32-398f40b94e8d",
+        "type": "message",
+        "text": "probably noise rather than useful data …",
+        "user": "U021UNQGZC4",
+        "ts": "1622708924.054400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZJC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "probably noise rather than useful data …"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0850efad-73eb-4782-90e8-db34712a2994",
+        "type": "message",
+        "text": "```HVP1 Percent Home Value &gt;= $200,000```\nThis one is useful - the percent of homes in that area which have a value over 200k (high wealth neighbourhood)",
+        "user": "U021UNQGZC4",
+        "ts": "1622709077.055000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1622709235.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6I=",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HVP1 Percent Home Value >= $200,000"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This one is useful - the percent of homes in that area which have a value over 200k (high wealth neighbourhood)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "in progress data frame cleaning notebook :",
+        "files": [
+            {
+                "id": "F023WP0RJRG",
+                "created": 1622720148,
+                "timestamp": 1622720148,
+                "name": "Sian_1_3_Intro_to_pandas.ipynb",
+                "title": "Sian_1_3_Intro_to_pandas.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 136585,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023WP0RJRG\/sian_1_3_intro_to_pandas.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023WP0RJRG\/download\/sian_1_3_intro_to_pandas.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F023WP0RJRG\/sian_1_3_intro_to_pandas.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F023WP0RJRG-dc48e9a1e9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eexdz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in progress data frame cleaning notebook :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1622720152.055700"
+    },
+    {
+        "type": "message",
+        "text": "updated at end of lesson",
+        "files": [
+            {
+                "id": "F023QL2VCPQ",
+                "created": 1622730372,
+                "timestamp": 1622730372,
+                "name": "Sian_1_3_Intro_to_pandas.ipynb",
+                "title": "Sian_1_3_Intro_to_pandas.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 162518,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023QL2VCPQ\/sian_1_3_intro_to_pandas.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023QL2VCPQ\/download\/sian_1_3_intro_to_pandas.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F023QL2VCPQ\/sian_1_3_intro_to_pandas.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F023QL2VCPQ-6a3d42046a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPy3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "updated at end of lesson"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1622730378.056100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U022VC1JD29",
+                    "U0225RJ3Z4H",
+                    "U021NHS652N"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5fc0e1d8-a985-4ede-91c7-8c02a40e4c5c",
+        "type": "message",
+        "text": "I'd like to make sure I understood the exercise. do we have gather the three files and clean them like we just did today? do we work with csv or excel ones? I guess we create a new file with clean data file and send it to you",
+        "user": "U0225RJ6SNM",
+        "ts": "1622730842.059500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jUpeq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd like to make sure I understood the exercise. do we have gather the three files and clean them like we just did today? do we work with csv or excel ones? I guess we create a new file with clean data file and send it to you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622730842.059500",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1622732215.060200",
+        "reply_users": [
+            "U021NHS652N",
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1622731958.059600"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1622732001.059800"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1622732088.060000"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1622732215.060200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c8ed49a9-61a8-4e87-9f64-a566578c8f51",
+        "type": "message",
+        "text": "You need to follow all the instructions in a jupyter notebook, importing the three files, concat them as we did this morning and keep following the instructions",
+        "user": "U021NHS652N",
+        "ts": "1622731958.059600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmOXQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You need to follow all the instructions in a jupyter notebook, importing the three files, concat them as we did this morning and keep following the instructions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622730842.059500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "b5a31051-a35d-46a2-8717-4cb038d7c7cf",
+        "type": "message",
+        "text": "you can choose the file format you prefer (csv or excel)",
+        "user": "U021NHS652N",
+        "ts": "1622732001.059800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can choose the file format you prefer (csv or excel)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622730842.059500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "c7302978-5481-4a76-a60f-33a76d458c2b",
+        "type": "message",
+        "text": "At the end you need to submit to us the jupyter notebook with all the process, this is what we need. You can also export the final csv file and leave it in the repo",
+        "user": "U021NHS652N",
+        "ts": "1622732088.060000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i70gQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At the end you need to submit to us the jupyter notebook with all the process, this is what we need. You can also export the final csv file and leave it in the repo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622730842.059500",
+        "parent_user_id": "U0225RJ6SNM"
+    },
+    {
+        "client_msg_id": "d34b9120-b5de-4f9e-b2ff-b961ca27a889",
+        "type": "message",
+        "text": "grasias :slightly_smiling_face:",
+        "user": "U0225RJ6SNM",
+        "ts": "1622732215.060200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4lyn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "grasias "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622730842.059500",
+        "parent_user_id": "U0225RJ6SNM"
+    }
+]

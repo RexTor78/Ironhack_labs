@@ -1,0 +1,65 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620810759.000200",
+        "user": "U0217P72YR5",
+        "text": "<@U0217P72YR5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620811643.000600",
+        "user": "U021UNQGZC4",
+        "text": "<@U021UNQGZC4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620811971.000700",
+        "user": "U021NHS652N",
+        "text": "<@U021NHS652N> has joined the channel"
+    },
+    {
+        "client_msg_id": "7a72e859-12fe-4247-b0c6-6d21a2c81066",
+        "type": "message",
+        "text": "and add some custom emojis :flamingo_dance:",
+        "user": "U021UNQGZC4",
+        "ts": "1620813221.001100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jchuv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and add some custom emojis "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flamingo_dance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

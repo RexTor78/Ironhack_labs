@@ -1,0 +1,88 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F026J5U1PTJ",
+                "created": 1624378503,
+                "timestamp": 1624378503,
+                "name": "20210622_181432.jpg",
+                "title": "20210622_181432.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 29807,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026J5U1PTJ\/20210622_181432.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026J5U1PTJ\/download\/20210622_181432.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026J5U1PTJ-01fd9b3be7\/20210622_181432_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026J5U1PTJ-01fd9b3be7\/20210622_181432_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026J5U1PTJ-01fd9b3be7\/20210622_181432_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 216,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026J5U1PTJ-01fd9b3be7\/20210622_181432_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 288,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F026J5U1PTJ-01fd9b3be7\/20210622_181432_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 431,
+                "original_h": 719,
+                "thumb_tiny": "AwAwABymcKM+tSoigZbOT2FREgH7wzUiPuXORx1xSKRFJkNg8UzdUzYkVsHnrVamIsI5Ugg1bmKvEjY69QKoj6j86ertt24pDdh5jzhkFX4SvlLkAnHOazvMbOCQB35qXdkZAyPUU7iZBwoHHJqYRgLyxye1R7SDn07VKG43dPwpDKznLc9RRvYdGI\/GpJI9yBgfrxVcgg4NMR\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F026J5U1PTJ\/20210622_181432.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026J5U1PTJ-2a0c86e440",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1624378507.000100",
+        "client_msg_id": "6966707a-18de-4b60-ab2f-0683d164d58c",
+        "reactions": [
+            {
+                "name": "shushing_face",
+                "users": [
+                    "U0225RJ6SNM",
+                    "U0225RHK6Q1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U021NHS652N",
+                    "U021CE3UWPR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

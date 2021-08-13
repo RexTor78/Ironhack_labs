@@ -1,0 +1,899 @@
+[
+    {
+        "client_msg_id": "b0b808e9-886c-4abb-8665-11ca9eb6c96a",
+        "type": "message",
+        "text": "<https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html> Index creation tutorial",
+        "user": "U021UNQGZC4",
+        "ts": "1622533755.000900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Dr. Sebastian Raschka",
+                "title": "Creating a table of contents with internal links in IPython Notebooks and Markdown documents",
+                "title_link": "https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html",
+                "text": "Many people have asked me how I create the table of contents with internal links for my IPython Notebooks and Markdown documents on GitHub. Well, no (IPython...",
+                "fallback": "Dr. Sebastian Raschka: Creating a table of contents with internal links in IPython Notebooks and Markdown documents",
+                "ts": 1400576400,
+                "from_url": "https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html",
+                "service_icon": "https:\/\/sebastianraschka.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SS2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sebastianraschka.com\/Articles\/2014_ipython_internal_links.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Index creation tutorial"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "937419d2-1d31-4cfb-8070-946b33267306",
+        "type": "message",
+        "text": "embed code for youtube <https:\/\/youtubeembedcode.com\/en\/>",
+        "user": "U021UNQGZC4",
+        "ts": "1622534418.001300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube embed code generator",
+                "title": "⇒ YouTube Embed Code Generator || Simple, Free &amp; Quick || 2021",
+                "title_link": "https:\/\/youtubeembedcode.com\/en\/",
+                "text": "Easily embed YouTube videos on your website: ➀ Fill in Details ➁ Generate your Code ➂ Copy-Paste to your Site! ☆ Joomla &amp; WordPress",
+                "fallback": "YouTube embed code generator: ⇒ YouTube Embed Code Generator || Simple, Free &amp; Quick || 2021",
+                "from_url": "https:\/\/youtubeembedcode.com\/en\/",
+                "id": 1,
+                "original_url": "https:\/\/youtubeembedcode.com\/en\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pRq8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "embed code for youtube "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtubeembedcode.com\/en\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622534418.001300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1622534612.001500",
+        "reply_users": [
+            "U021T7DU0BC"
+        ],
+        "replies": [
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1622534612.001500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dc5157a8-de20-416c-9c96-ce1bc7dfeeee",
+        "type": "message",
+        "text": "<@U021ZC6JR28> another option I’ve found to embed a YouTube video in the notebook is this:\n```from IPython.lib.display import YouTubeVideo\nYouTubeVideo('C1gLMxJBFXo')```",
+        "user": "U021T7DU0BC",
+        "ts": "1622534612.001500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021T7DU0BC",
+            "ts": "1622534662.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ck5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6JR28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " another option I’ve found to embed a YouTube video in the notebook is this:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "from IPython.lib.display import YouTubeVideo\nYouTubeVideo('C1gLMxJBFXo')"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622534418.001300",
+        "parent_user_id": "U021UNQGZC4",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021ZC6JR28",
+                    "U021UNQGZC4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae3322a4-2786-4e34-bbdb-4ae81f91e2c4",
+        "type": "message",
+        "text": "if anyone else had issues publishing their notebook with colour tags on headers to github, the reason as far as I can see is that github does not support these tags since HTML 5 came along <https:\/\/github.com\/github\/markup\/issues\/369>\nthere are some little hacks - <https:\/\/stackoverflow.com\/questions\/11509830\/how-to-add-color-to-githubs-readme-md-file>\nbut nothing ‘out of the box’ - so i will amend the lab for the next cohort with a warning around colour tags!",
+        "user": "U021UNQGZC4",
+        "ts": "1622541518.003500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "No longer possible to color text in Markdown · Issue #369 · github\/markup",
+                "title_link": "https:\/\/github.com\/github\/markup\/issues\/369",
+                "text": "Earlier, GFM allowed you to create colored text this way: &lt;font color=&amp;quot;red&amp;quot;&gt;Status: **Not yet implemented**&lt;\/font&gt; That used to work. But at some point the &lt;font&gt; tag wa...",
+                "fallback": "GitHub: No longer possible to color text in Markdown · Issue #369 · github\/markup",
+                "image_url": "https:\/\/opengraph.githubassets.com\/d5a0dd85b76cd15e9562cd727d2c5f81921fd2550a8e1dfa555ed0798d7feaa0\/github\/markup\/issues\/369",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/github\/markup\/issues\/369",
+                "image_bytes": 102925,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/github\/markup\/issues\/369"
+            },
+            {
+                "service_name": "Stack Overflow",
+                "title": "How to add color to Github's README.md file",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/11509830\/how-to-add-color-to-githubs-readme-md-file",
+                "text": "I have a README.md file for my project underscore-cli, a pretty sweet tool for hacking JSON and JS on the command-line, and I want to document the --color flag. Currently, the ONLY way to do this i...",
+                "fallback": "Stack Overflow: How to add color to Github's README.md file",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/11509830\/how-to-add-color-to-githubs-readme-md-file",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 2,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/11509830\/how-to-add-color-to-githubs-readme-md-file"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M4\/6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if anyone else had issues publishing their notebook with colour tags on headers to github, the reason as far as I can see is that github does not support these tags since HTML 5 came along "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/github\/markup\/issues\/369"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthere are some little hacks - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/11509830\/how-to-add-color-to-githubs-readme-md-file"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nbut nothing ‘out of the box’ - so i will amend the lab for the next cohort with a warning around colour tags!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f45fd93c-b56c-4a8f-ac48-39cc10528488",
+        "type": "message",
+        "text": "suggested installations for your new conda environment - numpy, pandas, scikit-learn, matplotlib, seaborn",
+        "user": "U021UNQGZC4",
+        "ts": "1622544433.004300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1622551145.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "suggested installations for your new conda environment - numpy, pandas, scikit-learn, matplotlib, seaborn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622544433.004300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1622550807.006300",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1622550193.004900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622550807.006300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX",
+                    "U021TDMLNTD",
+                    "U022VC1JD29",
+                    "U0225RJ3Z4H"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98a8efb0-6b15-4cfa-bb35-4a3142d97f47",
+        "type": "message",
+        "text": "ah great! installing them all then!",
+        "user": "U021ZC6H9GC",
+        "ts": "1622550118.004700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZ+lE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah great! installing them all then!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e956945-dc80-4325-9b57-25ce8a80389f",
+        "type": "message",
+        "text": "sklearn cannot be found. Does sckit-learn work in this case as well? That one installed smoothly :sweat_smile:",
+        "user": "U021ZC6JR28",
+        "ts": "1622550193.004900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cGbuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sklearn cannot be found. Does sckit-learn work in this case as well? That one installed smoothly "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622544433.004300",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "21092291-dc0b-47c8-878f-82e14952d79d",
+        "type": "message",
+        "text": "there are anymore package that we will install for do now?",
+        "user": "U021CE3UWPR",
+        "ts": "1622550789.006100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there are anymore package that we will install for do now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550789.006100",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1622551178.008000",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021CE3UWPR"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622550825.006600"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1622550921.006900"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1622551104.007100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622551128.007300"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1622551160.007600"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1622551163.007800"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622551178.008000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "06e92c7d-4d13-40d8-95b8-2f8fe482a897",
+        "type": "message",
+        "text": "sorry, typo :) i have always called it sklearn",
+        "user": "U021UNQGZC4",
+        "ts": "1622550807.006300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g9+py",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry, typo :) i have always called it sklearn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622544433.004300",
+        "parent_user_id": "U021UNQGZC4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U022VC1JD29",
+                    "U021ZC6JR28"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e7b98c3-4da6-4815-9ef4-3bcc08740be8",
+        "type": "message",
+        "text": "nothing more for now i think :)",
+        "user": "U021UNQGZC4",
+        "ts": "1622550825.006600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gBN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nothing more for now i think :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550789.006100",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "a302cf84-c9d5-4763-9c8c-eecfb0ed8bde",
+        "type": "message",
+        "text": "thanks Sian",
+        "user": "U021CE3UWPR",
+        "ts": "1622550921.006900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0cu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks Sian"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550789.006100",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "112b67d7-bd93-42c9-9fb0-8fecda0e6c16",
+        "type": "message",
+        "text": "This scikitlearn, not found",
+        "user": "U021CE3UWPR",
+        "ts": "1622551104.007100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Og8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This scikitlearn, not found"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550789.006100",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "e50d78bf-f9cf-46ec-83f2-4566f5a1e6d1",
+        "type": "message",
+        "text": "conda install scikit-learn",
+        "user": "U021UNQGZC4",
+        "ts": "1622551128.007300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rg7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "conda install scikit-learn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550789.006100",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "093af24c-40c2-4188-a7aa-7c73c7e183f9",
+        "type": "message",
+        "text": "just do",
+        "user": "U021CE3UWPR",
+        "ts": "1622551160.007600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rUHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550789.006100",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "79ddde49-e1ee-4f1c-8480-b32bd9ff6983",
+        "type": "message",
+        "text": "thanks",
+        "user": "U021CE3UWPR",
+        "ts": "1622551163.007800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rpnq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550789.006100",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "eb5015da-8cdb-4d7e-98d7-1fd688db550f",
+        "type": "message",
+        "text": ":)",
+        "user": "U021UNQGZC4",
+        "ts": "1622551178.008000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yl=3T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622550789.006100",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "f3c110a5-fdaf-40a3-a736-5e42fb8eb881",
+        "type": "message",
+        "text": "i'd like to solve this git 'repo in repo' issue",
+        "user": "U021ZC6L676",
+        "ts": "1622557593.008900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wA4hK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'd like to solve this git 'repo in repo' issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

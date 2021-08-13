@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "text": "Look at this overfitted bed!! Extremely useful to people who sleep in that position, but… it it really useful in general for everyone (everyone = data)?",
+        "files": [
+            {
+                "id": "F027GDFKVN0",
+                "created": 1625646016,
+                "timestamp": 1625646016,
+                "name": "overfit.jpeg",
+                "title": "overfit.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021NHS652N",
+                "editable": false,
+                "size": 10857,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027GDFKVN0\/overfit.jpeg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027GDFKVN0\/download\/overfit.jpeg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GDFKVN0-6a34d5ec62\/overfit_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GDFKVN0-6a34d5ec62\/overfit_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GDFKVN0-6a34d5ec62\/overfit_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 275,
+                "thumb_360_h": 183,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F027GDFKVN0-6a34d5ec62\/overfit_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 275,
+                "original_h": 183,
+                "thumb_tiny": "AwAfADCJPpUq\/SmLwMninjrznHepuVYSaTywrDON3PvTPtTfe8v5avJ5bLlQQPUiq11KPuKykHrTEIlwskihc4wScjpUpK461ThUJLlQcYqfdSuOxXdi0TL7U6GSYKrbN4+lMj5cBsgE1bjVYwFSQgd+PzoASW4aeLY0TD3WqyxNuAVWx6kVcxgBfMOAMfdo3CNcCU4zxxTFciEZA5\/lSGpQysCN5A+lRuAGIBJqbFXP\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021NHS652N\/F027GDFKVN0\/overfit.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027GDFKVN0-50ee72effb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZWhCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Look at this overfitted bed!! Extremely useful to people who sleep in that position, but… it it really useful in general for everyone (everyone = data)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021NHS652N",
+        "display_as_bot": false,
+        "ts": "1625646141.002200",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U021CE3UWPR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

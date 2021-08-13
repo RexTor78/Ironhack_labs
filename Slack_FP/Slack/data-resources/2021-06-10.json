@@ -1,0 +1,309 @@
+[
+    {
+        "client_msg_id": "3d7cd406-39c9-4410-b727-6d5c8cb90d2e",
+        "type": "message",
+        "text": "a useful git commit add convo on stack overflow <https:\/\/stackoverflow.com\/questions\/7239333\/how-do-i-commit-only-some-files>",
+        "user": "U021UNQGZC4",
+        "ts": "1623328702.001400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "How do I commit only some files?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/7239333\/how-do-i-commit-only-some-files",
+                "text": "I have two projects. One is the \"official\" project and the second is a light modification (some files added). I created new branch and I put new files to them. But in during development some files ...",
+                "fallback": "Stack Overflow: How do I commit only some files?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/7239333\/how-do-i-commit-only-some-files",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/7239333\/how-do-i-commit-only-some-files"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oLSsH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a useful git commit add convo on stack overflow "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/7239333\/how-do-i-commit-only-some-files"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e0a4fd2-3111-4be0-b698-88236335afc1",
+        "type": "message",
+        "text": "useful bookmark :bookmark: <https:\/\/www.notion.so\/ironhack\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81> Additional Resources list - things we have found before and found useful",
+        "user": "U021UNQGZC4",
+        "ts": "1623329232.002100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Additional Resources - Shared by Students and Teaching Team",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Additional Resources - Shared by Students and Teaching Team",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8kPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "useful bookmark "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bookmark"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Additional Resources list - things we have found before and found useful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "the \"recommended\" workflow with git when it comes to solving labs",
+        "files": [
+            {
+                "id": "F024MTP0334",
+                "created": 1623329268,
+                "timestamp": 1623329268,
+                "name": "github_lab_push_workflow.pdf",
+                "title": "github_lab_push_workflow.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 276249,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024MTP0334\/github_lab_push_workflow.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024MTP0334\/download\/github_lab_push_workflow.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024MTP0334-92936d7dc8\/github_lab_push_workflow_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 1285,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024MTP0334\/github_lab_push_workflow.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024MTP0334-0858ca0acb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iI2EX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the \"recommended\" workflow with git when it comes to solving labs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1623329295.002700"
+    },
+    {
+        "client_msg_id": "86312b02-8d78-495a-b878-47f2533854ec",
+        "type": "message",
+        "text": "<https:\/\/rubygarage.org\/blog\/most-basic-git-commands-with-examples>",
+        "user": "U021UNQGZC4",
+        "ts": "1623329336.003100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Most Basic Git Commands with Examples",
+                "title_link": "https:\/\/rubygarage.org\/blog\/most-basic-git-commands-with-examples",
+                "text": "Git is a great tool that is, unfortunately, very difficult to grasp. To get started, you’ll need to familiarize yourself with the most basic Git commands; after you learn these basic commands, Git will become your best friend.",
+                "fallback": "Most Basic Git Commands with Examples",
+                "image_url": "https:\/\/d3smn0u2zr7yfv.cloudfront.net\/uploads\/article\/image_with_background\/163\/most-basic-git-commands-with-examples.png",
+                "from_url": "https:\/\/rubygarage.org\/blog\/most-basic-git-commands-with-examples",
+                "image_width": 1012,
+                "image_height": 250,
+                "image_bytes": 303988,
+                "service_icon": "https:\/\/rubygarage.org\/favicon.ico",
+                "service_name": "rubygarage.org",
+                "id": 1,
+                "original_url": "https:\/\/rubygarage.org\/blog\/most-basic-git-commands-with-examples"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yv8mJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rubygarage.org\/blog\/most-basic-git-commands-with-examples"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4069ed1-a9be-4cf0-b968-72fe56af4761",
+        "type": "message",
+        "text": "Where do Berliners come from? In this link you can see where Berliners were born. For example, 3655 Berliners were born in Chile, making us 51 in the country ranking. 174 of us were born in the same \"city\"(or district, Providencia), making us 854 in the city level ranking.\n\n<https:\/\/www.rbb24.de\/panorama\/beitrag\/2021\/06\/berliner-statistik-einwohner-zugezogene-berlin-2020.html>",
+        "user": "U021Q54K3B7",
+        "ts": "1623394069.003400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021Q54K3B7",
+            "ts": "1623394165.000000"
+        },
+        "attachments": [
+            {
+                "title": "Woher die Berliner wirklich kommen",
+                "title_link": "https:\/\/www.rbb24.de\/panorama\/beitrag\/2021\/06\/berliner-statistik-einwohner-zugezogene-berlin-2020.html",
+                "text": "Brieselang, Boston oder Bolivien: Die in der Hauptstadt gemeldeten Berlinerinnen und Berliner wurden mehrheitlich nicht in Berlin, sondern anderswo geboren. Wo überall auf der Welt die Geburtsorte der Berliner 2020 waren, zeigt unsere Datenauswertung. Von Götz Gringmuth-Dallmer, Jenny Gebske, Arne Schlüter und Manuel Reich",
+                "fallback": "Woher die Berliner wirklich kommen",
+                "image_url": "https:\/\/www.rbb24.de\/content\/dam\/rbb\/rbb\/rbb24\/2021\/2021_05\/sonstige\/Titelbild_Geburtsorte_Weltkarte_Skyline.jpg.jpg\/size=708x398.jpg",
+                "from_url": "https:\/\/www.rbb24.de\/panorama\/beitrag\/2021\/06\/berliner-statistik-einwohner-zugezogene-berlin-2020.html",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 40692,
+                "service_icon": "https:\/\/www.rbb24.de\/content\/dam\/rbb\/rbb\/logos\/touch\/r24-152.png",
+                "service_name": "rbb24 Website",
+                "id": 1,
+                "original_url": "https:\/\/www.rbb24.de\/panorama\/beitrag\/2021\/06\/berliner-statistik-einwohner-zugezogene-berlin-2020.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7T4P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where do Berliners come from? In this link you can see where Berliners were born. For example, 3655 Berliners were born in Chile, making us 51 in the country ranking. 174 of us were born in the same \"city\"(or district, Providencia), making us 854 in the city level ranking.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rbb24.de\/panorama\/beitrag\/2021\/06\/berliner-statistik-einwohner-zugezogene-berlin-2020.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

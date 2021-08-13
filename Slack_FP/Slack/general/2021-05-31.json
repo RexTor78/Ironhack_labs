@@ -1,0 +1,344 @@
+[
+    {
+        "client_msg_id": "4f817d80-c01f-4295-91a0-05f3720a0f6c",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042>",
+        "user": "U021UNQGZC4",
+        "ts": "1622451159.001800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Our Class Calendar",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Our Class Calendar",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fwoodcuts_8.jpg?table=collection&id=bff01f6e-ccc5-465e-be32-585448116db9&spaceId=96daa24f-e24d-4dfc-9cdd-7cb5018d0c01&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042",
+                "image_width": 377,
+                "image_height": 250,
+                "image_bytes": 348341,
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dYvTF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMHF5H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ca2ef4c-551c-4c35-9540-2a4098ec8c94",
+        "type": "message",
+        "text": "hello",
+        "user": "U021TDMHF5H",
+        "ts": "1622452087.002300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SS1I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8eb32fe-69aa-452e-8f46-dd8334b85ad6",
+        "type": "message",
+        "text": "Hi Arya :slightly_smiling_face:",
+        "user": "U021TDD883V",
+        "ts": "1622452112.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "24fa7ea0265a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2067405547860_24fa7ea0265a6c80dac3_72.png",
+            "first_name": "",
+            "real_name": "Jonas Tonndorff",
+            "display_name": "Jonas Tonndorff",
+            "team": "T021KE79B9B",
+            "name": "jonas.tonndorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zWV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Arya "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32ce07ad-729e-4c86-9468-6278bb537cb9",
+        "type": "message",
+        "text": "i have been asked to pass on the message that masks need to be worn in the barcelona campus at all times - once the berlin campus allows students in that will be the same. Please follow this rule so we can keep the campus open for everyone :)",
+        "user": "U021UNQGZC4",
+        "ts": "1622459865.004200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9z\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have been asked to pass on the message that masks need to be worn in the barcelona campus at all times - once the berlin campus allows students in that will be the same. Please follow this rule so we can keep the campus open for everyone :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U021TDD883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b39674c4-5596-402c-9a0a-f9e60c59c7f5",
+        "type": "message",
+        "text": "this might be useful for your jupyter lab - <https:\/\/www.w3schools.com\/python\/ref_func_input.asp>",
+        "user": "U021UNQGZC4",
+        "ts": "1622465237.004900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Python input() Function",
+                "title_link": "https:\/\/www.w3schools.com\/python\/ref_func_input.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.",
+                "fallback": "Python input() Function",
+                "from_url": "https:\/\/www.w3schools.com\/python\/ref_func_input.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/python\/ref_func_input.asp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this might be useful for your jupyter lab - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/ref_func_input.asp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba300c11-f7b6-4226-9d86-2890f0f05ee1",
+        "type": "message",
+        "text": "Hi guys, I have a basic question, how to navigate index in Jupyter notebook? suggestions are welcome!",
+        "user": "U0225RGM941",
+        "ts": "1622471655.005200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "23fj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi guys, I have a basic question, how to navigate index in Jupyter notebook? suggestions are welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622471655.005200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1622473087.005400",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622473087.005400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ba438c55-5e7a-4fe8-aaef-a80e906e4133",
+        "type": "message",
+        "text": "responded on getting started channel",
+        "user": "U021UNQGZC4",
+        "ts": "1622473087.005400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1622534597.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yf5PJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "responded on getting started channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622471655.005200",
+        "parent_user_id": "U0225RGM941"
+    }
+]

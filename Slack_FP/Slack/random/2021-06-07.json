@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "8c2b2565-c01a-449c-b662-fcad9d998e58",
+        "type": "message",
+        "text": "<https:\/\/www.reuters.com\/business\/retail-consumer\/jeff-bezos-join-winner-seat-blue-origin-space-flight-2021-06-07\/> wheres the emoji for space junk ?",
+        "user": "U021UNQGZC4",
+        "ts": "1623076920.000300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Reuters",
+                "title": "Amazon's billionaire founder Jeff Bezos to fly to space next month",
+                "title_link": "https:\/\/www.reuters.com\/business\/retail-consumer\/jeff-bezos-join-winner-seat-blue-origin-space-flight-2021-06-07\/",
+                "text": "Amazon's billionaire founder Jeff Bezos said on Monday he and his brother Mark will fly on the first crewed space flight from his rocket company Blue Origin next month.",
+                "fallback": "Reuters: Amazon's billionaire founder Jeff Bezos to fly to space next month",
+                "image_url": "https:\/\/www.reuters.com\/resizer\/95V-iuZLP96RBt7f4Xx48vtXT0M=\/1200x628\/smart\/filters:quality(80)\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/JVTYYNOESZLIJBHRD2OCX5ETDA.jpg",
+                "ts": 1623063779,
+                "from_url": "https:\/\/www.reuters.com\/business\/retail-consumer\/jeff-bezos-join-winner-seat-blue-origin-space-flight-2021-06-07\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 75284,
+                "service_icon": "https:\/\/www.reuters.com\/pf\/resources\/icons\/favicon.ico?d=35",
+                "id": 1,
+                "original_url": "https:\/\/www.reuters.com\/business\/retail-consumer\/jeff-bezos-join-winner-seat-blue-origin-space-flight-2021-06-07\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zk5Ko",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reuters.com\/business\/retail-consumer\/jeff-bezos-join-winner-seat-blue-origin-space-flight-2021-06-07\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wheres the emoji for space junk ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0249UC476X",
+                "created": 1623098322,
+                "timestamp": 1623098322,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021NHS652N",
+                "editable": false,
+                "size": 34334,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0249UC476X\/image_from_ios.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0249UC476X\/download\/image_from_ios.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249UC476X-2816e49113\/image_from_ios_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249UC476X-2816e49113\/image_from_ios_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249UC476X-2816e49113\/image_from_ios_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 268,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249UC476X-2816e49113\/image_from_ios_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 357,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249UC476X-2816e49113\/image_from_ios_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249UC476X-2816e49113\/image_from_ios_720.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 536,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0249UC476X-2816e49113\/image_from_ios_800.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 595,
+                "thumb_800_h": 800,
+                "original_w": 640,
+                "original_h": 860,
+                "thumb_tiny": "AwAwACOqSmwDHPr70mU9P1oDDA\/+JFLuX\/KimIadvYU2nl\/QDH0pN59B+VADaKU8nNJQA8FcDpn\/AHaXK+o\/75oGNvQZx6Gm7v8AYH5UAKWA6BT9VpN\/P3V\/Kjd\/srQTkfdA+lADaKKKAF\/E0ceppdxxjccDtQGI6HFADaKXr1NJQAUUUUAf\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021NHS652N\/F0249UC476X\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0249UC476X-ee22554733",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rdTg",
+                "elements": []
+            }
+        ],
+        "user": "U021NHS652N",
+        "display_as_bot": false,
+        "ts": "1623098329.000500",
+        "client_msg_id": "0FBAA951-49AE-48BF-A14C-505243CA2523",
+        "thread_ts": "1623098329.000500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623137898.001900",
+        "reply_users": [
+            "U0225RHK6Q1"
+        ],
+        "replies": [
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1623137898.001900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

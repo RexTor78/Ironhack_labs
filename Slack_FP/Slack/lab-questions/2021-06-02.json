@@ -1,0 +1,1152 @@
+[
+    {
+        "client_msg_id": "dbca9b2e-6bcd-487c-9d10-d395edf65776",
+        "type": "message",
+        "text": "any questions as you work through the lab that cannot be answered by googling - feel free to pitch them here and one of the teaching team or your classmates will respond!",
+        "user": "U021UNQGZC4",
+        "ts": "1622639398.009700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiH9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any questions as you work through the lab that cannot be answered by googling - feel free to pitch them here and one of the teaching team or your classmates will respond!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C17DA744-A900-41B2-8A44-79A1E923E810",
+        "type": "message",
+        "text": "Download doesn’t work.. I use windows and it has only an option download link as",
+        "user": "U0225RGM941",
+        "ts": "1622639516.010600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8hd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Download doesn’t work.. I use windows and it has only an option download link as"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622639516.010600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1622639928.011100",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622639640.010700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622639928.011100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "no problem- here you go!",
+        "files": [
+            {
+                "id": "F023PB60V6H",
+                "created": 1622639638,
+                "timestamp": 1622639638,
+                "name": "String_Operations_lab.ipynb.zip",
+                "title": "String_Operations_lab.ipynb.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 3446,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023PB60V6H\/string_operations_lab.ipynb.zip?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F023PB60V6H\/download\/string_operations_lab.ipynb.zip?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F023PB60V6H\/string_operations_lab.ipynb.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F023PB60V6H-a74850d797",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+btxu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no problem- here you go!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1622639640.010700",
+        "thread_ts": "1622639516.010600",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "3f954253-3cfd-415d-8b1f-e446ff73c2da",
+        "type": "message",
+        "text": "you can also get extensions for your browser which make downloading files from urls easier… but download link as will normally give you the option to save as ipynb… i dont have a windows machine so cannot replicate it, but looking at this link <https:\/\/stackoverflow.com\/questions\/45622602\/how-to-save-jupyter-notebooks-from-github> others have found ways to do this",
+        "user": "U021UNQGZC4",
+        "ts": "1622639928.011100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "How to save Jupyter notebooks from GitHub",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/45622602\/how-to-save-jupyter-notebooks-from-github",
+                "text": "When I download an ipynb file using the RAW button in GitHub it displays the text (json) in the browser. Should I just copy this text into a file and name it xxx.ipynb? What's the best way to do it?",
+                "fallback": "Stack Overflow: How to save Jupyter notebooks from GitHub",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/45622602\/how-to-save-jupyter-notebooks-from-github",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/45622602\/how-to-save-jupyter-notebooks-from-github"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzIZw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can also get extensions for your browser which make downloading files from urls easier… but download link as will normally give you the option to save as ipynb… i dont have a windows machine so cannot replicate it, but looking at this link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/45622602\/how-to-save-jupyter-notebooks-from-github"
+                            },
+                            {
+                                "type": "text",
+                                "text": " others have found ways to do this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622639516.010600",
+        "parent_user_id": "U0225RGM941"
+    },
+    {
+        "client_msg_id": "7e271a3b-3690-4106-82cf-58eb07cb8459",
+        "type": "message",
+        "text": "<@U021NHS652N>, <@U021UNQGZC4> or <@U021WEXHN4E> anybody got a minute?",
+        "user": "U022VC1JD29",
+        "ts": "1622641529.012200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PBo2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " anybody got a minute?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622641529.012200",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1622647859.016700",
+        "reply_users": [
+            "U021WEXHN4E",
+            "U021UNQGZC4",
+            "U022VC1JD29"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1622642797.012700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622644652.014500"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1622645246.015600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622645468.015900"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1622645591.016100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622645769.016300"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1622647859.016700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7f203c67-bf3d-4424-8e38-999bed533256",
+        "type": "message",
+        "text": "Nobody!!!! Never mind :smile:",
+        "user": "U022VC1JD29",
+        "ts": "1622642518.012600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hVDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nobody!!!! Never mind "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ef486c4-b1a4-4ad0-b547-8eea580dee75",
+        "type": "message",
+        "text": "after the Kata!",
+        "user": "U021WEXHN4E",
+        "ts": "1622642797.012700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJLOL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "after the Kata!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622641529.012200",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "ce0881d1-56c3-4f97-b11b-e719957987e8",
+        "type": "message",
+        "text": "<@U021UNQGZC4> where can we find the jupyter notebook of the lecture on regex?",
+        "user": "U0225RJ3Z4H",
+        "ts": "1622644556.013800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k0Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where can we find the jupyter notebook of the lecture on regex?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622644556.013800",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1622644875.015300",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RJ3Z4H"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622644595.014000"
+            },
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1622644617.014300"
+            },
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1622644718.014700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622644813.014900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1622644875.015300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e1397e56-0fc9-4854-8d29-be0bfa7a473b",
+        "type": "message",
+        "text": "on Notion <https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&amp;p=6bd05316be974ade99dacc2110d445a1>",
+        "user": "U021UNQGZC4",
+        "ts": "1622644595.014000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1622644839.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Gentle introduction to regex",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=6bd05316be974ade99dacc2110d445a1",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Gentle introduction to regex",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=6bd05316be974ade99dacc2110d445a1",
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&amp;p=6bd05316be974ade99dacc2110d445a1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pF2da",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on Notion "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=6bd05316be974ade99dacc2110d445a1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622644556.013800",
+        "parent_user_id": "U0225RJ3Z4H"
+    },
+    {
+        "client_msg_id": "6698b9d3-984c-4d85-af70-7391b45a19f6",
+        "type": "message",
+        "text": "Ah, cool. Thanks!",
+        "user": "U0225RJ3Z4H",
+        "ts": "1622644617.014300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F3ejJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, cool. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622644556.013800",
+        "parent_user_id": "U0225RJ3Z4H"
+    },
+    {
+        "client_msg_id": "e0f3c7fd-826e-4e62-b282-6107fffe5e41",
+        "type": "message",
+        "text": "you can always find the TAs on zoom in the afternoon session",
+        "user": "U021UNQGZC4",
+        "ts": "1622644652.014500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3n2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can always find the TAs on zoom in the afternoon session"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622641529.012200",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "857e1739-27c9-41df-8a80-df07953ab138",
+        "type": "message",
+        "text": "it gives me this error: You do not have access to *ironhack*. Please contact an admin to add you as a member.\nBack to onboarding",
+        "user": "U0225RJ3Z4H",
+        "ts": "1622644718.014700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvGS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it gives me this error: You do not have access to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ironhack",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Please contact an admin to add you as a member.\nBack to onboarding"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622644556.013800",
+        "parent_user_id": "U0225RJ3Z4H"
+    },
+    {
+        "client_msg_id": "5298300a-0ac8-4d06-9c34-b33990d46835",
+        "type": "message",
+        "text": "apologies, wrong link",
+        "user": "U021UNQGZC4",
+        "ts": "1622644813.014900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=b+pf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "apologies, wrong link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622644556.013800",
+        "parent_user_id": "U0225RJ3Z4H"
+    },
+    {
+        "client_msg_id": "9b64182f-9796-425b-b446-5950a3ff023d",
+        "type": "message",
+        "text": "but if you use the link we shared with you via the student portal on day one … <https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042>\nthis is your go to for all resources - so favourite this link please!",
+        "user": "U021UNQGZC4",
+        "ts": "1622644875.015300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Our Class Calendar",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Our Class Calendar",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fwoodcuts_8.jpg?table=collection&id=bff01f6e-ccc5-465e-be32-585448116db9&spaceId=96daa24f-e24d-4dfc-9cdd-7cb5018d0c01&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042",
+                "image_width": 377,
+                "image_height": 250,
+                "image_bytes": 348341,
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but if you use the link we shared with you via the student portal on day one … "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis is your go to for all resources - so favourite this link please!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622644556.013800",
+        "parent_user_id": "U0225RJ3Z4H"
+    },
+    {
+        "client_msg_id": "6815bd5e-d24f-4b89-8443-b30699dd1a74",
+        "type": "message",
+        "text": "nobody was there for 20 mins at least",
+        "user": "U022VC1JD29",
+        "ts": "1622645246.015600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022VC1JD29",
+            "ts": "1622645281.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bO+k=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nobody was there for 20 mins at least"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622641529.012200",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "31803e0f-2136-44af-9eb2-c1a9f0429cb2",
+        "type": "message",
+        "text": "oh! i would guess they were helping other students on zoom. Please be patient while everyone finds their way around the technology",
+        "user": "U021UNQGZC4",
+        "ts": "1622645468.015900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B\/iO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh! i would guess they were helping other students on zoom. Please be patient while everyone finds their way around the technology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622641529.012200",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "3b712b0f-25a0-4f87-aec6-70319554e3f8",
+        "type": "message",
+        "text": "no one was on zoom for at least 20 mins.. never mind anyway I've figured things out n my own.. It just took me way longer dealing with an irrelevant problem :slightly_smiling_face:",
+        "user": "U022VC1JD29",
+        "ts": "1622645591.016100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2dfJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no one was on zoom for at least 20 mins.. never mind anyway I've figured things out n my own.. It just took me way longer dealing with an irrelevant problem "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622641529.012200",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "e457fa56-4226-4c13-a71e-80615138404b",
+        "type": "message",
+        "text": "OK Majed, i will ask you to take a breath now. There are breakout rooms on zoom, and it seems to me that the TAs were helping students with questions in break out rooms at the time you were in need of help so thats probably why you couldnt see them in the main room. I am sorry you felt you were stuck… but this is going to happen more than once during the course and definitely in your career ahead of you. well done for finding a way around the problem yourself, thats a good skill to have. It might take a little time to get used to where everything is and how to get to it, and how to get help, but this will get easier as all the students settle into the remote learning environment",
+        "user": "U021UNQGZC4",
+        "ts": "1622645769.016300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1622645854.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kK+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK Majed, i will ask you to take a breath now. There are breakout rooms on zoom, and it seems to me that the TAs were helping students with questions in break out rooms at the time you were in need of help so thats probably why you couldnt see them in the main room. I am sorry you felt you were stuck… but this is going to happen more than once during the course and definitely in your career ahead of you. well done for finding a way around the problem yourself, thats a good skill to have. It might take a little time to get used to where everything is and how to get to it, and how to get help, but this will get easier as all the students settle into the remote learning environment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622641529.012200",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "4b7725bb-c701-4f17-a80a-8be598d571fa",
+        "type": "message",
+        "text": "Thanks Sian :slightly_smiling_face: It's all good! But again, I saw no TA either in the main room or in any of the rooms which's why I tagged you guys here.. Maybe my zoom had a hiccup :slightly_smiling_face: Hopefully this won't be an issue in the future.. Anyway thanks again.. See you tomorrow",
+        "user": "U022VC1JD29",
+        "ts": "1622647859.016700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022VC1JD29",
+            "ts": "1622648467.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dLtCr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sian "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It's all good! But again, I saw no TA either in the main room or in any of the rooms which's why I tagged you guys here.. Maybe my zoom had a hiccup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hopefully this won't be an issue in the future.. Anyway thanks again.. See you tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622641529.012200",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "ff83ca46-0b65-4f2a-96b7-29356fc9c1d7",
+        "type": "message",
+        "text": "is anyone <@U021WEXHN4E> or <@U021NHS652N> available? I can’t fins you guys in zoom… thank u!:pray:",
+        "user": "U021ZC6H9GC",
+        "ts": "1622647911.017500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is anyone "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " available? I can’t fins you guys in zoom… thank u!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25aaaf15-251d-4aa5-990e-6c203725103e",
+        "type": "message",
+        "text": "just finished with the other questions, let’s go to room 9",
+        "user": "U021NHS652N",
+        "ts": "1622647985.018100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwK3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just finished with the other questions, let’s go to room 9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b251cd3-5224-4cc2-8d56-5a965eb491f0",
+        "type": "message",
+        "text": "<!channel>,\nI'm in room ~2~ 1!",
+        "user": "U021WEXHN4E",
+        "ts": "1622648019.018600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1622648884.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zHQf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nI'm in room "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

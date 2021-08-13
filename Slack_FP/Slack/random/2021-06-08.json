@@ -1,0 +1,379 @@
+[
+    {
+        "client_msg_id": "c3533410-6bde-43e1-96d9-d7685c6b50c3",
+        "type": "message",
+        "text": "wear a bike helmet :grin:\n<https:\/\/www.youtube.com\/watch?v=0m-c4GixUpg>",
+        "user": "U021WEXHN4E",
+        "ts": "1623137811.001400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Danish Road Safety Council \/ Helmet has always been a good idea",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=0m-c4GixUpg",
+                "author_name": "&Co.",
+                "author_link": "https:\/\/www.youtube.com\/c\/andcocph",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/0m-c4GixUpg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Danish Road Safety Council \/ Helmet has always been a good idea",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/0m-c4GixUpg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=0m-c4GixUpg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=0m-c4GixUpg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wear a bike helmet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=0m-c4GixUpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b95ea8c-16b1-47e7-9c51-05752fbd5208",
+        "type": "message",
+        "text": "but why are the comments disabled?!",
+        "user": "U021TDMBPRR",
+        "ts": "1623137893.001800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gaa97d2e7615",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aa97d2e76152bbd9af05401383d1b8cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gellért Bodorkós",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "gellert.bodorkos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S7o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but why are the comments disabled?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623137893.001800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623137931.002100",
+        "reply_users": [
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1623137931.002100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4765ce31-3f61-488c-8041-7c1974dde353",
+        "type": "message",
+        "text": "Thank you haahahahah:smiling_face_with_tear::heart:",
+        "user": "U0225RHK6Q1",
+        "ts": "1623137898.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s8Ox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you haahahahah"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623098329.000500",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "3de23fe4-a72b-4914-87ef-95ecbf5e30f0",
+        "type": "message",
+        "text": "it works here...",
+        "user": "U0225RJ6SNM",
+        "ts": "1623137931.002100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zDdi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it works here..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623137893.001800",
+        "parent_user_id": "U021TDMBPRR"
+    },
+    {
+        "client_msg_id": "b5c847c1-9e6d-48b8-86ab-7463325b13f0",
+        "type": "message",
+        "text": "but it didn't work in my phone this morning",
+        "user": "U0225RJ6SNM",
+        "ts": "1623137979.002900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPlaH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but it didn't work in my phone this morning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "railway_car",
+                "users": [
+                    "U021TDMBPRR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c641c39-0c56-4124-8ea3-f7bff41acdc1",
+        "type": "message",
+        "text": "<https:\/\/creative-ai.org\/>",
+        "user": "U021UNQGZC4",
+        "ts": "1623144223.003300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Creative AI Lab",
+                "title_link": "https:\/\/creative-ai.org\/",
+                "fallback": "Creative AI Lab",
+                "image_url": "https:\/\/creative-ai.org\/img\/4-CreativeAI-Landscape.png",
+                "from_url": "https:\/\/creative-ai.org\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 48731,
+                "service_icon": "https:\/\/creative-ai.org\/img\/favicon.ico",
+                "service_name": "creative-ai.org",
+                "id": 1,
+                "original_url": "https:\/\/creative-ai.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ltT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/creative-ai.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bb52503-524c-48a3-8d75-9f4d42485006",
+        "type": "message",
+        "text": ":point_up: ongoing project to aggregate _tools_ and _resources_ for artists, engineers, curators &amp; researchers interested in incorporating machine learning (ML) and other forms of artificial intelligence (AI) into their practice. Resources in the database come from our partners and network; tools cover a broad spectrum of possibilities presented by the current advances in ML like enabling users to generate images from their own data, create interactive artworks, draft texts or recognise objects. Most of the tools require some coding skills, however, we’ve noted ones that don’t.",
+        "user": "U021UNQGZC4",
+        "ts": "1623144284.003700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A3n4N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ongoing project to aggregate "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tools",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "resources",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for artists, engineers, curators & researchers interested in incorporating machine learning (ML) and other forms of artificial intelligence (AI) into their practice. Resources in the database come from our partners and network; tools cover a broad spectrum of possibilities presented by the current advances in ML like enabling users to generate images from their own data, create interactive artworks, draft texts or recognise objects. Most of the tools require some coding skills, however, we’ve noted ones that don’t."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

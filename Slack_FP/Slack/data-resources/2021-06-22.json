@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "54eae2ec-a26d-418a-a997-a0aa680c743b",
+        "type": "message",
+        "text": "ROC, AUC and confusion matrix, explained with poor obese :mouse:\n(Staaaats queeest!)\n<https:\/\/www.youtube.com\/watch?v=4jRBRDbJemM>",
+        "user": "U021WEXHN4E",
+        "ts": "1624367897.006600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "ROC and AUC, Clearly Explained!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=4jRBRDbJemM",
+                "author_name": "StatQuest with Josh Starmer",
+                "author_link": "https:\/\/www.youtube.com\/c\/joshstarmer",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4jRBRDbJemM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: ROC and AUC, Clearly Explained!",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/4jRBRDbJemM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=4jRBRDbJemM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=4jRBRDbJemM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bzucn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ROC, AUC and confusion matrix, explained with poor obese "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mouse"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(Staaaats queeest!)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=4jRBRDbJemM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

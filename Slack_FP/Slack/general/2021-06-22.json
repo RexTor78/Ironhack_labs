@@ -1,0 +1,1112 @@
+[
+    {
+        "client_msg_id": "89b0d3c6-0ccb-4c01-a212-35df7b7c9245",
+        "type": "message",
+        "text": "should we mee tin the main room?",
+        "user": "U021ZC6H9GC",
+        "ts": "1624345413.047100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXwZe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "should we mee tin the main room?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A70D3E55-8925-492A-9862-D390186E7D80",
+        "type": "message",
+        "text": "<https:\/\/ironhack.zoom.us\/j\/99584302453|https:\/\/ironhack.zoom.us\/j\/99584302453>",
+        "user": "U021TDMLNTD",
+        "ts": "1624345432.047400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qsunB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ironhack.zoom.us\/j\/99584302453",
+                                "text": "https:\/\/ironhack.zoom.us\/j\/99584302453"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U021TDMHF5H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "496003E4-B86D-497E-A9E0-5F227EFD8E2B",
+        "type": "message",
+        "text": "Im in this link",
+        "user": "U021TDMLNTD",
+        "ts": "1624345443.047900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yb3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im in this link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22CE2273-CAF9-4957-B474-2E464C7E37A4",
+        "type": "message",
+        "text": "For careerhack ",
+        "user": "U021TDMLNTD",
+        "ts": "1624345448.048200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For careerhack "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f070a72-42b0-4dd0-892d-89804225dac8",
+        "type": "message",
+        "text": "(THANK YOU Anna) :pray:",
+        "user": "U021ZC6H9GC",
+        "ts": "1624345852.048600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P8b==",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(THANK YOU Anna) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b49d707e-1529-491b-99d8-a2a70fc43a78",
+        "type": "message",
+        "text": "hi there! could someone share the morning sunshina list of presentations again? thank u!",
+        "user": "U021ZC6H9GC",
+        "ts": "1624350433.050700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bi1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi there! could someone share the morning sunshina list of presentations again? thank u!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1624359736.052700",
+        "reply_users": [
+            "U0225RJ3Z4H",
+            "U021ZC6H9GC",
+            "U021TDMHF5H",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1624350864.050800"
+            },
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1624355729.051100"
+            },
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1624355778.051300"
+            },
+            {
+                "user": "U021TDMHF5H",
+                "ts": "1624355779.051500"
+            },
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1624355827.051700"
+            },
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1624356242.051900"
+            },
+            {
+                "user": "U0225RJ3Z4H",
+                "ts": "1624356410.052100"
+            },
+            {
+                "user": "U021ZC6H9GC",
+                "ts": "1624356462.052400"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1624359736.052700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d1d936c6-9cf6-4268-86ea-c4e84667cdcb",
+        "type": "message",
+        "text": "*Week 3*\t\nMonday - Lucas\nTuesday - Andre\nWednesday - Anna\nThursday - Andrea\n\t\n*Week 4*\t\nMonday - Héctor\nTuesday - Jennifer\nWednesday - Pedro\nThursday - Arya\n\t\n*Week 6*\t\nMonday - Majed\nTuesday - Walter\nWednesday - Marta\nThursday -  Gellért\n\t\n*Week 7*\t\nMonday - Axana\nTuesday - Dámaris\nWednesday - Nayib\nThursday - Fernando\n\t\n*Week 8*\t\nMonday - Ángela\nTuesday - Uroš\nWednesday - Sathiya\nThursday - Julia (edited)",
+        "user": "U0225RJ3Z4H",
+        "ts": "1624350864.050800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sY=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Week 3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Lucas\nTuesday - Andre\nWednesday - Anna\nThursday - Andrea\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 4",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Héctor\nTuesday - Jennifer\nWednesday - Pedro\nThursday - Arya\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 6",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Majed\nTuesday - Walter\nWednesday - Marta\nThursday -  Gellért\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 7",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Axana\nTuesday - Dámaris\nWednesday - Nayib\nThursday - Fernando\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Week 8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\nMonday - Ángela\nTuesday - Uroš\nWednesday - Sathiya\nThursday - Julia (edited)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "e829e6de-257b-46be-9188-093bb91bb5bc",
+        "type": "message",
+        "text": "Thank you Jennifer!! Also, I wanted to ask you if you could share the recipee? I will try to do it with my little on! Some kitchen lab time! haha I LOVE jiaozi…",
+        "user": "U021ZC6H9GC",
+        "ts": "1624355729.051100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UtiE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Jennifer!! Also, I wanted to ask you if you could share the recipee? I will try to do it with my little on! Some kitchen lab time! haha I LOVE jiaozi…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "92df54d3-e90d-426a-bce4-8fcb0ea84e65",
+        "type": "message",
+        "text": "are there any special specifications for the presentations? regarding theme, time, ...\/",
+        "user": "U021TDMHF5H",
+        "ts": "1624355778.051300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are there any special specifications for the presentations? regarding theme, time, ...\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "2020642d-96be-46cf-a749-42dd7502bc9f",
+        "type": "message",
+        "text": "?",
+        "user": "U021TDMHF5H",
+        "ts": "1624355779.051500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "809",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "3ef8292e-c611-4e15-9a29-44893e2f63a3",
+        "type": "message",
+        "text": "not that I know of! but maybe better verify it with the TAs..?",
+        "user": "U021ZC6H9GC",
+        "ts": "1624355827.051700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPH4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not that I know of! but maybe better verify it with the TAs..?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "137b4fc1-864e-42c3-9f93-0ef94b3a700a",
+        "type": "message",
+        "text": "<@U021TDMHF5H> morning sunshines!\nIdea: Every morning at 9am you get 5-10 minutes to shine! :sunny: Show off with your special skills, show us magic tricks, sing an opera, play an instrument, tell us about your last holiday to the arctic, .... and let’s get the most of that great diversity that all of us bring to the course!\nps: Don’t overthink it! :wink:",
+        "user": "U0225RJ3Z4H",
+        "ts": "1624356242.051900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kegv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMHF5H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " morning sunshines!\nIdea: Every morning at 9am you get 5-10 minutes to shine! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Show off with your special skills, show us magic tricks, sing an opera, play an instrument, tell us about your last holiday to the arctic, .... and let’s get the most of that great diversity that all of us bring to the course!\nps: Don’t overthink it! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC"
+    },
+    {
+        "client_msg_id": "05ad569e-d7cc-4e75-b7bd-c3ccc4fbebe3",
+        "type": "message",
+        "text": "<@U021ZC6H9GC> this is a good recipe with nice explanation, have fun!! please show me pics of your son doing it haha :blush: <https:\/\/www.thespruceeats.com\/jiaozi-chinese-dumplings-694504>",
+        "user": "U0225RJ3Z4H",
+        "ts": "1624356410.052100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "04325eaad4d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2120741009554_04325eaad4d57da1b7b5_72.jpg",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Dersjant",
+            "display_name": "Jennifer Dersjant",
+            "team": "T021KE79B9B",
+            "name": "jennifer_dersjant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Spruce Eats",
+                "title": "A Step-by-Step Recipe for Delicious Chinese-Style Dumplings",
+                "title_link": "https:\/\/www.thespruceeats.com\/jiaozi-chinese-dumplings-694504",
+                "text": "Jiaozi are Chinese dumplings popular at the Lunar New Year, but are also delicious any time. Learn to make from scratch, including the dough.",
+                "fallback": "The Spruce Eats: A Step-by-Step Recipe for Delicious Chinese-Style Dumplings",
+                "thumb_url": "https:\/\/www.thespruceeats.com\/thmb\/8IjLNnC8d1lJ0MgC7SUDTtSrl_Y=\/4500x3000\/filters:fill(auto,1)\/jiaozi-chinese-dumplings-694504-hero-01-fe9169fbd5fa459b90379a8df8ef3387.jpg",
+                "from_url": "https:\/\/www.thespruceeats.com\/jiaozi-chinese-dumplings-694504",
+                "thumb_width": 4500,
+                "thumb_height": 3000,
+                "service_icon": "https:\/\/www.thespruceeats.com\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.thespruceeats.com\/jiaozi-chinese-dumplings-694504"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qu72",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6H9GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is a good recipe with nice explanation, have fun!! please show me pics of your son doing it haha "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thespruceeats.com\/jiaozi-chinese-dumplings-694504"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC",
+        "reactions": [
+            {
+                "name": "flamingo_dance",
+                "users": [
+                    "U021UNQGZC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f418a04-bd0c-4fa2-a5ff-b7b1056db09b",
+        "type": "message",
+        "text": "Oh I appreciate it Jennifer!! sure thing!! I’ll take lots of pictures as proud mum haha",
+        "user": "U021ZC6H9GC",
+        "ts": "1624356462.052400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wLp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh I appreciate it Jennifer!! sure thing!! I’ll take lots of pictures as proud mum haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RJ3Z4H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0d867fc-80ed-460b-9361-aa67ddd50a52",
+        "type": "message",
+        "text": "<@U021TDMHF5H> not really - as you have seen they are quite informal and fairly brief, normally no more than 10 minutes, on a topic of your choosing- gives us a chance to get to know you beyond being a data student so maybe a hobby, interest or passion",
+        "user": "U021UNQGZC4",
+        "ts": "1624359736.052700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WW1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMHF5H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not really - as you have seen they are quite informal and fairly brief, normally no more than 10 minutes, on a topic of your choosing- gives us a chance to get to know you beyond being a data student so maybe a hobby, interest or passion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624350433.050700",
+        "parent_user_id": "U021ZC6H9GC",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U021TDMHF5H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "my sql to py connector notebook, that i walked through first this morning with you,  including setting the figure size, grouping up the statuses and aggregating \/ plotting with fiddly things like axis labels \/ tickmarks",
+        "files": [
+            {
+                "id": "F025LAEVB6J",
+                "created": 1624359771,
+                "timestamp": 1624359771,
+                "name": "sql_to_py_connect.ipynb",
+                "title": "sql_to_py_connect.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 263190,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025LAEVB6J\/sql_to_py_connect.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025LAEVB6J\/download\/sql_to_py_connect.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025LAEVB6J\/sql_to_py_connect.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025LAEVB6J-e4feb49c1f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=8Vz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my sql to py connector notebook, that i walked through first this morning with you,  including setting the figure size, grouping up the statuses and aggregating \/ plotting with fiddly things like axis labels \/ tickmarks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624359823.054000"
+    },
+    {
+        "type": "message",
+        "text": "my notebook as far as we got in class before lunch is here for anyone who might have fallen behind",
+        "files": [
+            {
+                "id": "F025T32AMPC",
+                "created": 1624359837,
+                "timestamp": 1624359837,
+                "name": "Logistic_regression_bank_outline.ipynb",
+                "title": "Logistic_regression_bank_outline.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 141418,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025T32AMPC\/logistic_regression_bank_outline.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025T32AMPC\/download\/logistic_regression_bank_outline.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025T32AMPC\/logistic_regression_bank_outline.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025T32AMPC-ca3b64a95e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sd1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my notebook as far as we got in class before lunch is here for anyone who might have fallen behind"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624359846.054700"
+    },
+    {
+        "type": "message",
+        "text": "updated notebook from class",
+        "files": [
+            {
+                "id": "F026HA4UNAC",
+                "created": 1624368803,
+                "timestamp": 1624368803,
+                "name": "Logistic_regression_bank_outline.ipynb",
+                "title": "Logistic_regression_bank_outline.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 174578,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026HA4UNAC\/logistic_regression_bank_outline.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F026HA4UNAC\/download\/logistic_regression_bank_outline.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F026HA4UNAC\/logistic_regression_bank_outline.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F026HA4UNAC-962d3f9839",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UWi2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "updated notebook from class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1624368812.055400"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>,\nYOGA TIME!\n\n(i don't endorse Herzog on this :grin: )",
+        "files": [
+            {
+                "id": "F025TPHCTFU",
+                "created": 1624370506,
+                "timestamp": 1624370506,
+                "name": "3845701-Werner-Herzog-Quote-I-think-there-should-be-holy-war-against-yoga.jpg",
+                "title": "3845701-Werner-Herzog-Quote-I-think-there-should-be-holy-war-against-yoga.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 340727,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025TPHCTFU\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025TPHCTFU\/download\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_64.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_80.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_360.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_480.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_160.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_720.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_800.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_960.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025TPHCTFU-c2731cfe93\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga_1024.jpg?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 3840,
+                "original_h": 2160,
+                "thumb_tiny": "AwAbADC6re1PBpijilH1P5UAPzS5pgPufyoznufyoAfmkLAUwn3P5VBLdRo23OT3x2oAmRhipMiqoY\/LzUoGeufzoAlJFR\/aIg23eM0hjQcheaz7xVSXCjAoAsXd1gbYm57kVQoooA\/\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F025TPHCTFU\/3845701-werner-herzog-quote-i-think-there-should-be-holy-war-against-yoga.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025TPHCTFU-0e13823c1b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGXb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nYOGA TIME!\n\n(i don't endorse Herzog on this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1624370537.056400",
+        "thread_ts": "1624370537.056400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624372443.056700",
+        "reply_users": [
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1624372443.056700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e856355d-a28e-4df2-8cbc-797410107767",
+        "type": "message",
+        "text": "I saw you hiding to eat icecreams during yoga",
+        "user": "U0225RJ6SNM",
+        "ts": "1624372443.056700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nT=wU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw you hiding to eat icecreams during yoga"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624370537.056400",
+        "parent_user_id": "U021WEXHN4E",
+        "reactions": [
+            {
+                "name": "face_with_hand_over_mouth",
+                "users": [
+                    "U021WEXHN4E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

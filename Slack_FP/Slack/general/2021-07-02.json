@@ -1,0 +1,576 @@
+[
+    {
+        "client_msg_id": "34ebd2c1-08b4-4214-8185-a9937924334b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=IrnPCTOFvAk>",
+        "user": "U021TDMHF5H",
+        "ts": "1625210752.103200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Igorrr - Sorbet Aux Ongles",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=IrnPCTOFvAk",
+                "author_name": "jchintube",
+                "author_link": "https:\/\/www.youtube.com\/user\/jchintube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/IrnPCTOFvAk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Igorrr - Sorbet Aux Ongles",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/IrnPCTOFvAk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=IrnPCTOFvAk",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=IrnPCTOFvAk"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+hL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=IrnPCTOFvAk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625123206.082100",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "b78ec05e-58da-4d0f-84fa-fa03d262efe3",
+        "type": "message",
+        "text": "<!channel> please return from lunch to the zoom classroom at 1:45",
+        "user": "U021UNQGZC4",
+        "ts": "1625222589.105300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ddqwE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please return from lunch to the zoom classroom at 1:45"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64cf7ae9-6870-4980-8af6-5cbc7e88244a",
+        "type": "message",
+        "text": "remember submit your repos before 1pm for individual feedback",
+        "user": "U021UNQGZC4",
+        "ts": "1625222603.105700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JCcra",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "remember submit your repos before 1pm for individual feedback"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f0ba39b-67fe-4e65-bded-cd652e3a6839",
+        "type": "message",
+        "text": "and to pass the class, submit your repos before end of today",
+        "user": "U021UNQGZC4",
+        "ts": "1625222617.106100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5+Zg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and to pass the class, submit your repos before end of today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02f48ca9-3d6f-4c09-b068-474cc73826ea",
+        "type": "message",
+        "text": "the time dimension was not supposed to be there in the correlation presentation. don't know what went through my head. it's updated though.",
+        "user": "U021TDMHF5H",
+        "ts": "1625224635.107200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g8a5f135290e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a5f135290e1478ddbf64fd45d62da7b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Arya",
+            "real_name": "Arya",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "sabetian.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021TDMHF5H",
+            "ts": "1625224768.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G=Ode",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the time dimension was not supposed to be there in the correlation presentation. don't know what went through my head. it's updated though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9740b58-691e-4aea-8de9-fc9cd035d7d9",
+        "type": "message",
+        "text": "UX presentations: <https:\/\/ironhack.zoom.us\/j\/460481596?pwd=MDVkeThwUDVJeUc3ekdkMUJBcFZkQT09>",
+        "user": "U021NHS652N",
+        "ts": "1625230713.107900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m=mi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UX presentations: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ironhack.zoom.us\/j\/460481596?pwd=MDVkeThwUDVJeUc3ekdkMUJBcFZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "105eeb32-e0f1-474d-9679-754835e284ec",
+        "type": "message",
+        "text": "i have received a note from Robert with an update on the wildfire - on this thread if anyone wants to read it",
+        "user": "U021UNQGZC4",
+        "ts": "1625234154.108400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1625234212.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xB7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have received a note from Robert with an update on the wildfire - on this thread if anyone wants to read it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625234154.108400",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1625311761.110700",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021NHS652N",
+            "U021CE3UWPR"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625234188.108500"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625234336.109000"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1625235332.109200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625311761.110700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bbec2c83-0d4e-4b32-840d-e1ad8fcf5619",
+        "type": "message",
+        "text": "Leri &amp; I are with you in spirit. \nAfter my class this am. I would not miss my classes. :smiling_face_with_3_hearts: I headed for SB. (spences bridge)\nUp the coke &amp; across from Merritt.  Many of our neighbours have already left town ( village). !! We all have nice ” evacuate .. you are on notice.” Pinned to our doors. Like Martin Luther. \nWe are fine. Electric back on. \nWe are living in paradise here …. Despite this little bump in the road for Amberbeefarm. \nCan’t see anything for smoke  If the wind dosnt make the fire  jump  I think we are ok. Mr positive. However it actually jumped the Thompson river @ Lytton &amp; has now destroyed the total other side of the river. \nWe are a half hour drive north from Lytton. Town is destroyed. Nothing left. \nNo 1 hwy is closed Boston bar to Spences bridge. \nI’m chaining myself to the front gates. \nWe are picking peas &amp; raspberries. Great crops. \nIt’s like picking crops in a fog. \nNo surrender !!!!! \n\nLeri has her pal Janet from the island visiting. Good weekend to visit. In time for an adventure. \n\n\nHappy meeting with friends in Edenbank today. \n\nKeep smiling. It’s all good.\nPlease take great care of yourselves in these times. \nAnd always know that in taking care of yourselves. You are taking care of the world. \n\nMuch love \nLeri &amp; Robert  ( &amp; Janet). :flag-ca::hot_face:️️\n\nPs. The wee bees are good. They are my dear wee pals. In total now we have about 500,000 I visited the three locations. Hot &amp; resting  :hot_face:. All send love . \nSent from my iPhone",
+        "user": "U021UNQGZC4",
+        "ts": "1625234188.108500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1N=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Leri & I are with you in spirit. \nAfter my class this am. I would not miss my classes. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I headed for SB. (spences bridge)\nUp the coke & across from Merritt.  Many of our neighbours have already left town ( village). !! We all have nice ” evacuate .. you are on notice.” Pinned to our doors. Like Martin Luther. \nWe are fine. Electric back on. \nWe are living in paradise here …. Despite this little bump in the road for Amberbeefarm. \nCan’t see anything for smoke  If the wind dosnt make the fire  jump  I think we are ok. Mr positive. However it actually jumped the Thompson river @ Lytton & has now destroyed the total other side of the river. \nWe are a half hour drive north from Lytton. Town is destroyed. Nothing left. \nNo 1 hwy is closed Boston bar to Spences bridge. \nI’m chaining myself to the front gates. \nWe are picking peas & raspberries. Great crops. \nIt’s like picking crops in a fog. \nNo surrender !!!!! \n\nLeri has her pal Janet from the island visiting. Good weekend to visit. In time for an adventure. \n\n\nHappy meeting with friends in Edenbank today. \n\nKeep smiling. It’s all good.\nPlease take great care of yourselves in these times. \nAnd always know that in taking care of yourselves. You are taking care of the world. \n\nMuch love \nLeri & Robert  ( & Janet). "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-ca"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "️️\n\nPs. The wee bees are good. They are my dear wee pals. In total now we have about 500,000 I visited the three locations. Hot & resting  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". All send love . \nSent from my iPhone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625234154.108400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "1897e384-bd9f-4884-965d-56fc94d4f758",
+        "type": "message",
+        "text": "please send him a big smile from us positive vibes. I hope everything goes well there :heart:",
+        "user": "U021NHS652N",
+        "ts": "1625234336.109000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMRTd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please send him a big smile from us positive vibes. I hope everything goes well there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625234154.108400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "f0855520-20a3-48e9-925e-e35268caeb13",
+        "type": "message",
+        "text": "Yes, Sian send a big hug and all our strength to supperate this, I have  my hair stand on end",
+        "user": "U021CE3UWPR",
+        "ts": "1625235332.109200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ojt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, Sian send a big hug and all our strength to supperate this, I have  my hair stand on end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625234154.108400",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "69c30026-12a7-4a6e-a1ed-0fdeb8345b33",
+        "type": "message",
+        "text": "Have a nice and gathering strength weekend for all.",
+        "user": "U021CE3UWPR",
+        "ts": "1625235472.109900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ar5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have a nice and gathering strength weekend for all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RJ6SNM",
+                    "U021TDMEH27",
+                    "U021NHS652N",
+                    "U021ZC6JR28"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9953a308-1bc0-4b4b-93bd-68cbf17a7d56",
+        "type": "message",
+        "text": "thanks Hector !",
+        "user": "U021UNQGZC4",
+        "ts": "1625238999.110200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "llJ5z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks Hector !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

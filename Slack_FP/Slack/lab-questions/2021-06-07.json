@@ -1,0 +1,509 @@
+[
+    {
+        "type": "message",
+        "text": "if you are missing data for the lab - this version i just ran off customer analysis round 2, with lower case column headings and an extra column for month of effective to date - might be helpful. if you have already got a good clean set of data from previous labs though, use that",
+        "files": [
+            {
+                "id": "F02412AHHE2",
+                "created": 1623073663,
+                "timestamp": 1623073663,
+                "name": "clean_marketing.csv",
+                "title": "clean_marketing.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 1666970,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02412AHHE2\/clean_marketing.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F02412AHHE2\/download\/clean_marketing.csv?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F02412AHHE2\/clean_marketing.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F02412AHHE2-016eebd52f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vq9b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you are missing data for the lab - this version i just ran off customer analysis round 2, with lower case column headings and an extra column for month of effective to date - might be helpful. if you have already got a good clean set of data from previous labs though, use that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623073724.001300"
+    },
+    {
+        "client_msg_id": "a5605028-4a18-4e40-b819-515bd7fd663c",
+        "type": "message",
+        "text": "Where can I find the documentation of the customer marketing analysis database?",
+        "user": "U021Q54K3B7",
+        "ts": "1623074230.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where can I find the documentation of the customer marketing analysis database?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ce659a6-14b5-424c-b32f-179486f3806a",
+        "type": "message",
+        "text": "there is an explanation at the end of this lab’s repository",
+        "user": "U021NHS652N",
+        "ts": "1623074308.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEAOB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there is an explanation at the end of this lab’s repository"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "excellent question! this is about all i have on file to add to that",
+        "files": [
+            {
+                "id": "F0247SQ5YUS",
+                "created": 1623074312,
+                "timestamp": 1623074312,
+                "name": "lab_case_study.docx",
+                "title": "lab_case_study.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 14097,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0247SQ5YUS\/lab_case_study.docx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0247SQ5YUS\/download\/lab_case_study.docx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0247SQ5YUS-1897602fe4\/lab_case_study_converted.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0247SQ5YUS-1897602fe4\/lab_case_study_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F0247SQ5YUS\/lab_case_study.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0247SQ5YUS-b1f6697c01",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BkjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "excellent question! this is about all i have on file to add to that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623074327.002900",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021Q54K3B7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2686b663-84ef-4d36-abed-54627a1f9dae",
+        "type": "message",
+        "text": "i dont have a full column list- i think because these columns are a bit less confusing ?",
+        "user": "U021UNQGZC4",
+        "ts": "1623074414.003900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AmMRo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i dont have a full column list- i think because these columns are a bit less confusing ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U021UNQGZC4> , shouldn't we apply the score method to line instead of applying it to lm?",
+        "files": [
+            {
+                "id": "F0248ECF6RH",
+                "created": 1623078355,
+                "timestamp": 1623078355,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021TDMLNTD",
+                "editable": false,
+                "size": 26064,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0248ECF6RH\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0248ECF6RH\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0248ECF6RH-a0daabe0d8\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0248ECF6RH-a0daabe0d8\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0248ECF6RH-a0daabe0d8\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 124,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0248ECF6RH-a0daabe0d8\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 165,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0248ECF6RH-a0daabe0d8\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 680,
+                "original_h": 234,
+                "thumb_tiny": "AwAQADC+Q2eBnn+9Rhs9On+1Qd3PDfpSZf0b8xQAYb0P\/fVPxnqSCfQ0gyfUcdTS4OfvGgA28dT+dG3jqfzoxznJowf7xoA\/\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021TDMLNTD\/F0248ECF6RH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0248ECF6RH-d713aae542",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , shouldn't we apply the score method to line instead of applying it to lm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021TDMLNTD",
+        "display_as_bot": false,
+        "ts": "1623078383.004700",
+        "thread_ts": "1623078383.004700",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1623079687.007200",
+        "reply_users": [
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623079489.007000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623079687.007200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4d597fa3-df10-45bf-850b-d4ffe3253cf7",
+        "type": "message",
+        "text": "I mean, if we apply it to lm instead of aplying it to line, then it is not taking into account the training of the machine (the fit)",
+        "user": "U021TDMLNTD",
+        "ts": "1623078474.006100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "30d401da8491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2061263484594_30d401da8491815d6b65_72.png",
+            "first_name": "AnnaBeteta",
+            "real_name": "AnnaBeteta",
+            "display_name": "Annbeele",
+            "team": "T021KE79B9B",
+            "name": "annabeele7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EcE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean, if we apply it to lm instead of aplying it to line, then it is not taking into account the training of the machine (the fit)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel>,\nhere's the code I just showed in the main room. How to create yourself a dictionary of preprocessing functions for your individual columns. If you want to apply only certain preprocessing \"measures\" to certain columns",
+        "files": [
+            {
+                "id": "F024LUDEHCZ",
+                "created": 1623079230,
+                "timestamp": 1623079230,
+                "name": "preprocessing.py",
+                "title": "preprocessing.py",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U021WEXHN4E",
+                "editable": true,
+                "size": 757,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024LUDEHCZ\/preprocessing.py?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024LUDEHCZ\/download\/preprocessing.py?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024LUDEHCZ\/preprocessing.py",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024LUDEHCZ-ea3cbed18d",
+                "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024LUDEHCZ\/preprocessing.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFq+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nhere's the code I just showed in the main room. How to create yourself a dictionary of preprocessing functions for your individual columns. If you want to apply only certain preprocessing \"measures\" to certain columns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1623079231.006600",
+        "client_msg_id": "e04c6b5b-8776-4b03-9de9-e6c0447a947d"
+    },
+    {
+        "client_msg_id": "834de6ec-2887-4386-b476-cd915b79b5ca",
+        "type": "message",
+        "text": "correct you want the r2 score of the trained model\neg .  r2_score(y_test, predictions)",
+        "user": "U021UNQGZC4",
+        "ts": "1623079489.007000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=v5g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "correct you want the r2 score of the trained model\neg .  r2_score(y_test, predictions)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623078383.004700",
+        "parent_user_id": "U021TDMLNTD"
+    },
+    {
+        "client_msg_id": "d242ca0a-0040-4343-9c0b-04696bcc280a",
+        "type": "message",
+        "text": "you could also do a score on the train data - model.score(X_train, y_train) but its not super meaningful",
+        "user": "U021UNQGZC4",
+        "ts": "1623079687.007200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=146",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you could also do a score on the train data - model.score(X_train, y_train) but its not super meaningful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623078383.004700",
+        "parent_user_id": "U021TDMLNTD"
+    }
+]

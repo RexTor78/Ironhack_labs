@@ -1,0 +1,10 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1621422023.000100",
+        "user": "U021UNQGZC4",
+        "text": "<@U021UNQGZC4> set the channel topic: <https:\/\/zoom.us\/j\/877626245>\nPw:",
+        "topic": "<https:\/\/zoom.us\/j\/877626245>\nPw:"
+    }
+]

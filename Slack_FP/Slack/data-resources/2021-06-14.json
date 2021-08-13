@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "10c99cde-3be1-4baf-80b4-a6c89348ec93",
+        "type": "message",
+        "text": "My university here in Berlin, the Hertie School, is hosting a free data science summer school during July. Unfortunately we won't be able to participate since it clashes with our own bootcamp, but if you know someone who may be interested here is the link to subscribe!\n\n<https:\/\/socialdatascience.network\/summerschool.html>",
+        "user": "U021Q54K3B7",
+        "ts": "1623737005.001200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021Q54K3B7",
+            "ts": "1623737017.000000"
+        },
+        "attachments": [
+            {
+                "title": "Data Science Summer School",
+                "title_link": "https:\/\/socialdatascience.network\/summerschool.html",
+                "text": "A series of workshops on data science methods and applications",
+                "fallback": "Data Science Summer School",
+                "from_url": "https:\/\/socialdatascience.network\/summerschool.html",
+                "service_icon": "https:\/\/socialdatascience.network\/assets\/favicon.ico",
+                "service_name": "socialdatascience.network",
+                "id": 1,
+                "original_url": "https:\/\/socialdatascience.network\/summerschool.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w65",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My university here in Berlin, the Hertie School, is hosting a free data science summer school during July. Unfortunately we won't be able to participate since it clashes with our own bootcamp, but if you know someone who may be interested here is the link to subscribe!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/socialdatascience.network\/summerschool.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

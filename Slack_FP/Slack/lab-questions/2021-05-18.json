@@ -1,0 +1,426 @@
+[
+    {
+        "client_msg_id": "8d5ad293-4bd2-43f1-8827-c56cbe5964e3",
+        "type": "message",
+        "text": "MySQl workbench is generally the better choice for SQL client <@U0225RGM941>- either for Mac or windows. So go for that :) the buttons may be located somewhere else but both clients do the same things. feel free to write on this thread if you cant work out something in workbench though - i use both :)",
+        "user": "U021UNQGZC4",
+        "ts": "1621324396.001500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5yD=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MySQl workbench is generally the better choice for SQL client "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0225RGM941"
+                            },
+                            {
+                                "type": "text",
+                                "text": "- either for Mac or windows. So go for that :) the buttons may be located somewhere else but both clients do the same things. feel free to write on this thread if you cant work out something in workbench though - i use both :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621324396.001500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621331419.002700",
+        "reply_users": [
+            "U0225RGM941"
+        ],
+        "replies": [
+            {
+                "user": "U0225RGM941",
+                "ts": "1621331419.002700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f0315a88-6bae-4f51-80b0-ad8f5e16b598",
+        "type": "message",
+        "text": "W3 schools is my go to place for easy practices - start at the python syntax section and work your way down the list, skipping any that are too easy <https:\/\/www.w3schools.com\/python\/python_syntax.asp>",
+        "user": "U021UNQGZC4",
+        "ts": "1621324494.001600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Python Syntax",
+                "title_link": "https:\/\/www.w3schools.com\/python\/python_syntax.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Python Syntax",
+                "from_url": "https:\/\/www.w3schools.com\/python\/python_syntax.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/python\/python_syntax.asp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3QHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "W3 schools is my go to place for easy practices - start at the python syntax section and work your way down the list, skipping any that are too easy "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/python_syntax.asp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621284272.005800",
+        "parent_user_id": "U021Q53LBPX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dffe0468-d28a-44ef-ba55-27dfb305bbb2",
+        "type": "message",
+        "text": "you can also check out this curated list <https:\/\/stackabuse.com\/the-best-python-books-for-all-skill-levels\/>",
+        "user": "U021UNQGZC4",
+        "ts": "1621324679.001900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Abuse",
+                "title": "The Best Python Books for All Skill Levels",
+                "title_link": "https:\/\/stackabuse.com\/the-best-python-books-for-all-skill-levels\/",
+                "text": "Just about every year is a good year to be investing in Python learning, whether you are a beginner or an expert. Employment opportunities are opening for Python developers in fields beyond traditional web development. An IBM blog post [<https:\/\/www.ibm.com\/developerworks\/community\/blogs\/jfp\/entry\/What_Language_Is_Best_For_Machine_Learning_And_Data_Science?lang=en>] reports that Python is now the dominant language in many data science and machine learning careers. We charted data from DataScien",
+                "fallback": "Stack Abuse: The Best Python Books for All Skill Levels",
+                "image_url": "https:\/\/stackabuse.com\/content\/images\/2018\/02\/the-best-python-books-all-skill-levels.png",
+                "image_width": 444,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Tendai Mutunhire",
+                        "short": true
+                    },
+                    {
+                        "title": "Filed under",
+                        "value": "python",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/stackabuse.com\/the-best-python-books-for-all-skill-levels\/",
+                "image_bytes": 126126,
+                "service_icon": "https:\/\/stackabuse.com\/assets\/images\/apple-touch-icon.png?v=b3667e6dc4",
+                "id": 1,
+                "original_url": "https:\/\/stackabuse.com\/the-best-python-books-for-all-skill-levels\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKby8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can also check out this curated list "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackabuse.com\/the-best-python-books-for-all-skill-levels\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621284272.005800",
+        "parent_user_id": "U021Q53LBPX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "558b756c-e57e-4cd2-a4cf-e2831a485f23",
+        "type": "message",
+        "text": "Thank you Lucas.....Yes I have",
+        "user": "U0225RGM941",
+        "ts": "1621331382.002600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/5zx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Lucas.....Yes I have"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f04beda8-a95a-45ef-8d89-52d7d930ec4a",
+        "type": "message",
+        "text": "Thank you....",
+        "user": "U0225RGM941",
+        "ts": "1621331419.002700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g0240d79f76d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0240d79f76d53cf681ee5c79760f6b35.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Sathiya Raju",
+            "display_name": "Sathiya Raju",
+            "team": "T021KE79B9B",
+            "name": "rsathya2605",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ndIi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621324396.001500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "06377a6f-0f3f-4167-bc9f-96216e23c782",
+        "type": "message",
+        "text": "Thank you Sian, will check these out :slightly_smiling_face:",
+        "user": "U021Q53LBPX",
+        "ts": "1621334224.003200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MgE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Sian, will check these out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621284272.005800",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "7ef8d12f-4b07-4546-8505-d428d4362848",
+        "type": "message",
+        "text": "no problem",
+        "user": "U021UNQGZC4",
+        "ts": "1621345986.003400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TO=c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621284272.005800",
+        "parent_user_id": "U021Q53LBPX"
+    },
+    {
+        "client_msg_id": "71571f4e-6b4a-4026-bb3b-f8cd73fbfe1d",
+        "type": "message",
+        "text": "<https:\/\/pynative.com\/python-exercises-with-solutions\/>",
+        "user": "U021ZC6L676",
+        "ts": "1621353265.003600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "b2575327f328",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-15\/2092238648800_b2575327f3280aef4bbd_72.jpg",
+            "first_name": "Uroš",
+            "real_name": "Uroš Petković",
+            "display_name": "Uroš Petković",
+            "team": "T021KE79B9B",
+            "name": "urospet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "PYnative",
+                "title": "Python Exercises, Practice, Challenges – PYnative",
+                "title_link": "https:\/\/pynative.com\/python-exercises-with-solutions\/",
+                "text": "Coding Exercises with solutions for Python developers. Practice 220+ Python Topic-specific exercises. Solve Python challenges, assignments, programs.",
+                "fallback": "PYnative: Python Exercises, Practice, Challenges – PYnative",
+                "from_url": "https:\/\/pynative.com\/python-exercises-with-solutions\/",
+                "service_icon": "https:\/\/pynative.com\/wp-content\/uploads\/2018\/06\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/pynative.com\/python-exercises-with-solutions\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DwsZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pynative.com\/python-exercises-with-solutions\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621284272.005800",
+        "parent_user_id": "U021Q53LBPX"
+    }
+]

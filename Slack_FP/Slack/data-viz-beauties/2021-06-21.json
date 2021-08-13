@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "2ba20169-bcb6-45bd-b80b-72e3981d1372",
+        "type": "message",
+        "text": "seen any great vizzes on on your favourite TV shows??\nfirst up : the Wire\n<https:\/\/public.tableau.com\/en-gb\/gallery\/wire-character-scene-time?tab=viz-of-the-day&amp;type=viz-of-the-day>",
+        "user": "U021UNQGZC4",
+        "ts": "1624289568.022700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "The Wire: Character Scene Time",
+                "title_link": "https:\/\/public.tableau.com\/en-gb\/gallery\/wire-character-scene-time?tab=viz-of-the-day&type=viz-of-the-day",
+                "fallback": "The Wire: Character Scene Time",
+                "image_url": "https:\/\/public.tableau.com\/s\/sites\/default\/files\/media\/the_wire_character_scene_time_4.png",
+                "ts": 1622103300,
+                "from_url": "https:\/\/public.tableau.com\/en-gb\/gallery\/wire-character-scene-time?tab=viz-of-the-day&type=viz-of-the-day",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 1021349,
+                "service_icon": "https:\/\/public.tableau.com\/s\/favicon.ico",
+                "service_name": "public.tableau.com",
+                "id": 1,
+                "original_url": "https:\/\/public.tableau.com\/en-gb\/gallery\/wire-character-scene-time?tab=viz-of-the-day&amp;type=viz-of-the-day"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mv1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "seen any great vizzes on on your favourite TV shows??\nfirst up : the Wire\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/en-gb\/gallery\/wire-character-scene-time?tab=viz-of-the-day&type=viz-of-the-day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

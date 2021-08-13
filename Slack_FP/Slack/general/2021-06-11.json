@@ -1,0 +1,2285 @@
+[
+    {
+        "client_msg_id": "51C83C43-5FAB-47F1-B73E-9D1A93E06CF6",
+        "type": "message",
+        "text": "Update: we’re still stuck in traffic, sorry ",
+        "user": "U0225RJ9GQZ",
+        "ts": "1623395621.059700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "23f8654fed17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2154002547153_23f8654fed171c166b17_72.png",
+            "first_name": "",
+            "real_name": "Nayib Rivera",
+            "display_name": "Nayib Rivera",
+            "team": "T021KE79B9B",
+            "name": "rivera.nayib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update: we’re still stuck in traffic, sorry "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b06b1338-9be6-452e-9081-a32c132beeda",
+        "type": "message",
+        "text": "talking of air pollution, theres nothing that convinces me less world leaders care about air pollution than them all flying to a remote and attractive part of the english south coast <https:\/\/www.bbc.co.uk\/news\/57429106>",
+        "user": "U021UNQGZC4",
+        "ts": "1623405781.060200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BBC News",
+                "title": "G7 summit: How much carbon did Boris Johnson's flight generate?",
+                "title_link": "https:\/\/www.bbc.co.uk\/news\/57429106",
+                "text": "Some people have criticised the UK prime minister for travelling by plane to the G7 summit.",
+                "fallback": "BBC News: G7 summit: How much carbon did Boris Johnson's flight generate?",
+                "image_url": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/7F23\/production\/_118874523_51236333083_c286fdb253_o.jpg",
+                "from_url": "https:\/\/www.bbc.co.uk\/news\/57429106",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 37819,
+                "service_icon": "https:\/\/www.bbc.co.uk\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.bbc.co.uk\/news\/57429106"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4JgF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "talking of air pollution, theres nothing that convinces me less world leaders care about air pollution than them all flying to a remote and attractive part of the english south coast "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bbc.co.uk\/news\/57429106"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025FSRQ3SL",
+                "created": 1623406301,
+                "timestamp": 1623406301,
+                "name": "2014_Olympics.xlsx",
+                "title": "2014_Olympics.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 37658,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025FSRQ3SL\/2014_olympics.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025FSRQ3SL\/download\/2014_olympics.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025FSRQ3SL-057518187c\/2014_olympics_converted.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025FSRQ3SL-057518187c\/2014_olympics_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025FSRQ3SL\/2014_olympics.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025FSRQ3SL-e6244d1538",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623406305.060400"
+    },
+    {
+        "client_msg_id": "daf9e014-698e-4672-a02c-8f1bfc762468",
+        "type": "message",
+        "text": "return to the main classroom at 2:20 for TAs to talk through the lab, answer any questions",
+        "user": "U021UNQGZC4",
+        "ts": "1623410522.061300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "return to the main classroom at 2:20 for TAs to talk through the lab, answer any questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab3d601f-3b09-4474-bb35-e02db377223c",
+        "type": "message",
+        "text": ":bar_chart:.   in case you missed anything from this morning on tableau dashboards, or want to see how i made a story in tableau - its here : <https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/olympicsdashboard_16234081105980\/olympicsdashboard>\nbut as always ask the TAs for help this afternoon. Also, i will be looking at student work and planning next lessons, so use the <#C022CAY8YJC|lab-questions> for your tableau questions and i will keep checking that during this afternoon.\n• have fun and see you at 4:30 for the class kahoot to wrap our first two weeks :) ",
+        "user": "U021UNQGZC4",
+        "ts": "1623412016.063600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tableau Public",
+                "title": "olympics dashboard",
+                "title_link": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/olympicsdashboard_16234081105980\/olympicsdashboard",
+                "text": "olympics dashboard",
+                "fallback": "Tableau Public: olympics dashboard",
+                "image_url": "https:\/\/public.tableau.com\/static\/images\/ol\/olympicsdashboard_16234081105980\/olympicsdashboard\/4_3_hd.png",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/olympicsdashboard_16234081105980\/olympicsdashboard",
+                "image_bytes": 332361,
+                "service_icon": "https:\/\/public.tableau.com\/app\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/olympicsdashboard_16234081105980\/olympicsdashboard"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4lNSg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bar_chart"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".   in case you missed anything from this morning on tableau dashboards, or want to see how i made a story in tableau - its here : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/olympicsdashboard_16234081105980\/olympicsdashboard"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nbut as always ask the TAs for help this afternoon. Also, i will be looking at student work and planning next lessons, so use the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C022CAY8YJC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for your tableau questions and i will keep checking that during this afternoon.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "have fun and see you at 4:30 for the class kahoot to wrap our first two weeks :) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4f797f7-ae45-486e-b2a0-52da3281687f",
+        "type": "message",
+        "text": "a nice example of a tableau story embedded on a legit news website <https:\/\/www.rferl.org\/a\/gazprom-russia-gas-leverage-europe\/25441983.html>",
+        "user": "U021UNQGZC4",
+        "ts": "1623412161.064200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1623412172.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "RadioFreeEurope\/RadioLiberty",
+                "title": "Gazprom's Grip: Russia's Leverage Over Europe",
+                "title_link": "https:\/\/www.rferl.org\/a\/gazprom-russia-gas-leverage-europe\/25441983.html",
+                "text": "A study of publicly available data shows that west European countries pay less to Gazprom, the Russian state-run gas giant, than do poorer central and east European countries.",
+                "fallback": "RadioFreeEurope\/RadioLiberty: Gazprom's Grip: Russia's Leverage Over Europe",
+                "thumb_url": "https:\/\/gdb.rferl.org\/3DFD9930-33D5-4420-8805-7D9A0C7AE6ED_w1200_r1.png",
+                "from_url": "https:\/\/www.rferl.org\/a\/gazprom-russia-gas-leverage-europe\/25441983.html",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "service_icon": "https:\/\/www.rferl.org\/Content\/responsive\/RFE\/img\/webApp\/ico-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rferl.org\/a\/gazprom-russia-gas-leverage-europe\/25441983.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j5\/6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a nice example of a tableau story embedded on a legit news website "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rferl.org\/a\/gazprom-russia-gas-leverage-europe\/25441983.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5f6f6c1-e87d-498a-9940-93f335cc2b34",
+        "type": "message",
+        "text": "Hey Berliners, So as Andre suggested, anybody up for a beer later? :beer:",
+        "user": "U022VC1JD29",
+        "ts": "1623413198.065500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022VC1JD29",
+            "ts": "1623415336.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tKt=c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Berliners, So as Andre suggested, anybody up for a beer later? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623413198.065500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1623419351.075400",
+        "reply_users": [
+            "U021ZC6JR28",
+            "U021T7DU0BC",
+            "U022VC1JD29"
+        ],
+        "replies": [
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1623413796.066600"
+            },
+            {
+                "user": "U021T7DU0BC",
+                "ts": "1623416837.069000"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1623419351.075400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "416e5ada-30c6-4785-8ee1-3970c25acb42",
+        "type": "message",
+        "text": "I like to be  in Berlin :disappointed_relieved::disappointed_relieved:",
+        "user": "U021CE3UWPR",
+        "ts": "1623413257.066000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZjK+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like to be  in Berlin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623413257.066000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1623413804.066800",
+        "reply_users": [
+            "U021NHS652N",
+            "U0225RJ6SNM",
+            "U022VC1JD29"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1623413306.066200"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1623413791.066400"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1623413804.066800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a5f1b102-42c3-44c0-8911-63bb15ec8538",
+        "type": "message",
+        "text": "me too!!",
+        "user": "U021NHS652N",
+        "ts": "1623413306.066200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me too!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623413257.066000",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "f0e57e38-5d5d-4238-aa62-8a7642b927b6",
+        "type": "message",
+        "text": "there's a lot of beer in barcelona too!",
+        "user": "U0225RJ6SNM",
+        "ts": "1623413791.066400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4XE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there's a lot of beer in barcelona too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623413257.066000",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "e1272ef2-1605-4b16-bd20-e476acec1f9d",
+        "type": "message",
+        "text": "Could we also do one on the weekend? :see_no_evil: I have a barbecue obligation I need to attend to after the kahoot :stuck_out_tongue:",
+        "user": "U021ZC6JR28",
+        "ts": "1623413796.066600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V=IRS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could we also do one on the weekend? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have a barbecue obligation I need to attend to after the kahoot "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623413198.065500",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "97129f87-06d0-47e8-9473-47f575bf0114",
+        "type": "message",
+        "text": "We will drink on your behalf :smile:",
+        "user": "U022VC1JD29",
+        "ts": "1623413804.066800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c7o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will drink on your behalf "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623413257.066000",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "74f88dc6-4c18-4975-b29e-d156ca6a910a",
+        "type": "message",
+        "text": "I also have plans tonight, but I’m definitely up for it some other time :)",
+        "user": "U021T7DU0BC",
+        "ts": "1623416837.069000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "g4f2c2886383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f2c2886383c1e415bc221f16f01932e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Axana",
+            "real_name": "Axana Raiser",
+            "display_name": "Axana Raiser",
+            "team": "T021KE79B9B",
+            "name": "raiser.axana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also have plans tonight, but I’m definitely up for it some other time :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623413198.065500",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>,\nLittle emoji survey!\nAnswer to this posting with an emoji...\n\n:mysql:: if you have MySQL installed and can run this Sequel query `SELECT * FROM sakila.actor;` in the query window (pink cross, run with `CTRL + Return` ) it should show you a couple of columns as outputs, if successful. Successfully run of a query is also indicated by a green checkmark (pink circle)\n\n:helmet_with_white_cross:: If you couldn't achieve that and need help",
+        "files": [
+            {
+                "id": "F024SRQ6BPV",
+                "created": 1623416960,
+                "timestamp": 1623416960,
+                "name": "Screenshot from 2021-06-11 15-05-59.png",
+                "title": "Screenshot from 2021-06-11 15-05-59.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 185180,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024SRQ6BPV\/screenshot_from_2021-06-11_15-05-59.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024SRQ6BPV\/download\/screenshot_from_2021-06-11_15-05-59.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 239,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 319,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 478,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 531,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 638,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024SRQ6BPV-da5eb944dc\/screenshot_from_2021-06-11_15-05-59_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 680,
+                "image_exif_rotation": 1,
+                "original_w": 1444,
+                "original_h": 959,
+                "thumb_tiny": "AwAfADC55ERH+rX8qd9ni\/55p\/3zSgNnqPypRuzyRj6UAN8mEf8ALJfyo8mEn\/VL+VS5HrSZHqKAI\/Ih\/wCeSflQYIu0SflUuR60hPBoAAAKG+6aAQaGyRweaAGnrQnPWgBh\/EPypfm\/vD8qBjsD0FQXozbN+FS\/N\/eH5Unzf3h+VAH\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024SRQ6BPV\/screenshot_from_2021-06-11_15-05-59.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024SRQ6BPV-a6fa3e7a7f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/H\/z1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nLittle emoji survey!\nAnswer to this posting with an emoji...\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mysql"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": if you have MySQL installed and can run this Sequel query "
+                            },
+                            {
+                                "type": "text",
+                                "text": "SELECT * FROM sakila.actor;",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the query window (pink cross, run with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "CTRL + Return",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) it should show you a couple of columns as outputs, if successful. Successfully run of a query is also indicated by a green checkmark (pink circle)\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "helmet_with_white_cross"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": If you couldn't achieve that and need help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1623416989.071000",
+        "edited": {
+            "user": "U021WEXHN4E",
+            "ts": "1623417104.000000"
+        },
+        "reactions": [
+            {
+                "name": "mysql",
+                "users": [
+                    "U021WEXHN4E",
+                    "U0225RHK6Q1",
+                    "U021TDMEH27",
+                    "U021T7DU0BC",
+                    "U021ZC6L676"
+                ],
+                "count": 5
+            },
+            {
+                "name": "helmet_with_white_cross",
+                "users": [
+                    "U021WEXHN4E",
+                    "U021ZC6H9GC",
+                    "U0225RJ3Z4H",
+                    "U021TDMLNTD"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9813ba8-694c-4958-ad94-331635b2356b",
+        "type": "message",
+        "text": "<@U021UNQGZC4> <@U021WEXHN4E> or <@U021NHS652N> Could you please provide a clean data set as I can't find that thread? Otherwise we'll waste time just searching online..",
+        "user": "U022VC1JD29",
+        "ts": "1623418102.073600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "383Kr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021UNQGZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021WEXHN4E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Could you please provide a clean data set as I can't find that thread? Otherwise we'll waste time just searching online.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623418102.073600",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1623421151.077100",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U022VC1JD29"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623418800.073900"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623418888.074300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623418998.074700"
+            },
+            {
+                "user": "U022VC1JD29",
+                "ts": "1623419237.075000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623419408.075600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623419941.076300"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623419970.076700"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623421151.077100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "sure, how about this . schools in london and locations, with air pollution levels",
+        "files": [
+            {
+                "id": "F025GHEFRTJ",
+                "created": 1623418786,
+                "timestamp": 1623418786,
+                "name": "ListofSchools_LAEI2013.xlsx",
+                "title": "ListofSchools_LAEI2013.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 190186,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025GHEFRTJ\/listofschools_laei2013.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F025GHEFRTJ\/download\/listofschools_laei2013.xlsx?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GHEFRTJ-69f547793f\/listofschools_laei2013_converted.pdf?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F025GHEFRTJ-69f547793f\/listofschools_laei2013_thumb_pdf.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F025GHEFRTJ\/listofschools_laei2013.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F025GHEFRTJ-f00adfbdb6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zwZP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure, how about this . schools in london and locations, with air pollution levels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623418800.073900",
+        "thread_ts": "1623418102.073600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "9f758667-ae63-4613-aa63-7b926f98be13",
+        "type": "message",
+        "text": "or this for sofia bulgaria <https:\/\/www.kaggle.com\/hmavrodiev\/sofia-air-quality-dataset>",
+        "user": "U021UNQGZC4",
+        "ts": "1623418888.074300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Sofia air quality dataset",
+                "title_link": "https:\/\/www.kaggle.com\/hmavrodiev\/sofia-air-quality-dataset",
+                "text": "Downloaded data from <https:\/\/airsofia.info\/>",
+                "fallback": "Sofia air quality dataset",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-datasets-images\/340483\/674955\/c74e20b41b2cdacf6915881df995a5d8\/dataset-card.png?t=2019-09-08-21-53-07",
+                "from_url": "https:\/\/www.kaggle.com\/hmavrodiev\/sofia-air-quality-dataset",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/hmavrodiev\/sofia-air-quality-dataset"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6+i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or this for sofia bulgaria "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/hmavrodiev\/sofia-air-quality-dataset"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623418102.073600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "8715f79b-9260-4783-868c-ecd61a9f25d0",
+        "type": "message",
+        "text": "this for madrid ? <https:\/\/www.kaggle.com\/decide-soluciones\/air-quality-madrid>",
+        "user": "U021UNQGZC4",
+        "ts": "1623418998.074700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Air Quality in Madrid (2001-2018)",
+                "title_link": "https:\/\/www.kaggle.com\/decide-soluciones\/air-quality-madrid",
+                "text": "Different pollution levels in Madrid from 2001 to 2018",
+                "fallback": "Air Quality in Madrid (2001-2018)",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-datasets-images\/31661\/40644\/d2ae06beac6ab2d6b06d630b07ca8928\/dataset-card.jpg?t=2018-06-15-09-33-12",
+                "from_url": "https:\/\/www.kaggle.com\/decide-soluciones\/air-quality-madrid",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/decide-soluciones\/air-quality-madrid"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bJi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this for madrid ? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/decide-soluciones\/air-quality-madrid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623418102.073600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "f4257db8-81b3-4ed6-9111-125be834aeb5",
+        "type": "message",
+        "text": "Thanks, Sian",
+        "user": "U022VC1JD29",
+        "ts": "1623419237.075000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022VC1JD29",
+            "ts": "1623419247.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Sian"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623418102.073600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "8e467d7b-5542-465f-ae1d-2b5b1a922826",
+        "type": "message",
+        "text": "It seems a bit stuffy today.. Another time is better perhaps :slightly_smiling_face: Have a good one!",
+        "user": "U022VC1JD29",
+        "ts": "1623419351.075400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c7045ed0b0f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-25\/2100778440050_c7045ed0b0f06fec0917_72.png",
+            "first_name": "Majed",
+            "real_name": "Majed Ayoub Alqawasmi",
+            "display_name": "Majed Ayoub",
+            "team": "T021KE79B9B",
+            "name": "majed.alqawasmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1T5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It seems a bit stuffy today.. Another time is better perhaps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Have a good one!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623413198.065500",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "9e8cb91d-a3f2-4288-97b8-c2a8f898c6e9",
+        "type": "message",
+        "text": "no prob -this is also super interesting - comparing the emissions of vans in european countries year on year - <https:\/\/www.eea.europa.eu\/data-and-maps\/data\/vans-15> i did not know this was something that was tracked!",
+        "user": "U021UNQGZC4",
+        "ts": "1623419408.075600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "The Regulation (EU) No 2019\/631 (and before that Regulation (EU) No 510\/2011) requires Member States to record information for each new van registered in its territory. Every year, each Member State shall submit to the Commission all the information related to their new registrations. In particular, the following details are required for each new van registered: manufacturer name, type approval number, type, variant, version, make and commercial name, specific emissions of CO2, mass of the vehicle, wheel base, track width, fuel type and fuel mode. Additional information, such as engine power and engine capacity were also submitted. Data for EU-28 are reported in the main database. Since 2018 Iceland and since 2019 Norway are also included in the database.",
+                "fallback": "The Regulation (EU) No 2019\/631 (and before that Regulation (EU) No 510\/2011) requires Member States to record information for each new van registered in its territory. Every year, each Member State shall submit to the Commission all the information related to their new registrations. In particular, the following details are required for each new van registered: manufacturer name, type approval number, type, variant, version, make and commercial name, specific emissions of CO2, mass of the vehicle, wheel base, track width, fuel type and fuel mode. Additional information, such as engine power and engine capacity were also submitted. Data for EU-28 are reported in the main database. Since 2018 Iceland and since 2019 Norway are also included in the database.",
+                "from_url": "https:\/\/www.eea.europa.eu\/data-and-maps\/data\/vans-15",
+                "service_icon": "https:\/\/www.eea.europa.eu\/favicon.ico",
+                "service_name": "eea.europa.eu",
+                "id": 1,
+                "original_url": "https:\/\/www.eea.europa.eu\/data-and-maps\/data\/vans-15"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q0TX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no prob -this is also super interesting - comparing the emissions of vans in european countries year on year - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eea.europa.eu\/data-and-maps\/data\/vans-15"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i did not know this was something that was tracked!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623418102.073600",
+        "parent_user_id": "U022VC1JD29",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U022VC1JD29",
+                    "U021TDMLNTD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U021UNQGZC4",
+        "ts": "1623419552.076000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[June 11th, 2021 3:46 PM] florian.titze: <!channel>,\nIf you don't have the Sakila database, here it is. Approach me if you have questions on how to install it.",
+                "ts": "1623419219.005300",
+                "author_id": "U021WEXHN4E",
+                "author_subname": "Florian Titze",
+                "channel_id": "C0217SRJPD5",
+                "channel_name": "data-resources",
+                "is_msg_unfurl": true,
+                "text": "<!channel>,\nIf you don't have the Sakila database, here it is. Approach me if you have questions on how to install it.",
+                "author_name": "Florian Titze",
+                "author_link": "https:\/\/da-ft-ber-05-21.slack.com\/team\/U021WEXHN4E",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F024PMVB97F",
+                        "created": 1623419184,
+                        "timestamp": 1623419184,
+                        "name": "sakila-data.sql",
+                        "title": "sakila-data.sql",
+                        "mimetype": "text\/plain",
+                        "filetype": "sql",
+                        "pretty_type": "SQL",
+                        "user": "U021WEXHN4E",
+                        "editable": false,
+                        "size": 3351744,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024PMVB97F\/sakila-data.sql",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024PMVB97F\/download\/sakila-data.sql",
+                        "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024PMVB97F\/sakila-data.sql",
+                        "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024PMVB97F-567e30ba51",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "F024L18P3EJ",
+                        "created": 1623419204,
+                        "timestamp": 1623419204,
+                        "name": "sakila-schema.sql",
+                        "title": "sakila-schema.sql",
+                        "mimetype": "text\/plain",
+                        "filetype": "sql",
+                        "pretty_type": "SQL",
+                        "user": "U021WEXHN4E",
+                        "editable": true,
+                        "size": 24254,
+                        "mode": "snippet",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024L18P3EJ\/sakila-schema.sql",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024L18P3EJ\/download\/sakila-schema.sql",
+                        "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024L18P3EJ\/sakila-schema.sql",
+                        "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024L18P3EJ-792492baf2",
+                        "edit_link": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F024L18P3EJ\/sakila-schema.sql\/edit",
+                        "preview": "-- Sakila Sample Database Schema\n-- Version 1.2\n\n-- Copyright (c) 2006, 2019, Oracle and\/or its affiliates.\n",
+                        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">-- Sakila Sample Database Schema<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-comment\">-- Version 1.2<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-comment\">-- Copyright (c) 2006, 2019, Oracle and\/or its affiliates.<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                        "lines": 685,
+                        "lines_more": 680,
+                        "preview_is_truncated": true,
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/da-ft-ber-05-21.slack.com\/archives\/C0217SRJPD5\/p1623419219005300",
+                "is_share": true,
+                "footer": "Posted in #data-resources"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "well, this is depressing :sob:, i wish i hadnt looked!",
+        "files": [
+            {
+                "id": "F024Z15SUCC",
+                "created": 1623419933,
+                "timestamp": 1623419933,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021UNQGZC4",
+                "editable": false,
+                "size": 92554,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024Z15SUCC\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024Z15SUCC\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 210,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 279,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 419,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 466,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 559,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024Z15SUCC-2f0ad67682\/image_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 596,
+                "thumb_1024_h": 1024,
+                "original_w": 674,
+                "original_h": 1158,
+                "thumb_tiny": "AwAwABvSZgo5OKWo5vu\/jTUdt2OuaVx2JqKKKYiOXlfxqNP9YKkl4X8aizhsjtUspFmikU7lBpaokjm+6PrUJ6mp5AWHFRbDzUtFJjlk28HoKkEi464qLYeaQo1F2gsj\/9k=",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021UNQGZC4\/F024Z15SUCC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024Z15SUCC-22fc3ede09",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MXkF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well, this is depressing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", i wish i hadnt looked!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021UNQGZC4",
+        "display_as_bot": false,
+        "ts": "1623419941.076300",
+        "thread_ts": "1623418102.073600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "4c7adcbe-e781-4814-965f-b9eabdfd644d",
+        "type": "message",
+        "text": "if you want to do a makeover i have loaded and published a workbook with data from 2018 and 19 <https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/vanemissionsco2europe\/yoyco2totals>",
+        "user": "U021UNQGZC4",
+        "ts": "1623419970.076700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tableau Public",
+                "title": "van emissions co2 europe",
+                "title_link": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/vanemissionsco2europe\/yoyco2totals",
+                "text": "van emissions co2 europe",
+                "fallback": "Tableau Public: van emissions co2 europe",
+                "image_url": "https:\/\/public.tableau.com\/static\/images\/va\/vanemissionsco2europe\/yoyco2totals\/4_3_hd.png",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/vanemissionsco2europe\/yoyco2totals",
+                "image_bytes": 45813,
+                "service_icon": "https:\/\/public.tableau.com\/app\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/vanemissionsco2europe\/yoyco2totals"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BfxTF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you want to do a makeover i have loaded and published a workbook with data from 2018 and 19 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/app\/profile\/sianedavies\/viz\/vanemissionsco2europe\/yoyco2totals"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623418102.073600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "d78219f4-d73f-4549-8e11-15292d849ce0",
+        "type": "message",
+        "text": "<@U021Q53LBPX> maybe one of these ?",
+        "user": "U021UNQGZC4",
+        "ts": "1623421151.077100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SY4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021Q53LBPX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " maybe one of these ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623418102.073600",
+        "parent_user_id": "U022VC1JD29"
+    },
+    {
+        "client_msg_id": "df7d61cf-9f2e-473a-90c6-6535780922cd",
+        "type": "message",
+        "text": "<!here> wrapping up your weeks work in 10 mins to join us for the class kahoot ? we can always have another go at vizzing in week 4 :)",
+        "user": "U021UNQGZC4",
+        "ts": "1623421198.078000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wrapping up your weeks work in 10 mins to join us for the class kahoot ? we can always have another go at vizzing in week 4 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel>,\nalso make sure, you have the *Bank Database* imported for next week (task is linked in Notion, _Student Set up for MySQL_). I've went through it with couple of you. But in case you don't have it yet. Here's the instruction for MySQL Workbench. It comes as a \"full package\", meaning a \"sql dumpfile\" (we don't have to care about seperated data &amp; schema files)\n1. Download the `mysql_dump.sql` from <https:\/\/github.com\/ironhack-edu\/data_case_study_2\/blob\/master\/mysql_dump.sql|here> (rightclick on Download, \"Save link as...\")\n2. In your Workbench, go on *Server* -&gt; *Data Import* :one:*.* Select the Option \"*Import from Self-Contained File*\" :two:, select in the field there the path to your `mysql_dump.sql` file you downloaded.\n3. Press on *Start Import,* :three: (that field might be hidden a bit. you might need to maximize your Workbench window). Import should take a couple of seconds\n4. press the Refresh Button in the _Schemas_ field :four: . The bank database should then appear there",
+        "files": [
+            {
+                "id": "F0255RUSLGZ",
+                "created": 1623424703,
+                "timestamp": 1623424703,
+                "name": "Screenshot from 2021-06-11 17-06-35.png",
+                "title": "Screenshot from 2021-06-11 17-06-35.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021WEXHN4E",
+                "editable": false,
+                "size": 167320,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0255RUSLGZ\/screenshot_from_2021-06-11_17-06-35.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F0255RUSLGZ\/download\/screenshot_from_2021-06-11_17-06-35.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 360,
+                "thumb_360_h": 190,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 480,
+                "thumb_480_h": 253,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_720.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_720_w": 720,
+                "thumb_720_h": 380,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_800.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_800_w": 800,
+                "thumb_800_h": 422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_960.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_960_w": 960,
+                "thumb_960_h": 507,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F0255RUSLGZ-1bebb73dd1\/screenshot_from_2021-06-11_17-06-35_1024.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 540,
+                "image_exif_rotation": 1,
+                "original_w": 1857,
+                "original_h": 980,
+                "thumb_tiny": "AwAZADDQGDS\/SgKMfdH5UYA6DH0oAWl4pKPxoAXikpaSgBaRmAPNLRQA3cvrRuX1p1FADdw9f0o3D1p1FAH\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021WEXHN4E\/F0255RUSLGZ\/screenshot_from_2021-06-11_17-06-35.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F0255RUSLGZ-de3ba3178d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fIER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nalso make sure, you have the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bank Database",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " imported for next week (task is linked in Notion, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Student Set up for MySQL",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "). I've went through it with couple of you. But in case you don't have it yet. Here's the instruction for MySQL Workbench. It comes as a \"full package\", meaning a \"sql dumpfile\" (we don't have to care about seperated data & schema files)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "ordered",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Download the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "mysql_dump.sql",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " from "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/ironhack-edu\/data_case_study_2\/blob\/master\/mysql_dump.sql",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (rightclick on Download, \"Save link as...\")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In your Workbench, go on "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Server",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " -> "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Data Import ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "one",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Select the Option \""
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Import from Self-Contained File",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\" "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "two"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", select in the field there the path to your "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "mysql_dump.sql",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " file you downloaded."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Press on "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Start Import, ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "three",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(that field might be hidden a bit. you might need to maximize your Workbench window). Import should take a couple of seconds"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "press the Refresh Button in the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Schemas",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " field "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "four"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " . The bank database should then appear there"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021WEXHN4E",
+        "display_as_bot": false,
+        "ts": "1623424750.086200"
+    },
+    {
+        "client_msg_id": "b53bb3f5-77c3-4c00-b9a4-ab2b33e0a620",
+        "type": "message",
+        "text": "Sian  _have this data base_",
+        "user": "U021CE3UWPR",
+        "ts": "1623425892.086900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zUrR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sian "
+                            },
+                            {
+                                "type": "text",
+                                "text": " have this data base",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F024TACNLRG",
+                "created": 1623425894,
+                "timestamp": 1623425894,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021CE3UWPR",
+                "editable": false,
+                "size": 16261,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024TACNLRG\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F024TACNLRG\/download\/image.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024TACNLRG-73c6b5b49e\/image_64.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024TACNLRG-73c6b5b49e\/image_80.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024TACNLRG-73c6b5b49e\/image_360.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_360_w": 80,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024TACNLRG-73c6b5b49e\/image_480.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "thumb_480_w": 107,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021KE79B9B-F024TACNLRG-73c6b5b49e\/image_160.png?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "original_w": 131,
+                "original_h": 587,
+                "thumb_tiny": "AwAwAAq9sViSVBPWneUn90UZwD9KfQAwdPwp9MHT8KfQA1ev4UbqRSM9R+dISMnkUDP\/2Q==",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021CE3UWPR\/F024TACNLRG\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F024TACNLRG-16a7ef661e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021CE3UWPR",
+        "display_as_bot": false,
+        "ts": "1623425896.087000"
+    },
+    {
+        "client_msg_id": "e1c98d25-f104-4f4d-9f5e-19e7d56539ff",
+        "type": "message",
+        "text": "and I like to know if is possible to joint all years in a filter or any similar to can choose any of this",
+        "user": "U021CE3UWPR",
+        "ts": "1623425949.088200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94aye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and I like to know if is possible to joint all years in a filter or any similar to can choose any of this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623425949.088200",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1623433956.089500",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021CE3UWPR"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1623433016.088800"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1623433228.089100"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1623433231.089300"
+            },
+            {
+                "user": "U021CE3UWPR",
+                "ts": "1623433956.089500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "388d6c21-b094-4592-857d-2c8dd043dcbe",
+        "type": "message",
+        "text": "I think in class do it but I can't remember how",
+        "user": "U021CE3UWPR",
+        "ts": "1623425969.088700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsAn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think in class do it but I can't remember how"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6cb43334-9ca4-4e6d-9ad3-b8f8735834c8",
+        "type": "message",
+        "text": "aha! you will need to pivot the data so that all the years are one column, and all the values another column. pivoting you can do in tableau or in python. in tableau it looks like this <https:\/\/help.tableau.com\/current\/pro\/desktop\/en-us\/pivot.htm>\nand you do it by selecting all those columns in the data source window (use shift + select to do it quicker)",
+        "user": "U021UNQGZC4",
+        "ts": "1623433016.088800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Pivot Data from Columns to Rows",
+                "title_link": "https:\/\/help.tableau.com\/current\/pro\/desktop\/en-us\/pivot.htm",
+                "text": "Sometimes, analyzing data that is stored in a crosstab format can be difficult in Tableau",
+                "fallback": "Pivot Data from Columns to Rows",
+                "image_url": "https:\/\/help.tableau.com\/tableau_logo.png",
+                "from_url": "https:\/\/help.tableau.com\/current\/pro\/desktop\/en-us\/pivot.htm",
+                "image_width": 801,
+                "image_height": 167,
+                "image_bytes": 5396,
+                "service_icon": "https:\/\/help.tableau.com\/favicon.ico",
+                "service_name": "help.tableau.com",
+                "id": 1,
+                "original_url": "https:\/\/help.tableau.com\/current\/pro\/desktop\/en-us\/pivot.htm"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aha! you will need to pivot the data so that all the years are one column, and all the values another column. pivoting you can do in tableau or in python. in tableau it looks like this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/help.tableau.com\/current\/pro\/desktop\/en-us\/pivot.htm"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nand you do it by selecting all those columns in the data source window (use shift + select to do it quicker)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623425949.088200",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "a0bd2789-2a4b-4ff3-8867-8caa88cd1ba5",
+        "type": "message",
+        "text": "I Try rihgt now",
+        "user": "U021CE3UWPR",
+        "ts": "1623433228.089100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sGx5P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I Try rihgt now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623425949.088200",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "759b6bdb-c175-4fc3-9453-862b3d515c16",
+        "type": "message",
+        "text": "thanks",
+        "user": "U021CE3UWPR",
+        "ts": "1623433231.089300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5Zsj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623425949.088200",
+        "parent_user_id": "U021CE3UWPR"
+    },
+    {
+        "client_msg_id": "aa3cce48-6556-4381-a097-3744cc0af88a",
+        "type": "message",
+        "text": "thanks a lot running :man-mountain-biking:",
+        "user": "U021CE3UWPR",
+        "ts": "1623433956.089500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/\/iG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks a lot running "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-mountain-biking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623425949.088200",
+        "parent_user_id": "U021CE3UWPR"
+    }
+]

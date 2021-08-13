@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "b9d498f2-0426-4c72-8bed-d2b48c00515e",
+        "type": "message",
+        "text": "Good morning and welcome to your last full teaching week of the bootcamp! <!channel>\n\nWe will need some new packages in your python environment this week for our lectures - please take a few minutes this morning to get these tools installed.\n•  <https:\/\/anaconda.org\/conda-forge\/tqdm>\n• <https:\/\/anaconda.org\/anaconda\/beautifulsoup4>",
+        "user": "U021UNQGZC4",
+        "ts": "1626035112.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021UNQGZC4",
+            "ts": "1626072394.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning and welcome to your last full teaching week of the bootcamp! "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe will need some new packages in your python environment this week for our lectures - please take a few minutes this morning to get these tools installed.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/anaconda.org\/conda-forge\/tqdm"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/anaconda.org\/anaconda\/beautifulsoup4"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021CE3UWPR",
+                    "U021ZC6H9GC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

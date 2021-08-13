@@ -1,0 +1,667 @@
+[
+    {
+        "client_msg_id": "84afb8f2-571b-4916-af92-6dbc049cbc88",
+        "type": "message",
+        "text": "<@U0225RJ6SNM> check these databases for biomedical datasets <https:\/\/relational.fit.cvut.cz\/search>",
+        "user": "U021UNQGZC4",
+        "ts": "1626708868.000500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mRgG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0225RJ6SNM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " check these databases for biomedical datasets "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/relational.fit.cvut.cz\/search"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626708868.000500",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1626710161.001400",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RJ6SNM"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626708979.000600"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626709452.000800"
+            },
+            {
+                "user": "U0225RJ6SNM",
+                "ts": "1626709678.001000"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626709728.001200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626710161.001400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c892df11-6355-456b-957a-9479e405791d",
+        "type": "message",
+        "text": "looks like some good ones, Bupa, biodegradeability, Atherosclerosis, Carcinogenesis, Genes, hepatitis",
+        "user": "U021UNQGZC4",
+        "ts": "1626708979.000600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDmhD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks like some good ones, Bupa, biodegradeability, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Atherosclerosis, Carcinogenesis, Genes, hepatitis",
+                                "style": {
+                                    "unlink": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626708868.000500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "35da06cc-bdbb-482b-922b-437156be5b83",
+        "type": "message",
+        "text": "you can also check the UCI datasets - there is one on heart disease, for example - which also pops up on kaggle and dataworld. so if you google uci data + ‘topic’ you should find some interesting data",
+        "user": "U021UNQGZC4",
+        "ts": "1626709452.000800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKHW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can also check the UCI datasets - there is one on heart disease, for example - which also pops up on kaggle and dataworld. so if you google uci data + ‘topic’ you should find some interesting data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626708868.000500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "2c533fa5-330c-4a76-94c3-994ed08a270c",
+        "type": "message",
+        "text": "thank you!!! :slightly_smiling_face: :slightly_smiling_face:",
+        "user": "U0225RJ6SNM",
+        "ts": "1626709678.001000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "gd567d31791f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d567d31791f751437db82d2a6b0e9f70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Julia",
+            "real_name": "Julia León",
+            "display_name": "",
+            "team": "T021KE79B9B",
+            "name": "julia.leon.hermida",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WSfe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626708868.000500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "c8c2ec1c-8365-48e9-9ab5-6c27fd97f571",
+        "type": "message",
+        "text": "no problem",
+        "user": "U021UNQGZC4",
+        "ts": "1626709728.001200",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qTaqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626708868.000500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "9157ee74-0171-43c9-9649-2585dc12eb57",
+        "type": "message",
+        "text": "i find if you go to uci directly its sometimes more complicated than it needs to be to extract the data!",
+        "user": "U021UNQGZC4",
+        "ts": "1626710161.001400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43RGr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i find if you go to uci directly its sometimes more complicated than it needs to be to extract the data!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626708868.000500",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "04fe6dbd-60ca-4612-9afd-f245894cae88",
+        "type": "message",
+        "text": "<@U0225RHK6Q1> did i miss your survey release ?",
+        "user": "U021UNQGZC4",
+        "ts": "1626710183.001800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0225RHK6Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did i miss your survey release ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626710183.001800",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1626729086.005800",
+        "reply_users": [
+            "U0225RHK6Q1",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626710361.002500"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626710554.002700"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626729050.005600"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626729086.005800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "18118056-c557-4d08-b0c3-7c38c7cea119",
+        "type": "message",
+        "text": "i just looked at my bookshelf and remembered it",
+        "user": "U021UNQGZC4",
+        "ts": "1626710193.002100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ysO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i just looked at my bookshelf and remembered it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "655d1cbc-68fa-48db-9bce-256a35c6fe04",
+        "type": "message",
+        "text": "you didn't miss it, survey is coming! :))))",
+        "user": "U0225RHK6Q1",
+        "ts": "1626710361.002500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6siyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you didn't miss it, survey is coming! :))))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626710183.001800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "970182cb-547d-4421-94f7-2225c8c34ba2",
+        "type": "message",
+        "text": "excellent :) I thought id missed the link somehow !",
+        "user": "U021UNQGZC4",
+        "ts": "1626710554.002700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7hQBa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "excellent :) I thought id missed the link somehow !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626710183.001800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "b1c4e7c6-c017-4a9d-95d8-7f1a0065ac62",
+        "type": "message",
+        "text": "hi! If you like reading, here you have the survey i made for my final project. You can tell me about a book of your choice here. Thanks! :) <https:\/\/docs.google.com\/forms\/d\/1fvwp3USmCmlWIj3q2qhzw8f3k6rCTRhf9Y4g7EmUmso\/edit>",
+        "user": "U0225RHK6Q1",
+        "ts": "1626728621.005400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Box",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi! If you like reading, here you have the survey i made for my final project. You can tell me about a book of your choice here. Thanks! :) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/1fvwp3USmCmlWIj3q2qhzw8f3k6rCTRhf9Y4g7EmUmso\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626728621.005400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1626850669.000100",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U0225RHK6Q1"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626781918.006200"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1626819379.006500"
+            },
+            {
+                "user": "U0225RHK6Q1",
+                "ts": "1626850669.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021UNQGZC4",
+                    "U021CE3UWPR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U021Q53LBPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f752fe6f-bd71-446f-984a-cd43d85ee52a",
+        "type": "message",
+        "text": "no, but i am full of work hahahaha:crossed_fingers::confounded:",
+        "user": "U0225RHK6Q1",
+        "ts": "1626729050.005600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHXn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no, but i am full of work hahahaha"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626710183.001800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "dc71eb4a-57f3-4e56-806b-516151168a75",
+        "type": "message",
+        "text": "it's now posted on the channel!",
+        "user": "U0225RHK6Q1",
+        "ts": "1626729086.005800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WHF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's now posted on the channel!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626710183.001800",
+        "parent_user_id": "U021UNQGZC4"
+    }
+]

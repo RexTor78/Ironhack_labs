@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "9e929208-73ab-40af-b8b4-4137fc4fe6a9",
+        "type": "message",
+        "text": "useful link for dealing with simple and not so simple json <https:\/\/towardsdatascience.com\/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd>",
+        "user": "U021UNQGZC4",
+        "ts": "1626192650.000400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "All Pandas json_normalize() you should know for flattening JSON",
+                "title_link": "https:\/\/towardsdatascience.com\/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd",
+                "text": "Some of the most useful Pandas tricks",
+                "fallback": "Medium: All Pandas json_normalize() you should know for flattening JSON",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*JLEq-ZqFt3F7a5EAjG48Lg.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "8 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1614039979,
+                "from_url": "https:\/\/towardsdatascience.com\/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd",
+                "image_width": 424,
+                "image_height": 250,
+                "image_bytes": 181893,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "goPq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "useful link for dealing with simple and not so simple json "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U021ZC6L676"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

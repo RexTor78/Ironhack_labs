@@ -1,0 +1,511 @@
+[
+    {
+        "client_msg_id": "141bcd08-083c-480b-bede-1808143059df",
+        "type": "message",
+        "text": "hello new students! I will be your lead instructor for the bootcamp.\n\nThe class workspace will get very busy once the course starts but at the moment your teaching team is finishing off our current course and the week prior to the course i will be taking a little break.\n\n- feel free to find your way around our class workspace, add some custom emojis, say hi to your new classmates or propose some new group channels for hobbies and interests… i have added some standard channels and also a music channel (because i love discovering music through my students) .. but thats just to get you started!",
+        "user": "U021UNQGZC4",
+        "ts": "1620977724.004500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gWD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello new students! I will be your lead instructor for the bootcamp.\n\nThe class workspace will get very busy once the course starts but at the moment your teaching team is finishing off our current course and the week prior to the course i will be taking a little break.\n\n- feel free to find your way around our class workspace, add some custom emojis, say hi to your new classmates or propose some new group channels for hobbies and interests… i have added some standard channels and also a music channel (because i love discovering music through my students) .. but thats just to get you started!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U021Q54K3B7",
+                    "U021NHS652N",
+                    "U0225RJ6SNM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84735803-1558-45a5-b50c-7b1fcfb9cc14",
+        "type": "message",
+        "text": "Hello Hello Ironhackers:babyyoda:! I’m Miguel and I’ll be your Teacher Assistant, very happy to be here and looking forward to meet you all :meow_code:",
+        "user": "U021NHS652N",
+        "ts": "1620978466.005900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "brb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Hello Ironhackers"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "babyyoda"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I’m Miguel and I’ll be your Teacher Assistant, very happy to be here and looking forward to meet you all "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620978466.005900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620983338.006900",
+        "reply_users": [
+            "U021UNQGZC4",
+            "U021NHS652N"
+        ],
+        "replies": [
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1620982467.006600"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1620983338.006900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U021TDMLNTD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RJ6SNM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11953524-b8e5-47bc-b9ac-1910d1983a77",
+        "type": "message",
+        "text": "Hi Sian and Miguel! nice to meet you and looking forward to starting very very soon :slightly_smiling_face:",
+        "user": "U021Q53LBPX",
+        "ts": "1620981545.006500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40zc1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sian and Miguel! nice to meet you and looking forward to starting very very soon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flamingo_dance",
+                "users": [
+                    "U021UNQGZC4",
+                    "U021NHS652N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0d838e8-9ef7-41f0-b3f8-caddc8b523d8",
+        "type": "message",
+        "text": "haha you found my miaow code :)",
+        "user": "U021UNQGZC4",
+        "ts": "1620982467.006600",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pEt8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha you found my miaow code :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620978466.005900",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "acad68a2-f7d4-4632-b6e0-19f38f9209fb",
+        "type": "message",
+        "text": "hahahaha love it!",
+        "user": "U021NHS652N",
+        "ts": "1620983338.006900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XQCsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahaha love it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620978466.005900",
+        "parent_user_id": "U021NHS652N"
+    },
+    {
+        "client_msg_id": "3faf35ac-9a39-423b-ab2d-1316f1544548",
+        "type": "message",
+        "text": "Hi everyone! :relaxed:",
+        "user": "U0225RHK6Q1",
+        "ts": "1620985543.007400",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "1dd14107515f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2156335560245_1dd14107515f4be0a17f_72.jpg",
+            "first_name": "Dámaris",
+            "real_name": "Dámaris Clariana",
+            "display_name": "Dámaris Clariana",
+            "team": "T021KE79B9B",
+            "name": "damarisclariana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqVIp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8133205c-ec8f-4cce-91b8-62b5696b3bfb",
+        "type": "message",
+        "text": "Hi to all! I'm Pedro and I come from Chile, though I've lived the last for years here in Berlin. Looking forward to start the course (though already a bit stressed with the pre-course :disappointed_relieved::sweat_smile:).\n\nDo anyone know if we'll finally start the classes presencial, or will it be online?",
+        "user": "U021Q54K3B7",
+        "ts": "1620987658.009100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "507d5fdc43ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2073964283745_507d5fdc43ec156ad6f0_72.jpg",
+            "first_name": "",
+            "real_name": "Pedro Pablo Errazuriz",
+            "display_name": "Pedro Pablo Errazuriz",
+            "team": "T021KE79B9B",
+            "name": "pedro.errazuriz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qYb0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi to all! I'm Pedro and I come from Chile, though I've lived the last for years here in Berlin. Looking forward to start the course (though already a bit stressed with the pre-course "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nDo anyone know if we'll finally start the classes presencial, or will it be online?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7322c3b6-cd5d-402a-b7bf-ec25ab326d1e",
+        "type": "message",
+        "text": "I have the same Question Pedro, I 'll probabily do online but I like to know if will the posibility",
+        "user": "U021CE3UWPR",
+        "ts": "1620987760.010300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "02dd48f79a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2058368190389_02dd48f79a614b8d8abf_72.jpg",
+            "first_name": "",
+            "real_name": "Hector Santos",
+            "display_name": "Hector Santos",
+            "team": "T021KE79B9B",
+            "name": "hectors78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cb4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have the same Question Pedro, I 'll probabily do online but I like to know if will the posibility"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a354c624-43b2-49ef-8919-6327d3669a7f",
+        "type": "message",
+        "text": "to confirm, this class will be online - 2 reasons that make me fairly sure of that  1) I am trapped in England by covid 19 travel restrictions, and 2) we are joining two campuses together\n•  but it may be that one or both campuses will be open to students for co working - its what they call a ‘hybrid’ approach, i think it depends on the campus teams in Barcelona and Berlin, as well as the number of cases \n• things can change quickly, as we know, so look out for announcements from your campus  ",
+        "user": "U021UNQGZC4",
+        "ts": "1620988794.014300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0LrD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to confirm, this class will be online - 2 reasons that make me fairly sure of that  1) I am trapped in England by covid 19 travel restrictions, and 2) we are joining two campuses together\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " but it may be that one or both campuses will be open to students for co working - its what they call a ‘hybrid’ approach, i think it depends on the campus teams in Barcelona and Berlin, as well as the number of cases "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "things can change quickly, as we know, so look out for announcements from your campus  "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7cd4723d-f7f2-4a9f-a673-7974e3fd4640",
+        "type": "message",
+        "text": "as far as i know Barcelona campus will be open to students, I am not sure yet about Berlin - once I hear i will share that info here!",
+        "user": "U021UNQGZC4",
+        "ts": "1620988963.015000",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uy3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as far as i know Barcelona campus will be open to students, I am not sure yet about Berlin - once I hear i will share that info here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021NHS652N",
+                    "U021TDMLNTD",
+                    "U021Q53LBPX"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

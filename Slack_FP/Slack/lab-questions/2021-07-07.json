@@ -1,0 +1,713 @@
+[
+    {
+        "type": "message",
+        "text": "The notebook from the lab review lesson",
+        "files": [
+            {
+                "id": "F027NSQQGQH",
+                "created": 1625645949,
+                "timestamp": 1625645949,
+                "name": "housing_price_regression_labreview_miguel.ipynb",
+                "title": "housing_price_regression_labreview_miguel.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U021NHS652N",
+                "editable": false,
+                "size": 425059,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027NSQQGQH\/housing_price_regression_labreview_miguel.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021KE79B9B-F027NSQQGQH\/download\/housing_price_regression_labreview_miguel.ipynb?t=xoxe-2053483317317-2318082228289-2302548793493-1d94ec658b657246a6f5fdc6c46914ce",
+                "permalink": "https:\/\/da-ft-ber-05-21.slack.com\/files\/U021NHS652N\/F027NSQQGQH\/housing_price_regression_labreview_miguel.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T021KE79B9B-F027NSQQGQH-ae912ebfbd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ycH8t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The notebook from the lab review lesson"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021NHS652N",
+        "display_as_bot": false,
+        "ts": "1625645987.022200",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U021ZC6H9GC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0225RHK6Q1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17741613-632b-4299-bce2-bfdb837e7ed8",
+        "type": "message",
+        "text": "<@U021TDMLNTD>",
+        "user": "U021Q53LBPX",
+        "ts": "1625667806.022700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ISG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMLNTD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625481797.001800",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "4aa5d6d5-da9b-4e59-8527-6c6216f39091",
+        "type": "message",
+        "text": "<@U021TDMLNTD>",
+        "user": "U021Q53LBPX",
+        "ts": "1625667818.022900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "01ce0fccf1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-01\/2146380272400_01ce0fccf1a5eb108be2_72.jpg",
+            "first_name": "Lucas",
+            "real_name": "Lucas",
+            "display_name": "Lucas",
+            "team": "T021KE79B9B",
+            "name": "mata1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hfy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021TDMLNTD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625481621.000900",
+        "parent_user_id": "U021UNQGZC4"
+    },
+    {
+        "client_msg_id": "078ada89-8a54-43fa-9830-23ead6fd43fd",
+        "type": "message",
+        "text": "I have been trying to use the function below for Challenge 2 of today’s lab. However, I always get an output of 1 for that. I used np.count_nonzero at this point for the task, but would be good to understand how we could use np.where() to get to count of “Positive” in the Sentiment column:\n\n```len(np.where(review_missing_removed['Sentiment'] == 'Positive'))```",
+        "user": "U021ZC6JR28",
+        "ts": "1625668920.024800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t\/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have been trying to use the function below for Challenge 2 of today’s lab. However, I always get an output of 1 for that. I used np.count_nonzero at this point for the task, but would be good to understand how we could use np.where() to get to count of “Positive” in the Sentiment column:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "len(np.where(review_missing_removed['Sentiment'] == 'Positive'))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1625671153.026300",
+        "reply_users": [
+            "U021NHS652N",
+            "U021ZC6JR28",
+            "U021UNQGZC4"
+        ],
+        "replies": [
+            {
+                "user": "U021NHS652N",
+                "ts": "1625670419.024900"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625670456.025100"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625670486.025300"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1625670543.025500"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1625670563.025700"
+            },
+            {
+                "user": "U021NHS652N",
+                "ts": "1625670676.025900"
+            },
+            {
+                "user": "U021ZC6JR28",
+                "ts": "1625670712.026100"
+            },
+            {
+                "user": "U021UNQGZC4",
+                "ts": "1625671153.026300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e578ff74-2b0b-40e5-90e1-df96079613e1",
+        "type": "message",
+        "text": "I think the np.where function can take more arguments depending if the condition is true or false, in this case maybe something like:\n```(np.where((x=='Positive'), True, False)```",
+        "user": "U021NHS652N",
+        "ts": "1625670419.024900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ONWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the np.where function can take more arguments depending if the condition is true or false, in this case maybe something like:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(np.where((x=='Positive'), True, False)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "d317110c-2769-423e-b31c-0a2ab061200d",
+        "type": "message",
+        "text": "using it in that way you would get a boolean that you can `sum` to get the actual number of positive reviews",
+        "user": "U021NHS652N",
+        "ts": "1625670456.025100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uM7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "using it in that way you would get a boolean that you can "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sum",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to get the actual number of positive reviews"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "9200bd6d-5571-470e-aa61-5dc325c05431",
+        "type": "message",
+        "text": "we can have a look at the function in a breakout if you want :slightly_smiling_face:",
+        "user": "U021NHS652N",
+        "ts": "1625670486.025300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Wld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we can have a look at the function in a breakout if you want "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "f3052820-ee22-4e38-b81e-b8f5521421b1",
+        "type": "message",
+        "text": "ahh all good, all makes sense with the explanation above :slightly_smiling_face:",
+        "user": "U021ZC6JR28",
+        "ts": "1625670543.025500",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HsS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahh all good, all makes sense with the explanation above "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "15bf58bd-4940-485c-a6e2-0595fb9cc794",
+        "type": "message",
+        "text": "was not entirely clear for me from the documentation that you had that much freedom with the input parameters",
+        "user": "U021ZC6JR28",
+        "ts": "1625670563.025700",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "quJUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "was not entirely clear for me from the documentation that you had that much freedom with the input parameters"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "d8809625-7b53-476c-9188-cff132d5f1d1",
+        "type": "message",
+        "text": "yes… they numpy documentation is not the most clear in my opinion… I always end up looking for help in stackoverflow… hahaha",
+        "user": "U021NHS652N",
+        "ts": "1625670676.025900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "3f6eb4437f5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2054718594598_3f6eb4437f5a83d1240e_72.jpg",
+            "first_name": "miguel.simon",
+            "real_name": "miguel.simon",
+            "display_name": "Miguel Simón",
+            "team": "T021KE79B9B",
+            "name": "miguel.simon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ehWm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes… they numpy documentation is not the most clear in my opinion… I always end up looking for help in stackoverflow… hahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "4f9b35a7-3914-4fa5-9e3e-eb794fc08ea3",
+        "type": "message",
+        "text": "yup, which is where I found the hint to np.count_nonzero :stuck_out_tongue:",
+        "user": "U021ZC6JR28",
+        "ts": "1625670712.026100",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "c626d9d40afc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2126797396532_c626d9d40afc51519382_72.png",
+            "first_name": "Andre",
+            "real_name": "Andre Novikov",
+            "display_name": "Andre Novikov",
+            "team": "T021KE79B9B",
+            "name": "andre.novikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "59cyk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup, which is where I found the hint to np.count_nonzero "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "parent_user_id": "U021ZC6JR28"
+    },
+    {
+        "client_msg_id": "d010dc40-7c10-4e1f-b98a-5ad664d79267",
+        "type": "message",
+        "text": "stackoverflow is my friend and yours <@U021NHS652N> and yours <@U021ZC6JR28> :)",
+        "user": "U021UNQGZC4",
+        "ts": "1625671153.026300",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "f30ef9a9abe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2049849835622_f30ef9a9abe22ef41bee_72.jpg",
+            "first_name": "Sian",
+            "real_name": "Sian Davies",
+            "display_name": "Sian Davies",
+            "team": "T021KE79B9B",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UMbZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "stackoverflow is my friend and yours "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021NHS652N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and yours "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021ZC6JR28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625668920.024800",
+        "parent_user_id": "U021ZC6JR28",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U021NHS652N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3778530c-a901-4c77-b8d2-c0665f7c8076",
+        "type": "message",
+        "text": "flo, where can we find your nested jupyter with solutions",
+        "user": "U021ZC6H9GC",
+        "ts": "1625673115.026800",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "a30c11378605",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2087167833509_a30c113786052f5a3231_72.png",
+            "first_name": "martamarti",
+            "real_name": "martamarti DA BAR JUN2021",
+            "display_name": "martamarti",
+            "team": "T021KE79B9B",
+            "name": "martamartid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "suSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "flo, where can we find your nested jupyter with solutions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625673115.026800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1625673427.026900",
+        "reply_users": [
+            "U021WEXHN4E"
+        ],
+        "replies": [
+            {
+                "user": "U021WEXHN4E",
+                "ts": "1625673427.026900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "366901ee-8c02-4ffd-84c8-0ada3d89b5ff",
+        "type": "message",
+        "text": "I put it on that notion page where you would also find the lab solutions (for the others who stumble upon this question)",
+        "user": "U021WEXHN4E",
+        "ts": "1625673427.026900",
+        "team": "T021KE79B9B",
+        "user_team": "T021KE79B9B",
+        "source_team": "T021KE79B9B",
+        "user_profile": {
+            "avatar_hash": "cce5321ed184",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-17\/2071126773125_cce5321ed184bdbfd2c3_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T021KE79B9B",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h3Ap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I put it on that notion page where you would also find the lab solutions (for the others who stumble upon this question)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625673115.026800",
+        "parent_user_id": "U021ZC6H9GC"
+    }
+]
