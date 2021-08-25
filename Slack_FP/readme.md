@@ -7,11 +7,11 @@
 
 <img src=https://github.com/RexTor78/Ironhack_labs/blob/0c88e66ad776f0f40f2f944ee70201e7a2ab5e10/Slack_FP/data/word-freq.png>
 
-but be careful if you are not careful you can also get this results:
+but be careful or you can also end up getting these results:
 
 <img src=https://github.com/RexTor78/Ironhack_labs/blob/0c88e66ad776f0f40f2f944ee70201e7a2ab5e10/Slack_FP/data/word-freq-no.png>
 
-and surely it is not exactly what we are looking for, for that, take care of your code:
+and surely it is not exactly what we are looking for, for that take care of your code:
 
 <img src=https://github.com/RexTor78/Ironhack_labs/blob/96205fa06485baf2c38abdaff056693a71d87f5d/Slack_FP/data/stop--words.png>
 did you remember the stop.words?
